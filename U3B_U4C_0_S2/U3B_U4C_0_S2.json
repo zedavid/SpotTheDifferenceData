@@ -1,0 +1,3108 @@
+{
+  "participants": {
+    "instruction_giver": {
+      "id": "U3B",
+      "gender": "F",
+      "extraversion": "I"
+    },
+    "instruction_follower": {
+      "id": "U4C",
+      "gender": "M",
+      "extraversion": "I"
+    }
+  },
+  "scenes": {
+    "church": {
+      "scene_file": "U3B_U4C_church.json",
+      "audio_offset": "98",
+      "ig_video_offset": "103",
+      "if_video_offset": "104"
+    },
+    "city": {
+      "scene_file": "U3B_U4C_city.json",
+      "audio_offset": "342",
+      "ig_video_offset": "347",
+      "if_video_offset": "348"
+    },
+    "jungle": {
+      "scene_file": "U3B_U4C_jungle.json",
+      "audio_offset": "583",
+      "ig_video_offset": "588",
+      "if_video_offset": "589"
+    }
+  },
+  "condition": "DP",
+  "turns": [
+    {
+      "speaker": "U3B",
+      "start_time": 2.68,
+      "end_time": 4.95,
+      "utterance": "SO THIS CAMERA IS RECORDING FOR THE TAKING",
+      "turn_index": 0,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 8.23,
+      "end_time": 8.75,
+      "utterance": "AW",
+      "turn_index": 1,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 48.95,
+      "end_time": 49.18,
+      "utterance": "YOU CAN",
+      "turn_index": 2,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 57.49,
+      "end_time": 57.86,
+      "utterance": "I MEAN THERE",
+      "turn_index": 3,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 92.41,
+      "end_time": 94.13,
+      "utterance": "OKAY <+ I'M> I GUESS I'M READY",
+      "turn_index": 4,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 94.54,
+      "end_time": 95.93,
+      "utterance": "OKAY I'M GOING TO START",
+      "turn_index": 5,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 99.57,
+      "end_time": 101.38,
+      "utterance": "YEAH HERE'S THE FIRST PICTURE",
+      "turn_index": 6,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 101.82,
+      "end_time": 105.24,
+      "utterance": "THERE'S A HALF MOON ON THE TOP RIGHT",
+      "turn_index": 7,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 105.97,
+      "end_time": 107.12,
+      "utterance": "NOT HALF LESS THAN HALF",
+      "turn_index": 8,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 107.49,
+      "end_time": 110.4,
+      "utterance": "YEAH <MI-> MINE IS <%aa> MAYBE ONE QUARTER OF A MOON",
+      "turn_index": 9,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 110.82,
+      "end_time": 112.76,
+      "utterance": "A QUARTER <%ahm>",
+      "turn_index": 10,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 113.34,
+      "end_time": 113.7,
+      "utterance": "<%ahm>",
+      "turn_index": 11,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U4C",
+          "start_time": 113.37,
+          "turn_index": 12,
+          "speaker_after": "U3B",
+          "end_time": 113.7
+        }
+      ]
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 113.37,
+      "end_time": 117.09,
+      "utterance": "<HOW TO> <HOW TO> HOW TO DESCRIBE ITS <%aa> <%mm>",
+      "turn_index": 12,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 117.75,
+      "end_time": 119.69,
+      "utterance": "<IT'S> IT'S LIKE A CRESCENT",
+      "turn_index": 13,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 120.74,
+      "end_time": 122.78,
+      "utterance": "<%aa> I DON'T KNOW WHAT'S CRESCENT SORRY",
+      "turn_index": 14,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U3B",
+          "start_time": 122.33,
+          "turn_index": 15,
+          "speaker_after": "U4C",
+          "end_time": 122.78
+        }
+      ]
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 122.33,
+      "end_time": 125.22,
+      "utterance": "<IT> <IT'S> <IS LIKE A> <%aa> LIKE <%ahm>",
+      "turn_index": 15,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 125.38,
+      "end_time": 126.13,
+      "utterance": "LIKE A BANANA",
+      "turn_index": 16,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U3B",
+          "start_time": 125.55,
+          "turn_index": 17,
+          "speaker_after": "U4C",
+          "end_time": 126.13
+        }
+      ]
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 125.55,
+      "end_time": 126.21,
+      "utterance": "A CURVE",
+      "turn_index": 17,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 127.765159462,
+      "end_time": 130.28,
+      "utterance": "JUST <A CURVED> A CURVED MOON",
+      "turn_index": 18,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U4C",
+          "speaker_after": "U4C",
+          "turn_index": 19,
+          "start_time": 127.87,
+          "end_time": 129.52
+        }
+      ]
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 127.87,
+      "end_time": 129.52,
+      "utterance": "YEAH YEAH YEAH A CURVE YES YEAH YES",
+      "turn_index": 19,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 129.98,
+      "end_time": 131.74,
+      "utterance": "<AND IS> AND IS <%aa> ORANGE",
+      "turn_index": 20,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 132.11,
+      "end_time": 132.6,
+      "utterance": "YES",
+      "turn_index": 21,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 133.12,
+      "end_time": 133.63,
+      "utterance": "AND <%aa>",
+      "turn_index": 22,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U3B",
+          "start_time": 133.18,
+          "turn_index": 23,
+          "speaker_after": "U4C",
+          "end_time": 133.63
+        }
+      ]
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 133.18,
+      "end_time": 137.87,
+      "utterance": "<AND IT> <IT'S> IT'S ALMOST LIKE IT'S CURVING OUT TOWARD THE RIGHT",
+      "turn_index": 23,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 138.4,
+      "end_time": 143.97,
+      "utterance": "CURVE TOWARD THE RIGHT YOU MEAN <THE> AROUND THE SIDE IS <%aa> CURVING TO THE RIGHT",
+      "turn_index": 24,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 144.06,
+      "end_time": 144.36,
+      "utterance": "YEAH",
+      "turn_index": 25,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 144.87,
+      "end_time": 146.92,
+      "utterance": "YEAH YEAH YEAH <THAT'S> THAT'S THEN THE SAME",
+      "turn_index": 26,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 147.19,
+      "end_time": 150.29,
+      "utterance": "AND <%aa> BESIDE IT THERE ARE FIVE STARS ALSO ORANGE",
+      "turn_index": 27,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 150.62,
+      "end_time": 153.38,
+      "utterance": "OKAY I <+ HAVE> ONLY HAVE FOUR STARS ORANGE STARS",
+      "turn_index": 28,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U4C",
+          "speaker_after": "U4C",
+          "turn_index": 29,
+          "start_time": 152.67,
+          "end_time": 153.3
+        }
+      ]
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 152.67,
+      "end_time": 153.3,
+      "utterance": "AH",
+      "turn_index": 29,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 153.85,
+      "end_time": 154.47,
+      "utterance": "<%mm>",
+      "turn_index": 30,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 155.09,
+      "end_time": 155.89,
+      "utterance": "SO THAT'S A DIFFERENT",
+      "turn_index": 31,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 155.91,
+      "end_time": 157.22,
+      "utterance": "YEAH THAT'S A DIFFERENCE",
+      "turn_index": 32,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 157.54,
+      "end_time": 158.4,
+      "utterance": "AND <%ahm>",
+      "turn_index": 33,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 158.66,
+      "end_time": 159.8,
+      "utterance": "A LITTLE",
+      "turn_index": 34,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 160.11,
+      "end_time": 160.81,
+      "utterance": "<%ahm>",
+      "turn_index": 35,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 161.37,
+      "end_time": 166.33,
+      "utterance": "<BELOW> BELOW THE STAR ON ITS LEFT THERE'S A BLACK <SWALLOW> SWALLOW",
+      "turn_index": 36,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 167.63,
+      "end_time": 172.27,
+      "utterance": "YES I HAVE A BLACK SWALLOW <+ TO THE> BELOW AND TO THE LEFT OF THE STARS",
+      "turn_index": 37,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 172.47,
+      "end_time": 174.81,
+      "utterance": "<%aa> ON HERE IS TO THE RIGHT",
+      "turn_index": 38,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 175.38,
+      "end_time": 176.91,
+      "utterance": "AHA OKAY THAT'S A DIFFERENT",
+      "turn_index": 39,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 177.35,
+      "end_time": 177.74,
+      "utterance": "YES",
+      "turn_index": 40,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 178.3,
+      "end_time": 182.56,
+      "utterance": "AND <%aa> ON THE TOP LEFT OF THE SKY THERE ARE TWO",
+      "turn_index": 41,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 182.9,
+      "end_time": 183.47,
+      "utterance": "CLOUDS",
+      "turn_index": 42,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 184.33,
+      "end_time": 184.63,
+      "utterance": "AND",
+      "turn_index": 43,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 185.12,
+      "end_time": 188.24,
+      "utterance": "I HAVE TWO CLOUDS BUT THEN I HAVE A THIRD CLOUD",
+      "turn_index": 44,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 188.84,
+      "end_time": 190.55,
+      "utterance": "TO THE RIGHT OF THE TWO CLOUDS",
+      "turn_index": 45,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 191.01,
+      "end_time": 193.18,
+      "utterance": "TO THE RIGHT OF THE TWO CLOUDS",
+      "turn_index": 46,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U3B",
+          "start_time": 193.09,
+          "turn_index": 47,
+          "speaker_after": "U4C",
+          "end_time": 193.18
+        }
+      ]
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 193.09,
+      "end_time": 195.08,
+      "utterance": "YEAH IT'S ON THE RIGHT SIDE OF THE CHURCH",
+      "turn_index": 47,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U4C",
+          "speaker_after": "U4C",
+          "turn_index": 48,
+          "start_time": 193.53,
+          "end_time": 194.06
+        }
+      ]
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 193.53,
+      "end_time": 194.06,
+      "utterance": "<%aa>",
+      "turn_index": 48,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 195.21,
+      "end_time": 199.32,
+      "utterance": "OKAY I SEE <%aa> MY TWO CLOUDS ARE SEPARATED SO I THINK THAT",
+      "turn_index": 49,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 199.56,
+      "end_time": 202.86,
+      "utterance": "<WE> WE CAN CLICK WHERE YOU HAVE THE TWO CLOUDS TOGETHER",
+      "turn_index": 50,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 203.08,
+      "end_time": 204.09,
+      "utterance": "OH YEAH YEAH YEAH",
+      "turn_index": 51,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 204.36,
+      "end_time": 206.21,
+      "utterance": "YES SO IT'S THE LEFT SIDE CLOUD",
+      "turn_index": 52,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 206.7,
+      "end_time": 207.04,
+      "utterance": "YEAH",
+      "turn_index": 53,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 207.75,
+      "end_time": 208.88,
+      "utterance": "LET'S <CLICK> CLICK HERE",
+      "turn_index": 54,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 209.31,
+      "end_time": 211.93,
+      "utterance": "AND <%aa> BELOW THE CLOUDS THERE'S A RED HOUSE",
+      "turn_index": 55,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 212.44,
+      "end_time": 213.01,
+      "utterance": "AND <%aa>",
+      "turn_index": 56,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 213.41,
+      "end_time": 215.76,
+      "utterance": "THERE ARE ONE WINDOW AT THE TOP",
+      "turn_index": 57,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 216.81,
+      "end_time": 218.78,
+      "utterance": "<IT'S> <%mm> IT'S LIGHTENED",
+      "turn_index": 58,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 219.16,
+      "end_time": 219.72,
+      "utterance": "YES",
+      "turn_index": 59,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 220.58,
+      "end_time": 225.5,
+      "utterance": "AND <%aa> THERE ARE THREE WINDOWS <<BELO-> <%aa>> IN THE LOWER PART THEY ARE ALL DARK",
+      "turn_index": 60,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U3B",
+          "speaker_after": "U3B",
+          "turn_index": 61,
+          "start_time": 224.67,
+          "end_time": 224.89
+        }
+      ]
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 224.67,
+      "end_time": 224.89,
+      "utterance": "YEAH",
+      "turn_index": 61,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 225.6,
+      "end_time": 226.2,
+      "utterance": "YES",
+      "turn_index": 62,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 226.48,
+      "end_time": 227.41,
+      "utterance": "AND THERE'S A",
+      "turn_index": 63,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 228.09,
+      "end_time": 228.93,
+      "utterance": "GREY DOOR",
+      "turn_index": 64,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 230.27,
+      "end_time": 231.21,
+      "utterance": "A GREY DOOR",
+      "turn_index": 65,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U4C",
+          "start_time": 231.15,
+          "turn_index": 66,
+          "speaker_after": "U3B",
+          "end_time": 231.21
+        }
+      ]
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 231.15,
+      "end_time": 232.07,
+      "utterance": "YEAH ANOTHER HOUSE",
+      "turn_index": 66,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U3B",
+          "start_time": 231.53,
+          "turn_index": 67,
+          "speaker_after": "U4C",
+          "end_time": 232.07
+        }
+      ]
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 231.53,
+      "end_time": 236.86,
+      "utterance": "<AND> AND ON THE TOP OF THE HOUSE <ON THE> ON THE TOWER THERE'A A CROSS",
+      "turn_index": 67,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U4C",
+          "speaker_after": "U4C",
+          "turn_index": 68,
+          "start_time": 232.42,
+          "end_time": 232.64
+        }
+      ]
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 232.42,
+      "end_time": 232.64,
+      "utterance": "YEAH",
+      "turn_index": 68,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 237.53,
+      "end_time": 239.76,
+      "utterance": "A CROSS NO I DON'T HAVE CROSS HERE",
+      "turn_index": 69,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 239.97,
+      "end_time": 244.64,
+      "utterance": "OKAY YEAH CAUSE <IT> <%aa> IT LOOKS <LIKE> <%aa> LIKE A CHURCH LIKE A CROSS",
+      "turn_index": 70,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U4C",
+          "start_time": 243.93,
+          "turn_index": 71,
+          "speaker_after": "U3B",
+          "end_time": 244.64
+        }
+      ]
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 243.93,
+      "end_time": 246.21,
+      "utterance": "<%aa> OKAY I HAVE NO CROSS HERE",
+      "turn_index": 71,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 246.26,
+      "end_time": 247.3,
+      "utterance": "OKAY THAT'S THE DIFFERENCE",
+      "turn_index": 72,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U4C",
+          "start_time": 246.83,
+          "turn_index": 73,
+          "speaker_after": "U3B",
+          "end_time": 247.3
+        }
+      ]
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 246.83,
+      "end_time": 247.59,
+      "utterance": "AND YES",
+      "turn_index": 73,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 247.84,
+      "end_time": 248.45,
+      "utterance": "AND <%aa>",
+      "turn_index": 74,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 249.0,
+      "end_time": 251.05,
+      "utterance": "THERE IS ANOTHER YELLOW HOUSE",
+      "turn_index": 75,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 251.31,
+      "end_time": 252.22,
+      "utterance": "ON THE RIGHT",
+      "turn_index": 76,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 252.57,
+      "end_time": 255.46,
+      "utterance": "<%aa> <IN> MY HOUSE ON THE RIGHT IS RED",
+      "turn_index": 77,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 255.94,
+      "end_time": 256.51,
+      "utterance": "AH",
+      "turn_index": 78,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 256.9,
+      "end_time": 257.89,
+      "utterance": "LET'S CLICK THE HOUSE",
+      "turn_index": 79,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 258.04,
+      "end_time": 258.3,
+      "utterance": "YEAH",
+      "turn_index": 80,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 258.8,
+      "end_time": 262.34,
+      "utterance": "AND <%aa> BESIDE <%aa> THE SMALL HOUSE THERE IS <%aa>",
+      "turn_index": 81,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 262.88,
+      "end_time": 263.35,
+      "utterance": "COW",
+      "turn_index": 82,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 264.29,
+      "end_time": 265.62,
+      "utterance": "YEAH I HAVE TWO COWS",
+      "turn_index": 83,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 265.83,
+      "end_time": 267.59,
+      "utterance": "OKAY NO I HAVE ONLY ONE",
+      "turn_index": 84,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 268.54,
+      "end_time": 269.45,
+      "utterance": "WE CAN CLICK HERE",
+      "turn_index": 85,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 269.88,
+      "end_time": 270.47,
+      "utterance": "OKAY",
+      "turn_index": 86,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 270.78,
+      "end_time": 275.14,
+      "utterance": "<MY <CH->> <WHE-> WHERE IS YOUR COW IS IT CLOSE TO THE LITTLE HOUSE",
+      "turn_index": 87,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 275.51,
+      "end_time": 276.17,
+      "utterance": "<%aa> YES",
+      "turn_index": 88,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 276.39,
+      "end_time": 277.43,
+      "utterance": "OKAY SO MY",
+      "turn_index": 89,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 277.85,
+      "end_time": 280.32,
+      "utterance": "COW THAT'S CLOSE TO THE BIG HOUSE MUST BE AN EXTRA ONE",
+      "turn_index": 90,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 280.6,
+      "end_time": 281.36,
+      "utterance": "AH OKAY",
+      "turn_index": 91,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 282.35,
+      "end_time": 286.34,
+      "utterance": "AND <%aa> BELOW THE COW THERE'S TWO <+ STONES> GREY STONES",
+      "turn_index": 92,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 286.57,
+      "end_time": 288.52,
+      "utterance": "OKAY I ONLY HAVE WHAT ONE STONE",
+      "turn_index": 93,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U4C",
+          "speaker_after": "U4C",
+          "turn_index": 94,
+          "start_time": 286.81,
+          "end_time": 287.37
+        }
+      ]
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 286.81,
+      "end_time": 287.37,
+      "utterance": "TOGETHER",
+      "turn_index": 94,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 288.75,
+      "end_time": 289.16,
+      "utterance": "AH",
+      "turn_index": 95,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 289.5,
+      "end_time": 290.0,
+      "utterance": "THEN",
+      "turn_index": 96,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 290.19,
+      "end_time": 292.31,
+      "utterance": "THEY'RE TOGETHER SO LET'S CLICK THE PLACE",
+      "turn_index": 97,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 294.62,
+      "end_time": 298.14,
+      "utterance": "AND THERE'S NOTHING ELSE ON MY PICTURE IS THERE ANYTHING ELSE ON YOURS?",
+      "turn_index": 98,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 298.85,
+      "end_time": 299.91,
+      "utterance": "<%aa> NO",
+      "turn_index": 99,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 301.72,
+      "end_time": 303.26,
+      "utterance": "OH WE ALMOST GOT THEM ALL",
+      "turn_index": 100,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 303.86,
+      "end_time": 308.5,
+      "utterance": "<%ahm> I CAN'T SEE THE PICTURE NOW ACTUALLY OH IT IS IT IS NOW",
+      "turn_index": 101,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 310.77,
+      "end_time": 311.36,
+      "utterance": "<%mm>",
+      "turn_index": 102,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U3B",
+          "start_time": 310.79,
+          "turn_index": 103,
+          "speaker_after": "U4C",
+          "end_time": 311.36
+        }
+      ]
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 310.79,
+      "end_time": 313.97,
+      "utterance": "I THINK WE FOUND EVERYTHING I DON'T KNOW WHY THEY'RE SAYING THAT WE DIDN'T",
+      "turn_index": 103,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 314.87,
+      "end_time": 318.09,
+      "utterance": "AH I SEE I CLICKED THE WRONG PLACE OF THE CROSS",
+      "turn_index": 104,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 319.05,
+      "end_time": 319.7,
+      "utterance": "OAH",
+      "turn_index": 105,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 319.87,
+      "end_time": 320.42,
+      "utterance": "<%mm>",
+      "turn_index": 106,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 320.98,
+      "end_time": 321.44,
+      "utterance": "SORRY",
+      "turn_index": 107,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 324.9,
+      "end_time": 326.6,
+      "utterance": "YEAH I THOUGHT IS IS ON THE ROOF",
+      "turn_index": 108,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U3B",
+          "speaker_after": "U3B",
+          "turn_index": 109,
+          "start_time": 324.98,
+          "end_time": 325.46
+        }
+      ]
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 324.98,
+      "end_time": 325.46,
+      "utterance": "WELL",
+      "turn_index": 109,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 326.8,
+      "end_time": 329.32,
+      "utterance": "SO I DIN'T CLICK ABOVE THE ROOF",
+      "turn_index": 110,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U3B",
+          "speaker_after": "U3B",
+          "turn_index": 111,
+          "start_time": 327.16,
+          "end_time": 327.89
+        }
+      ]
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 327.16,
+      "end_time": 327.89,
+      "utterance": "AH",
+      "turn_index": 111,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 329.93,
+      "end_time": 330.87,
+      "utterance": "OH BUT I DID",
+      "turn_index": 112,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 331.33,
+      "end_time": 335.27,
+      "utterance": "AH MAYBE WE SHOULD HAVE CLICKED TOGETHER THE SAME PLACE THEN IT COUNTS",
+      "turn_index": 113,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 335.44,
+      "end_time": 336.43,
+      "utterance": "I SEE YEAH",
+      "turn_index": 114,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U4C",
+          "start_time": 336.36,
+          "turn_index": 115,
+          "speaker_after": "U3B",
+          "end_time": 336.43
+        }
+      ]
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 336.36,
+      "end_time": 336.7,
+      "utterance": "YEAH",
+      "turn_index": 115,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 337.31,
+      "end_time": 337.62,
+      "utterance": "OKAY",
+      "turn_index": 116,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 337.84,
+      "end_time": 338.55,
+      "utterance": "LET'S CONTINUE",
+      "turn_index": 117,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 338.97,
+      "end_time": 339.41,
+      "utterance": "OKAY",
+      "turn_index": 118,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 343.65,
+      "end_time": 344.08,
+      "utterance": "<%mm>",
+      "turn_index": 119,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 344.54,
+      "end_time": 350.64,
+      "utterance": "<%ahm> IS ALSO THE NIGHT AND ON THE TOP RIGHT THERE ARE TWO <GRAY> (GRAY=) CLOUDS",
+      "turn_index": 120,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 351.51,
+      "end_time": 353.11,
+      "utterance": "YEAH I HAVE TWO GREY CLOUDS YES",
+      "turn_index": 121,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U4C",
+          "start_time": 353.04,
+          "turn_index": 122,
+          "speaker_after": "U3B",
+          "end_time": 353.11
+        }
+      ]
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 353.04,
+      "end_time": 354.44,
+      "utterance": "AND THERE'S A THUNDER",
+      "turn_index": 122,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 354.79,
+      "end_time": 355.66,
+      "utterance": "BELOW THE",
+      "turn_index": 123,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 356.0,
+      "end_time": 356.37,
+      "utterance": "CLOUD",
+      "turn_index": 124,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 356.53,
+      "end_time": 358.36,
+      "utterance": "<%aa> I HAVE <NO <THUN-~>> NO THUNDER",
+      "turn_index": 125,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 358.43,
+      "end_time": 362.61,
+      "utterance": "YEAH WELL LET'S CLICK <<+ THE> BELOW THE> <BE-> BELOW THE BELOWEST <%aa> CLOUD",
+      "turn_index": 126,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 362.97,
+      "end_time": 363.25,
+      "utterance": "YEAH",
+      "turn_index": 127,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 364.24,
+      "end_time": 367.05,
+      "utterance": "AND <%aa> BESIDE THE CLOUD THERE'S A MOON",
+      "turn_index": 128,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 367.6,
+      "end_time": 368.11,
+      "utterance": "YES",
+      "turn_index": 129,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U4C",
+          "start_time": 367.66,
+          "turn_index": 130,
+          "speaker_after": "U3B",
+          "end_time": 368.11
+        }
+      ]
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 367.66,
+      "end_time": 369.35,
+      "utterance": "ALMOST THE SAME LIKE THE LAST ONE",
+      "turn_index": 130,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 369.54,
+      "end_time": 371.36,
+      "utterance": "I HAVE THE SAME MOON AS LAST TIME YEAH",
+      "turn_index": 131,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U4C",
+          "start_time": 371.1,
+          "turn_index": 132,
+          "speaker_after": "U3B",
+          "end_time": 371.36
+        }
+      ]
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 371.1,
+      "end_time": 371.78,
+      "utterance": "YEAH YEAH YEAH",
+      "turn_index": 132,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 371.98,
+      "end_time": 374.26,
+      "utterance": "AND BESIDE THE MOON IS THE AIRPLANE",
+      "turn_index": 133,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 374.57,
+      "end_time": 375.1,
+      "utterance": "YES",
+      "turn_index": 134,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 375.65,
+      "end_time": 376.99,
+      "utterance": "<%mm> IS TOWARD THE RIGHT",
+      "turn_index": 135,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 377.3,
+      "end_time": 379.07,
+      "utterance": "MY AIRPLANE IS FLYING TO THE LEFT",
+      "turn_index": 136,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 379.23,
+      "end_time": 381.17,
+      "utterance": "AH THAT'S DIFFERENT LET'S CLICK THERE",
+      "turn_index": 137,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U3B",
+          "speaker_after": "U3B",
+          "turn_index": 138,
+          "start_time": 380.61,
+          "end_time": 380.96
+        }
+      ]
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 380.61,
+      "end_time": 380.96,
+      "utterance": "YEAH",
+      "turn_index": 138,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 382.03,
+      "end_time": 384.86,
+      "utterance": "AND <%aa> BELOW THE AIRPLANE THERE ARE FIVE STARS",
+      "turn_index": 139,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 385.05,
+      "end_time": 386.43,
+      "utterance": "I HAVE FIVE STARS YES",
+      "turn_index": 140,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 386.64,
+      "end_time": 388.08,
+      "utterance": "YES AND THEY <%aa>",
+      "turn_index": 141,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 388.88,
+      "end_time": 389.76,
+      "utterance": "ALSO ORANGE",
+      "turn_index": 142,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 390.28,
+      "end_time": 392.45,
+      "utterance": "ORANGE STARS THREE ON TOP AND TWO BELOW",
+      "turn_index": 143,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 392.63,
+      "end_time": 393.54,
+      "utterance": "YES IT'S THE SAME",
+      "turn_index": 144,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 394.35,
+      "end_time": 398.8,
+      "utterance": "AND <%aa> BESIDE THE LEFT OF THE AIRPLANE THERE ARE TWO WHITE CLOUDS",
+      "turn_index": 145,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 399.21,
+      "end_time": 400.49,
+      "utterance": "I HAVE TWO WHITE CLOUDS YES",
+      "turn_index": 146,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 400.71,
+      "end_time": 404.66,
+      "utterance": "YEAH THE SHAPE IS <%aa> ALMOST THE SAME AS THE GREY ONES",
+      "turn_index": 147,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 404.79,
+      "end_time": 405.32,
+      "utterance": "YES",
+      "turn_index": 148,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 405.73,
+      "end_time": 409.52,
+      "utterance": "AND <%ahm> BELOW THE WHITE CLOUDS THERE IS (A=) BUILDING",
+      "turn_index": 149,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 410.01,
+      "end_time": 410.49,
+      "utterance": "YES",
+      "turn_index": 150,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U4C",
+          "start_time": 410.19,
+          "turn_index": 151,
+          "speaker_after": "U3B",
+          "end_time": 410.49
+        }
+      ]
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 410.19,
+      "end_time": 411.36,
+      "utterance": "IT'S IN BLUE",
+      "turn_index": 151,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 412.82,
+      "end_time": 415.66,
+      "utterance": "YEAH <MY> MY BUILDING IS KIND OF BLUE GREEN",
+      "turn_index": 152,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 416.08,
+      "end_time": 416.99,
+      "utterance": "SOMEWHERE IN BETWEEN",
+      "turn_index": 153,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U4C",
+          "speaker_after": "U4C",
+          "turn_index": 154,
+          "start_time": 416.26,
+          "end_time": 416.77
+        }
+      ]
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 416.26,
+      "end_time": 416.77,
+      "utterance": "<BL->",
+      "turn_index": 154,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 417.64,
+      "end_time": 418.16,
+      "utterance": "<%ahm>",
+      "turn_index": 155,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 418.4,
+      "end_time": 422.49,
+      "utterance": "BLUE GREEN SOMEWHERE BETWEEN IS THERE <ANOTHER> ANOTHER HOUSE IN YOUR PICTURE?",
+      "turn_index": 156,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 422.77,
+      "end_time": 424.59,
+      "utterance": "<+ BUILDING> ANOTHER BUILDING THE RIGHT",
+      "turn_index": 157,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U3B",
+          "speaker_after": "U3B",
+          "turn_index": 158,
+          "start_time": 422.93,
+          "end_time": 423.22
+        }
+      ]
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 422.93,
+      "end_time": 423.22,
+      "utterance": "YEAH",
+      "turn_index": 158,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 424.74,
+      "end_time": 426.03,
+      "utterance": "YEAH EXACTLY THE SAME",
+      "turn_index": 159,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 426.2,
+      "end_time": 429.04,
+      "utterance": "EXACTLY THE SAME AH IT'S DIFFERENT BECAUSE MY ANOTHER",
+      "turn_index": 160,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 429.28,
+      "end_time": 431.5,
+      "utterance": "PICTURE IT'S <%ahm> GREEN AND ORANGE",
+      "turn_index": 161,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 432.22,
+      "end_time": 434.73,
+      "utterance": "YEAH I THINK <IT'S> MINE IS GREEN AND ORANGE YEAH",
+      "turn_index": 162,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 434.95,
+      "end_time": 435.25,
+      "utterance": "YEAH",
+      "turn_index": 163,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 435.71,
+      "end_time": 439.79,
+      "utterance": "AH YOURS IS GREEN AND ORANGE SO LET'S CLICK THE LEFT ONE MINE IS BLUE",
+      "turn_index": 164,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U3B",
+          "speaker_after": "U3B",
+          "turn_index": 165,
+          "start_time": 439.02,
+          "end_time": 439.37
+        }
+      ]
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 439.02,
+      "end_time": 439.37,
+      "utterance": "YEAH",
+      "turn_index": 165,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 441.88,
+      "end_time": 445.42,
+      "utterance": "AND <%ahm> THERE'S A ROAD IN THE MIDDLE OF THE PICTURE",
+      "turn_index": 166,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 445.9,
+      "end_time": 446.41,
+      "utterance": "YES",
+      "turn_index": 167,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 446.63,
+      "end_time": 448.1,
+      "utterance": "AND ON THE ROAD <%ahm>",
+      "turn_index": 168,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 448.36,
+      "end_time": 450.83,
+      "utterance": "<%aA> IN THE LOWER PART THERE'S A BLUE CAR",
+      "turn_index": 169,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 451.03,
+      "end_time": 451.57,
+      "utterance": "YES",
+      "turn_index": 170,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 451.85,
+      "end_time": 454.27,
+      "utterance": "AND THERE'S A MAN WITH",
+      "turn_index": 171,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 454.78,
+      "end_time": 456.72,
+      "utterance": "YELLOW AND RED <%eh> SHIRT",
+      "turn_index": 172,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 456.75,
+      "end_time": 457.3,
+      "utterance": "YES",
+      "turn_index": 173,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 457.54,
+      "end_time": 459.37,
+      "utterance": "AND HE HAS GLASSES AND <%ahm>",
+      "turn_index": 174,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 459.59,
+      "end_time": 460.92,
+      "utterance": "WAVING HIS <%ahm>",
+      "turn_index": 175,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 461.64,
+      "end_time": 462.35,
+      "utterance": "LEFT HAND",
+      "turn_index": 176,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 463.8,
+      "end_time": 464.3,
+      "utterance": "<%aa>",
+      "turn_index": 177,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 464.57,
+      "end_time": 469.2,
+      "utterance": "YEAH <MY> <%ahm> MY PICTURE HE'S WAVING HIS RIGHT HAND BUT",
+      "turn_index": 178,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 470.17,
+      "end_time": 471.7,
+      "utterance": "<%aA> IS HE TOWARDS",
+      "turn_index": 179,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 471.94,
+      "end_time": 473.22,
+      "utterance": "LEFT OR RIGHT?",
+      "turn_index": 180,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 473.42,
+      "end_time": 476.07,
+      "utterance": "IT'S HIS RIGHT HAND BUT IT'S TO THE LEFT OF HIM",
+      "turn_index": 181,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 476.85,
+      "end_time": 479.5,
+      "utterance": "<TO THE> TO THE LEFT OF HIM RIGHT HAND",
+      "turn_index": 182,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U3B",
+          "start_time": 479.13,
+          "turn_index": 183,
+          "speaker_after": "U4C",
+          "end_time": 479.5
+        }
+      ]
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 479.13,
+      "end_time": 480.15,
+      "utterance": "IF YOU LOOK AT HIM",
+      "turn_index": 183,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 480.94,
+      "end_time": 481.37,
+      "utterance": "<%ahm>",
+      "turn_index": 184,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 481.51,
+      "end_time": 482.24,
+      "utterance": "FOR US",
+      "turn_index": 185,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U4C",
+          "start_time": 481.57,
+          "turn_index": 186,
+          "speaker_after": "U3B",
+          "end_time": 482.24
+        }
+      ]
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 481.57,
+      "end_time": 484.35,
+      "utterance": "<IT'S> <%aa> IT'S FOR US IS <%eh> RIGHT",
+      "turn_index": 186,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 486.29,
+      "end_time": 487.14,
+      "utterance": "IT'S RIGHT FOR ME",
+      "turn_index": 187,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 487.48,
+      "end_time": 489.92,
+      "utterance": "OKAY <FOR> FOR ME <IT'S> <%ahm> IT'S HIS LEFT",
+      "turn_index": 188,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 489.98,
+      "end_time": 490.91,
+      "utterance": "OKAY LET'S CLICK HERE",
+      "turn_index": 189,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 491.31,
+      "end_time": 495.23,
+      "utterance": "AND <%ahm> <THE> <BE-> BESIDE THE CAR THERE'S A TRAFFIC LIGHT",
+      "turn_index": 190,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 496.3,
+      "end_time": 496.67,
+      "utterance": "YEAH",
+      "turn_index": 191,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 496.86,
+      "end_time": 498.44,
+      "utterance": "AND <%aa> ALSO <%aa> TRAFFIC LIGHT",
+      "turn_index": 192,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 498.84,
+      "end_time": 499.47,
+      "utterance": "<%mm>",
+      "turn_index": 193,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 500.06,
+      "end_time": 503.11,
+      "utterance": "<%aa> BETWEEN THE ROAD AND <THE> THE RIGHT BUILDING",
+      "turn_index": 194,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 503.22,
+      "end_time": 503.8,
+      "utterance": "YES",
+      "turn_index": 195,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 504.16,
+      "end_time": 511.74,
+      "utterance": "AND <%aa> <THERE ARE THREE> <%aa> THERE ARE THREE <+ LAMPS> ROAD LAMPS <%aa> ONE ONE IS <%aa>",
+      "turn_index": 196,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U3B",
+          "speaker_after": "U3B",
+          "turn_index": 197,
+          "start_time": 508.45,
+          "end_time": 508.81
+        }
+      ]
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 508.45,
+      "end_time": 508.81,
+      "utterance": "YEAH",
+      "turn_index": 197,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 512.42,
+      "end_time": 512.96,
+      "utterance": "IN THE",
+      "turn_index": 198,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 513.35,
+      "end_time": 514.31,
+      "utterance": "DOWNSIDE CURVE",
+      "turn_index": 199,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 514.57,
+      "end_time": 514.8,
+      "utterance": "AND",
+      "turn_index": 200,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U3B",
+          "start_time": 514.59,
+          "turn_index": 201,
+          "speaker_after": "U4C",
+          "end_time": 514.8
+        }
+      ]
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 514.59,
+      "end_time": 514.94,
+      "utterance": "YEAH",
+      "turn_index": 201,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 515.2,
+      "end_time": 518.28,
+      "utterance": "<%aa> <EVERY CURVE HAVE ONE> EVERY CURVE HAVE <%aa> ONE",
+      "turn_index": 202,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 518.66,
+      "end_time": 519.26,
+      "utterance": "<%aa>",
+      "turn_index": 203,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 519.53,
+      "end_time": 520.17,
+      "utterance": "ONE LAMP",
+      "turn_index": 204,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 520.55,
+      "end_time": 520.89,
+      "utterance": "YEAH",
+      "turn_index": 205,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 521.12,
+      "end_time": 521.64,
+      "utterance": "AND <%aa>",
+      "turn_index": 206,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U3B",
+          "speaker_after": "U3B",
+          "turn_index": 207,
+          "start_time": 521.24,
+          "end_time": 521.58
+        }
+      ]
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 521.24,
+      "end_time": 521.58,
+      "utterance": "OH",
+      "turn_index": 207,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 522.23,
+      "end_time": 526.1,
+      "utterance": "EACH LAMP I HAVE HAS <TWO> TWO LAMPS EACH LAMPPOST HAS",
+      "turn_index": 208,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U4C",
+          "start_time": 525.56,
+          "turn_index": 209,
+          "speaker_after": "U3B",
+          "end_time": 526.1
+        }
+      ]
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 525.56,
+      "end_time": 526.96,
+      "utterance": "YEAH YEAH YEAH YEAH THAT'S RIGHT",
+      "turn_index": 209,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 527.56,
+      "end_time": 528.21,
+      "utterance": "AND <%ahm>",
+      "turn_index": 210,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 529.64,
+      "end_time": 531.12,
+      "utterance": "HOW TO DESCRIBE IT",
+      "turn_index": 211,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 531.52,
+      "end_time": 532.32,
+      "utterance": "ANY DIFFERENCE",
+      "turn_index": 212,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 533.28,
+      "end_time": 534.32,
+      "utterance": "<%aa> <%ahm>",
+      "turn_index": 213,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 536.24,
+      "end_time": 538.73,
+      "utterance": "SO IF <WE> <WE> WE COUNT THE LEFT",
+      "turn_index": 214,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 538.92,
+      "end_time": 542.11,
+      "utterance": "IF WE SAY LEFT OR RIGHT OF THE ROAD <%aa> SO THAT",
+      "turn_index": 215,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 542.36,
+      "end_time": 542.84,
+      "utterance": "<%aa>",
+      "turn_index": 216,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 543.36,
+      "end_time": 544.581339609,
+      "utterance": "OH OKAY IS OVER",
+      "turn_index": 217,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 545.84,
+      "end_time": 548.27,
+      "utterance": "<SO WE> <WHI-> WHICH ONE DID WE MISS",
+      "turn_index": 218,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 549.96,
+      "end_time": 553.01,
+      "utterance": "OH <THE> THE CAR'S GOING THE OTHER WAY THAT'S WHY WE",
+      "turn_index": 219,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 553.28,
+      "end_time": 554.88,
+      "utterance": "GOT MIXED UP ON LEFT AND RIGHT",
+      "turn_index": 220,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 555.25,
+      "end_time": 556.85,
+      "utterance": "AH YES YES YES",
+      "turn_index": 221,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 558.07,
+      "end_time": 560.36,
+      "utterance": "OH THE LAMP IS <DI-> DIFFERENT",
+      "turn_index": 222,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 561.73,
+      "end_time": 562.57,
+      "utterance": "<%mm> I SEE",
+      "turn_index": 223,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U3B",
+          "start_time": 562.42,
+          "turn_index": 224,
+          "speaker_after": "U4C",
+          "end_time": 562.57
+        }
+      ]
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 562.42,
+      "end_time": 564.8,
+      "utterance": "<THIS WAS A <DI->> THIS WAS DIFFICULT THIS ONE",
+      "turn_index": 224,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 564.81,
+      "end_time": 566.66,
+      "utterance": "YEAH IT'S HARD TO DESCRIBE",
+      "turn_index": 225,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U3B",
+          "speaker_after": "U3B",
+          "turn_index": 226,
+          "start_time": 565.86,
+          "end_time": 566.55
+        }
+      ]
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 565.86,
+      "end_time": 566.55,
+      "utterance": "IT WAS",
+      "turn_index": 226,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 567.38,
+      "end_time": 568.9,
+      "utterance": "FORGIVE MY POOR ENGLISH",
+      "turn_index": 227,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 570.61,
+      "end_time": 571.7,
+      "utterance": "SO IT'S VERY TRICKY",
+      "turn_index": 228,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 572.2,
+      "end_time": 572.86,
+      "utterance": "YEAH",
+      "turn_index": 229,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 574.87,
+      "end_time": 576.89,
+      "utterance": "BUT I DON'T SEE THE SIX ONE I DON'T KNOW",
+      "turn_index": 230,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 579.17,
+      "end_time": 580.08,
+      "utterance": "OKAY LET'S CONTINUE",
+      "turn_index": 231,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 580.86,
+      "end_time": 581.29,
+      "utterance": "OKAY",
+      "turn_index": 232,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 584.9,
+      "end_time": 586.43,
+      "utterance": "<%mm> AH IT'S LIKE A ZOO",
+      "turn_index": 233,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 586.82,
+      "end_time": 587.5,
+      "utterance": "THERE'S <%aa>",
+      "turn_index": 234,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 587.96,
+      "end_time": 589.73,
+      "utterance": "SUN ON (THE=) RIGHT",
+      "turn_index": 235,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 590.54,
+      "end_time": 591.09,
+      "utterance": "YES",
+      "turn_index": 236,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 591.21,
+      "end_time": 593.66,
+      "utterance": "<%aa> TOP RIGHT AND IT'S LAUGHING",
+      "turn_index": 237,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 593.91,
+      "end_time": 595.11,
+      "utterance": "HE'S LAUGHING YEAH",
+      "turn_index": 238,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U4C",
+          "start_time": 594.9,
+          "turn_index": 239,
+          "speaker_after": "U3B",
+          "end_time": 595.11
+        }
+      ]
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 594.9,
+      "end_time": 599.27,
+      "utterance": "LAUGHING AND SEEMS LIKE <HE> <%aa> ITS EYES IS LOOKING AT THE",
+      "turn_index": 239,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 599.82,
+      "end_time": 600.75,
+      "utterance": "DOWN LEFT",
+      "turn_index": 240,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 601.62,
+      "end_time": 606.09,
+      "utterance": "<%mm> <MY> MY SUN'S EYES IS LOOKING TO THE <+ RIGHT> DOWN RIGHT",
+      "turn_index": 241,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U4C",
+          "start_time": 605.45,
+          "turn_index": 242,
+          "speaker_after": "U3B",
+          "end_time": 606.09
+        }
+      ]
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 605.45,
+      "end_time": 606.23,
+      "utterance": "<%mm>",
+      "turn_index": 242,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 606.68,
+      "end_time": 607.69,
+      "utterance": "YEAH LET'S CLICK HERE",
+      "turn_index": 243,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 607.76,
+      "end_time": 608.61,
+      "utterance": "THAT'S THE DIFFERENCE",
+      "turn_index": 244,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 609.18,
+      "end_time": 611.53,
+      "utterance": "AND <%aa> BELOW THE SOUND THERE'S <%aa>",
+      "turn_index": 245,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 611.91,
+      "end_time": 612.63,
+      "utterance": "GIRAFFE",
+      "turn_index": 246,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 613.54,
+      "end_time": 617.1,
+      "utterance": "OH I HAVE NO GIRAFFE I JUST HAVE AN ELEPHANT AND A TIGER",
+      "turn_index": 247,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 617.43,
+      "end_time": 617.78,
+      "utterance": "AH",
+      "turn_index": 248,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 618.15,
+      "end_time": 619.19,
+      "utterance": "LET'S CLICK THE",
+      "turn_index": 249,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 619.83,
+      "end_time": 621.72,
+      "utterance": "<BE-> <%aa> BEHIND THIS <%aa>",
+      "turn_index": 250,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 622.29,
+      "end_time": 623.16,
+      "utterance": "BELOW THE SUN",
+      "turn_index": 251,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 623.77,
+      "end_time": 627.03,
+      "utterance": "<ALMOST <%aa>> ALMOST <%aa> ON THE HORIZON LET'S CLICK THERE",
+      "turn_index": 252,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U3B",
+          "speaker_after": "U3B",
+          "turn_index": 253,
+          "start_time": 623.86,
+          "end_time": 624.63
+        },
+        {
+          "speaker_before": "U3B",
+          "speaker_after": "U3B",
+          "turn_index": 254,
+          "start_time": 626.4,
+          "end_time": 626.87
+        }
+      ]
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 623.86,
+      "end_time": 624.63,
+      "utterance": "BELOW THE SUN",
+      "turn_index": 253,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 626.4,
+      "end_time": 626.87,
+      "utterance": "OKAY",
+      "turn_index": 254,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 628.43,
+      "end_time": 633.28,
+      "utterance": "AND <%aa> THERE'S ALSO <%aa> ELEPHANT AND A TIGER THEY ARE BOTH TOWARD IN LEFT",
+      "turn_index": 255,
+      "topic": "DESCRIBING PICTURE"
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 634.35,
+      "end_time": 635.81,
+      "utterance": "BOTH TOWARD LEFT YES",
+      "turn_index": 256,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 636.44,
+      "end_time": 638.18,
+      "utterance": "AND THE ELEPHANT IS GRAY",
+      "turn_index": 257,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 638.53,
+      "end_time": 640.29,
+      "utterance": "AND (THE=) TIGER IS",
+      "turn_index": 258,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 641.09,
+      "end_time": 641.89,
+      "utterance": "A COLOUR OF A TIGER",
+      "turn_index": 259,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 642.27,
+      "end_time": 643.2,
+      "utterance": "YES YES",
+      "turn_index": 260,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U4C",
+          "start_time": 642.94,
+          "turn_index": 261,
+          "speaker_after": "U3B",
+          "end_time": 643.2
+        }
+      ]
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 642.94,
+      "end_time": 643.23,
+      "utterance": "YEAH",
+      "turn_index": 261,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 644.26,
+      "end_time": 648.62,
+      "utterance": "AND <%aa> THERE ARE TWO COCONUT TREES IN THE BELOW RIGHT SIDE",
+      "turn_index": 262,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 649.04,
+      "end_time": 652.31,
+      "utterance": "I HAVE THREE COCONUT TREES ON THE LOWER LEFT SIDE",
+      "turn_index": 263,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 652.86,
+      "end_time": 658.45,
+      "utterance": "THREE COCONUT TREE IN THE LOWER <LEF-~> LEFT SIDE <%aa> HOW DID IT <%aa> ARRANGE?",
+      "turn_index": 264,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 659.21,
+      "end_time": 660.11,
+      "utterance": "WHAT'S THE POSITION?",
+      "turn_index": 265,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 660.42,
+      "end_time": 661.24,
+      "utterance": "THERE ARE",
+      "turn_index": 266,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 663.38,
+      "end_time": 665.73,
+      "utterance": "<THE> <THE> THE LOWEST ONE IS",
+      "turn_index": 267,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 667.49,
+      "end_time": 670.71,
+      "utterance": "IF THERE ARE TWO ROWS OR THREE ROWS OR THEY ARE ALL TOGETHER",
+      "turn_index": 268,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 671.44,
+      "end_time": 672.06,
+      "utterance": "<%ahm>",
+      "turn_index": 269,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 673.3,
+      "end_time": 674.85,
+      "utterance": "<IT'S> IT'S <IN> IN A ROW",
+      "turn_index": 270,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 675.44,
+      "end_time": 675.86,
+      "utterance": "AH",
+      "turn_index": 271,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U3B",
+          "start_time": 675.45,
+          "turn_index": 272,
+          "speaker_after": "U4C",
+          "end_time": 675.86
+        }
+      ]
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 675.45,
+      "end_time": 677.59,
+      "utterance": "<%aa> <GO-> GOING DIAGONALLY",
+      "turn_index": 272,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 678.01,
+      "end_time": 679.21,
+      "utterance": "UP TO THE LEFT",
+      "turn_index": 273,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 679.76,
+      "end_time": 682.59,
+      "utterance": "OH OKAY LET'S CLICK THE MIDDLE ONE I THINK THIS ONE IS",
+      "turn_index": 274,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 683.27,
+      "end_time": 683.68,
+      "utterance": "MISSED",
+      "turn_index": 275,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 684.13,
+      "end_time": 684.67,
+      "utterance": "OKAY",
+      "turn_index": 276,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 686.78,
+      "end_time": 687.33,
+      "utterance": "AND <%aa>",
+      "turn_index": 277,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 687.74,
+      "end_time": 690.27,
+      "utterance": "ABOVE THE TREES THERE'S A CLOUD",
+      "turn_index": 278,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 690.49,
+      "end_time": 691.07,
+      "utterance": "YES",
+      "turn_index": 279,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U4C",
+          "start_time": 690.53,
+          "turn_index": 280,
+          "speaker_after": "U3B",
+          "end_time": 691.07
+        }
+      ]
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 690.53,
+      "end_time": 691.15,
+      "utterance": "GRAY ONE",
+      "turn_index": 280,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 691.36,
+      "end_time": 692.21,
+      "utterance": "AND IT'S RAINING",
+      "turn_index": 281,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 692.81,
+      "end_time": 694.16,
+      "utterance": "OH I HAVE NO RAIN",
+      "turn_index": 282,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 694.3,
+      "end_time": 695.38,
+      "utterance": "AH LET'S <CLI->",
+      "turn_index": 283,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 695.74,
+      "end_time": 697.65,
+      "utterance": "CLICK <+ THE> BELOW THE CLOUD",
+      "turn_index": 284,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 697.94,
+      "end_time": 699.2,
+      "utterance": "JUST A WHITE CLOUDY YEAH",
+      "turn_index": 285,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 699.49,
+      "end_time": 700.55,
+      "utterance": "<%aa> IT'S GRAY CLOUD",
+      "turn_index": 286,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 701.45,
+      "end_time": 703.43,
+      "utterance": "AH GREY CLOUD OKAY MINE IS WHITE",
+      "turn_index": 287,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U4C",
+          "speaker_after": "U4C",
+          "turn_index": 288,
+          "start_time": 701.58,
+          "end_time": 702.19
+        }
+      ]
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 701.58,
+      "end_time": 702.19,
+      "utterance": "I THINK IT'S",
+      "turn_index": 288,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 702.6,
+      "end_time": 706.09,
+      "utterance": "YEAH I THINK <IT'S> IT'S TWO DIFFERENT SO LET'S CLICK THEM BOTH",
+      "turn_index": 289,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 707.97,
+      "end_time": 709.39,
+      "utterance": "<%mm> AND THERE'S NOTHING",
+      "turn_index": 290,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 709.77,
+      "end_time": 711.85,
+      "utterance": "ELSE IN MY PICTURE IS THERE IN YOURS?",
+      "turn_index": 291,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 711.93,
+      "end_time": 713.43,
+      "utterance": "NOTHING ELSE IN MY PICTURE EITHER",
+      "turn_index": 292,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 714.16,
+      "end_time": 715.8,
+      "utterance": "OKAY THEN I THINK WE ARE DONE",
+      "turn_index": 293,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 716.4,
+      "end_time": 718.6,
+      "utterance": "<CAN WE> CAN I CLICK WE FOUND ALL THE DIFFERENCES",
+      "turn_index": 294,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U3B",
+          "speaker_after": "U3B",
+          "turn_index": 295,
+          "start_time": 717.68,
+          "end_time": 717.96
+        }
+      ]
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 717.68,
+      "end_time": 717.96,
+      "utterance": "YEAH",
+      "turn_index": 295,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 718.3,
+      "end_time": 720.46,
+      "utterance": "YEAH I HOPE WE FOUND ALL THE DIFFERENCES",
+      "turn_index": 296,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 720.91,
+      "end_time": 721.22,
+      "utterance": "YES",
+      "turn_index": 297,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 725.01,
+      "end_time": 725.88,
+      "utterance": "WHICH ONE IS MISSING",
+      "turn_index": 298,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 728.41,
+      "end_time": 731.42,
+      "utterance": "WELL <WE> WE FOUND THEM ALL I DON'T UNDERSTAND",
+      "turn_index": 299,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 731.65,
+      "end_time": 733.26,
+      "utterance": "<%aa> I DON'T UNDERSTAND EITHER",
+      "turn_index": 300,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 733.86,
+      "end_time": 735.44,
+      "utterance": "MAYBE THEY DON'T LET YOU",
+      "turn_index": 301,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U4C",
+          "start_time": 733.99,
+          "turn_index": 302,
+          "speaker_after": "U3B",
+          "end_time": 735.44
+        }
+      ]
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 733.99,
+      "end_time": 735.49,
+      "utterance": "I THINK WE FOUND THEM OH",
+      "turn_index": 302,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 736.21,
+      "end_time": 737.04,
+      "utterance": "YEAH",
+      "turn_index": 303,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 738.05,
+      "end_time": 740.92,
+      "utterance": "BECAUSE <WE'VE> WE ACTUALLY CLICKED ALL DIFFERENCES ON THIS ONE",
+      "turn_index": 304,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 741.38,
+      "end_time": 742.39,
+      "utterance": "YEAH I THINK SO",
+      "turn_index": 305,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 742.45,
+      "end_time": 743.47,
+      "utterance": "OR MAYBE WE",
+      "turn_index": 306,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 744.13,
+      "end_time": 747.07,
+      "utterance": "THEY ONLY MEAN THERE WAS ONE DIFFERENCE WITH THE CLOUD AND THE RAIN",
+      "turn_index": 307,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 747.48,
+      "end_time": 748.64,
+      "utterance": "AH",
+      "turn_index": 308,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 749.13,
+      "end_time": 750.48,
+      "utterance": "AND WE CLICKED TWICE",
+      "turn_index": 309,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 750.66,
+      "end_time": 751.66,
+      "utterance": "SO THEY DIDN'T COUNT IT",
+      "turn_index": 310,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 751.96,
+      "end_time": 754.44,
+      "utterance": "AHA SO DOUBLE CLICK DOESN'T COUNT",
+      "turn_index": 311,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 754.79,
+      "end_time": 755.74,
+      "utterance": "I DON'T KNOW",
+      "turn_index": 312,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U4C",
+          "speaker_after": "U4C",
+          "turn_index": 313,
+          "start_time": 754.83,
+          "end_time": 755.28
+        }
+      ]
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 754.83,
+      "end_time": 755.28,
+      "utterance": "WOW",
+      "turn_index": 313,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 755.84,
+      "end_time": 757.24,
+      "utterance": "IT'S THE FIRST TIME I KNOW IT",
+      "turn_index": 314,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 759.07,
+      "end_time": 760.79,
+      "utterance": "I THINK WE WERE TOO GOOD THIS TIME",
+      "turn_index": 315,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 761.08,
+      "end_time": 761.84,
+      "utterance": "YEAH",
+      "turn_index": 316,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 762.1,
+      "end_time": 765.13,
+      "utterance": "WE FOUND MORE DIFFERENCES <THAN THERE WERE> THAN THEY MEANT",
+      "turn_index": 317,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 765.15,
+      "end_time": 766.54,
+      "utterance": "YEAH YEAH YES",
+      "turn_index": 318,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 768.18,
+      "end_time": 769.06593761,
+      "utterance": "SO WELL DONE",
+      "turn_index": 319,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 770.19,
+      "end_time": 773.42,
+      "utterance": "AH OKAY I THINK WE HAVE TO SAY THAT WE ARE VERY GOOD AT THAT ONE",
+      "turn_index": 320,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 773.77,
+      "end_time": 774.61,
+      "utterance": "YEAH",
+      "turn_index": 321,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 775.63,
+      "end_time": 776.28,
+      "utterance": "THANK YOU",
+      "turn_index": 322,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 777.84,
+      "end_time": 778.33,
+      "utterance": "OKAY",
+      "turn_index": 323,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 779.75,
+      "end_time": 780.54,
+      "utterance": "ARE WE FINISHED",
+      "turn_index": 324,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 780.97,
+      "end_time": 781.8,
+      "utterance": "YEAH I THINK SO",
+      "turn_index": 325,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 796.71,
+      "end_time": 797.45,
+      "utterance": "THEN TAKE IT OFF",
+      "turn_index": 326,
+      "topic": ""
+    }
+  ],
+  "data": {
+    "audio": "U3B_U4C_0_S2_16k.wav",
+    "instruction_giver": {
+      "audio": "U3B_0_S2.wav",
+      "video": "U3B_0_S2.MP4"
+    },
+    "instruction_follower": {
+      "audio": "U4C_0_S2.wav",
+      "video": "U4C_0_S2.MP4"
+    }
+  },
+  "annotation": {
+    "audio": {
+      "file": "U3B_U4C_0_S2_sync.TextGrid",
+      "tiers_instruction_giver": [
+        "FilledPauses_U3B",
+        "asrOutput_U3B",
+        "mouseClicks_U3B",
+        "eyeTracking_U3B",
+        "Trans_U3B",
+        "POS_U3B"
+      ],
+      "tiers_instruction_follower": [
+        "FilledPauses_U4C",
+        "asrOutput_U4C",
+        "mouseClicks_U4C",
+        "eyeTracking_U4C",
+        "Trans_U4C",
+        "POS_U4C"
+      ],
+      "common_tiers": [
+        "Topic"
+      ]
+    },
+    "video": {
+      "ig": {
+        "file": "U3B_0_S2.eaf"
+      },
+      "if": {
+        "file": "U4C_0_S2.eaf"
+      }
+    }
+  }
+}

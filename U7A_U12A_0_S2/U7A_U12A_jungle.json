@@ -1,0 +1,689 @@
+{
+  "success": 0.6666666666666666,
+  "dialogue_duration": 163.45799999999872,
+  "audio": {
+    "ig": "U7A_0_jungle.wav",
+    "if": "U12A_0_jungle.wav"
+  },
+  "turns": [
+    {
+      "speaker": "U7A",
+      "start_time": 102.892670922,
+      "end_time": 103.455830901,
+      "utterance": "start",
+      "turn_index": 0,
+      "topic": ""
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 103.654790241,
+      "end_time": 104.578530031,
+      "utterance": "okay",
+      "turn_index": 1,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 105.207182478,
+      "end_time": 107.758125236,
+      "utterance": "okay so we have <%aa> two palm trees",
+      "turn_index": 2,
+      "topic": ""
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 108.156043883,
+      "end_time": 109.753512451,
+      "utterance": "two palm three palm trees",
+      "turn_index": 3,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 109.845886423,
+      "end_time": 116.221510028,
+      "utterance": "okay I have only two <I have> they're like on (a=) kind of <b-> bottom left yeah of (the=) thing",
+      "turn_index": 4,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 116.403952779,
+      "end_time": 118.042422052,
+      "utterance": "of the screen of the picture",
+      "turn_index": 5,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 118.58539965,
+      "end_time": 120.82948602,
+      "utterance": "<but there's like> <%eh> how are yours placed?",
+      "turn_index": 6,
+      "topic": ""
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 120.991605181,
+      "end_time": 122.768027714,
+      "utterance": "in <like> in a straight row",
+      "turn_index": 7,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 123.830147262,
+      "end_time": 126.132390865,
+      "utterance": "I have <o-> the one in the middle one missing",
+      "turn_index": 8,
+      "topic": ""
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 126.248343472,
+      "end_time": 132.768620874,
+      "utterance": "<okay that <me->> because <the-> there's <one> one futher away then one closest one slightly to the right and one even closer",
+      "turn_index": 9,
+      "topic": ""
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 133.17705594,
+      "end_time": 135.71378665,
+      "utterance": "slightly to (the=) <%mm> right again",
+      "turn_index": 10,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 136.363776009,
+      "end_time": 140.023205465,
+      "utterance": "<okay yeah I have> the one in the middle i think that's the one I'm missing",
+      "turn_index": 11,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U7A",
+          "start_time": 139.930711036,
+          "turn_index": 12,
+          "speaker_after": "U12A",
+          "end_time": 140.023205465
+        }
+      ]
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 139.930711036,
+      "end_time": 142.019783385,
+      "utterance": "okay good then click on it",
+      "turn_index": 12,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 142.218742657,
+      "end_time": 142.633093533,
+      "utterance": "yes",
+      "turn_index": 13,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "",
+          "start_time": 142.218742657,
+          "speaker_after": "",
+          "end_time": 142.633093533,
+          "turn_index": 14
+        }
+      ]
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 142.218742657,
+      "end_time": 142.633093533,
+      "utterance": "uff",
+      "turn_index": 14,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "",
+          "start_time": 142.218742657,
+          "speaker_after": "",
+          "end_time": 142.218742657,
+          "turn_index": 13
+        }
+      ]
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 142.974166569,
+      "end_time": 146.076934524,
+      "utterance": "then I have a tiger an elephant and a giraffe",
+      "turn_index": 15,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U7A",
+          "speaker_after": "U7A",
+          "turn_index": 16,
+          "start_time": 144.483944208,
+          "end_time": 144.796594492
+        }
+      ]
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 144.483944208,
+      "end_time": 144.796594492,
+      "utterance": "what",
+      "turn_index": 16,
+      "topic": ""
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 146.15378095,
+      "end_time": 147.319113825,
+      "utterance": "no giraffe",
+      "turn_index": 17,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 147.688609615,
+      "end_time": 148.777047902,
+      "utterance": "no giraffe at all?",
+      "turn_index": 18,
+      "topic": ""
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 148.886968325,
+      "end_time": 149.432626134,
+      "utterance": "no",
+      "turn_index": 19,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 149.629371923,
+      "end_time": 153.452111728,
+      "utterance": "<okay then I> <%aa> the giraffe is to the right of the elephant",
+      "turn_index": 20,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 154.57703143,
+      "end_time": 157.028181689,
+      "utterance": "<%ahm> <yeah <%eh> kind of like> do you have a sun?",
+      "turn_index": 21,
+      "topic": ""
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 158.130946143,
+      "end_time": 165.628195899,
+      "utterance": "<%eh> yes I have a smiling sun like (%aa) sun with (a=) line <with> going around bla bla bla and then it's like an emoji inside",
+      "turn_index": 22,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 166.269926432,
+      "end_time": 168.494006859,
+      "utterance": "yeah exactly and it's yellow",
+      "turn_index": 23,
+      "topic": ""
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 169.127362819,
+      "end_time": 170.619557354,
+      "utterance": "<%eh> and it's yellow yeah",
+      "turn_index": 24,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U12A",
+          "start_time": 170.235850188,
+          "turn_index": 25,
+          "speaker_after": "U7A",
+          "end_time": 170.619557354
+        }
+      ]
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 170.235850188,
+      "end_time": 173.070859031,
+      "utterance": "yeah and below the sun that would be where the giraffe is",
+      "turn_index": 25,
+      "topic": ""
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 173.333769497,
+      "end_time": 174.607954932,
+      "utterance": "on <l-> on land",
+      "turn_index": 26,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 175.083949869,
+      "end_time": 176.410381236,
+      "utterance": "on land exactly",
+      "turn_index": 27,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U7A",
+          "start_time": 176.156908797,
+          "turn_index": 28,
+          "speaker_after": "U12A",
+          "end_time": 176.410381236
+        }
+      ]
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 176.156908797,
+      "end_time": 176.599542234,
+      "utterance": "okay",
+      "turn_index": 28,
+      "topic": ""
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 177.327995524,
+      "end_time": 179.246531355,
+      "utterance": "but almost like on the horizon line",
+      "turn_index": 29,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 179.409962185,
+      "end_time": 181.980789311,
+      "utterance": "yeah exactly if you click there because it's quite a long giraffe",
+      "turn_index": 30,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U7A",
+          "start_time": 181.632610586,
+          "turn_index": 31,
+          "speaker_after": "U12A",
+          "end_time": 181.980789311
+        }
+      ]
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 181.632610586,
+      "end_time": 182.314756659,
+      "utterance": "just click it",
+      "turn_index": 31,
+      "topic": ""
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 182.655829696,
+      "end_time": 187.139277632,
+      "utterance": "<<I have a <gr->> the grey elephant with <or> or with pink ears",
+      "turn_index": 32,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U12A",
+          "start_time": 187.125066256,
+          "turn_index": 33,
+          "speaker_after": "U7A",
+          "end_time": 187.139277632
+        }
+      ]
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 187.125066256,
+      "end_time": 187.473244981,
+      "utterance": "yes",
+      "turn_index": 33,
+      "topic": ""
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 187.729049758,
+      "end_time": 188.589632937,
+      "utterance": "and two teeth",
+      "turn_index": 34,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U12A",
+          "start_time": 187.785895264,
+          "turn_index": 35,
+          "speaker_after": "U7A",
+          "end_time": 188.589632937
+        }
+      ]
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 187.785895264,
+      "end_time": 189.803125,
+      "utterance": "and <pink toe> pink toe nails",
+      "turn_index": 35,
+      "topic": ""
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 190.373435978,
+      "end_time": 193.609855573,
+      "utterance": "pink toe nails yes and the a small <%aa> tail",
+      "turn_index": 36,
+      "topic": ""
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 194.334635776,
+      "end_time": 196.180722596,
+      "utterance": "and a trump as well",
+      "turn_index": 37,
+      "overlap": [
+        {
+          "speaker_before": "",
+          "start_time": 194.334635776,
+          "speaker_after": "U12A",
+          "end_time": 194.866170268,
+          "turn_index": 38
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 194.334635776,
+      "end_time": 194.866170268,
+      "utterance": "yes",
+      "turn_index": 38,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 196.351259115,
+      "end_time": 197.88608778,
+      "utterance": "exactly and it's looking to the left",
+      "turn_index": 39,
+      "topic": ""
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 198.120575492,
+      "end_time": 201.6802409,
+      "utterance": "and it's looking to the left the tiger is also looking to the <righ-> to the left",
+      "turn_index": 40,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 201.864988795,
+      "end_time": 202.113687884,
+      "utterance": "yes",
+      "turn_index": 41,
+      "topic": ""
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 202.969742203,
+      "end_time": 211.253461319,
+      "utterance": "with four legs and (a=) kind of a dark <%eh> not dark <%fp_1> yeah <orange> orangish with black stripes",
+      "turn_index": 42,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 211.253461319,
+      "end_time": 213.985377047,
+      "utterance": "exactly and the tail has a white tip",
+      "turn_index": 43,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U7A",
+          "speaker_after": "U7A",
+          "turn_index": 44,
+          "start_time": 211.917621762,
+          "end_time": 212.265800487
+        }
+      ]
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 211.917621762,
+      "end_time": 212.265800487,
+      "utterance": "and",
+      "turn_index": 44,
+      "topic": ""
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 214.049328241,
+      "end_time": 214.575149173,
+      "utterance": "yes",
+      "turn_index": 45,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 214.816742574,
+      "end_time": 215.179132675,
+      "utterance": "yes",
+      "turn_index": 46,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U7A",
+          "start_time": 215.16952438,
+          "turn_index": 47,
+          "speaker_after": "U12A",
+          "end_time": 215.179132675
+        }
+      ]
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 215.16952438,
+      "end_time": 216.228271932,
+      "utterance": "I have one cloud",
+      "turn_index": 47,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 216.732775798,
+      "end_time": 220.396606875,
+      "utterance": "yes exactly me too it's grey and it's raining",
+      "turn_index": 48,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U7A",
+          "speaker_after": "U7A",
+          "turn_index": 49,
+          "start_time": 218.478071044,
+          "end_time": 218.94704647
+        }
+      ]
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 218.478071044,
+      "end_time": 218.94704647,
+      "utterance": "white",
+      "turn_index": 49,
+      "topic": ""
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 220.46055807,
+      "end_time": 221.689842139,
+      "utterance": "white no rain",
+      "turn_index": 50,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 222.041473175,
+      "end_time": 226.250301876,
+      "utterance": "ah okay so mine is grey and raining and it's like above the <pa-> palm trees",
+      "turn_index": 51,
+      "topic": ""
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 226.363992888,
+      "end_time": 226.925342261,
+      "utterance": "okay",
+      "turn_index": 52,
+      "topic": ""
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 227.40582618,
+      "end_time": 229.978085331,
+      "utterance": "no there okay and there no",
+      "turn_index": 53,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U12A",
+          "speaker_after": "U12A",
+          "turn_index": 54,
+          "start_time": 227.640313893,
+          "end_time": 227.960069865
+        }
+      ]
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 227.640313893,
+      "end_time": 227.960069865,
+      "utterance": "yeah?",
+      "turn_index": 54,
+      "topic": ""
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 230.8932468,
+      "end_time": 231.859620403,
+      "utterance": "<%eh> <%mm>",
+      "turn_index": 55,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 231.859620403,
+      "end_time": 234.193937558,
+      "utterance": "so we click in that area or where is your cloud?",
+      "turn_index": 56,
+      "topic": ""
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 234.653224499,
+      "end_time": 238.08527193,
+      "utterance": "<(the=)> on top of <the> the further palm tree",
+      "turn_index": 57,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 238.298442578,
+      "end_time": 242.518980049,
+      "utterance": "okay cool so that's like in the same area so I click there <did you> you click there as well",
+      "turn_index": 58,
+      "topic": ""
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 242.598052427,
+      "end_time": 243.145190423,
+      "utterance": "yes",
+      "turn_index": 59,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 243.159401799,
+      "end_time": 247.441669508,
+      "utterance": "<%mm> do you see anything otherwise weird about the animals",
+      "turn_index": 60,
+      "topic": ""
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 248.756221837,
+      "end_time": 250.938577137,
+      "utterance": "<%eh> there's only two animals",
+      "turn_index": 61,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 251.0735852,
+      "end_time": 253.432673455,
+      "utterance": "no exactly and we talked about them",
+      "turn_index": 62,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U7A",
+          "start_time": 253.340299517,
+          "turn_index": 63,
+          "speaker_after": "U12A",
+          "end_time": 253.432673455
+        }
+      ]
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 253.340299517,
+      "end_time": 253.873226081,
+      "utterance": "yes",
+      "turn_index": 63,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 253.930071581,
+      "end_time": 257.888847325,
+      "utterance": "so I think we're fine the palm trees have five leaves",
+      "turn_index": 64,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 258.834813116,
+      "end_time": 259.738929989,
+      "utterance": "and <%aa>",
+      "turn_index": 65,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 260.469120815,
+      "end_time": 262.056775794,
+      "utterance": "do you have anything else on your screen?",
+      "turn_index": 66,
+      "topic": ""
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 262.224225169,
+      "end_time": 262.77846865,
+      "utterance": "<%eh> no",
+      "turn_index": 67,
+      "topic": ""
+    }
+  ]
+}

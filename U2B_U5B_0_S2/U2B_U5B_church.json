@@ -1,0 +1,648 @@
+{
+  "success": 0.8333333333333334,
+  "dialogue_duration": 200.17199999999866,
+  "audio": {
+    "ig": "U2B_0_church.wav",
+    "if": "U5B_0_church.wav"
+  },
+  "turns": [
+    {
+      "speaker": "U2B",
+      "start_time": 152.17076856,
+      "end_time": 159.169388322,
+      "utterance": "so it's (a=) landscape and is (a=) <+ green> down green <+ up> and up blue sky and is night so <%eh> there's a moon",
+      "turn_index": 0,
+      "topic": ""
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 159.639515883,
+      "end_time": 162.787365158,
+      "utterance": "and there is one two three four five stars in a circle",
+      "turn_index": 1,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U2B",
+          "start_time": 162.263011724,
+          "turn_index": 2,
+          "speaker_after": "U5B",
+          "end_time": 162.787365158
+        }
+      ]
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 162.263011724,
+      "end_time": 163.06265071,
+      "utterance": "four stars",
+      "turn_index": 2,
+      "topic": ""
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 163.508351129,
+      "end_time": 166.077682953,
+      "utterance": "four stars which star is missing?",
+      "turn_index": 3,
+      "topic": ""
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 166.077682953,
+      "end_time": 172.757755669,
+      "utterance": "I would imagine it might be the <%eh> the centre one so I have <%eh> <I have sort of> they're in kind of a diamond shape",
+      "turn_index": 4,
+      "topic": ""
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 173.517519858,
+      "end_time": 176.191722368,
+      "utterance": "there's a top one and a bottom one and then a left one and a right one",
+      "turn_index": 5,
+      "topic": ""
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 176.584987444,
+      "end_time": 179.612404195,
+      "utterance": "okay top one down and left",
+      "turn_index": 6,
+      "topic": ""
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 179.612404195,
+      "end_time": 183.625531273,
+      "utterance": "and those <to the> <to the> to the left is it like",
+      "turn_index": 7,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U2B",
+          "start_time": 182.235994674,
+          "turn_index": 8,
+          "speaker_after": "U5B",
+          "end_time": 183.625531273
+        }
+      ]
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 182.235994674,
+      "end_time": 185.329679932,
+      "utterance": "the one to the left is a little bit higher than the one to the right",
+      "turn_index": 8,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U5B",
+          "start_time": 184.857761841,
+          "turn_index": 9,
+          "speaker_after": "U2B",
+          "end_time": 185.329679932
+        }
+      ]
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 184.857761841,
+      "end_time": 187.226191043,
+      "utterance": "okay there should be one lower to that one",
+      "turn_index": 9,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U2B",
+          "start_time": 186.915849068,
+          "turn_index": 10,
+          "speaker_after": "U5B",
+          "end_time": 187.226191043
+        }
+      ]
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 186.915849068,
+      "end_time": 187.741705725,
+      "utterance": "yeah",
+      "turn_index": 10,
+      "topic": ""
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 188.398666415,
+      "end_time": 189.407279478,
+      "utterance": "okay click on that",
+      "turn_index": 11,
+      "topic": ""
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 189.617788147,
+      "end_time": 190.102815073,
+      "utterance": "done",
+      "turn_index": 12,
+      "topic": ""
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 190.738067913,
+      "end_time": 194.172582902,
+      "utterance": "then <%aa> <the> the stars and the moon are yellow",
+      "turn_index": 13,
+      "topic": ""
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 194.6838275,
+      "end_time": 199.702222789,
+      "utterance": "<%aa> stars and the moon are yellow and <the> the moon <is crescent>  it's fading I think I don't know",
+      "turn_index": 14,
+      "topic": ""
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 199.969724323,
+      "end_time": 202.963701993,
+      "utterance": "<it's the right <%eh>> it's the right <%eh> side",
+      "turn_index": 15,
+      "topic": ""
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 203.335704252,
+      "end_time": 205.439672353,
+      "utterance": "yeah <ex-> <%eh> mine too okay cool",
+      "turn_index": 16,
+      "topic": ""
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 205.852600672,
+      "end_time": 210.637245083,
+      "utterance": "under the moon there is a house that looks almost like <a> a church",
+      "turn_index": 17,
+      "topic": ""
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 210.774887856,
+      "end_time": 210.991183642,
+      "utterance": "yeah",
+      "turn_index": 18,
+      "topic": ""
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 211.391003126,
+      "end_time": 214.366708789,
+      "utterance": "is yellow with a brown blackish",
+      "turn_index": 19,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U2B",
+          "start_time": 213.063140233,
+          "turn_index": 20,
+          "speaker_after": "U5B",
+          "end_time": 214.366708789
+        }
+      ]
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 213.063140233,
+      "end_time": 214.891822788,
+      "utterance": "no it's red <it's> it's red",
+      "turn_index": 20,
+      "topic": ""
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 215.419191148,
+      "end_time": 217.709252268,
+      "utterance": "it's red <%eh> right under the moon?",
+      "turn_index": 21,
+      "topic": ""
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 218.590586035,
+      "end_time": 219.613075206,
+      "utterance": "right under the moon yeah",
+      "turn_index": 22,
+      "topic": ""
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 219.665510548,
+      "end_time": 223.722695142,
+      "utterance": "okay because <there> mine is yellow and then there's a red church to the left of the image",
+      "turn_index": 23,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U2B",
+          "start_time": 223.683368635,
+          "turn_index": 24,
+          "speaker_after": "U5B",
+          "end_time": 223.722695142
+        }
+      ]
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 223.683368635,
+      "end_time": 224.404354589,
+      "utterance": "no they're both red",
+      "turn_index": 24,
+      "topic": ""
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 224.945592362,
+      "end_time": 228.617120748,
+      "utterance": "they're both red okay so mine is yellow so then under the moon we should click",
+      "turn_index": 25,
+      "topic": ""
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 229.829288761,
+      "end_time": 231.517098073,
+      "utterance": "because it's red then",
+      "turn_index": 26,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U2B",
+          "start_time": 230.490865467,
+          "turn_index": 27,
+          "speaker_after": "U5B",
+          "end_time": 231.517098073
+        }
+      ]
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 230.490865467,
+      "end_time": 232.673486581,
+      "utterance": "<on> on the church yeah okay done",
+      "turn_index": 27,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U5B",
+          "speaker_after": "U5B",
+          "turn_index": 28,
+          "start_time": 232.129469907,
+          "end_time": 232.509626137
+        }
+      ]
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 232.129469907,
+      "end_time": 232.509626137,
+      "utterance": "yeah",
+      "turn_index": 28,
+      "topic": ""
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 233.294451663,
+      "end_time": 241.857222121,
+      "utterance": "<%aa> <in> it has the doors and it has three windows down and then has one window up <in the> in the tower",
+      "turn_index": 29,
+      "topic": ""
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 242.138119135,
+      "end_time": 245.323566167,
+      "utterance": "yeah and all the windows are cut into six parts maybe yeah?",
+      "turn_index": 30,
+      "topic": ""
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 246.035846956,
+      "end_time": 246.372823124,
+      "utterance": "yeah",
+      "turn_index": 31,
+      "topic": ""
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 247.120026748,
+      "end_time": 252.16050487,
+      "utterance": "<%aa> and then if we go over <to the> to the <ca-> to the church on (the=) left side",
+      "turn_index": 32,
+      "topic": ""
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 252.789728914,
+      "end_time": 257.017327965,
+      "utterance": "<%aa> I have light in (the=) window <o-> on the",
+      "turn_index": 33,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U2B",
+          "start_time": 256.643726189,
+          "turn_index": 34,
+          "speaker_after": "U5B",
+          "end_time": 257.017327965
+        }
+      ]
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 256.643726189,
+      "end_time": 257.161525142,
+      "utterance": "on the tower",
+      "turn_index": 34,
+      "topic": ""
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 257.469582747,
+      "end_time": 258.144687712,
+      "utterance": "on the tower",
+      "turn_index": 35,
+      "topic": ""
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 258.687968834,
+      "end_time": 260.503542032,
+      "utterance": "that's the only window with light in it",
+      "turn_index": 36,
+      "topic": ""
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 260.503542032,
+      "end_time": 261.132765956,
+      "utterance": "same here",
+      "turn_index": 37,
+      "topic": ""
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 261.398718393,
+      "end_time": 266.246204126,
+      "utterance": "okay and then in the middle of the picture there's a black bird that it flying",
+      "turn_index": 38,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U2B",
+          "start_time": 265.582375176,
+          "turn_index": 39,
+          "speaker_after": "U5B",
+          "end_time": 266.246204126
+        }
+      ]
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 265.582375176,
+      "end_time": 268.105824926,
+      "utterance": "<there's> there's a cross on top of the left church",
+      "turn_index": 39,
+      "topic": ""
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 268.415714742,
+      "end_time": 269.42359963,
+      "utterance": "oh I don't have that one",
+      "turn_index": 40,
+      "topic": ""
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 269.42359963,
+      "end_time": 272.60904422,
+      "utterance": "okay so it's right on top <of the> of the spiral on top <of the> of the tower",
+      "turn_index": 41,
+      "topic": ""
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 273.012638969,
+      "end_time": 274.460975624,
+      "utterance": "okay perfect",
+      "turn_index": 42,
+      "topic": ""
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 275.169040759,
+      "end_time": 282.734943878,
+      "utterance": "<%aa> and then <%aa> like right to the window on that second church there's a bird flying a black bird",
+      "turn_index": 43,
+      "topic": ""
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 283.00224603,
+      "end_time": 284.345900641,
+      "utterance": "yes <%eh>",
+      "turn_index": 44,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U5B",
+          "start_time": 283.69701378,
+          "turn_index": 45,
+          "speaker_after": "U2B",
+          "end_time": 284.345900641
+        }
+      ]
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 283.69701378,
+      "end_time": 285.428244055,
+      "utterance": "and is flying to the right",
+      "turn_index": 45,
+      "topic": ""
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 285.679251792,
+      "end_time": 285.803785634,
+      "utterance": "yeah",
+      "turn_index": 46,
+      "topic": ""
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 286.550988686,
+      "end_time": 287.359342971,
+      "utterance": "and then",
+      "turn_index": 47,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U2B",
+          "start_time": 286.773838719,
+          "turn_index": 48,
+          "speaker_after": "U5B",
+          "end_time": 287.359342971
+        }
+      ]
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 286.773838719,
+      "end_time": 287.448943231,
+      "utterance": "then it's all black",
+      "turn_index": 48,
+      "topic": ""
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 287.978356349,
+      "end_time": 288.758331464,
+      "utterance": "all black yeah",
+      "turn_index": 49,
+      "topic": ""
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 289.498980104,
+      "end_time": 295.554467687,
+      "utterance": "and then up <in the> in the sky above <the> <the> <the> the last church there are two clouds",
+      "turn_index": 50,
+      "topic": ""
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 295.663270335,
+      "end_time": 295.997545384,
+      "utterance": "three",
+      "turn_index": 51,
+      "topic": ""
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 296.476017514,
+      "end_time": 296.947935231,
+      "utterance": "three?",
+      "turn_index": 52,
+      "topic": ""
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 297.046251422,
+      "end_time": 298.520994288,
+      "utterance": "two to the left and one to the right",
+      "turn_index": 53,
+      "topic": ""
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 299.097153967,
+      "end_time": 305.490816893,
+      "utterance": "I have one to the left and one to the right and my to the left is <almost <%aa> or> like up in the end",
+      "turn_index": 54,
+      "topic": ""
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 305.946855763,
+      "end_time": 308.679547052,
+      "utterance": "of the sky so I should press maybe under that then",
+      "turn_index": 55,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U2B",
+          "start_time": 308.561332909,
+          "turn_index": 56,
+          "speaker_after": "U5B",
+          "end_time": 308.679547052
+        }
+      ]
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 308.561332909,
+      "end_time": 310.920921495,
+      "utterance": "yeah <right under> a little bit to the left right under",
+      "turn_index": 56,
+      "topic": ""
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 311.379415706,
+      "end_time": 313.400998299,
+      "utterance": "okay yes click there",
+      "turn_index": 57,
+      "topic": ""
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 314.26335731,
+      "end_time": 316.924790805,
+      "utterance": "and then we have (a=) cow",
+      "turn_index": 58,
+      "topic": ""
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 317.652330618,
+      "end_time": 318.209455701,
+      "utterance": "two cows",
+      "turn_index": 59,
+      "topic": ""
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 318.543730751,
+      "end_time": 322.795840875,
+      "utterance": "two cows I have one cow and it's close to the first church <to the> to the right",
+      "turn_index": 60,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U2B",
+          "start_time": 322.343586396,
+          "turn_index": 61,
+          "speaker_after": "U5B",
+          "end_time": 322.795840875
+        }
+      ]
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 322.343586396,
+      "end_time": 327.28283404,
+      "utterance": "okay so to the left <%aa> <a little bit> a little bit below but just a little bit",
+      "turn_index": 61,
+      "topic": ""
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 328.130635488,
+      "end_time": 332.184800873,
+      "utterance": "also let's see it's tail is on the nose of the cow behind",
+      "turn_index": 62,
+      "topic": ""
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 333.523100402,
+      "end_time": 334.054007834,
+      "utterance": "there's the cow",
+      "turn_index": 63,
+      "topic": ""
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "participants": {
+    "instruction_giver": {
+      "id": "U9C",
+      "gender": "F",
+      "extraversion": "E"
+    },
+    "instruction_follower": {
+      "id": "U10C",
+      "gender": "M",
+      "extraversion": "E"
+    }
+  },
+  "scenes": {
+    "house": {
+      "scene_file": "U9C_U10C_house.json",
+      "ig_video_offset": "90",
+      "if_video_offset": "86"
+    },
+    "sea": {
+      "scene_file": "U9C_U10C_sea.json",
+      "ig_video_offset": "314",
+      "if_video_offset": "310"
+    },
+    "sheep": {
+      "scene_file": "U9C_U10C_sheep.json",
+      "ig_video_offset": "519",
+      "if_video_offset": "515"
+    }
+  },
+  "condition": "SP",
+  "turns": [],
+  "data": {
+    "audio": "",
+    "instruction_giver": {
+      "audio": "",
+      "video": "U9C_0_S3.MP4"
+    },
+    "instruction_follower": {
+      "audio": "",
+      "video": "U10C_0_S3.MP4"
+    }
+  },
+  "annotation": {
+    "audio": {
+      "file": "",
+      "tiers_instruction_giver": [],
+      "tiers_instruction_follower": [],
+      "common_tiers": []
+    },
+    "video": {
+      "ig": {
+        "file": "U9C_0_S3.eaf"
+      },
+      "if": {
+        "file": "U10C_0_S3.eaf"
+      }
+    }
+  }
+}

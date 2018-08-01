@@ -1,0 +1,551 @@
+{
+  "success": 0.6666666666666666,
+  "dialogue_duration": 102.06900000000314,
+  "audio": {
+    "ig": "U2A_0_jungle.wav",
+    "if": "U5A_0_jungle.wav"
+  },
+  "turns": [
+    {
+      "speaker": "U5A",
+      "start_time": 520.781103397,
+      "end_time": 520.977564637,
+      "utterance": "yeah",
+      "turn_index": 0,
+      "topic": ""
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 521.88128634,
+      "end_time": 522.071198872,
+      "utterance": "yeah",
+      "turn_index": 1,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 523.583950419,
+      "end_time": 525.377885059,
+      "utterance": "okay I try to go quicker",
+      "turn_index": 2,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 525.986914903,
+      "end_time": 529.056675457,
+      "utterance": "alright I have a cloud on the left side",
+      "turn_index": 3,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "",
+          "start_time": 525.986914903,
+          "speaker_after": "U2A",
+          "end_time": 526.543555082,
+          "turn_index": 4
+        }
+      ]
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 525.986914903,
+      "end_time": 526.543555082,
+      "utterance": "okay",
+      "turn_index": 4,
+      "topic": ""
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 528.06782055,
+      "end_time": 529.59091421,
+      "utterance": "yeah yes",
+      "turn_index": 5,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 529.838387125,
+      "end_time": 530.814144616,
+      "utterance": "four five (six=)",
+      "turn_index": 6,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 532.136983631,
+      "end_time": 534.097668919,
+      "utterance": "nine <%aa> drops of water",
+      "turn_index": 7,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "",
+          "start_time": 532.136983631,
+          "speaker_after": "U2A",
+          "end_time": 532.8534144,
+          "turn_index": 8
+        }
+      ]
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 532.136983631,
+      "end_time": 532.8534144,
+      "utterance": "white",
+      "turn_index": 8,
+      "topic": ""
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 535.013871856,
+      "end_time": 536.919545883,
+      "utterance": "<no> no drops of water",
+      "turn_index": 9,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 537.102909707,
+      "end_time": 538.376947294,
+      "utterance": "not at all?",
+      "turn_index": 10,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U2A",
+          "start_time": 537.990573522,
+          "turn_index": 11,
+          "speaker_after": "U5A",
+          "end_time": 538.376947294
+        }
+      ]
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 537.990573522,
+      "end_time": 538.462080498,
+      "utterance": "no",
+      "turn_index": 11,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U5A",
+          "start_time": 538.42278825,
+          "turn_index": 12,
+          "speaker_after": "U2A",
+          "end_time": 538.462080498
+        }
+      ]
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 538.42278825,
+      "end_time": 538.887746517,
+      "utterance": "okay",
+      "turn_index": 12,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 539.247925457,
+      "end_time": 541.736434495,
+      "utterance": "<%aa> so <%ahm> we click under the cloud",
+      "turn_index": 13,
+      "topic": ""
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 541.862103893,
+      "end_time": 542.06511384,
+      "utterance": "yeah",
+      "turn_index": 14,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 542.8509588,
+      "end_time": 544.199992647,
+      "utterance": "okay I have two trees",
+      "turn_index": 15,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U2A",
+          "speaker_after": "U2A",
+          "turn_index": 16,
+          "start_time": 542.968835544,
+          "end_time": 543.217686447
+        }
+      ]
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 542.968835544,
+      "end_time": 543.217686447,
+      "utterance": "okay",
+      "turn_index": 16,
+      "topic": ""
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 544.763181534,
+      "end_time": 545.557302973,
+      "utterance": "three trees",
+      "turn_index": 17,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U5A",
+          "start_time": 545.518010725,
+          "turn_index": 18,
+          "speaker_after": "U2A",
+          "end_time": 545.557302973
+        }
+      ]
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 545.518010725,
+      "end_time": 552.701879804,
+      "utterance": "okay I have one that is <%aa> really on the left <%aa> kind on up and then one that is kind of",
+      "turn_index": 18,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U2A",
+          "speaker_after": "U2A",
+          "turn_index": 19,
+          "start_time": 550.712861575,
+          "end_time": 552.03570059
+        }
+      ]
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 550.712861575,
+      "end_time": 552.03570059,
+      "utterance": "<yeah> yeah",
+      "turn_index": 19,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 554.273569722,
+      "end_time": 555.858357057,
+      "utterance": "like <how> how are your trees looking out?",
+      "turn_index": 20,
+      "topic": ""
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 556.048269589,
+      "end_time": 562.102448614,
+      "utterance": "well <they're> even they spread like on a diagonal from the top left one and then two more",
+      "turn_index": 21,
+      "topic": ""
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 563.213457159,
+      "end_time": 567.127312725,
+      "utterance": "<with the> approximately like <%aa> three centimetres between each",
+      "turn_index": 22,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U5A",
+          "speaker_after": "U5A",
+          "turn_index": 23,
+          "start_time": 563.222277681,
+          "end_time": 563.750451214
+        }
+      ]
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 563.222277681,
+      "end_time": 563.750451214,
+      "utterance": "okay",
+      "turn_index": 23,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 567.225543344,
+      "end_time": 570.026807208,
+      "utterance": "okay I think <%aa> I don't have the one you have in the middle",
+      "turn_index": 24,
+      "topic": ""
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 570.354242608,
+      "end_time": 570.779908628,
+      "utterance": "okay",
+      "turn_index": 25,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 571.140087567,
+      "end_time": 572.233105283,
+      "utterance": "so let's click on that",
+      "turn_index": 26,
+      "topic": ""
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 572.305141071,
+      "end_time": 572.652222595,
+      "utterance": "yeah",
+      "turn_index": 27,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 574.10603577,
+      "end_time": 575.439217235,
+      "utterance": "okay then I have a tiger",
+      "turn_index": 28,
+      "topic": ""
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 576.192318655,
+      "end_time": 578.641607583,
+      "utterance": "<%aa> yeah I have a tiger",
+      "turn_index": 29,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 579.95789789,
+      "end_time": 581.567369374,
+      "utterance": "and elephant and a giraffe",
+      "turn_index": 30,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U2A",
+          "speaker_after": "U2A",
+          "turn_index": 31,
+          "start_time": 580.984534362,
+          "end_time": 581.200641726
+        }
+      ]
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 580.984534362,
+      "end_time": 581.200641726,
+      "utterance": "yeah",
+      "turn_index": 31,
+      "topic": ""
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 582.019230225,
+      "end_time": 583.106315752,
+      "utterance": "no giraffe",
+      "turn_index": 32,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U5A",
+          "start_time": 583.021182549,
+          "turn_index": 33,
+          "speaker_after": "U2A",
+          "end_time": 583.106315752
+        }
+      ]
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 583.021182549,
+      "end_time": 587.108334097,
+      "utterance": "no giraffe okay <%ahm> well on if",
+      "turn_index": 33,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 588.025153216,
+      "end_time": 592.846321082,
+      "utterance": "<%aa> so <on the> on the right of (the=) tiger of the elephant sorry of the elephant",
+      "turn_index": 34,
+      "topic": ""
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 592.953719646,
+      "end_time": 595.481520932,
+      "utterance": "okay so let's click there on the right of the elephant okay",
+      "turn_index": 35,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U5A",
+          "start_time": 594.400984113,
+          "turn_index": 36,
+          "speaker_after": "U2A",
+          "end_time": 595.481520932
+        }
+      ]
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 594.400984113,
+      "end_time": 595.514264472,
+      "utterance": "yeah giraffe",
+      "turn_index": 36,
+      "topic": ""
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 596.843724333,
+      "end_time": 597.76709216,
+      "utterance": "okay it's clicked",
+      "turn_index": 37,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U5A",
+          "start_time": 597.688507665,
+          "turn_index": 38,
+          "speaker_after": "U2A",
+          "end_time": 597.76709216
+        }
+      ]
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 597.688507665,
+      "end_time": 598.679984169,
+      "utterance": "and then there is a sun",
+      "turn_index": 38,
+      "topic": ""
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 599.013968277,
+      "end_time": 600.11415122,
+      "utterance": "yeah happy?",
+      "turn_index": 39,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U5A",
+          "start_time": 599.642644244,
+          "turn_index": 40,
+          "speaker_after": "U2A",
+          "end_time": 600.11415122
+        }
+      ]
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 599.642644244,
+      "end_time": 601.88918502,
+      "utterance": "yeah happy sun exactly",
+      "turn_index": 40,
+      "topic": ""
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 602.110612657,
+      "end_time": 602.555924801,
+      "utterance": "okay",
+      "turn_index": 41,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 602.575365419,
+      "end_time": 603.22368751,
+      "utterance": "<%aa>",
+      "turn_index": 42,
+      "topic": ""
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 603.64935353,
+      "end_time": 606.215874362,
+      "utterance": "and the elephan is pointing in which direction?",
+      "turn_index": 43,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 606.388162924,
+      "end_time": 607.069228555,
+      "utterance": "to the trees",
+      "turn_index": 44,
+      "topic": ""
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 608.078490044,
+      "end_time": 608.301146116,
+      "utterance": "yeah",
+      "turn_index": 45,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 608.707166012,
+      "end_time": 609.650179963,
+      "utterance": "and the tiger too",
+      "turn_index": 46,
+      "topic": ""
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 610.075845983,
+      "end_time": 610.272307222,
+      "utterance": "yeah",
+      "turn_index": 47,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 610.92187326,
+      "end_time": 615.438898281,
+      "utterance": "okay <%aa> <the elephant I mean> they have regular colours for animals",
+      "turn_index": 48,
+      "topic": ""
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 616.892372581,
+      "end_time": 617.304941185,
+      "utterance": "yeah",
+      "turn_index": 49,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 617.697863664,
+      "end_time": 618.081965621,
+      "utterance": "okay",
+      "turn_index": 50,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 618.684446757,
+      "end_time": 619.1297589,
+      "utterance": "<%aa>",
+      "turn_index": 51,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 619.673301664,
+      "end_time": 622.404112898,
+      "utterance": "well I (guess=) that's it but now <I> I don't know",
+      "turn_index": 52,
+      "topic": ""
+    }
+  ]
+}

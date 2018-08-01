@@ -1,0 +1,925 @@
+{
+  "success": 0.5,
+  "dialogue_duration": 200.10199999999895,
+  "audio": {
+    "ig": "U7A_0_sea.wav",
+    "if": "U12A_0_sea.wav"
+  },
+  "turns": [
+    {
+      "speaker": "U7A",
+      "start_time": 500.241029794,
+      "end_time": 500.72421679,
+      "utterance": "ready?",
+      "turn_index": 0,
+      "topic": ""
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 500.951598905,
+      "end_time": 501.441891592,
+      "utterance": "yes",
+      "turn_index": 1,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 501.665620499,
+      "end_time": 501.985376599,
+      "utterance": "cool",
+      "turn_index": 2,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 503.304452422,
+      "end_time": 504.590582513,
+      "utterance": "oh my God",
+      "turn_index": 3,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U7A",
+          "start_time": 504.334777633,
+          "turn_index": 4,
+          "speaker_after": "U12A",
+          "end_time": 504.590582513
+        }
+      ]
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 504.334777633,
+      "end_time": 505.372208536,
+      "utterance": "(oh=) nice",
+      "turn_index": 4,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 505.421948374,
+      "end_time": 506.025932119,
+      "utterance": "yes",
+      "turn_index": 5,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U7A",
+          "start_time": 505.599590652,
+          "turn_index": 6,
+          "speaker_after": "U12A",
+          "end_time": 506.025932119
+        }
+      ]
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 505.599590652,
+      "end_time": 506.445167895,
+      "utterance": "there's nemo",
+      "turn_index": 6,
+      "topic": ""
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 506.764923995,
+      "end_time": 507.667346767,
+      "utterance": "do you have nemo?",
+      "turn_index": 7,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 507.857808549,
+      "end_time": 509.250523937,
+      "utterance": "no I have no nemo",
+      "turn_index": 8,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 510.231109261,
+      "end_time": 513.074334704,
+      "utterance": "<there's no> yeah where's nemo? I have two sharks",
+      "turn_index": 9,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U7A",
+          "speaker_after": "U7A",
+          "turn_index": 10,
+          "start_time": 510.978156253,
+          "end_time": 511.440026081
+        }
+      ]
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 510.978156253,
+      "end_time": 511.440026081,
+      "utterance": "okay",
+      "turn_index": 10,
+      "topic": ""
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 513.209342808,
+      "end_time": 514.914708328,
+      "utterance": "yes one green one blue",
+      "turn_index": 11,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 514.953607887,
+      "end_time": 516.253948831,
+      "utterance": "no mine are both blue",
+      "turn_index": 12,
+      "topic": ""
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 516.41737966,
+      "end_time": 518.96832173,
+      "utterance": "<the> the one <in> on the bottom is blue?",
+      "turn_index": 13,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 519.239166116,
+      "end_time": 522.186641936,
+      "utterance": "yeah and the <t-> like (the=) top one",
+      "turn_index": 14,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U7A",
+          "start_time": 521.527197372,
+          "turn_index": 15,
+          "speaker_after": "U12A",
+          "end_time": 522.186641936
+        }
+      ]
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 521.527197372,
+      "end_time": 523.27384388,
+      "utterance": "<the> only the top part of the shark",
+      "turn_index": 15,
+      "topic": ""
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 523.494120181,
+      "end_time": 524.119420649,
+      "utterance": "so it's like",
+      "turn_index": 16,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U12A",
+          "start_time": 523.579388427,
+          "turn_index": 17,
+          "speaker_after": "U7A",
+          "end_time": 524.119420649
+        }
+      ]
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 523.579388427,
+      "end_time": 524.247323017,
+      "utterance": "yeah exactly",
+      "turn_index": 17,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 525.000525853,
+      "end_time": 526.577988396,
+      "utterance": "so but it's the top shark that is green?",
+      "turn_index": 18,
+      "topic": ""
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 526.79115901,
+      "end_time": 530.754739983,
+      "utterance": "the <n-> the top shark is blue and the <bo-> the one on the bottom is green so",
+      "turn_index": 19,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U12A",
+          "start_time": 530.485787555,
+          "turn_index": 20,
+          "speaker_after": "U7A",
+          "end_time": 530.754739983
+        }
+      ]
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 530.485787555,
+      "end_time": 531.081353511,
+      "utterance": "okay",
+      "turn_index": 20,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 531.429532163,
+      "end_time": 535.413319397,
+      "utterance": "<%ahm> cool <%aa> they're both looking to the right and are smiling",
+      "turn_index": 21,
+      "topic": ""
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 535.455953517,
+      "end_time": 536.038619832,
+      "utterance": "yes",
+      "turn_index": 22,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 536.306093,
+      "end_time": 536.675588712,
+      "utterance": "cool",
+      "turn_index": 23,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 537.293783461,
+      "end_time": 540.207115036,
+      "utterance": "<the> below the <%aa> sharks there are like three medusas",
+      "turn_index": 24,
+      "topic": ""
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 540.268402484,
+      "end_time": 541.746385332,
+      "utterance": "no two medusas",
+      "turn_index": 25,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 542.108775357,
+      "end_time": 550.572316126,
+      "utterance": "okay <%ahm> so one is <kind of like> kind of like nearly with the edge of the teeth <of the> of the shark",
+      "turn_index": 26,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U7A",
+          "start_time": 550.458625138,
+          "turn_index": 27,
+          "speaker_after": "U12A",
+          "end_time": 550.572316126
+        }
+      ]
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 550.458625138,
+      "end_time": 551.101659524,
+      "utterance": "<%mm> no",
+      "turn_index": 27,
+      "topic": ""
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 551.929502299,
+      "end_time": 553.478542014,
+      "utterance": "<on the> of the shark  on the bottom",
+      "turn_index": 28,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 553.634735614,
+      "end_time": 554.423466845,
+      "utterance": "yeah exactly",
+      "turn_index": 29,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U7A",
+          "start_time": 554.146345061,
+          "turn_index": 30,
+          "speaker_after": "U12A",
+          "end_time": 554.423466845
+        }
+      ]
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 554.146345061,
+      "end_time": 558.647495428,
+      "utterance": "no I have two medusas if you <ch-> if you get a straight line from the fin",
+      "turn_index": 30,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 558.732763669,
+      "end_time": 559.020111324,
+      "utterance": "yes",
+      "turn_index": 31,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U7A",
+          "start_time": 558.881983091,
+          "turn_index": 32,
+          "speaker_after": "U12A",
+          "end_time": 559.020111324
+        }
+      ]
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 558.881983091,
+      "end_time": 561.195281392,
+      "utterance": "the back fin of <the> the shark underneath",
+      "turn_index": 32,
+      "topic": ""
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 561.514418374,
+      "end_time": 565.42262833,
+      "utterance": "I have <one to the <ri->> one to the left and one slightly upwards to the right",
+      "turn_index": 33,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 565.432621536,
+      "end_time": 569.237959247,
+      "utterance": "okay so then there's one if you would go like a little bit further to the right like",
+      "turn_index": 34,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 569.600210099,
+      "end_time": 573.313281336,
+      "utterance": "below kind of like where the mouth of (the=) shark is",
+      "turn_index": 35,
+      "topic": ""
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 573.313281336,
+      "end_time": 573.992501685,
+      "utterance": "okay",
+      "turn_index": 36,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U12A",
+          "start_time": 573.954423292,
+          "turn_index": 37,
+          "speaker_after": "U7A",
+          "end_time": 573.992501685
+        }
+      ]
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 573.954423292,
+      "end_time": 579.580631844,
+      "utterance": "and you go down and a bit further down <from> where the other two medusas are there would be the third medusa",
+      "turn_index": 37,
+      "topic": ""
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 579.580631844,
+      "end_time": 580.518501346,
+      "utterance": "okay",
+      "turn_index": 38,
+      "topic": ""
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 581.044234953,
+      "end_time": 584.978016557,
+      "utterance": "<%eh> <slight> slight upwards from <the> the other two medusas or?",
+      "turn_index": 39,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U12A",
+          "start_time": 584.610141781,
+          "turn_index": 40,
+          "speaker_after": "U7A",
+          "end_time": 584.978016557
+        }
+      ]
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 584.610141781,
+      "end_time": 585.583690947,
+      "utterance": "no below",
+      "turn_index": 40,
+      "topic": ""
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 586.789270819,
+      "end_time": 587.592950053,
+      "utterance": "what do you mean below?",
+      "turn_index": 41,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U12A",
+          "start_time": 586.925050043,
+          "turn_index": 42,
+          "speaker_after": "U7A",
+          "end_time": 587.592950053
+        }
+      ]
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 586.925050043,
+      "end_time": 588.000482262,
+      "utterance": "bit <fur-> yeah",
+      "turn_index": 42,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 588.764443805,
+      "end_time": 592.403770726,
+      "utterance": "and it's <%eh> they are like <%eh> kind of like orange yellowish",
+      "turn_index": 43,
+      "topic": ""
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 593.177154696,
+      "end_time": 596.404737174,
+      "utterance": "yes they are kind of a yellowish orange",
+      "turn_index": 44,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 596.501280343,
+      "end_time": 597.621993918,
+      "utterance": "and they're smiling",
+      "turn_index": 45,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U7A",
+          "start_time": 596.954093909,
+          "turn_index": 46,
+          "speaker_after": "U12A",
+          "end_time": 597.621993918
+        }
+      ]
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 596.954093909,
+      "end_time": 598.697426136,
+      "utterance": "but where exactly is it?",
+      "turn_index": 46,
+      "topic": ""
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 598.765348171,
+      "end_time": 600.927532946,
+      "utterance": "<in <be->> under the teeth?",
+      "turn_index": 47,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 601.459588885,
+      "end_time": 606.515734906,
+      "utterance": "yeah kind of like where you have the teeth and then you have like the front <%aa> what are they called?",
+      "turn_index": 48,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 607.079653224,
+      "end_time": 613.533885447,
+      "utterance": "not the fins but they are like where you have the top fin and you go down from there that's where <the> the third medusa is",
+      "turn_index": 49,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U7A",
+          "speaker_after": "U7A",
+          "turn_index": 50,
+          "start_time": 607.885036218,
+          "end_time": 608.518975209
+        },
+        {
+          "speaker_before": "U7A",
+          "speaker_after": "U7A",
+          "turn_index": 51,
+          "start_time": 610.851766652,
+          "end_time": 611.462263385
+        }
+      ]
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 607.885036218,
+      "end_time": 608.518975209,
+      "utterance": "<fi-> <%eh>",
+      "turn_index": 50,
+      "topic": ""
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 610.851766652,
+      "end_time": 611.462263385,
+      "utterance": "okay",
+      "turn_index": 51,
+      "topic": ""
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 613.296158325,
+      "end_time": 617.86558727,
+      "utterance": "okay <o-> on the same height as the other as (the=) <%mm> as the other ones",
+      "turn_index": 52,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 617.872725389,
+      "end_time": 620.499044069,
+      "utterance": "yeah a bit <b-> lower but I think we're gonna be fine there",
+      "turn_index": 53,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U7A",
+          "start_time": 620.374520339,
+          "turn_index": 54,
+          "speaker_after": "U12A",
+          "end_time": 620.499044069
+        }
+      ]
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 620.374520339,
+      "end_time": 621.642398322,
+      "utterance": "okay good there",
+      "turn_index": 54,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U12A",
+          "start_time": 621.336749165,
+          "turn_index": 55,
+          "speaker_after": "U7A",
+          "end_time": 621.642398322
+        }
+      ]
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 621.336749165,
+      "end_time": 625.996739294,
+      "utterance": "and then there's like (two=) <%eh> sea horses?",
+      "turn_index": 55,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U7A",
+          "start_time": 625.725051154,
+          "turn_index": 56,
+          "speaker_after": "U12A",
+          "end_time": 625.996739294
+        }
+      ]
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 625.725051154,
+      "end_time": 627.711812004,
+      "utterance": "sea horses yes and <f->",
+      "turn_index": 56,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U12A",
+          "start_time": 626.98521009,
+          "turn_index": 57,
+          "speaker_after": "U7A",
+          "end_time": 627.711812004
+        }
+      ]
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 626.98521009,
+      "end_time": 629.837935552,
+      "utterance": "yeah they are kind of also yellowish <oran~-> orange",
+      "turn_index": 57,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U7A",
+          "start_time": 629.173636452,
+          "turn_index": 58,
+          "speaker_after": "U12A",
+          "end_time": 629.837935552
+        }
+      ]
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 629.173636452,
+      "end_time": 632.162205984,
+      "utterance": "yes and then I have three red octopuses",
+      "turn_index": 58,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 632.162205984,
+      "end_time": 636.876836197,
+      "utterance": "I have only two and <they're like> are they really red or are they more like pinkish",
+      "turn_index": 59,
+      "topic": ""
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 636.876836197,
+      "end_time": 638.699410798,
+      "utterance": "yeah kind of pinkish",
+      "turn_index": 60,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U12A",
+          "start_time": 638.238878185,
+          "turn_index": 61,
+          "speaker_after": "U7A",
+          "end_time": 638.699410798
+        }
+      ]
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 638.238878185,
+      "end_time": 643.336631323,
+      "utterance": "okay so <%ahm> first like to the sea horses are they both looking in the samme direction?",
+      "turn_index": 61,
+      "topic": ""
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 643.540397427,
+      "end_time": 645.889011533,
+      "utterance": "<%eh> yes they're all looking at me",
+      "turn_index": 62,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 646.205981029,
+      "end_time": 647.779508169,
+      "utterance": "no it's",
+      "turn_index": 63,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U7A",
+          "start_time": 647.156889516,
+          "turn_index": 64,
+          "speaker_after": "U12A",
+          "end_time": 647.779508169
+        }
+      ]
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 647.156889516,
+      "end_time": 649.726606501,
+      "utterance": "oh the sea horses yes they're all looking to the left",
+      "turn_index": 64,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 649.873512676,
+      "end_time": 651.79797033,
+      "utterance": "okay so mine the bottom one",
+      "turn_index": 65,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 651.945134739,
+      "end_time": 655.329916141,
+      "utterance": "the bottom seahorse is looking to the right so that one is wrong as well",
+      "turn_index": 66,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U7A",
+          "start_time": 653.858013055,
+          "turn_index": 67,
+          "speaker_after": "U12A",
+          "end_time": 655.329916141
+        }
+      ]
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 653.858013055,
+      "end_time": 656.880543605,
+      "utterance": "okay do you have like bubbles?",
+      "turn_index": 67,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 657.242794457,
+      "end_time": 657.672967344,
+      "utterance": "yes",
+      "turn_index": 68,
+      "topic": ""
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 658.057858875,
+      "end_time": 668.909427591,
+      "utterance": "<I have two bubbles on> I have <fo-> six bubbles on the <-l> right of the seahorses and siz bubbles under the nose of <the> the shark close to the ground",
+      "turn_index": 69,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U12A",
+          "speaker_after": "U12A",
+          "turn_index": 70,
+          "start_time": 666.305749589,
+          "end_time": 667.449103842
+        }
+      ]
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 666.305749589,
+      "end_time": 667.449103842,
+      "utterance": "od (the=) shark yeah",
+      "turn_index": 70,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 668.716981826,
+      "end_time": 670.023104521,
+      "utterance": "yeah I have that as well",
+      "turn_index": 71,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U7A",
+          "start_time": 669.769773365,
+          "turn_index": 72,
+          "speaker_after": "U12A",
+          "end_time": 670.023104521
+        }
+      ]
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 669.769773365,
+      "end_time": 673.679431052,
+      "utterance": "and then I have <two> two smaller crabs",
+      "turn_index": 72,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U12A",
+          "start_time": 673.633674383,
+          "turn_index": 73,
+          "speaker_after": "U7A",
+          "end_time": 673.679431052
+        }
+      ]
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 673.633674383,
+      "end_time": 677.141335813,
+      "utterance": "yeah exactly and we need to find where the third octopus is",
+      "turn_index": 73,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U7A",
+          "start_time": 676.044648386,
+          "turn_index": 74,
+          "speaker_after": "U12A",
+          "end_time": 677.141335813
+        }
+      ]
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 676.044648386,
+      "end_time": 679.852719033,
+      "utterance": "one is red and one is slightly yellower",
+      "turn_index": 74,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U12A",
+          "start_time": 679.789524494,
+          "turn_index": 75,
+          "speaker_after": "U7A",
+          "end_time": 679.852719033
+        }
+      ]
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 679.789524494,
+      "end_time": 681.021630598,
+      "utterance": "yes exactly",
+      "turn_index": 75,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 681.608109881,
+      "end_time": 685.060813318,
+      "utterance": "<and the> we had like <th> three you had three <%ahm>",
+      "turn_index": 76,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U7A",
+          "start_time": 684.460835344,
+          "turn_index": 77,
+          "speaker_after": "U12A",
+          "end_time": 685.060813318
+        }
+      ]
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 684.460835344,
+      "end_time": 685.411743832,
+      "utterance": "octopuses",
+      "turn_index": 77,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 685.479665866,
+      "end_time": 686.396613336,
+      "utterance": "yeah exactly",
+      "turn_index": 78,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 686.915129475,
+      "end_time": 688.907509163,
+      "utterance": "<%ahm> so I only have two",
+      "turn_index": 79,
+      "topic": ""
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 689.201837981,
+      "end_time": 692.439454974,
+      "utterance": "I have <two in a low> two in a line and then one on top",
+      "turn_index": 80,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 692.739282231,
+      "end_time": 695.852375494,
+      "utterance": "okay so I guess I'm <mi-> missing the one to the left",
+      "turn_index": 81,
+      "topic": ""
+    }
+  ]
+}

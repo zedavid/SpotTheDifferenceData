@@ -1,0 +1,663 @@
+{
+  "success": 0.5,
+  "dialogue_duration": 200.10399999999208,
+  "audio": {
+    "ig": "U1A_0_house.wav",
+    "if": "U6B_0_house.wav"
+  },
+  "turns": [
+    {
+      "speaker": "U1A",
+      "start_time": 112.310741433,
+      "end_time": 122.971133532,
+      "utterance": "<okay I see a picture with <%aa> two cats and <%aa> <%aa> <%fp_1> okay> <+ let's first> now let's first separate the picture in <%aa> quadrators",
+      "turn_index": 0,
+      "topic": ""
+    },
+    {
+      "speaker": "U1A",
+      "start_time": 123.258525678,
+      "end_time": 131.279379227,
+      "utterance": "so the upper right quadrator I have three <%mm> <%aa> clouds and <%aa> half of the sun",
+      "turn_index": 1,
+      "topic": ""
+    },
+    {
+      "speaker": "U1A",
+      "start_time": 131.592897932,
+      "end_time": 133.745829082,
+      "utterance": "and <%aa> half of a house",
+      "turn_index": 2,
+      "topic": ""
+    },
+    {
+      "speaker": "U1A",
+      "start_time": 134.257806929,
+      "end_time": 138.6668281,
+      "utterance": "and <%eh> yeah and the cats are also <to> in the centre in the right",
+      "turn_index": 3,
+      "topic": ""
+    },
+    {
+      "speaker": "U1A",
+      "start_time": 138.738676132,
+      "end_time": 141.913052837,
+      "utterance": "what do you see in the first <%eh> upper right quadrator?",
+      "turn_index": 4,
+      "topic": ""
+    },
+    {
+      "speaker": "U6B",
+      "start_time": 142.226571524,
+      "end_time": 157.41748441,
+      "utterance": "yes I see this and the clouds <are> <%aa> are white and there is <%aa> the one on the left <%aa> it's a bit smaller than the other two which are on the right and <on (the=)> on the bottom from that one",
+      "turn_index": 5,
+      "topic": ""
+    },
+    {
+      "speaker": "U6B",
+      "start_time": 158.033882896,
+      "end_time": 167.503771503,
+      "utterance": "the sun is yellow and the house has a picture of (an=) it's <%aa> <the> the roof it's like <%aa> grey",
+      "turn_index": 6,
+      "topic": ""
+    },
+    {
+      "speaker": "U1A",
+      "start_time": 167.699720613,
+      "end_time": 168.206940193,
+      "utterance": "grey",
+      "turn_index": 7,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U1A",
+          "start_time": 167.960986092,
+          "turn_index": 8,
+          "speaker_after": "U6B",
+          "end_time": 168.206940193
+        }
+      ]
+    },
+    {
+      "speaker": "U6B",
+      "start_time": 167.960986092,
+      "end_time": 171.649691532,
+      "utterance": "and it has like three windows <and> <%aa> and",
+      "turn_index": 8,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U6B",
+          "speaker_after": "U6B",
+          "turn_index": 9,
+          "start_time": 170.291111038,
+          "end_time": 170.680772392
+        }
+      ]
+    },
+    {
+      "speaker": "U1A",
+      "start_time": 170.291111038,
+      "end_time": 170.680772392,
+      "utterance": "alright",
+      "turn_index": 9,
+      "topic": ""
+    },
+    {
+      "speaker": "U1A",
+      "start_time": 171.205540216,
+      "end_time": 172.899139739,
+      "utterance": "and it's yellow? the house?",
+      "turn_index": 10,
+      "topic": ""
+    },
+    {
+      "speaker": "U6B",
+      "start_time": 172.899139739,
+      "end_time": 174.06594246,
+      "utterance": "and is yellow yes",
+      "turn_index": 11,
+      "topic": ""
+    },
+    {
+      "speaker": "U1A",
+      "start_time": 174.06594246,
+      "end_time": 174.501149881,
+      "utterance": "good okay",
+      "turn_index": 12,
+      "topic": ""
+    },
+    {
+      "speaker": "U1A",
+      "start_time": 174.736288813,
+      "end_time": 182.155738379,
+      "utterance": "let's go to the <left> left up so I have three clouds two on top and one in the bottom and <%eh> the one in the bottom is grey",
+      "turn_index": 13,
+      "topic": ""
+    },
+    {
+      "speaker": "U6B",
+      "start_time": 182.898864993,
+      "end_time": 185.746214569,
+      "utterance": "okay so we have to click this one because it's",
+      "turn_index": 14,
+      "topic": ""
+    },
+    {
+      "speaker": "U1A",
+      "start_time": 186.20387331,
+      "end_time": 187.75163407,
+      "utterance": "okay we click it",
+      "turn_index": 15,
+      "topic": ""
+    },
+    {
+      "speaker": "U1A",
+      "start_time": 188.176427681,
+      "end_time": 190.407711168,
+      "utterance": "then I have to the left three rocks",
+      "turn_index": 16,
+      "topic": ""
+    },
+    {
+      "speaker": "U6B",
+      "start_time": 190.880525394,
+      "end_time": 192.212767857,
+      "utterance": "I have two only",
+      "turn_index": 17,
+      "topic": ""
+    },
+    {
+      "speaker": "U1A",
+      "start_time": 192.369738628,
+      "end_time": 197.928623804,
+      "utterance": "and <%eh> okay <there> <my> my three rocks are arranged like one in the front and two in the back",
+      "turn_index": 18,
+      "topic": ""
+    },
+    {
+      "speaker": "U6B",
+      "start_time": 199.39171049,
+      "end_time": 206.868766804,
+      "utterance": "ah okay so for me it's one in the front and one on the back so <the one> the right on the back I don't have it",
+      "turn_index": 19,
+      "topic": ""
+    },
+    {
+      "speaker": "U1A",
+      "start_time": 207.874638901,
+      "end_time": 209.444362625,
+      "utterance": "okay <%eh> then",
+      "turn_index": 20,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U1A",
+          "start_time": 208.765072378,
+          "turn_index": 21,
+          "speaker_after": "U6B",
+          "end_time": 209.444362625
+        }
+      ]
+    },
+    {
+      "speaker": "U6B",
+      "start_time": 208.765072378,
+      "end_time": 209.550931122,
+      "utterance": "let's click",
+      "turn_index": 21,
+      "topic": ""
+    },
+    {
+      "speaker": "U1A",
+      "start_time": 209.979956858,
+      "end_time": 211.939447955,
+      "utterance": "actually okay let's",
+      "turn_index": 22,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U1A",
+          "start_time": 211.181778064,
+          "turn_index": 23,
+          "speaker_after": "U6B",
+          "end_time": 211.939447955
+        }
+      ]
+    },
+    {
+      "speaker": "U6B",
+      "start_time": 211.181778064,
+      "end_time": 212.008981009,
+      "utterance": "you click it?",
+      "turn_index": 23,
+      "topic": ""
+    },
+    {
+      "speaker": "U1A",
+      "start_time": 212.279093079,
+      "end_time": 221.568051304,
+      "utterance": "I'm not sure it's hard to describe actually how they are arranged because all of them it's like one and then one in the back of it and one in the back of it so",
+      "turn_index": 24,
+      "topic": ""
+    },
+    {
+      "speaker": "U1A",
+      "start_time": 222.158616281,
+      "end_time": 223.510454932,
+      "utterance": "and it goes like",
+      "turn_index": 25,
+      "topic": ""
+    },
+    {
+      "speaker": "U6B",
+      "start_time": 223.510454932,
+      "end_time": 226.162207027,
+      "utterance": "ah one on the back and one on the back? ha okay",
+      "turn_index": 26,
+      "topic": ""
+    },
+    {
+      "speaker": "U1A",
+      "start_time": 226.449599054,
+      "end_time": 228.735672001,
+      "utterance": "ao it's three in a row let's say",
+      "turn_index": 27,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U1A",
+          "start_time": 228.278457411,
+          "turn_index": 28,
+          "speaker_after": "U6B",
+          "end_time": 228.735672001
+        }
+      ]
+    },
+    {
+      "speaker": "U6B",
+      "start_time": 228.278457411,
+      "end_time": 229.671543367,
+      "utterance": "three in a row okay",
+      "turn_index": 28,
+      "topic": ""
+    },
+    {
+      "speaker": "U1A",
+      "start_time": 229.976683029,
+      "end_time": 232.342949263,
+      "utterance": "so but <%aa> I don't know which one you don't have",
+      "turn_index": 29,
+      "topic": ""
+    },
+    {
+      "speaker": "U1A",
+      "start_time": 233.021186784,
+      "end_time": 235.921233607,
+      "utterance": "like the left most one don't you have or the <f->",
+      "turn_index": 30,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U1A",
+          "start_time": 235.24194336,
+          "turn_index": 31,
+          "speaker_after": "U6B",
+          "end_time": 235.921233607
+        }
+      ]
+    },
+    {
+      "speaker": "U6B",
+      "start_time": 235.24194336,
+      "end_time": 237.71458915,
+      "utterance": "<%eh> the one <at the level> at the level with the cat",
+      "turn_index": 31,
+      "topic": ""
+    },
+    {
+      "speaker": "U6B",
+      "start_time": 238.197930288,
+      "end_time": 239.007853274,
+      "utterance": "I have one",
+      "turn_index": 32,
+      "topic": ""
+    },
+    {
+      "speaker": "U1A",
+      "start_time": 239.438941316,
+      "end_time": 241.372305865,
+      "utterance": "okay they're both at the level of the cat",
+      "turn_index": 33,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "",
+          "start_time": 239.438941316,
+          "speaker_after": "U1A",
+          "end_time": 240.87131661,
+          "turn_index": 34
+        }
+      ]
+    },
+    {
+      "speaker": "U6B",
+      "start_time": 239.438941316,
+      "end_time": 240.87131661,
+      "utterance": "and then one a bit behind",
+      "turn_index": 34,
+      "topic": ""
+    },
+    {
+      "speaker": "U6B",
+      "start_time": 241.986279742,
+      "end_time": 242.293221372,
+      "utterance": "yes",
+      "turn_index": 35,
+      "topic": ""
+    },
+    {
+      "speaker": "U1A",
+      "start_time": 242.597983277,
+      "end_time": 246.154990079,
+      "utterance": "okay so <the> I click the left one and click to the left on those",
+      "turn_index": 36,
+      "topic": ""
+    },
+    {
+      "speaker": "U1A",
+      "start_time": 246.522881236,
+      "end_time": 249.341928855,
+      "utterance": "okay then I have a blue flower and a yellow flower",
+      "turn_index": 37,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U1A",
+          "start_time": 248.949578037,
+          "turn_index": 38,
+          "speaker_after": "U6B",
+          "end_time": 249.341928855
+        }
+      ]
+    },
+    {
+      "speaker": "U6B",
+      "start_time": 248.949578037,
+      "end_time": 250.726183298,
+      "utterance": "to the left of those? what do you mean?",
+      "turn_index": 38,
+      "topic": ""
+    },
+    {
+      "speaker": "U1A",
+      "start_time": 251.218870491,
+      "end_time": 253.700892312,
+      "utterance": "to the left of the two rocks that you have click",
+      "turn_index": 39,
+      "topic": ""
+    },
+    {
+      "speaker": "U6B",
+      "start_time": 255.712636314,
+      "end_time": 256.317801871,
+      "utterance": "<%mm>",
+      "turn_index": 40,
+      "topic": ""
+    },
+    {
+      "speaker": "U1A",
+      "start_time": 257.672127225,
+      "end_time": 259.07240723,
+      "utterance": "because there is the missing rock",
+      "turn_index": 41,
+      "topic": ""
+    },
+    {
+      "speaker": "U1A",
+      "start_time": 259.37286241,
+      "end_time": 261.384605793,
+      "utterance": "again I have a blue flower and a yellow flower",
+      "turn_index": 42,
+      "topic": ""
+    },
+    {
+      "speaker": "U1A",
+      "start_time": 261.739434524,
+      "end_time": 263.666172798,
+      "utterance": "and then <%aa> red <%aa> blue and yellow",
+      "turn_index": 43,
+      "topic": ""
+    },
+    {
+      "speaker": "U6B",
+      "start_time": 265.625662084,
+      "end_time": 268.359820011,
+      "utterance": "<%aa> red blue and yellow starting from the left yes",
+      "turn_index": 44,
+      "topic": ""
+    },
+    {
+      "speaker": "U1A",
+      "start_time": 268.94373061,
+      "end_time": 271.250652722,
+      "utterance": "<and> <%eh> and before that blue and yellow",
+      "turn_index": 45,
+      "topic": ""
+    },
+    {
+      "speaker": "U6B",
+      "start_time": 271.707801871,
+      "end_time": 272.193244048,
+      "utterance": "yes",
+      "turn_index": 46,
+      "topic": ""
+    },
+    {
+      "speaker": "U1A",
+      "start_time": 272.193244048,
+      "end_time": 272.75292777,
+      "utterance": "okay good",
+      "turn_index": 47,
+      "topic": ""
+    },
+    {
+      "speaker": "U1A",
+      "start_time": 272.896623645,
+      "end_time": 275.768573583,
+      "utterance": "and then I have two rocks one that is gridded and one",
+      "turn_index": 48,
+      "topic": "DESCRIBING PICTURE",
+      "overlap": [
+        {
+          "speaker_before": "U1A",
+          "start_time": 274.919461599,
+          "turn_index": 49,
+          "speaker_after": "U6B",
+          "end_time": 275.768573583
+        }
+      ]
+    },
+    {
+      "speaker": "U6B",
+      "start_time": 274.919461599,
+      "end_time": 278.028517786,
+      "utterance": "I have <two pair of> two pair of <%aa> flowers one",
+      "turn_index": 49,
+      "topic": ""
+    },
+    {
+      "speaker": "U1A",
+      "start_time": 278.028517786,
+      "end_time": 279.399956066,
+      "utterance": "two pair yeah two pair",
+      "turn_index": 50,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U1A",
+          "start_time": 278.642491067,
+          "turn_index": 51,
+          "speaker_after": "U6B",
+          "end_time": 279.399956066
+        }
+      ]
+    },
+    {
+      "speaker": "U6B",
+      "start_time": 278.642491067,
+      "end_time": 280.732612873,
+      "utterance": "<two sets> two sets of flowers",
+      "turn_index": 51,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U6B",
+          "speaker_after": "U6B",
+          "turn_index": 52,
+          "start_time": 279.58304588,
+          "end_time": 280.371067177
+        }
+      ]
+    },
+    {
+      "speaker": "U1A",
+      "start_time": 279.58304588,
+      "end_time": 280.371067177,
+      "utterance": "two sets",
+      "turn_index": 52,
+      "topic": ""
+    },
+    {
+      "speaker": "U6B",
+      "start_time": 280.837118964,
+      "end_time": 283.149316212,
+      "utterance": "like three flowers and three flowers",
+      "turn_index": 53,
+      "overlap": [
+        {
+          "speaker_before": "",
+          "start_time": 280.837118964,
+          "speaker_after": "U6B",
+          "end_time": 282.287140967,
+          "turn_index": 54
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "speaker": "U1A",
+      "start_time": 280.837118964,
+      "end_time": 282.287140967,
+      "utterance": "<two> two and three",
+      "turn_index": 54,
+      "topic": ""
+    },
+    {
+      "speaker": "U1A",
+      "start_time": 283.998428196,
+      "end_time": 284.406237245,
+      "utterance": "yeah",
+      "turn_index": 55,
+      "topic": ""
+    },
+    {
+      "speaker": "U6B",
+      "start_time": 285.710288194,
+      "end_time": 286.637643141,
+      "utterance": "you have that also?",
+      "turn_index": 56,
+      "topic": ""
+    },
+    {
+      "speaker": "U1A",
+      "start_time": 286.637643141,
+      "end_time": 287.726078515,
+      "utterance": "two and three yes",
+      "turn_index": 57,
+      "topic": ""
+    },
+    {
+      "speaker": "U6B",
+      "start_time": 287.726078515,
+      "end_time": 288.833380102,
+      "utterance": "no three and three",
+      "turn_index": 58,
+      "topic": ""
+    },
+    {
+      "speaker": "U1A",
+      "start_time": 288.833380102,
+      "end_time": 291.21516821,
+      "utterance": "ah where is the <th-> <%eh> third in the first set?",
+      "turn_index": 59,
+      "topic": ""
+    },
+    {
+      "speaker": "U6B",
+      "start_time": 292.181849546,
+      "end_time": 294.730931659,
+      "utterance": "<the first set is the one> which one it is the first set?",
+      "turn_index": 60,
+      "topic": ""
+    },
+    {
+      "speaker": "U1A",
+      "start_time": 294.730931659,
+      "end_time": 297.591785882,
+      "utterance": "yeah I have blue and yellow in the first set to the left",
+      "turn_index": 61,
+      "topic": ""
+    },
+    {
+      "speaker": "U6B",
+      "start_time": 298.98955484,
+      "end_time": 305.514735803,
+      "utterance": "<%aa> blue and yellow so <there's a red> I have a red <on the <l->> <on> from the left one",
+      "turn_index": 62,
+      "topic": ""
+    },
+    {
+      "speaker": "U6B",
+      "start_time": 306.207088652,
+      "end_time": 307.265212816,
+      "utterance": "the left is one",
+      "turn_index": 63,
+      "topic": ""
+    },
+    {
+      "speaker": "U1A",
+      "start_time": 307.539502551,
+      "end_time": 309.185512226,
+      "utterance": "okay <I click there> I click there",
+      "turn_index": 64,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "",
+          "start_time": 307.539502551,
+          "speaker_after": "U1A",
+          "end_time": 308.493159378,
+          "turn_index": 65
+        }
+      ]
+    },
+    {
+      "speaker": "U6B",
+      "start_time": 307.539502551,
+      "end_time": 308.493159378,
+      "utterance": "I have right one",
+      "turn_index": 65,
+      "topic": ""
+    },
+    {
+      "speaker": "U6B",
+      "start_time": 309.303081578,
+      "end_time": 309.832064909,
+      "utterance": "okay",
+      "turn_index": 66,
+      "topic": ""
+    }
+  ]
+}

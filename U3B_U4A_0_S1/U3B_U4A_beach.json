@@ -1,0 +1,914 @@
+{
+  "success": 0.25,
+  "dialogue_duration": 200.1620000000039,
+  "audio": {
+    "ig": "U3B_0_beach.wav",
+    "if": "U4A_0_beach.wav"
+  },
+  "turns": [
+    {
+      "speaker": "U3B",
+      "start_time": 802.8,
+      "end_time": 804.43,
+      "utterance": "OKAY IT'S A BEACH AND <%aa>",
+      "turn_index": 0,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U3B",
+          "speaker_after": "U3B",
+          "turn_index": 1,
+          "start_time": 803.16,
+          "end_time": 803.43
+        },
+        {
+          "speaker_before": "U3B",
+          "speaker_after": "U3B",
+          "turn_index": 2,
+          "start_time": 803.71,
+          "end_time": 804.09
+        }
+      ]
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 803.16,
+      "end_time": 803.43,
+      "utterance": "OKAY",
+      "turn_index": 1,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 803.71,
+      "end_time": 804.09,
+      "utterance": "BEACH",
+      "turn_index": 2,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 804.92,
+      "end_time": 807.24,
+      "utterance": "ON THE <TOP> TOP LEFT THERE'S A SUN",
+      "turn_index": 3,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 807.97,
+      "end_time": 808.37,
+      "utterance": "YES",
+      "turn_index": 4,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 808.71,
+      "end_time": 809.16,
+      "utterance": "AND <%aa>",
+      "turn_index": 5,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U3B",
+          "start_time": 808.95,
+          "turn_index": 6,
+          "speaker_after": "U4A",
+          "end_time": 809.16
+        }
+      ]
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 808.95,
+      "end_time": 809.31,
+      "utterance": "SORT OF",
+      "turn_index": 6,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 809.77,
+      "end_time": 813.85,
+      "utterance": "<+ SMALL> A LITTLE BELOW THE SUN THERE'S A SMALL CLOUD",
+      "turn_index": 7,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 814.16,
+      "end_time": 817.89,
+      "utterance": "AND IN THE MIDDLE THERE'S ANOTHER ONE IT'S BIGGER AND <%aa> THERE",
+      "turn_index": 8,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U3B",
+          "speaker_after": "U3B",
+          "turn_index": 9,
+          "start_time": 817.22,
+          "end_time": 817.52
+        }
+      ]
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 817.22,
+      "end_time": 817.52,
+      "utterance": "YEAH",
+      "turn_index": 9,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 818.21,
+      "end_time": 821.62,
+      "utterance": "BELOW THE COCONUT TREE THERE'S THE THE THIRD SMALL CLOUD",
+      "turn_index": 10,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 821.78,
+      "end_time": 822.2,
+      "utterance": "OKAY",
+      "turn_index": 11,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U4A",
+          "start_time": 821.9,
+          "turn_index": 12,
+          "speaker_after": "U3B",
+          "end_time": 822.2
+        }
+      ]
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 821.9,
+      "end_time": 825.14,
+      "utterance": "THERE ARE <%aa> <AL-> ALTOGETHER THREE CLOUDS IS THAT CORRECT",
+      "turn_index": 12,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 825.25,
+      "end_time": 825.64,
+      "utterance": "YES",
+      "turn_index": 13,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 826.49,
+      "end_time": 827.79,
+      "utterance": "OKAY THEY'RE ALL WHITE",
+      "turn_index": 14,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 828.16,
+      "end_time": 828.51,
+      "utterance": "YES",
+      "turn_index": 15,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 828.99,
+      "end_time": 832.41,
+      "utterance": "AND THERE'S A COCONUT TREE BELOW THE COCONUT TREE THERE ARE TWO",
+      "turn_index": 16,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 832.66,
+      "end_time": 834.47,
+      "utterance": "SWIMMING <%aa>",
+      "turn_index": 17,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 834.47,
+      "end_time": 835.44,
+      "utterance": "AHA I HAVE THREE",
+      "turn_index": 18,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 835.74,
+      "end_time": 839.09,
+      "utterance": "SO YEAH YEAH <THE> THE RED AND WHITE ONE WHERE'S THE",
+      "turn_index": 19,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U3B",
+          "speaker_after": "U3B",
+          "turn_index": 20,
+          "start_time": 837.88,
+          "end_time": 838.16
+        }
+      ]
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 837.88,
+      "end_time": 838.16,
+      "utterance": "YEAH",
+      "turn_index": 20,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 838.37,
+      "end_time": 840.36,
+      "utterance": "YEAH <I HAVE> I HAVE THREE SO",
+      "turn_index": 21,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 840.61,
+      "end_time": 843.06,
+      "utterance": "THEY'RE SHAPED <LIKE A> LIKE A TRIANGLE SO",
+      "turn_index": 22,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 843.51,
+      "end_time": 845.91,
+      "utterance": "TOO ABOVE AND ONE BELOW IN THE MIDDLE",
+      "turn_index": 23,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 846.19,
+      "end_time": 848.07,
+      "utterance": "<%ahm> SO <%aa> CLICK THE",
+      "turn_index": 24,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 849.13,
+      "end_time": 850.09,
+      "utterance": "RIGHT UPPER ONE",
+      "turn_index": 25,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 850.46,
+      "end_time": 850.67,
+      "utterance": "OKAY",
+      "turn_index": 26,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 851.98,
+      "end_time": 853.62,
+      "utterance": "HOW MANY COCONUTS YOU HAVE IN THE TREE",
+      "turn_index": 27,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 854.25,
+      "end_time": 855.21,
+      "utterance": "THREE COCONUTS",
+      "turn_index": 28,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 855.33,
+      "end_time": 858.27,
+      "utterance": "OKAY YES ME TOO <%aa> TWO SMALL",
+      "turn_index": 29,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U4A",
+          "start_time": 857.09,
+          "turn_index": 30,
+          "speaker_after": "U3B",
+          "end_time": 858.27
+        }
+      ]
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 857.09,
+      "end_time": 861.66,
+      "utterance": "TWO SMALL OEW ON THE UPPER ROW AND ONE BIGGER ONE <IN THE <S->> ON THE SECOND ROW",
+      "turn_index": 30,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 861.82,
+      "end_time": 862.04,
+      "utterance": "YEAH",
+      "turn_index": 31,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 862.56,
+      "end_time": 866.59,
+      "utterance": "AND BELOW THE SWIM <%aa> <%aa> THERE ARE THREE CHAIRS ON THE BEACH",
+      "turn_index": 32,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 867.48,
+      "end_time": 867.98,
+      "utterance": "THREE ARE",
+      "turn_index": 33,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 868.34,
+      "end_time": 869.13,
+      "utterance": "ALL BLUE",
+      "turn_index": 34,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 869.36,
+      "end_time": 876.13,
+      "utterance": "OKAY NO <%aa> <THE> THE CHAIR IN THE MIDDLE AT THE BOTTOM <IS> <%aa> <IS> IS <%aa> ORANGE FOR ME SO CLICK THERE",
+      "turn_index": 35,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U4A",
+          "start_time": 876.1,
+          "turn_index": 36,
+          "speaker_after": "U3B",
+          "end_time": 876.13
+        }
+      ]
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 876.1,
+      "end_time": 876.36,
+      "utterance": "AH",
+      "turn_index": 36,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 876.557022645,
+      "end_time": 877.118267619,
+      "utterance": "YEAH OKAY",
+      "turn_index": 37,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 877.62,
+      "end_time": 882.89,
+      "utterance": "AND <%aa> <BELOW THESE> <%aa> BELOW THESE <TREE> CHAIRS THERE'S A KITE",
+      "turn_index": 38,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 883.6,
+      "end_time": 884.06,
+      "utterance": "YES",
+      "turn_index": 39,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 884.31,
+      "end_time": 890.97,
+      "utterance": "AND THE COLOUR IS <%ahm> <FROM THE> FROM THE LEFT SIDE IT'S <%mm> <UPPER> UPPER IS RED AND <%aa>",
+      "turn_index": 40,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 891.33,
+      "end_time": 895.44,
+      "utterance": "DOWNSIDE IS GREEN AND <%aa> IN THE RIGHT PART IT'S YELLOW AND PURPLE",
+      "turn_index": 41,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 896.31,
+      "end_time": 899.15,
+      "utterance": "AH OKAY SO THE COLORS ARE MIXED HERE",
+      "turn_index": 42,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 899.52,
+      "end_time": 900.17,
+      "utterance": "FOR ME",
+      "turn_index": 43,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 900.45,
+      "end_time": 902.85,
+      "utterance": "<%aa> I HAVE GREEN AT THE BOTTOM",
+      "turn_index": 44,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 903.31,
+      "end_time": 903.74,
+      "utterance": "YES",
+      "turn_index": 45,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 903.84,
+      "end_time": 904.92,
+      "utterance": "PURPLE ON THE RIGHT",
+      "turn_index": 46,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U4A",
+          "speaker_after": "U4A",
+          "turn_index": 47,
+          "start_time": 904.05,
+          "end_time": 904.28
+        }
+      ]
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 904.05,
+      "end_time": 904.28,
+      "utterance": "OKAY",
+      "turn_index": 47,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 905.3,
+      "end_time": 908.31,
+      "utterance": "I THINK THE COLOR DOESN'T MATTER WE CAN JUST CLICK THE KITE",
+      "turn_index": 48,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U3B",
+          "start_time": 908.07,
+          "turn_index": 49,
+          "speaker_after": "U4A",
+          "end_time": 908.31
+        }
+      ]
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 908.07,
+      "end_time": 908.4,
+      "utterance": "OKAY",
+      "turn_index": 49,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 908.87,
+      "end_time": 909.4,
+      "utterance": "THE KITE YEAH",
+      "turn_index": 50,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 909.48,
+      "end_time": 911.59,
+      "utterance": "AND BESIDE IT THERE'S <%aa>",
+      "turn_index": 51,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 912.63,
+      "end_time": 915.66,
+      "utterance": "PLAYING TOYS FOR THE SAND I DON'T KNOW <WHAT> HOW TO CALL IT",
+      "turn_index": 52,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 916.05,
+      "end_time": 917.18,
+      "utterance": "YEAH I LIKE A PARASOL",
+      "turn_index": 53,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 917.61,
+      "end_time": 918.17,
+      "utterance": "<%aa> YEAH",
+      "turn_index": 54,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 918.47,
+      "end_time": 921.25,
+      "utterance": "<%aa> IT'S IN ORANGE AND THE TOY IS GREEN",
+      "turn_index": 55,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 923.3,
+      "end_time": 924.05,
+      "utterance": "<%aa> HANG ON",
+      "turn_index": 56,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 924.85,
+      "end_time": 925.18,
+      "utterance": "OH",
+      "turn_index": 57,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 925.37,
+      "end_time": 927.28,
+      "utterance": "<THE> DO YOU MEAN THE BUCKET ON THE RIGHT",
+      "turn_index": 58,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 927.85,
+      "end_time": 928.79,
+      "utterance": "YEAH A BUCKET YEAH",
+      "turn_index": 59,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U3B",
+          "start_time": 928.68,
+          "turn_index": 60,
+          "speaker_after": "U4A",
+          "end_time": 928.79
+        }
+      ]
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 928.68,
+      "end_time": 929.55,
+      "utterance": "OH OKAY OKAY",
+      "turn_index": 60,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 929.84,
+      "end_time": 933.44,
+      "utterance": "SORRY <%aa> YES IT'S ORANGE AND THE SHOVEL IS GREEN",
+      "turn_index": 61,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 933.83,
+      "end_time": 936.46,
+      "utterance": "AND THERE'S <%aa> SOMETHING LIKE A RED <%aa>",
+      "turn_index": 62,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 936.98,
+      "end_time": 937.82,
+      "utterance": "LIKE A STRIP",
+      "turn_index": 63,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 938.18,
+      "end_time": 939.13,
+      "utterance": "YEAH A RED STRIP",
+      "turn_index": 64,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U3B",
+          "start_time": 938.56,
+          "turn_index": 65,
+          "speaker_after": "U4A",
+          "end_time": 939.13
+        }
+      ]
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 938.56,
+      "end_time": 939.13,
+      "utterance": "THE HOLD IT",
+      "turn_index": 65,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 939.33,
+      "end_time": 939.61,
+      "utterance": "YES",
+      "turn_index": 66,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 940.83,
+      "end_time": 941.15,
+      "utterance": "OKAY",
+      "turn_index": 67,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 941.41,
+      "end_time": 943.57,
+      "utterance": "AND <%aa> BESIDE THE KITE THERE'S <%aa>",
+      "turn_index": 68,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 944.09,
+      "end_time": 945.66,
+      "utterance": "THE LARGEST <%aa> UMBRELLA",
+      "turn_index": 69,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 946.21,
+      "end_time": 946.55,
+      "utterance": "OKAY",
+      "turn_index": 70,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 946.75,
+      "end_time": 947.48,
+      "utterance": "ON THE LEFT",
+      "turn_index": 71,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U4A",
+          "speaker_after": "U4A",
+          "turn_index": 72,
+          "start_time": 946.84,
+          "end_time": 947.25
+        }
+      ]
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 946.84,
+      "end_time": 947.25,
+      "utterance": "IT'S",
+      "turn_index": 72,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 947.59852204,
+      "end_time": 948.43,
+      "utterance": "OF THE KITE YES",
+      "turn_index": 73,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 948.61,
+      "end_time": 949.68,
+      "utterance": "YEAH LEFT OF THE KITE",
+      "turn_index": 74,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 950.43,
+      "end_time": 955.12,
+      "utterance": "IT'S BLUE AND THE SHADOW BLUE AND THERE'S SOME <%aa> YELLOW STRIPES ON IT",
+      "turn_index": 75,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 955.3,
+      "end_time": 955.7,
+      "utterance": "YES",
+      "turn_index": 76,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 956.21,
+      "end_time": 956.66,
+      "utterance": "AND <%aa>",
+      "turn_index": 77,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U3B",
+          "start_time": 956.6,
+          "turn_index": 78,
+          "speaker_after": "U4A",
+          "end_time": 956.66
+        }
+      ]
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 956.6,
+      "end_time": 957.05,
+      "utterance": "<%aa>",
+      "turn_index": 78,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U4A",
+          "start_time": 956.84,
+          "turn_index": 79,
+          "speaker_after": "U3B",
+          "end_time": 957.05
+        }
+      ]
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 956.84,
+      "end_time": 962.75,
+      "utterance": "THERE <<ABOVE~> IT> ABOVE IT THERE ARE <TWO COLOURFUL <BL-> <%aa>> TWO COLORFUL UMBRELLAS",
+      "turn_index": 79,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 962.93,
+      "end_time": 968.32,
+      "utterance": "OH NO I HAVE ONE COLORFUL UMBRELLA SO <+I> BASICALLY I HAVE TWO BIG UMBRELLAS",
+      "turn_index": 80,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 968.79,
+      "end_time": 969.68,
+      "utterance": "WITH <%aa>",
+      "turn_index": 81,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 970.01,
+      "end_time": 972.53,
+      "utterance": "DIFFERENT KINDS OF BLUE STRIPES AND YELLOW",
+      "turn_index": 82,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 973.21,
+      "end_time": 976.82,
+      "utterance": "THEY'RE BESIDE EACH OTHER SO ONE IS TO THE LEFT OF THE KITE",
+      "turn_index": 83,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U4A",
+          "speaker_after": "U4A",
+          "turn_index": 84,
+          "start_time": 973.24,
+          "end_time": 973.84
+        }
+      ]
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 973.24,
+      "end_time": 973.84,
+      "utterance": "<%mm>",
+      "turn_index": 84,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 977.04,
+      "end_time": 979.95,
+      "utterance": "AND ANOTHER ONE IS TO THE LEFT OF THAT UMBRELLA",
+      "turn_index": 85,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 980.67,
+      "end_time": 981.26,
+      "utterance": "NO",
+      "turn_index": 86,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U3B",
+          "start_time": 980.91,
+          "turn_index": 87,
+          "speaker_after": "U4A",
+          "end_time": 981.26
+        }
+      ]
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 980.91,
+      "end_time": 985.46,
+      "utterance": "AND THEN I HAVE <A> <A> A COLORFUL UMBRELLA LIKE A RAINBOW UMBRELLA",
+      "turn_index": 87,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U4A",
+          "start_time": 984.92,
+          "turn_index": 88,
+          "speaker_after": "U3B",
+          "end_time": 985.46
+        }
+      ]
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 984.92,
+      "end_time": 985.68,
+      "utterance": "YEAH YEAH YEAH",
+      "turn_index": 88,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 985.87,
+      "end_time": 988.16,
+      "utterance": "AT THE TOP OF THE LEFT BIG UMBRELLA",
+      "turn_index": 89,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 989.06,
+      "end_time": 990.79,
+      "utterance": "TOP LEFT SO <%aa>",
+      "turn_index": 90,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 991.16,
+      "end_time": 995.89,
+      "utterance": "<THE> <MINE IS> THERE ARE TWO COLORFUL <%aa> UMBRELLAS AND ONE IS DIRECTLY",
+      "turn_index": 91,
+      "topic": ""
+    },
+    {
+      "speaker": "U3B",
+      "start_time": 996.45,
+      "end_time": 1000.8,
+      "utterance": "<<UPSI->> <%aa> <UPSI-> UPSIDE OF THE STRIPE UMBRELLA",
+      "turn_index": 92,
+      "topic": ""
+    }
+  ]
+}

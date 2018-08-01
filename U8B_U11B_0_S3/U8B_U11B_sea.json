@@ -1,0 +1,700 @@
+{
+  "success": 0.75,
+  "dialogue_duration": 179.90299999999843,
+  "audio": {
+    "ig": "U8B_0_sea.wav",
+    "if": "U11B_0_sea.wav"
+  },
+  "turns": [
+    {
+      "speaker": "U8B",
+      "start_time": 661.788261993,
+      "end_time": 665.224628725,
+      "utterance": "I have here <%aa> a see <%aa> kind of environment",
+      "turn_index": 0,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 665.616948338,
+      "end_time": 669.104289895,
+      "utterance": "and <+ I have>  in the top left I have two sharks",
+      "turn_index": 1,
+      "topic": ""
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 669.787663902,
+      "end_time": 671.065823719,
+      "utterance": "top left*",
+      "turn_index": 2,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U11B",
+          "start_time": 670.957597618,
+          "turn_index": 3,
+          "speaker_after": "U8B",
+          "end_time": 671.065823719
+        }
+      ]
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 670.957597618,
+      "end_time": 672.544539328,
+      "utterance": "<%aa> sorry top right",
+      "turn_index": 3,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U8B",
+          "start_time": 672.148084719,
+          "turn_index": 4,
+          "speaker_after": "U11B",
+          "end_time": 672.544539328
+        }
+      ]
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 672.148084719,
+      "end_time": 673.003586947,
+      "utterance": "okay yes",
+      "turn_index": 4,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 673.162704407,
+      "end_time": 678.237419147,
+      "utterance": "on the top right I have two sharks they are facing to (the=) <l-> right side",
+      "turn_index": 5,
+      "topic": ""
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 678.237419147,
+      "end_time": 678.648847718,
+      "utterance": "yes",
+      "turn_index": 6,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 678.897010984,
+      "end_time": 682.004960622,
+      "utterance": "I have kind of <%aa> <%fp_1>",
+      "turn_index": 7,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U8B",
+          "start_time": 681.274434447,
+          "turn_index": 8,
+          "speaker_after": "U11B",
+          "end_time": 682.004960622
+        }
+      ]
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 681.274434447,
+      "end_time": 682.248469347,
+      "utterance": "what colour are they?",
+      "turn_index": 8,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 682.613732435,
+      "end_time": 683.22106994,
+      "utterance": "sorry?",
+      "turn_index": 9,
+      "topic": ""
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 683.22106994,
+      "end_time": 683.989505315,
+      "utterance": "what colour?",
+      "turn_index": 10,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 684.304765248,
+      "end_time": 690.257200752,
+      "utterance": "<%aa> <they are> <%aa> <they are> <they have two colours I mean> <+ the sharks> each of the sharks they have same colour but <%aa>",
+      "turn_index": 11,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 690.554822527,
+      "end_time": 695.507965738,
+      "utterance": "the top of their body is blue the bottom of their body is kind of light blue or grey",
+      "turn_index": 12,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U8B",
+          "start_time": 694.92625045,
+          "turn_index": 13,
+          "speaker_after": "U11B",
+          "end_time": 695.507965738
+        }
+      ]
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 694.92625045,
+      "end_time": 699.741601868,
+      "utterance": "okay <mine is> one of them is <%ahm> <%eh> green",
+      "turn_index": 13,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 700.012167118,
+      "end_time": 701.118008716,
+      "utterance": "okay which one's green?",
+      "turn_index": 14,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U8B",
+          "start_time": 700.173800172,
+          "turn_index": 15,
+          "speaker_after": "U11B",
+          "end_time": 701.118008716
+        }
+      ]
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 700.173800172,
+      "end_time": 703.718204949,
+      "utterance": "<the> the one at the bottom is green so we click on the one at the bottom",
+      "turn_index": 15,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U11B",
+          "start_time": 703.109433136,
+          "turn_index": 16,
+          "speaker_after": "U8B",
+          "end_time": 703.718204949
+        }
+      ]
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 703.109433136,
+      "end_time": 704.141274022,
+      "utterance": "bottom yes",
+      "turn_index": 16,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 704.907532526,
+      "end_time": 712.813768353,
+      "utterance": "in (the=) left <%aa> <in the in> below <the> the sharks I have (three=) I don't know the same but those",
+      "turn_index": 17,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U8B",
+          "start_time": 712.226071842,
+          "turn_index": 18,
+          "speaker_after": "U11B",
+          "end_time": 712.813768353
+        }
+      ]
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 712.226071842,
+      "end_time": 712.931387401,
+      "utterance": "octopus",
+      "turn_index": 18,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 713.72770898,
+      "end_time": 718.176295767,
+      "utterance": "they're <no> no they're not octopus they're octupus in the left side of the shark",
+      "turn_index": 19,
+      "topic": ""
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 719.813215531,
+      "end_time": 723.608507582,
+      "utterance": "ah okay <%eh> yeah <the> it's like (orange=)",
+      "turn_index": 20,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U11B",
+          "start_time": 723.306809904,
+          "turn_index": 21,
+          "speaker_after": "U8B",
+          "end_time": 723.608507582
+        }
+      ]
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 723.306809904,
+      "end_time": 725.699187854,
+      "utterance": "exactly it's kind of they call it <%aa>",
+      "turn_index": 21,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U8B",
+          "start_time": 725.146653604,
+          "turn_index": 22,
+          "speaker_after": "U11B",
+          "end_time": 725.699187854
+        }
+      ]
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 725.146653604,
+      "end_time": 725.949913478,
+      "utterance": "jellyfish",
+      "turn_index": 22,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 726.315627764,
+      "end_time": 727.26474341,
+      "utterance": "jellyfish exactly",
+      "turn_index": 23,
+      "topic": ""
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 727.589097151,
+      "end_time": 729.513450893,
+      "utterance": "<%eh> I have two",
+      "turn_index": 24,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 729.513450893,
+      "end_time": 730.416650609,
+      "utterance": "I have three",
+      "turn_index": 25,
+      "topic": ""
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 730.84955501,
+      "end_time": 731.713768353,
+      "utterance": "so we click there",
+      "turn_index": 26,
+      "overlap": [
+        {
+          "speaker_before": "",
+          "start_time": 730.84955501,
+          "speaker_after": "U11B",
+          "end_time": 731.593609448,
+          "turn_index": 27
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 730.84955501,
+      "end_time": 731.593609448,
+      "utterance": "<%aa>",
+      "turn_index": 27,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 731.93181601,
+      "end_time": 732.698076743,
+      "utterance": "click there",
+      "turn_index": 28,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 733.022430485,
+      "end_time": 740.386358408,
+      "utterance": "and <%aa> I have <%aa> exactly in bottom there is actually <%aa> a kind of bottom which <%aa> I have",
+      "turn_index": 29,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 740.77867802,
+      "end_time": 747.703723002,
+      "utterance": "in the far right to the bottom I have <%ahm> those small <%ahm> the lobster or what do you call it? <%aa>",
+      "turn_index": 30,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U8B",
+          "start_time": 747.481496833,
+          "turn_index": 31,
+          "speaker_after": "U11B",
+          "end_time": 747.703723002
+        }
+      ]
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 747.481496833,
+      "end_time": 749.040140235,
+      "utterance": "yeah what colour is it?",
+      "turn_index": 31,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U11B",
+          "start_time": 748.211396416,
+          "turn_index": 32,
+          "speaker_after": "U8B",
+          "end_time": 749.040140235
+        }
+      ]
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 748.211396416,
+      "end_time": 749.875372704,
+      "utterance": "they have <+ hands> two hands",
+      "turn_index": 32,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 750.71412498,
+      "end_time": 753.182702594,
+      "utterance": "the colour in the right side is orange",
+      "turn_index": 33,
+      "topic": ""
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 753.182702594,
+      "end_time": 753.509233206,
+      "utterance": "yeah",
+      "turn_index": 34,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 753.973730147,
+      "end_time": 757.214295783,
+      "utterance": "<%aa> I have something a bit to the left",
+      "turn_index": 35,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 757.336050145,
+      "end_time": 760.068759172,
+      "utterance": "but near to the middle it's orange",
+      "turn_index": 36,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U8B",
+          "speaker_after": "U8B",
+          "turn_index": 37,
+          "start_time": 757.552502345,
+          "end_time": 757.83766858
+        }
+      ]
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 757.552502345,
+      "end_time": 757.83766858,
+      "utterance": "yeah",
+      "turn_index": 37,
+      "topic": ""
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 760.81281361,
+      "end_time": 763.343591554,
+      "utterance": "<my> the same lobster thing it's red",
+      "turn_index": 38,
+      "topic": ""
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 763.80355248,
+      "end_time": 768.457274782,
+      "utterance": "<the one> the one towards <%aa> the left side of the picture is red in mine",
+      "turn_index": 39,
+      "overlap": [
+        {
+          "speaker_before": "",
+          "start_time": 763.80355248,
+          "speaker_after": "U11B",
+          "end_time": 765.021096105,
+          "turn_index": 40
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 763.80355248,
+      "end_time": 765.021096105,
+      "utterance": "<%aa> yeah is",
+      "turn_index": 40,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 768.376105207,
+      "end_time": 771.310231705,
+      "utterance": "mine is a kind of <%aa> I don't know",
+      "turn_index": 41,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 771.77019263,
+      "end_time": 773.582979806,
+      "utterance": "<%eh> ah we can click it here",
+      "turn_index": 42,
+      "topic": ""
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 773.582979806,
+      "end_time": 774.042940731,
+      "utterance": "okay",
+      "turn_index": 43,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 774.869063326,
+      "end_time": 777.344922435,
+      "utterance": "and I have two horse <%aa> fish",
+      "turn_index": 44,
+      "topic": ""
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 777.344922435,
+      "end_time": 777.969686721,
+      "utterance": "yes",
+      "turn_index": 45,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 778.318957336,
+      "end_time": 781.415469033,
+      "utterance": "and <%aa> they are opposite face they're back to back",
+      "turn_index": 46,
+      "topic": ""
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 782.347169714,
+      "end_time": 785.494924816,
+      "utterance": "<%aa> no mine are both facing left",
+      "turn_index": 47,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 785.494924816,
+      "end_time": 788.388986239,
+      "utterance": "okay <%aa> so which one is <%aa> left?",
+      "turn_index": 48,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 788.686608014,
+      "end_time": 792.231012791,
+      "utterance": "okay <I> I click on <my> <%aa> <my> <%aa> mine so",
+      "turn_index": 49,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U8B",
+          "speaker_after": "U8B",
+          "turn_index": 50,
+          "start_time": 789.768869015,
+          "end_time": 790.232543863
+        }
+      ]
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 789.768869015,
+      "end_time": 790.232543863,
+      "utterance": "yeah",
+      "turn_index": 50,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 792.420408466,
+      "end_time": 797.593912439,
+      "utterance": "I click on the bottom <bottom> one because one of them is <%aa> a bit higher",
+      "turn_index": 51,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "",
+          "start_time": 792.420408466,
+          "speaker_after": "U8B",
+          "end_time": 792.749119827,
+          "turn_index": 52
+        }
+      ]
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 792.420408466,
+      "end_time": 792.749119827,
+      "utterance": "yeah",
+      "turn_index": 52,
+      "topic": ""
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 796.592821013,
+      "end_time": 796.971612363,
+      "utterance": "yeah",
+      "turn_index": 53,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 797.810364639,
+      "end_time": 799.815264952,
+      "utterance": "so the bottom one mine is to the right",
+      "turn_index": 54,
+      "topic": ""
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 800.042527952,
+      "end_time": 800.532317106,
+      "utterance": "okay",
+      "turn_index": 55,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 800.57013019,
+      "end_time": 801.876262684,
+      "utterance": "so I have two octopus",
+      "turn_index": 56,
+      "topic": ""
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 802.761004097,
+      "end_time": 803.956103954,
+      "utterance": "<%aa> <y-> I have three",
+      "turn_index": 57,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 804.194999923,
+      "end_time": 807.559723492,
+      "utterance": "okay <whe-> <%ahm> where is the <th-> <%aa> can you say where?",
+      "turn_index": 58,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U8B",
+          "start_time": 807.045649517,
+          "turn_index": 59,
+          "speaker_after": "U11B",
+          "end_time": 807.559723492
+        }
+      ]
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 807.045649517,
+      "end_time": 814.394085813,
+      "utterance": "<it's> <%aa> it's a triangle there is one at the <bo-> top and <%aa> two <on (the=)> at the bottom",
+      "turn_index": 59,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 814.531683546,
+      "end_time": 821.62676155,
+      "utterance": "okay so <%aa> <in the> in the left side exact in the bottom one on the left side I don't have I click in the left side",
+      "turn_index": 60,
+      "topic": ""
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 821.815595485,
+      "end_time": 822.356725985,
+      "utterance": "okay",
+      "turn_index": 61,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 824.082319198,
+      "end_time": 834.242044341,
+      "utterance": "<%aa> so <%aa> <I have actually> <%aa> now I'm going <%aa> <to (the=)> to the number of the legs of <the> <%aa> this octopus",
+      "turn_index": 62,
+      "topic": "DESCRIBING OBJECT",
+      "overlap": [
+        {
+          "speaker_before": "U8B",
+          "start_time": 833.335650753,
+          "turn_index": 63,
+          "speaker_after": "U11B",
+          "end_time": 834.242044341
+        }
+      ]
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 833.335650753,
+      "end_time": 835.007487174,
+      "utterance": "okay how many seconds do we have?",
+      "turn_index": 63,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 835.403166603,
+      "end_time": 837.614781949,
+      "utterance": "<%aa> <do we <ha->> we have ten seconds",
+      "turn_index": 64,
+      "topic": ""
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 837.70642113,
+      "end_time": 839.791863591,
+      "utterance": "but let's click I think we're fine",
+      "turn_index": 65,
+      "topic": ""
+    }
+  ]
+}

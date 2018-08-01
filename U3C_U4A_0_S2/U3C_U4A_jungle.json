@@ -1,0 +1,761 @@
+{
+  "success": 0.6666666666666666,
+  "dialogue_duration": 189.96199999999953,
+  "audio": {
+    "ig": "U3C_0_jungle.wav",
+    "if": "U4A_0_jungle.wav"
+  },
+  "turns": [
+    {
+      "speaker": "U3C",
+      "start_time": 676.74,
+      "end_time": 677.82,
+      "utterance": "NOW THERE'S LIKE A",
+      "turn_index": 0,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 677.86,
+      "end_time": 678.21,
+      "utterance": "OOPS",
+      "turn_index": 1,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 678.86,
+      "end_time": 679.93,
+      "utterance": "SAVANAH I GUESS",
+      "turn_index": 2,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 680.5,
+      "end_time": 681.42,
+      "utterance": "YES YEAH",
+      "turn_index": 3,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 683.72,
+      "end_time": 684.45,
+      "utterance": "<%ahm>",
+      "turn_index": 4,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U3C",
+          "speaker_after": "U3C",
+          "turn_index": 5,
+          "start_time": 683.78,
+          "end_time": 684.16
+        }
+      ]
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 683.78,
+      "end_time": 684.16,
+      "utterance": "WHAT",
+      "turn_index": 5,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 684.71,
+      "end_time": 687.09,
+      "utterance": "DO YOU HAVE <A> A RAIN CLOUD ON THE TOP",
+      "turn_index": 6,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 687.28,
+      "end_time": 687.75,
+      "utterance": "LEFT",
+      "turn_index": 7,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 688.07,
+      "end_time": 688.56,
+      "utterance": "YES",
+      "turn_index": 8,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 688.79,
+      "end_time": 690.88,
+      "utterance": "NO RAIN THOUGH JUST A WHITE CLOUD",
+      "turn_index": 9,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 691.47,
+      "end_time": 691.91,
+      "utterance": "<%ahm>",
+      "turn_index": 10,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U3C",
+          "start_time": 691.49,
+          "turn_index": 11,
+          "speaker_after": "U4A",
+          "end_time": 691.91
+        }
+      ]
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 691.49,
+      "end_time": 692.09,
+      "utterance": "TOP LEFT",
+      "turn_index": 11,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 692.24,
+      "end_time": 694.88,
+      "utterance": "MINE IS LIKE GRAY AND WITH RAINDROPS",
+      "turn_index": 12,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 695.16,
+      "end_time": 696.55,
+      "utterance": "OH OKAY SO LET'S CLICK THERE",
+      "turn_index": 13,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 697.63,
+      "end_time": 698.61,
+      "utterance": "MINE IS JUST WHITE",
+      "turn_index": 14,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 699.66,
+      "end_time": 700.12,
+      "utterance": "JUST",
+      "turn_index": 15,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U4A",
+          "start_time": 699.7,
+          "turn_index": 16,
+          "speaker_after": "U3C",
+          "end_time": 700.12
+        }
+      ]
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 699.7,
+      "end_time": 701.07,
+      "utterance": "DO YOU HAVE A HAPPY SUN",
+      "turn_index": 16,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 701.36,
+      "end_time": 703.58,
+      "utterance": "<A HAPPY + SUN> A HAPPY YELLOW SUN",
+      "turn_index": 17,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 704.19,
+      "end_time": 705.63,
+      "utterance": "YES <TO> TO THE TOP RIGHT",
+      "turn_index": 18,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 705.84,
+      "end_time": 706.61,
+      "utterance": "TOP RIGHT YEAH",
+      "turn_index": 19,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 707.41,
+      "end_time": 708.2,
+      "utterance": "WHAT COLOR IS IT",
+      "turn_index": 20,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 708.68,
+      "end_time": 709.17,
+      "utterance": "YELLOW",
+      "turn_index": 21,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 711.32,
+      "end_time": 713.84,
+      "utterance": "YELLOW WHITE EYES AND BIG SMILE",
+      "turn_index": 22,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 714.761211476,
+      "end_time": 715.62,
+      "utterance": "YEAH SAME HERE",
+      "turn_index": 23,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 717.113238942,
+      "end_time": 718.01,
+      "utterance": "I THINK WE HAVE THE SAME",
+      "turn_index": 24,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 718.454603948,
+      "end_time": 720.72,
+      "utterance": "<%aa> DO YOU HAVE A GIRAFFE RIGHT BELOW THE SUN",
+      "turn_index": 25,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 721.29,
+      "end_time": 724.29,
+      "utterance": "NO I HAVE <<A> A> AN ELEPHANT",
+      "turn_index": 26,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 724.63,
+      "end_time": 729.26,
+      "utterance": "NOT JUST <BELOW THE SUN BUT A LITTLE> BELOW THE SUN BUT A LITTLE TO THE LEFT",
+      "turn_index": 27,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 729.47,
+      "end_time": 730.39,
+      "utterance": "I HAVE AN ELEPHANT",
+      "turn_index": 28,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 730.72,
+      "end_time": 732.28,
+      "utterance": "OH I HAVE THAT SAME ELEPHANT",
+      "turn_index": 29,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U3C",
+          "speaker_after": "U3C",
+          "turn_index": 30,
+          "start_time": 731.01,
+          "end_time": 731.36
+        }
+      ]
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 731.01,
+      "end_time": 731.36,
+      "utterance": "SO",
+      "turn_index": 30,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 732.87,
+      "end_time": 734.56,
+      "utterance": "BUT I HAVE A GIRAFFE TO THE RIGHT OF HIM",
+      "turn_index": 31,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 734.59,
+      "end_time": 735.78,
+      "utterance": "OH OKAY SO LET'S CLICK",
+      "turn_index": 32,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 738.12,
+      "end_time": 742.47,
+      "utterance": "DO YOU HAVE A TIGER <BELOW THE ELEPHANT> BETWEEN THE ELEPHANT AND THE GIRAFFE BUT BELOW",
+      "turn_index": 33,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 742.86,
+      "end_time": 743.32,
+      "utterance": "YES",
+      "turn_index": 34,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 743.5,
+      "end_time": 744.23,
+      "utterance": "YOU HAVE A TIGER?",
+      "turn_index": 35,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 744.96,
+      "end_time": 747.94,
+      "utterance": "<WITH=) <OR-> ORANGE AND BLACK STRIPES",
+      "turn_index": 36,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 748.456753365,
+      "end_time": 748.734670564,
+      "utterance": "YES",
+      "turn_index": 37,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 749.14,
+      "end_time": 749.59,
+      "utterance": "AND",
+      "turn_index": 38,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 750.84,
+      "end_time": 752.16,
+      "utterance": "IT HAS LIKE A KOALA NOSE",
+      "turn_index": 39,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 752.75,
+      "end_time": 754.03,
+      "utterance": "A KOALA NOSE YEAH",
+      "turn_index": 40,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 755.8,
+      "end_time": 756.48,
+      "utterance": "<%ahm>",
+      "turn_index": 41,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 756.95,
+      "end_time": 757.55,
+      "utterance": "WHICH",
+      "turn_index": 42,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 757.89,
+      "end_time": 760.56,
+      "utterance": "WAY <%aa> IS THE TIGER MOVING",
+      "turn_index": 43,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 761.02,
+      "end_time": 762.51,
+      "utterance": "OR WHICH WAY IS IT FACING",
+      "turn_index": 44,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 762.78,
+      "end_time": 766.51,
+      "utterance": "<FROM <%aa>> <THEY'RE> THEY'RE LIKE BOTH THE TIGER AND THE ELEPHANT ARE MOVING FROM",
+      "turn_index": 45,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U3C",
+          "speaker_after": "U3C",
+          "turn_index": 46,
+          "start_time": 762.92,
+          "end_time": 763.35
+        }
+      ]
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 762.92,
+      "end_time": 763.35,
+      "utterance": "UNDER",
+      "turn_index": 46,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 766.94,
+      "end_time": 767.58,
+      "utterance": "RIGHT TO LEFT",
+      "turn_index": 47,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 768.06,
+      "end_time": 768.49,
+      "utterance": "YES",
+      "turn_index": 48,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 769.85,
+      "end_time": 771.56,
+      "utterance": "DO YOU SEE THREE PALM TREES?",
+      "turn_index": 49,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 771.75,
+      "end_time": 773.0,
+      "utterance": "I HAVE TWO PALM TREES",
+      "turn_index": 50,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 773.01,
+      "end_time": 773.58,
+      "utterance": "OKAY",
+      "turn_index": 51,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 774.34,
+      "end_time": 777.72,
+      "utterance": "<%aa> <WHERE IS OKAY> SO I HAVE THREE I HAVE",
+      "turn_index": 52,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 778.12,
+      "end_time": 780.67,
+      "utterance": "ONE IN THE SAME LINE AS THE ELEPHANT",
+      "turn_index": 53,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 781.62,
+      "end_time": 788.65,
+      "utterance": "ANOTHER ONE A LITTLE TO THE RIGHT AND BELOW AND ANOTHER ONE A LITTLE TO THE RIGHT AND BELOW THAT ONE SO THEY'RE LIKE",
+      "turn_index": 54,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 789.03,
+      "end_time": 790.19,
+      "utterance": "IN A DIAGONAL",
+      "turn_index": 55,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 791.06,
+      "end_time": 791.55,
+      "utterance": "LINE",
+      "turn_index": 56,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 791.87,
+      "end_time": 793.22,
+      "utterance": "I'M MISSING THE MIDDLE ONE",
+      "turn_index": 57,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 793.59,
+      "end_time": 795.59,
+      "utterance": "YOU MISSING THE MIDDLE OKAY SO LET'S CLICK",
+      "turn_index": 58,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 797.85,
+      "end_time": 798.39,
+      "utterance": "<%aa>",
+      "turn_index": 59,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 800.01,
+      "end_time": 802.43,
+      "utterance": "THE GROUND IS GREEN AND THE SKY IS BLUE",
+      "turn_index": 60,
+      "topic": "DESCRIBING PICTURE"
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 805.59,
+      "end_time": 807.07,
+      "utterance": "I WONDER IF WE HAVE ALL OF THEM",
+      "turn_index": 61,
+      "topic": "END OF DIFFERENCES"
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 807.6,
+      "end_time": 809.31,
+      "utterance": "DOES THE ELEPHANT HAVE PINK TOES",
+      "turn_index": 62,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 809.98,
+      "end_time": 810.42,
+      "utterance": "YES",
+      "turn_index": 63,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 811.24,
+      "end_time": 812.89,
+      "utterance": "AND PINK EARS INSIDE",
+      "turn_index": 64,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 813.44,
+      "end_time": 813.87,
+      "utterance": "THE EARS",
+      "turn_index": 65,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 814.83,
+      "end_time": 815.29,
+      "utterance": "INDEED",
+      "turn_index": 66,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 817.03,
+      "end_time": 818.06,
+      "utterance": "WHITE TUSKS?",
+      "turn_index": 67,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 819.14,
+      "end_time": 820.81,
+      "utterance": "YES AND THEY'RE LIKE POINTING FORWARD",
+      "turn_index": 68,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 823.39,
+      "end_time": 824.35,
+      "utterance": "<%ahm>",
+      "turn_index": 69,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 828.03,
+      "end_time": 828.83,
+      "utterance": "<%aa>",
+      "turn_index": 70,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 829.16,
+      "end_time": 832.35,
+      "utterance": "THE TIGER HAS <%aa> PINK INNER EARS AS WELL",
+      "turn_index": 71,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 833.410002871,
+      "end_time": 833.66671138,
+      "utterance": "YEAH",
+      "turn_index": 72,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 836.374837144,
+      "end_time": 837.211654691,
+      "utterance": "<%mm>",
+      "turn_index": 73,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U3C",
+          "start_time": 836.58,
+          "turn_index": 74,
+          "speaker_after": "U4A",
+          "end_time": 837.211654691
+        }
+      ]
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 836.58,
+      "end_time": 837.31,
+      "utterance": "<%ahm>",
+      "turn_index": 74,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 838.32,
+      "end_time": 839.78,
+      "utterance": "I THINK WE'VE FOUND ALL OF THEM",
+      "turn_index": 75,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 840.99,
+      "end_time": 841.45,
+      "utterance": "YEAH I THINK",
+      "turn_index": 76,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 845.05,
+      "end_time": 847.34,
+      "utterance": "<HOW> HOW MANY LEAVES DO YOU HAVE ON YOUR PALM TREES",
+      "turn_index": 77,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 847.890083652,
+      "end_time": 849.05,
+      "utterance": "THEY BOTH HAVE FIVE LEAVES",
+      "turn_index": 78,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 849.36,
+      "end_time": 851.16,
+      "utterance": "AND THEY'RE LIKE FACING TO THE RIGHT",
+      "turn_index": 79,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 854.91,
+      "end_time": 855.7,
+      "utterance": "I THINK WE'VE GOT IT",
+      "turn_index": 80,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 856.66,
+      "end_time": 857.24,
+      "utterance": "WHAT DO YOU THINK",
+      "turn_index": 81,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U4A",
+          "speaker_after": "U4A",
+          "turn_index": 82,
+          "start_time": 856.81,
+          "end_time": 857.03
+        }
+      ]
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 856.81,
+      "end_time": 857.03,
+      "utterance": "YEAH",
+      "turn_index": 82,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 858.11,
+      "end_time": 858.64,
+      "utterance": "<%aa>",
+      "turn_index": 83,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 859.42,
+      "end_time": 860.08,
+      "utterance": "YEAH I THINK IT'S GOOD",
+      "turn_index": 84,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 860.54,
+      "end_time": 861.64,
+      "utterance": "SHALL WE PRESS THE BUTTON",
+      "turn_index": 85,
+      "topic": ""
+    }
+  ]
+}

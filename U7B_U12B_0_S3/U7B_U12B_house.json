@@ -1,0 +1,1200 @@
+{
+  "success": 0.8333333333333334,
+  "dialogue_duration": 200.1070000000036,
+  "audio": {
+    "ig": "U7B_0_house.wav",
+    "if": "U12B_0_house.wav"
+  },
+  "turns": [
+    {
+      "speaker": "U7B",
+      "start_time": 308.96,
+      "end_time": 312.19,
+      "utterance": "SO ON THE CENTER OF THE IMAGE ON THE TOP THERE'S A SUN",
+      "turn_index": 0,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 312.57,
+      "end_time": 312.97,
+      "utterance": "YES",
+      "turn_index": 1,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 313.86,
+      "end_time": 314.56,
+      "utterance": "WITH <%aa>",
+      "turn_index": 2,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 314.950737327,
+      "end_time": 318.44,
+      "utterance": "ONE TWO THREE FOUR FIVE SIX SEVEN WITH EIGHT TRIANGLES",
+      "turn_index": 3,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 319.46,
+      "end_time": 320.09,
+      "utterance": "AROUND IT",
+      "turn_index": 4,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U7B",
+          "start_time": 319.92,
+          "turn_index": 5,
+          "speaker_after": "U12B",
+          "end_time": 320.09
+        }
+      ]
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 319.92,
+      "end_time": 320.47,
+      "utterance": "CORRECT",
+      "turn_index": 5,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 320.52,
+      "end_time": 320.86,
+      "utterance": "YES",
+      "turn_index": 6,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 321.33,
+      "end_time": 321.82,
+      "utterance": "<%aa>",
+      "turn_index": 7,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 322.54,
+      "end_time": 327.05,
+      "utterance": "ON THE RIGHT OF THE IMAGE ON THE SAME LINE OF THE SUN THERE ARE THREE CLOUDS",
+      "turn_index": 8,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 327.8,
+      "end_time": 329.47,
+      "utterance": "TWO BIG ONES AND A SMALL ONE",
+      "turn_index": 9,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U7B",
+          "speaker_after": "U7B",
+          "turn_index": 10,
+          "start_time": 327.84,
+          "end_time": 328.2
+        }
+      ]
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 327.84,
+      "end_time": 328.2,
+      "utterance": "OKAY",
+      "turn_index": 10,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 329.84,
+      "end_time": 330.5,
+      "utterance": "A SMALL ONE",
+      "turn_index": 11,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 330.72,
+      "end_time": 332.53,
+      "utterance": "IS ON THE TOP LEFT RIGHT?",
+      "turn_index": 12,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 332.62,
+      "end_time": 333.04,
+      "utterance": "YES",
+      "turn_index": 13,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 333.49,
+      "end_time": 335.16,
+      "utterance": "OKAY AND ON THE LEFT OF THE SUN",
+      "turn_index": 14,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 336.18,
+      "end_time": 338.27,
+      "utterance": "ON THE LEFT OF THE SUN I HAVE <%aa>",
+      "turn_index": 15,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 338.99,
+      "end_time": 339.49,
+      "utterance": "<%aa>",
+      "turn_index": 16,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 339.81,
+      "end_time": 340.75,
+      "utterance": "THREE CLOUDS",
+      "turn_index": 17,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 341.35,
+      "end_time": 342.21,
+      "utterance": "ONE SMALL",
+      "turn_index": 18,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 342.6,
+      "end_time": 344.48,
+      "utterance": "THE ONE THAT IS FURTHEST TO THE LEFT",
+      "turn_index": 19,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 344.91,
+      "end_time": 345.25,
+      "utterance": "YES",
+      "turn_index": 20,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 345.7,
+      "end_time": 349.54,
+      "utterance": "NEXT TO IT THERE'S A BIGGER ONE WHITE THEY ARE BOTH WHITE",
+      "turn_index": 21,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 349.75,
+      "end_time": 350.11,
+      "utterance": "YES",
+      "turn_index": 22,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 350.35,
+      "end_time": 353.12,
+      "utterance": "AND BELOW THE SMALL ONE THERE'S A BIG",
+      "turn_index": 23,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U7B",
+          "speaker_after": "U7B",
+          "turn_index": 24,
+          "start_time": 352.27,
+          "end_time": 352.53
+        }
+      ]
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 352.27,
+      "end_time": 352.53,
+      "utterance": "YES",
+      "turn_index": 24,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 353.58,
+      "end_time": 354.52,
+      "utterance": "<%eh> BLACK",
+      "turn_index": 25,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 354.85,
+      "end_time": 355.26,
+      "utterance": "CLOUD",
+      "turn_index": 26,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U7B",
+          "start_time": 354.87,
+          "turn_index": 27,
+          "speaker_after": "U12B",
+          "end_time": 355.26
+        }
+      ]
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 354.87,
+      "end_time": 356.06,
+      "utterance": "OKAY MINE IS WHITE",
+      "turn_index": 27,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 356.49,
+      "end_time": 357.26,
+      "utterance": "THE BLACK ONE",
+      "turn_index": 28,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 357.783539581,
+      "end_time": 358.100342545,
+      "utterance": "OKAY",
+      "turn_index": 29,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 358.739821003,
+      "end_time": 359.660365221,
+      "utterance": "THAT'S ANOTHER ONE",
+      "turn_index": 30,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 360.81,
+      "end_time": 361.84,
+      "utterance": "BELOW THE",
+      "turn_index": 31,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 362.48,
+      "end_time": 363.11,
+      "utterance": "THE SMALL ONE",
+      "turn_index": 32,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 363.55,
+      "end_time": 365.85,
+      "utterance": "YES YES <WHAT IS> WHAT IS BELOW THE",
+      "turn_index": 33,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 366.04,
+      "end_time": 366.93,
+      "utterance": "BELOW THE SUN",
+      "turn_index": 34,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 367.84,
+      "end_time": 368.14,
+      "utterance": "YES",
+      "turn_index": 35,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 368.55,
+      "end_time": 369.43,
+      "utterance": "THERE'S A CAT",
+      "turn_index": 36,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 369.97,
+      "end_time": 370.47,
+      "utterance": "CORRECT",
+      "turn_index": 37,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 370.77,
+      "end_time": 371.18,
+      "utterance": "COLOR",
+      "turn_index": 38,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 371.48,
+      "end_time": 372.27,
+      "utterance": "<%aa> GREY",
+      "turn_index": 39,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 372.61,
+      "end_time": 373.07,
+      "utterance": "CORRECT",
+      "turn_index": 40,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 373.44,
+      "end_time": 375.66,
+      "utterance": "ON THE RIGHT OF THE CAT THERE'S A HOUSE",
+      "turn_index": 41,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 376.14,
+      "end_time": 377.1,
+      "utterance": "COLOR OF THE HOUSE",
+      "turn_index": 42,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 377.23,
+      "end_time": 378.98,
+      "utterance": "IT'S A YELLOW HOUSE WITH A",
+      "turn_index": 43,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 379.43,
+      "end_time": 380.71,
+      "utterance": "GREY ROOF",
+      "turn_index": 44,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 380.89,
+      "end_time": 381.33,
+      "utterance": "YES",
+      "turn_index": 45,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 381.67,
+      "end_time": 383.3,
+      "utterance": "WITH THREE WINDOWS",
+      "turn_index": 46,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 383.6,
+      "end_time": 384.73,
+      "utterance": "YES DOES IT HAVE A CHIMNEY",
+      "turn_index": 47,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 385.33,
+      "end_time": 386.49,
+      "utterance": "NO IT DOESN'T HAVE A CHIMNEY",
+      "turn_index": 48,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U7B",
+          "start_time": 386.43,
+          "turn_index": 49,
+          "speaker_after": "U12B",
+          "end_time": 386.49
+        }
+      ]
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 386.43,
+      "end_time": 388.16,
+      "utterance": "MINE IT HAS A CHIMNEY ON THE RIGHT",
+      "turn_index": 49,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 389.07,
+      "end_time": 391.24,
+      "utterance": "ON THE RIGHT OF THE HOUSE OR ON THE RIGHT",
+      "turn_index": 50,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U7B",
+          "start_time": 390.89,
+          "turn_index": 51,
+          "speaker_after": "U12B",
+          "end_time": 391.24
+        }
+      ]
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 390.89,
+      "end_time": 392.71,
+      "utterance": "<ON> ON THE RIGHT OF THE CEILING",
+      "turn_index": 51,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 392.91,
+      "end_time": 395.04,
+      "utterance": "SO ON <THE> THE CEILING THAT IS GREY",
+      "turn_index": 52,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 395.31,
+      "end_time": 395.59,
+      "utterance": "YEAH",
+      "turn_index": 53,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U7B",
+          "start_time": 395.58,
+          "turn_index": 54,
+          "speaker_after": "U12B",
+          "end_time": 395.59
+        }
+      ]
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 395.58,
+      "end_time": 397.17,
+      "utterance": "ON THE RIGHT SIDE OF THE CEILING",
+      "turn_index": 54,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 397.29,
+      "end_time": 397.66,
+      "utterance": "OKAY",
+      "turn_index": 55,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 398.0,
+      "end_time": 399.46,
+      "utterance": "WHICH POSITION MORE LESS",
+      "turn_index": 56,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "",
+          "start_time": 398.0,
+          "speaker_after": "U7B",
+          "end_time": 398.58,
+          "turn_index": 57
+        }
+      ]
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 398.0,
+      "end_time": 398.58,
+      "utterance": "THERE IS A CHIMNEY",
+      "turn_index": 57,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 399.8,
+      "end_time": 400.22,
+      "utterance": "MIDDLE",
+      "turn_index": 58,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 400.53,
+      "end_time": 400.91,
+      "utterance": "THE MIDDLE",
+      "turn_index": 59,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 401.117818587,
+      "end_time": 401.474129393,
+      "utterance": "OKAY",
+      "turn_index": 60,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 402.38,
+      "end_time": 403.83,
+      "utterance": "ON THE RIGHT OF THE HOUSE",
+      "turn_index": 61,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 404.13,
+      "end_time": 405.28,
+      "utterance": "THERE IS ANOTHER CAT",
+      "turn_index": 62,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 405.69,
+      "end_time": 408.15,
+      "utterance": "QUESTION ON THE DOOR OF THE HOUSE COLOR",
+      "turn_index": 63,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U12B",
+          "speaker_after": "U12B",
+          "turn_index": 64,
+          "start_time": 406.460607277,
+          "end_time": 406.816963861
+        }
+      ]
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 406.460607277,
+      "end_time": 406.816963861,
+      "utterance": "IT'S",
+      "turn_index": 64,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 407.82,
+      "end_time": 408.94,
+      "utterance": "<IT'S GREY> IT'S GREY",
+      "turn_index": 65,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 408.95,
+      "end_time": 409.38,
+      "utterance": "PERFECT",
+      "turn_index": 66,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 409.89,
+      "end_time": 410.31,
+      "utterance": "<%aa>",
+      "turn_index": 67,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 410.91,
+      "end_time": 414.17,
+      "utterance": "ON THE RIGHT OF THE HOUSE THERE'S A GREY CAT ANOTHER ONE",
+      "turn_index": 68,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U7B",
+          "speaker_after": "U7B",
+          "turn_index": 69,
+          "start_time": 413.62,
+          "end_time": 413.98
+        }
+      ]
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 413.62,
+      "end_time": 413.98,
+      "utterance": "YES",
+      "turn_index": 69,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 414.91,
+      "end_time": 417.83,
+      "utterance": "<THEY ARE> <THERE'S THE CAT> THE MIDDLE CAT",
+      "turn_index": 70,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 418.14,
+      "end_time": 419.99,
+      "utterance": "<BELOW> BELOW THE SUN HAS A TAIL",
+      "turn_index": 71,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U12B",
+          "speaker_after": "U12B",
+          "turn_index": 72,
+          "start_time": 418.2,
+          "end_time": 418.59
+        }
+      ]
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 418.2,
+      "end_time": 418.59,
+      "utterance": "YES",
+      "turn_index": 72,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 420.51,
+      "end_time": 421.53,
+      "utterance": "THEY BOTH HAVE A TAIL",
+      "turn_index": 73,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 421.73,
+      "end_time": 423.6,
+      "utterance": "OKAY THE ONE ON THE RIGHT DOESN'T HAVE A TAIL",
+      "turn_index": 74,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 424.2,
+      "end_time": 425.49,
+      "utterance": "ON THE RIGHT OF THE",
+      "turn_index": 75,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 425.54,
+      "end_time": 426.04,
+      "utterance": "THE HOUSE",
+      "turn_index": 76,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U12B",
+          "start_time": 425.67,
+          "turn_index": 77,
+          "speaker_after": "U7B",
+          "end_time": 426.04
+        }
+      ]
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 425.67,
+      "end_time": 426.15,
+      "utterance": "IMAGE",
+      "turn_index": 77,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 426.78,
+      "end_time": 427.85,
+      "utterance": "OKAY DOESN'T HAVE A TAIL",
+      "turn_index": 78,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 428.09,
+      "end_time": 428.81,
+      "utterance": "DOESN'T HAVE A TAIL",
+      "turn_index": 79,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U12B",
+          "start_time": 428.78235369,
+          "turn_index": 80,
+          "speaker_after": "U7B",
+          "end_time": 428.81
+        }
+      ]
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 428.78235369,
+      "end_time": 429.139390164,
+      "utterance": "OKAY",
+      "turn_index": 80,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 429.38,
+      "end_time": 430.43,
+      "utterance": "AND THE TAIL IS TOWARDS",
+      "turn_index": 81,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 431.16,
+      "end_time": 431.4,
+      "utterance": "<%aa>",
+      "turn_index": 82,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U12B",
+          "start_time": 431.2,
+          "turn_index": 83,
+          "speaker_after": "U7B",
+          "end_time": 431.4
+        }
+      ]
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 431.2,
+      "end_time": 431.86,
+      "utterance": "THE RIGHT",
+      "turn_index": 83,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 432.02,
+      "end_time": 433.18,
+      "utterance": "TOWARDS THE RIGHT OKAY YES",
+      "turn_index": 84,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 434.37,
+      "end_time": 436.56,
+      "utterance": "AND ON THE MIDDLE ONE IT'S ALSO TOWARDS THE RIGHT",
+      "turn_index": 85,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 436.86,
+      "end_time": 437.24,
+      "utterance": "YES",
+      "turn_index": 86,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 437.548815489,
+      "end_time": 437.825784722,
+      "utterance": "CORRECT",
+      "turn_index": 87,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 438.172600679,
+      "end_time": 438.469004677,
+      "utterance": "CONTINUE",
+      "turn_index": 88,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U12B",
+          "start_time": 438.27,
+          "turn_index": 89,
+          "speaker_after": "U7B",
+          "end_time": 438.469004677
+        }
+      ]
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 438.27,
+      "end_time": 445.64,
+      "utterance": "<%aa> <NEXT TO THE> <ON THE LEFT OF THAT CAT> <WELL ON THE RIGHT OF THE <%eh>> ON THE LEFT OF THE IMAGE",
+      "turn_index": 89,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 445.91,
+      "end_time": 446.3,
+      "utterance": "YES",
+      "turn_index": 90,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 446.37,
+      "end_time": 447.5,
+      "utterance": "NEXT TO THE CAT",
+      "turn_index": 91,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U7B",
+          "start_time": 447.49,
+          "turn_index": 92,
+          "speaker_after": "U12B",
+          "end_time": 447.5
+        }
+      ]
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 447.49,
+      "end_time": 447.84,
+      "utterance": "YES",
+      "turn_index": 92,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 448.14,
+      "end_time": 449.54,
+      "utterance": "THERE ARE THREE ROCKS",
+      "turn_index": 93,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U7B",
+          "start_time": 449.34,
+          "turn_index": 94,
+          "speaker_after": "U12B",
+          "end_time": 449.54
+        }
+      ]
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 449.34,
+      "end_time": 450.4,
+      "utterance": "I HAVE TWO ROCKS",
+      "turn_index": 94,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 450.51,
+      "end_time": 452.45,
+      "utterance": "YOU HAVE TWO ROCKS I HAVE <%aa>",
+      "turn_index": 95,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 453.08,
+      "end_time": 453.63,
+      "utterance": "TWO",
+      "turn_index": 96,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 454.11,
+      "end_time": 456.59,
+      "utterance": "<IN THE> BEHIND AND ONE IN THE FRONT",
+      "turn_index": 97,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 456.85,
+      "end_time": 458.62,
+      "utterance": "I HAVE ONE IN THE FRONT",
+      "turn_index": 98,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 458.87,
+      "end_time": 461.58,
+      "utterance": "AND ONE BEHIND SLIGHTLY TO THE LEFT",
+      "turn_index": 99,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 463.2,
+      "end_time": 468.74,
+      "utterance": "OKAY <THERE'S> SO <THE> THE ROCK IMMEDIATELY BEHIND THE ONE IN THE FRONT IS MISSING THERE",
+      "turn_index": 100,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 469.016041946,
+      "end_time": 469.392700822,
+      "utterance": "OKAY",
+      "turn_index": 101,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 471.51,
+      "end_time": 472.07,
+      "utterance": "<%aa>",
+      "turn_index": 102,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 472.47,
+      "end_time": 477.41,
+      "utterance": "RIGHT IN FRONT OF THOSE ROCKS THERE ARE TWO FLOWERS ONE BLUE ONE ORANGE",
+      "turn_index": 103,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 478.33,
+      "end_time": 479.94,
+      "utterance": "ONE BLUE ONE ORANGE I HAVE THREE",
+      "turn_index": 104,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 480.35,
+      "end_time": 481.73,
+      "utterance": "ONE BLUE ONE ORANGE",
+      "turn_index": 105,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U12B",
+          "speaker_after": "U12B",
+          "turn_index": 106,
+          "start_time": 480.4,
+          "end_time": 480.68
+        }
+      ]
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 480.4,
+      "end_time": 480.68,
+      "utterance": "OKAY",
+      "turn_index": 106,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 481.98,
+      "end_time": 484.79,
+      "utterance": "AND ONE RED THEY FORM A TRIANGLE",
+      "turn_index": 107,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 485.01,
+      "end_time": 486.82,
+      "utterance": "OKAY SO I MISSING THE",
+      "turn_index": 108,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 487.07,
+      "end_time": 487.95,
+      "utterance": "THE RIGHT",
+      "turn_index": 109,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 488.16,
+      "end_time": 489.96,
+      "utterance": "<%aa> SPOT OF THE TRIANGLE",
+      "turn_index": 110,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 490.58,
+      "end_time": 492.93,
+      "utterance": "WAIT I'M NOT SURE IF IT'S BECAUSE",
+      "turn_index": 111,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U12B",
+          "start_time": 492.8,
+          "turn_index": 112,
+          "speaker_after": "U7B",
+          "end_time": 492.93
+        }
+      ]
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 492.8,
+      "end_time": 493.04,
+      "utterance": "OR",
+      "turn_index": 112,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 493.36,
+      "end_time": 494.01,
+      "utterance": "ON THE",
+      "turn_index": 113,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 494.48,
+      "end_time": 495.55,
+      "utterance": "MIDDLE I HAVE THE BLUE",
+      "turn_index": 114,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 495.79,
+      "end_time": 496.27,
+      "utterance": "OKAY",
+      "turn_index": 115,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U7B",
+          "start_time": 495.87,
+          "turn_index": 116,
+          "speaker_after": "U12B",
+          "end_time": 496.27
+        }
+      ]
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 495.87,
+      "end_time": 497.41,
+      "utterance": "SLIGHTLY ON THE BACK RIGHT",
+      "turn_index": 116,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 497.68,
+      "end_time": 498.7,
+      "utterance": "IT'S AN ORANGE",
+      "turn_index": 117,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 498.9,
+      "end_time": 499.52,
+      "utterance": "OKAY THEN",
+      "turn_index": 118,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U7B",
+          "start_time": 499.093664355,
+          "turn_index": 119,
+          "speaker_after": "U12B",
+          "end_time": 499.52
+        }
+      ]
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 499.093664355,
+      "end_time": 501.53,
+      "utterance": "AND SLIGHTLY ON THE BACK LEFT IT'S A RED ONE",
+      "turn_index": 119,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U12B",
+          "start_time": 501.36,
+          "turn_index": 120,
+          "speaker_after": "U7B",
+          "end_time": 501.53
+        }
+      ]
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 501.36,
+      "end_time": 502.56,
+      "utterance": "THAT'S THE ONE I'M MISSING THEN",
+      "turn_index": 120,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 503.06,
+      "end_time": 503.63,
+      "utterance": "THE LEFT ONE",
+      "turn_index": 121,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 503.83,
+      "end_time": 504.2,
+      "utterance": "YES",
+      "turn_index": 122,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 504.93,
+      "end_time": 507.87,
+      "utterance": "AND THEN <YOU HAVE> YOU HAVE THE SAME NEXT TO IT",
+      "turn_index": 123,
+      "topic": ""
+    }
+  ]
+}

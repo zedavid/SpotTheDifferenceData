@@ -1,0 +1,1123 @@
+{
+  "success": 0.16666666666666666,
+  "dialogue_duration": 200.10899999999674,
+  "audio": {
+    "ig": "U2C_0_city.wav",
+    "if": "U5C_0_city.wav"
+  },
+  "turns": [
+    {
+      "speaker": "U5C",
+      "start_time": 380.062589948,
+      "end_time": 380.845673087,
+      "utterance": "you clicked",
+      "turn_index": 0,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 381.042133506,
+      "end_time": 382.808946124,
+      "utterance": "there awesome you won",
+      "turn_index": 1,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U5C",
+          "speaker_after": "U5C",
+          "turn_index": 2,
+          "start_time": 381.798241553,
+          "end_time": 382.151786777
+        }
+      ]
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 381.798241553,
+      "end_time": 382.151786777,
+      "utterance": "okay",
+      "turn_index": 2,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 383.055291238,
+      "end_time": 383.854430683,
+      "utterance": "<%aa>",
+      "turn_index": 3,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U2C",
+          "start_time": 383.811485189,
+          "turn_index": 4,
+          "speaker_after": "U5C",
+          "end_time": 383.854430683
+        }
+      ]
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 383.811485189,
+      "end_time": 384.057002706,
+      "utterance": "go",
+      "turn_index": 4,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U5C",
+          "start_time": 383.900960666,
+          "turn_index": 5,
+          "speaker_after": "U2C",
+          "end_time": 384.057002706
+        }
+      ]
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 383.900960666,
+      "end_time": 386.854925885,
+      "utterance": "to the <%eh> again left up corner",
+      "turn_index": 5,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 386.981221553,
+      "end_time": 388.131176843,
+      "utterance": "I see two white clouds",
+      "turn_index": 6,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 388.191001106,
+      "end_time": 388.775949462,
+      "utterance": "yeah me too",
+      "turn_index": 7,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 389.039086912,
+      "end_time": 390.880344804,
+      "utterance": "okay underneath >a> a blue building",
+      "turn_index": 8,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 391.286579839,
+      "end_time": 392.78883357,
+      "utterance": "(a=) greenish building",
+      "turn_index": 9,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 393.822394893,
+      "end_time": 397.988933107,
+      "utterance": "okay <%aa> we might wanna move from there because <th-> I have some issues with some colours",
+      "turn_index": 10,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 398.337325878,
+      "end_time": 400.484352228,
+      "utterance": "I see a plane in the centre",
+      "turn_index": 11,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 400.686148948,
+      "end_time": 401.523688639,
+      "utterance": "yes me too",
+      "turn_index": 12,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 401.617633024,
+      "end_time": 402.953708245,
+      "utterance": "it's heading to the left",
+      "turn_index": 13,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U2C",
+          "speaker_after": "U2C",
+          "turn_index": 14,
+          "start_time": 401.780178948,
+          "end_time": 402.311950181
+        }
+      ]
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 401.780178948,
+      "end_time": 402.311950181,
+      "utterance": "facing",
+      "turn_index": 14,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 402.970017081,
+      "end_time": 403.415375488,
+      "utterance": "yes",
+      "turn_index": 15,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 403.52536232,
+      "end_time": 404.84149612,
+      "utterance": "sorry no to the right sorry",
+      "turn_index": 16,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 405.141378558,
+      "end_time": 406.543925183,
+      "utterance": "facing to the left mine is",
+      "turn_index": 17,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U5C",
+          "start_time": 406.371099532,
+          "turn_index": 18,
+          "speaker_after": "U2C",
+          "end_time": 406.543925183
+        }
+      ]
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 406.371099532,
+      "end_time": 407.627409069,
+      "utterance": "mine is flying to the right",
+      "turn_index": 18,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 407.876749675,
+      "end_time": 408.767466489,
+      "utterance": "okay click on it",
+      "turn_index": 19,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U5C",
+          "start_time": 408.395226626,
+          "turn_index": 20,
+          "speaker_after": "U2C",
+          "end_time": 408.767466489
+        }
+      ]
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 408.395226626,
+      "end_time": 409.199530615,
+      "utterance": "okay we click",
+      "turn_index": 20,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 410.203248816,
+      "end_time": 411.494555766,
+      "utterance": "underneath I see five stars",
+      "turn_index": 21,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 411.693969978,
+      "end_time": 412.265624052,
+      "utterance": "<%eh> me too",
+      "turn_index": 22,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 412.604628213,
+      "end_time": 413.249400832,
+      "utterance": "small ones",
+      "turn_index": 23,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U5C",
+          "speaker_after": "U5C",
+          "turn_index": 24,
+          "start_time": 412.697688179,
+          "end_time": 413.129752305
+        }
+      ]
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 412.697688179,
+      "end_time": 413.129752305,
+      "utterance": "okay",
+      "turn_index": 24,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 413.555169291,
+      "end_time": 414.370890914,
+      "utterance": "<%aa> then I <s->",
+      "turn_index": 25,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U2C",
+          "start_time": 413.672941172,
+          "turn_index": 26,
+          "speaker_after": "U5C",
+          "end_time": 414.370890914
+        }
+      ]
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 413.672941172,
+      "end_time": 415.899733207,
+      "utterance": "two in the bottom and three <on> <to-> on top of those",
+      "turn_index": 26,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U5C",
+          "start_time": 415.86963536,
+          "turn_index": 27,
+          "speaker_after": "U2C",
+          "end_time": 415.899733207
+        }
+      ]
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 415.86963536,
+      "end_time": 416.676452244,
+      "utterance": "yeah exactly",
+      "turn_index": 27,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 416.766188635,
+      "end_time": 419.298315622,
+      "utterance": "then I see underneath that I see three lamp posts",
+      "turn_index": 28,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U2C",
+          "speaker_after": "U2C",
+          "turn_index": 29,
+          "start_time": 416.832226532,
+          "end_time": 417.084817868
+        }
+      ]
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 416.832226532,
+      "end_time": 417.084817868,
+      "utterance": "great",
+      "turn_index": 29,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 419.196349616,
+      "end_time": 420.135797638,
+      "utterance": "I see two lamp posts",
+      "turn_index": 30,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 420.39835967,
+      "end_time": 420.727393102,
+      "utterance": "okay",
+      "turn_index": 31,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 421.019681179,
+      "end_time": 422.756970029,
+      "utterance": "mine is one further back",
+      "turn_index": 32,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 423.170541389,
+      "end_time": 423.845226103,
+      "utterance": "to the",
+      "turn_index": 33,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U2C",
+          "start_time": 423.692341882,
+          "turn_index": 34,
+          "speaker_after": "U5C",
+          "end_time": 423.845226103
+        }
+      ]
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 423.692341882,
+      "end_time": 426.289934871,
+      "utterance": "there are total three lamp posts acually sorry",
+      "turn_index": 34,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 426.501585841,
+      "end_time": 426.877149254,
+      "utterance": "okay",
+      "turn_index": 35,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U2C",
+          "speaker_after": "U2C",
+          "turn_index": 36,
+          "start_time": 426.664440772,
+          "end_time": 426.794060003
+        }
+      ]
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 426.664440772,
+      "end_time": 426.794060003,
+      "utterance": "but",
+      "turn_index": 36,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 427.206182686,
+      "end_time": 427.519666102,
+      "utterance": "that's",
+      "turn_index": 37,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U2C",
+          "start_time": 427.220544801,
+          "turn_index": 38,
+          "speaker_after": "U5C",
+          "end_time": 427.519666102
+        }
+      ]
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 427.220544801,
+      "end_time": 430.54549583,
+      "utterance": "one is all the way to the front left of the picture",
+      "turn_index": 38,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 431.516303424,
+      "end_time": 433.347590504,
+      "utterance": "almost at the end of the picture kind of",
+      "turn_index": 39,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 434.731246173,
+      "end_time": 437.636988781,
+      "utterance": "and you should be <%eh> giving instructions sorry",
+      "turn_index": 40,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U5C",
+          "start_time": 437.403333353,
+          "turn_index": 41,
+          "speaker_after": "U2C",
+          "end_time": 437.636988781
+        }
+      ]
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 437.403333353,
+      "end_time": 439.482133358,
+      "utterance": "yeah okay mine is to the left",
+      "turn_index": 41,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 439.568546179,
+      "end_time": 442.03018927,
+      "utterance": "the one that is <further or> to the back",
+      "turn_index": 42,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 442.259772257,
+      "end_time": 444.848833302,
+      "utterance": "to the <le-> <<to> sorry> to the right <of the> of the road",
+      "turn_index": 43,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 445.553940966,
+      "end_time": 447.903704969,
+      "utterance": "the middle one in my picture is to the left",
+      "turn_index": 44,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 448.343865302,
+      "end_time": 451.668382267,
+      "utterance": "(and=) the one closer like to the front is to the right again",
+      "turn_index": 45,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U2C",
+          "speaker_after": "U2C",
+          "turn_index": 46,
+          "start_time": 448.799573177,
+          "end_time": 448.969075248
+        },
+        {
+          "speaker_before": "U2C",
+          "speaker_after": "U2C",
+          "turn_index": 47,
+          "start_time": 449.43105148,
+          "end_time": 450.468005326
+        }
+      ]
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 448.799573177,
+      "end_time": 448.969075248,
+      "utterance": "yeah",
+      "turn_index": 46,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 449.43105148,
+      "end_time": 450.468005326,
+      "utterance": "I'm probably the same",
+      "turn_index": 47,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 451.95296322,
+      "end_time": 453.116212727,
+      "utterance": "three lamp posts and",
+      "turn_index": 48,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 453.288254853,
+      "end_time": 455.670514755,
+      "utterance": "two of them to the left of the road one of them to the right of the road",
+      "turn_index": 49,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 455.723691875,
+      "end_time": 455.964238301,
+      "utterance": "okay",
+      "turn_index": 50,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 456.309889583,
+      "end_time": 457.846011054,
+      "utterance": "then I see two street lights",
+      "turn_index": 51,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 458.337899417,
+      "end_time": 458.573872888,
+      "utterance": "hello?",
+      "turn_index": 52,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 459.50234756,
+      "end_time": 459.987588782,
+      "utterance": "are you there?",
+      "turn_index": 53,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 460.908217678,
+      "end_time": 461.532743929,
+      "utterance": "what happened?",
+      "turn_index": 54,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 461.808600241,
+      "end_time": 462.337047874,
+      "utterance": "oi oi",
+      "turn_index": 55,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 462.516520655,
+      "end_time": 463.251029629,
+      "utterance": "I can hear you",
+      "turn_index": 56,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U2C",
+          "start_time": 463.014388737,
+          "turn_index": 57,
+          "speaker_after": "U5C",
+          "end_time": 463.251029629
+        }
+      ]
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 463.014388737,
+      "end_time": 463.386628293,
+      "utterance": "hello?",
+      "turn_index": 57,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 464.293722768,
+      "end_time": 465.06479042,
+      "utterance": "can't hear you anymore",
+      "turn_index": 58,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 465.377205761,
+      "end_time": 467.537151594,
+      "utterance": "oh that's too <ba-> I can hear you",
+      "turn_index": 59,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 467.87089232,
+      "end_time": 469.693841679,
+      "utterance": "this <part> part of the experiment?",
+      "turn_index": 60,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 470.150620157,
+      "end_time": 470.868510729,
+      "utterance": "<%aa> no",
+      "turn_index": 61,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 471.473400007,
+      "end_time": 472.711902726,
+      "utterance": "you cannot hear me at all?",
+      "turn_index": 62,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U2C",
+          "start_time": 472.196749769,
+          "turn_index": 63,
+          "speaker_after": "U5C",
+          "end_time": 472.711902726
+        }
+      ]
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 472.196749769,
+      "end_time": 474.194028748,
+      "utterance": "it's a psychology experiment really",
+      "turn_index": 63,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 474.815415731,
+      "end_time": 476.862177678,
+      "utterance": "has nothing to do with (the=) clicking",
+      "turn_index": 64,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 477.225764753,
+      "end_time": 477.717216849,
+      "utterance": "no",
+      "turn_index": 65,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 477.826894576,
+      "end_time": 478.784082005,
+      "utterance": "are you there?",
+      "turn_index": 66,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 480.368933007,
+      "end_time": 481.023675797,
+      "utterance": "(oi=)",
+      "turn_index": 67,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U2C",
+          "speaker_after": "U2C",
+          "turn_index": 68,
+          "start_time": 480.638141972,
+          "end_time": 481.000724107
+        }
+      ]
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 480.638141972,
+      "end_time": 481.000724107,
+      "utterance": "or?",
+      "turn_index": 68,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 481.866983973,
+      "end_time": 483.824565208,
+      "utterance": "(hello=) I'm here",
+      "turn_index": 69,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U2C",
+          "start_time": 483.554735701,
+          "turn_index": 70,
+          "speaker_after": "U5C",
+          "end_time": 483.824565208
+        }
+      ]
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 483.554735701,
+      "end_time": 484.285920543,
+      "utterance": "I dont't know",
+      "turn_index": 70,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 486.14970039,
+      "end_time": 486.837678855,
+      "utterance": "what's going on?",
+      "turn_index": 71,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U5C",
+          "start_time": 486.153961491,
+          "turn_index": 72,
+          "speaker_after": "U2C",
+          "end_time": 486.837678855
+        }
+      ]
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 486.153961491,
+      "end_time": 487.206594843,
+      "utterance": "I'm here",
+      "turn_index": 72,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 488.978754805,
+      "end_time": 489.523819868,
+      "utterance": "can you hear me?",
+      "turn_index": 73,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 489.896059424,
+      "end_time": 490.776804802,
+      "utterance": "I can hear you",
+      "turn_index": 74,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 492.266776872,
+      "end_time": 492.851724746,
+      "utterance": "I'm here",
+      "turn_index": 75,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 493.233935004,
+      "end_time": 493.725822988,
+      "utterance": "hello?",
+      "turn_index": 76,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 494.054986444,
+      "end_time": 494.603375076,
+      "utterance": "hello?",
+      "turn_index": 77,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 495.633626613,
+      "end_time": 497.252203967,
+      "utterance": "(I=) dont't hear anything anymore",
+      "turn_index": 78,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U5C",
+          "speaker_after": "U5C",
+          "turn_index": 79,
+          "start_time": 495.660149808,
+          "end_time": 496.544218753
+        }
+      ]
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 495.660149808,
+      "end_time": 496.544218753,
+      "utterance": "hello I'm here",
+      "turn_index": 79,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 497.701016264,
+      "end_time": 498.462113213,
+      "utterance": "hello?",
+      "turn_index": 80,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U2C",
+          "start_time": 497.883812474,
+          "turn_index": 81,
+          "speaker_after": "U5C",
+          "end_time": 498.462113213
+        }
+      ]
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 497.883812474,
+      "end_time": 498.71470434,
+      "utterance": "is that part of it?",
+      "turn_index": 81,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 499.134105351,
+      "end_time": 500.86267495,
+      "utterance": "I'm here <Jos-> Jos\u00e9 is coming",
+      "turn_index": 82,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U2C",
+          "speaker_after": "U2C",
+          "turn_index": 83,
+          "start_time": 499.283980406,
+          "end_time": 499.543218668
+        }
+      ]
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 499.283980406,
+      "end_time": 499.543218668,
+      "utterance": "Z\u00e9",
+      "turn_index": 83,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 501.275494583,
+      "end_time": 502.24929985,
+      "utterance": "he cannot hear me",
+      "turn_index": 84,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 504.913123157,
+      "end_time": 505.285362713,
+      "utterance": "what is it?",
+      "turn_index": 85,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 505.38174617,
+      "end_time": 505.873634154,
+      "utterance": "ai ai ai",
+      "turn_index": 86,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 507.408315889,
+      "end_time": 508.079676517,
+      "utterance": "can you hear me?",
+      "turn_index": 87,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 508.222589918,
+      "end_time": 509.256219398,
+      "utterance": "no he cannot hear me right?",
+      "turn_index": 88,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 513.568542829,
+      "end_time": 515.396503527,
+      "utterance": "I don't think this is part of the experiment",
+      "turn_index": 89,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U2C",
+          "speaker_after": "U2C",
+          "turn_index": 90,
+          "start_time": 514.332962757,
+          "end_time": 514.728466981
+        }
+      ]
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 514.332962757,
+      "end_time": 514.728466981,
+      "utterance": "hello?",
+      "turn_index": 90,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 515.985471654,
+      "end_time": 517.38136876,
+      "utterance": "this is not fair this is a",
+      "turn_index": 91,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 517.730343037,
+      "end_time": 521.302434539,
+      "utterance": "psychological experiment that has nothing to do with the pictures",
+      "turn_index": 92,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 521.535901127,
+      "end_time": 523.131528043,
+      "utterance": "like know I can't hear anything anymore",
+      "turn_index": 93,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 524.086404038,
+      "end_time": 524.325700685,
+      "utterance": "right?",
+      "turn_index": 94,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 524.953854383,
+      "end_time": 525.781421954,
+      "utterance": "poor thing",
+      "turn_index": 95,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 526.615463397,
+      "end_time": 527.974801294,
+      "utterance": "that is so frustrating",
+      "turn_index": 96,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U2C",
+          "start_time": 527.403148193,
+          "turn_index": 97,
+          "speaker_after": "U5C",
+          "end_time": 527.974801294
+        }
+      ]
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 527.403148193,
+      "end_time": 528.077831794,
+      "utterance": "what's going on?",
+      "turn_index": 97,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 531.772023244,
+      "end_time": 532.55970804,
+      "utterance": "(hello=) ?",
+      "turn_index": 98,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 533.609954434,
+      "end_time": 534.520611118,
+      "utterance": "I'm (here=)",
+      "turn_index": 99,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 536.036548353,
+      "end_time": 537.754831219,
+      "utterance": "she knows that I can't hear anything or?",
+      "turn_index": 100,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 538.055836942,
+      "end_time": 539.345379983,
+      "utterance": "yeah I can hear you",
+      "turn_index": 101,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 540.979081452,
+      "end_time": 541.896385265,
+      "utterance": "you can hear me",
+      "turn_index": 102,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 541.906355958,
+      "end_time": 543.237601525,
+      "utterance": "I can hear you yes",
+      "turn_index": 103,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 543.408117114,
+      "end_time": 547.026606131,
+      "utterance": "and if you speak very loud i can hear you through the walls in the corridor",
+      "turn_index": 104,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U5C",
+          "start_time": 546.109302319,
+          "turn_index": 105,
+          "speaker_after": "U2C",
+          "end_time": 547.026606131
+        }
+      ]
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 546.109302319,
+      "end_time": 548.349080411,
+      "utterance": "that's why I'm shouting because my door is open",
+      "turn_index": 105,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 555.259628985,
+      "end_time": 555.924341893,
+      "utterance": "too bad",
+      "turn_index": 106,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 557.652595454,
+      "end_time": 558.417602239,
+      "utterance": "oi",
+      "turn_index": 107,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 577.842318196,
+      "end_time": 579.025507172,
+      "utterance": "we should start again",
+      "turn_index": 108,
+      "topic": ""
+    }
+  ]
+}

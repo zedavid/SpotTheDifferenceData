@@ -1,0 +1,1298 @@
+{
+  "success": 0.5,
+  "dialogue_duration": 200.4559999999983,
+  "audio": {
+    "ig": "U3A_0_sea.wav",
+    "if": "U4A_0_sea.wav"
+  },
+  "turns": [
+    {
+      "speaker": "U4A",
+      "start_time": 83.39,
+      "end_time": 84.59,
+      "utterance": "ANY BUTTONS OKAY",
+      "turn_index": 0,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U4A",
+          "start_time": 83.97,
+          "turn_index": 1,
+          "speaker_after": "U3A",
+          "end_time": 84.59
+        }
+      ]
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 83.97,
+      "end_time": 84.62,
+      "utterance": "I PRESS",
+      "turn_index": 1,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 85.34,
+      "end_time": 86.02,
+      "utterance": "NOW I SEE IT",
+      "turn_index": 2,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 87.7,
+      "end_time": 88.06,
+      "utterance": "OKAY",
+      "turn_index": 3,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U4A",
+          "start_time": 87.71,
+          "turn_index": 4,
+          "speaker_after": "U3A",
+          "end_time": 88.06
+        }
+      ]
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 87.71,
+      "end_time": 88.13,
+      "utterance": "YOU PRESS?",
+      "turn_index": 4,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 88.85,
+      "end_time": 90.75,
+      "utterance": "<YEAH> NO YOU <%eh> I'VE GOT THE PICTURE",
+      "turn_index": 5,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 91.02,
+      "end_time": 91.45,
+      "utterance": "GO AHEAD",
+      "turn_index": 6,
+      "topic": ""
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 92.42,
+      "end_time": 93.38,
+      "utterance": "OKAY I",
+      "turn_index": 7,
+      "topic": ""
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 93.64,
+      "end_time": 95.03,
+      "utterance": "HAVE <%aa> TWO",
+      "turn_index": 8,
+      "topic": ""
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 95.29,
+      "end_time": 95.9,
+      "utterance": "SHARK",
+      "turn_index": 9,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 96.51,
+      "end_time": 97.26,
+      "utterance": "TWO SHARKS",
+      "turn_index": 10,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 97.46,
+      "end_time": 98.08,
+      "utterance": "<%aa>",
+      "turn_index": 11,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U4A",
+          "start_time": 97.75,
+          "turn_index": 12,
+          "speaker_after": "U3A",
+          "end_time": 98.08
+        }
+      ]
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 97.75,
+      "end_time": 98.35,
+      "utterance": "TOO SHARKS YEAH",
+      "turn_index": 12,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 98.76,
+      "end_time": 100.98,
+      "utterance": "WHERE EXACTLY ARE THE SHARKS IN THE PICTURE?",
+      "turn_index": 13,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U4A",
+          "speaker_after": "U4A",
+          "turn_index": 14,
+          "start_time": 100.55,
+          "end_time": 100.87
+        }
+      ]
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 100.55,
+      "end_time": 100.87,
+      "utterance": "<%aa>",
+      "turn_index": 14,
+      "topic": ""
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 101.09,
+      "end_time": 102.57,
+      "utterance": "MY SHARKS <%aa>",
+      "turn_index": 15,
+      "topic": ""
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 104.45,
+      "end_time": 105.17,
+      "utterance": "RIGHT",
+      "turn_index": 16,
+      "topic": ""
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 105.65,
+      "end_time": 106.49,
+      "utterance": "UP <%aa>",
+      "turn_index": 17,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U3A",
+          "start_time": 106.36,
+          "turn_index": 18,
+          "speaker_after": "U4A",
+          "end_time": 106.49
+        }
+      ]
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 106.36,
+      "end_time": 107.23,
+      "utterance": "TOP AHA",
+      "turn_index": 18,
+      "topic": ""
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 107.8,
+      "end_time": 108.83,
+      "utterance": "RIGHT TOP YEAH",
+      "turn_index": 19,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U3A",
+          "speaker_after": "U3A",
+          "turn_index": 20,
+          "start_time": 107.95,
+          "end_time": 108.25
+        }
+      ]
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 107.95,
+      "end_time": 108.25,
+      "utterance": "OKAY",
+      "turn_index": 20,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 108.99,
+      "end_time": 109.26,
+      "utterance": "OKAY",
+      "turn_index": 21,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 109.72,
+      "end_time": 110.29,
+      "utterance": "<%ahm>",
+      "turn_index": 22,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 110.54,
+      "end_time": 111.7,
+      "utterance": "WHAT COLOR ARE THEY?",
+      "turn_index": 23,
+      "topic": ""
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 112.07,
+      "end_time": 113.62,
+      "utterance": "<%aa> DARK BLUE",
+      "turn_index": 24,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 113.83,
+      "end_time": 114.15,
+      "utterance": "AHA",
+      "turn_index": 25,
+      "topic": ""
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 114.66,
+      "end_time": 116.47,
+      "utterance": "DARK BLUE UP WITH <%aa>",
+      "turn_index": 26,
+      "topic": ""
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 116.76,
+      "end_time": 117.47,
+      "utterance": "STOMACH",
+      "turn_index": 27,
+      "topic": ""
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 117.71,
+      "end_time": 118.13,
+      "utterance": "<%ahm>",
+      "turn_index": 28,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 118.91,
+      "end_time": 119.45,
+      "utterance": "GREY?",
+      "turn_index": 29,
+      "topic": ""
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 120.06,
+      "end_time": 120.39,
+      "utterance": "NO",
+      "turn_index": 30,
+      "topic": ""
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 120.61,
+      "end_time": 122.89,
+      "utterance": "<+ IT'S> I THINK IT'S NOT GREY IT'S <%aa>",
+      "turn_index": 31,
+      "topic": ""
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 123.57,
+      "end_time": 125.89,
+      "utterance": "LIGHT BLUE <OR GREY> OR GREY YEAH",
+      "turn_index": 32,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U3A",
+          "speaker_after": "U3A",
+          "turn_index": 33,
+          "start_time": 124.52,
+          "end_time": 125.16
+        }
+      ]
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 124.52,
+      "end_time": 125.16,
+      "utterance": "LIGHT BLUE",
+      "turn_index": 33,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 125.77,
+      "end_time": 126.16,
+      "utterance": "AHA",
+      "turn_index": 34,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 126.93,
+      "end_time": 128.7,
+      "utterance": "AND <%aa> THE OTHER SHARK?",
+      "turn_index": 35,
+      "topic": ""
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 130.02,
+      "end_time": 131.91,
+      "utterance": "<%aa> <BOTH> BOTH SHARK",
+      "turn_index": 36,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U3A",
+          "start_time": 131.45,
+          "turn_index": 37,
+          "speaker_after": "U4A",
+          "end_time": 131.91
+        }
+      ]
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 131.45,
+      "end_time": 132.37,
+      "utterance": "BOTH OF THEM OKAY",
+      "turn_index": 37,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 132.67,
+      "end_time": 134.99,
+      "utterance": "<%aa> <+ THE ONE> FOR ME THE ONE AT THE BOTTOM",
+      "turn_index": 38,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U4A",
+          "speaker_after": "U4A",
+          "turn_index": 39,
+          "start_time": 132.74,
+          "end_time": 132.95
+        }
+      ]
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 132.74,
+      "end_time": 132.95,
+      "utterance": "YEAH",
+      "turn_index": 39,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 135.26,
+      "end_time": 136.4,
+      "utterance": "HAS GREEN",
+      "turn_index": 40,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 136.6,
+      "end_time": 137.17,
+      "utterance": "TOPS",
+      "turn_index": 41,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 137.73,
+      "end_time": 138.18,
+      "utterance": "SKIN",
+      "turn_index": 42,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 138.72,
+      "end_time": 142.74,
+      "utterance": "<SO THE TOP OF <THE=>> SO YOU GOT TWO SHARKS",
+      "turn_index": 43,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U4A",
+          "start_time": 142.68,
+          "turn_index": 44,
+          "speaker_after": "U3A",
+          "end_time": 142.74
+        }
+      ]
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 142.68,
+      "end_time": 143.18,
+      "utterance": "YEAH YEAH",
+      "turn_index": 44,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 143.3,
+      "end_time": 144.94,
+      "utterance": "BOTTOM SHARK IS GREEN",
+      "turn_index": 45,
+      "topic": ""
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 145.44,
+      "end_time": 145.77,
+      "utterance": "YEAH",
+      "turn_index": 46,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 146.39,
+      "end_time": 148.0,
+      "utterance": "SO WE'VE GOT A DIFFERENCE THERE",
+      "turn_index": 47,
+      "topic": ""
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 148.64,
+      "end_time": 149.47,
+      "utterance": "OKAY",
+      "turn_index": 48,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 151.12,
+      "end_time": 151.8,
+      "utterance": "<%aa>",
+      "turn_index": 49,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U4A",
+          "speaker_after": "U4A",
+          "turn_index": 50,
+          "start_time": 151.27,
+          "end_time": 151.57
+        }
+      ]
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 151.27,
+      "end_time": 151.57,
+      "utterance": "<%aa>",
+      "turn_index": 50,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 152.03,
+      "end_time": 154.41,
+      "utterance": "DO THEY ALL HAVE THEIR TEETH SHOWING?",
+      "turn_index": 51,
+      "topic": ""
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 155.01,
+      "end_time": 155.41,
+      "utterance": "<%ahm>",
+      "turn_index": 52,
+      "topic": ""
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 156.44,
+      "end_time": 156.97,
+      "utterance": "YEAH YEAH",
+      "turn_index": 53,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 157.55,
+      "end_time": 158.89,
+      "utterance": "THEIR TEETH ARE POINTY",
+      "turn_index": 54,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 159.12,
+      "end_time": 159.64,
+      "utterance": "SHOWING",
+      "turn_index": 55,
+      "topic": ""
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 160.08,
+      "end_time": 160.37,
+      "utterance": "YEAH",
+      "turn_index": 56,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 160.63,
+      "end_time": 161.04,
+      "utterance": "<%aa>",
+      "turn_index": 57,
+      "topic": ""
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 161.44,
+      "end_time": 163.05,
+      "utterance": "TWO SHARKS WITH <%aa>",
+      "turn_index": 58,
+      "topic": ""
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 163.41,
+      "end_time": 164.61,
+      "utterance": "WHITE TEETH",
+      "turn_index": 59,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 165.22,
+      "end_time": 165.59,
+      "utterance": "AHA",
+      "turn_index": 60,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 166.11,
+      "end_time": 166.94,
+      "utterance": "BIG NOSE",
+      "turn_index": 61,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U4A",
+          "speaker_after": "U4A",
+          "turn_index": 62,
+          "start_time": 166.22,
+          "end_time": 166.61
+        }
+      ]
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 166.22,
+      "end_time": 166.61,
+      "utterance": "WITH",
+      "turn_index": 62,
+      "topic": ""
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 167.76,
+      "end_time": 168.69,
+      "utterance": "BIG NOSE",
+      "turn_index": 63,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 169.04,
+      "end_time": 169.25,
+      "utterance": "FOR",
+      "turn_index": 64,
+      "topic": ""
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 170.97,
+      "end_time": 174.15,
+      "utterance": "<BOTH> <%aa> <BOTH SHARKS> BOTH SHARKS",
+      "turn_index": 65,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U3A",
+          "speaker_after": "U3A",
+          "turn_index": 66,
+          "start_time": 173.201041165,
+          "end_time": 173.658005385
+        }
+      ]
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 173.201041165,
+      "end_time": 173.658005385,
+      "utterance": "OKAY",
+      "turn_index": 66,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 174.85,
+      "end_time": 175.95,
+      "utterance": "<I THINK> I THINK WE'VE",
+      "turn_index": 67,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U4A",
+          "start_time": 175.51,
+          "turn_index": 68,
+          "speaker_after": "U3A",
+          "end_time": 175.95
+        }
+      ]
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 175.51,
+      "end_time": 176.58,
+      "utterance": "WITHOUT DIFFERENCE",
+      "turn_index": 68,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 176.963418479,
+      "end_time": 177.459660714,
+      "utterance": "OKAY",
+      "turn_index": 69,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 178.618140954,
+      "end_time": 179.52,
+      "utterance": "I THINK WE'VE GOT THEM",
+      "turn_index": 70,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 179.84,
+      "end_time": 181.1,
+      "utterance": "SHOULD WE MOVE TO",
+      "turn_index": 71,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 181.82,
+      "end_time": 182.78,
+      "utterance": "WHAT ELSE HAVE YOU GOT?",
+      "turn_index": 72,
+      "topic": ""
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 183.93,
+      "end_time": 185.14,
+      "utterance": "<%eh> WHAT?",
+      "turn_index": 73,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 185.66,
+      "end_time": 187.52,
+      "utterance": "WHAT ELSE HAVE YOU GOT ON THE PICTURE?",
+      "turn_index": 74,
+      "topic": ""
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 187.75,
+      "end_time": 189.23,
+      "utterance": "<%aa> I HAVE <%aa>",
+      "turn_index": 75,
+      "topic": ""
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 190.14,
+      "end_time": 190.79,
+      "utterance": "<TWO=>",
+      "turn_index": 76,
+      "topic": ""
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 191.17,
+      "end_time": 191.71,
+      "utterance": "<%ahm>",
+      "turn_index": 77,
+      "topic": ""
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 193.32,
+      "end_time": 194.38,
+      "utterance": "PINK <%aa>",
+      "turn_index": 78,
+      "topic": ""
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 196.40531566,
+      "end_time": 196.830522392,
+      "utterance": "I DON'T KNOW",
+      "turn_index": 79,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U3A",
+          "start_time": 196.42,
+          "turn_index": 80,
+          "speaker_after": "U4A",
+          "end_time": 196.830522392
+        }
+      ]
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 196.42,
+      "end_time": 197.19,
+      "utterance": "OCTOPUS?",
+      "turn_index": 80,
+      "topic": ""
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 197.22,
+      "end_time": 198.02,
+      "utterance": "OCTOPUS YEAH",
+      "turn_index": 81,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 198.17,
+      "end_time": 198.56,
+      "utterance": "AHA",
+      "turn_index": 82,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U4A",
+          "start_time": 198.34,
+          "turn_index": 83,
+          "speaker_after": "U3A",
+          "end_time": 198.56
+        }
+      ]
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 198.34,
+      "end_time": 198.62,
+      "utterance": "YEAH",
+      "turn_index": 83,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 198.89,
+      "end_time": 200.07,
+      "utterance": "OKAY I'VE GOT THREE",
+      "turn_index": 84,
+      "topic": ""
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 200.4,
+      "end_time": 200.81,
+      "utterance": "THREE",
+      "turn_index": 85,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 201.03,
+      "end_time": 201.59,
+      "utterance": "YES",
+      "turn_index": 86,
+      "topic": ""
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 201.59,
+      "end_time": 203.53,
+      "utterance": "WHERE IS YOUR <%aa> THIRD?",
+      "turn_index": 87,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U3A",
+          "start_time": 203.51,
+          "turn_index": 88,
+          "speaker_after": "U4A",
+          "end_time": 203.53
+        }
+      ]
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 203.51,
+      "end_time": 209.62,
+      "utterance": "THE THIRD SO THEY <ARE=> JUST LIKE IN THE PREVIOUS PICTURE WITH THE SHEEP THEY ARE IN A TRIANGLE",
+      "turn_index": 88,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 210.17,
+      "end_time": 210.98,
+      "utterance": "BUT THEY ARE",
+      "turn_index": 89,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 211.44,
+      "end_time": 213.25,
+      "utterance": "JUST TO THE LEFT OF THE SHARKS",
+      "turn_index": 90,
+      "topic": ""
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 213.654730423,
+      "end_time": 214.031293367,
+      "utterance": "<%aa>",
+      "turn_index": 91,
+      "topic": ""
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 214.44,
+      "end_time": 216.16,
+      "utterance": "LEFT OF THE SHARKS",
+      "turn_index": 92,
+      "topic": ""
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 217.06,
+      "end_time": 218.44,
+      "utterance": "LEFT OF THE SHARKS",
+      "turn_index": 93,
+      "topic": ""
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 219.18,
+      "end_time": 219.97,
+      "utterance": "OKAY",
+      "turn_index": 94,
+      "topic": ""
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 220.28,
+      "end_time": 220.6,
+      "utterance": "YEAH",
+      "turn_index": 95,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 220.99,
+      "end_time": 221.27,
+      "utterance": "YEAH",
+      "turn_index": 96,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 221.82,
+      "end_time": 225.97,
+      "utterance": "<%aa> SO THEY ARE OVER THERE AND I'VE GOT ONE AT THE TOP AND TWO",
+      "turn_index": 97,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 226.76,
+      "end_time": 227.24,
+      "utterance": "BELOW",
+      "turn_index": 98,
+      "topic": ""
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 227.84,
+      "end_time": 231.42,
+      "utterance": "<%eh> <ONE OF THE TOP> ONE OF THE TOP AND TWO BELOW",
+      "turn_index": 99,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 231.53,
+      "end_time": 231.95,
+      "utterance": "YES",
+      "turn_index": 100,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U4A",
+          "start_time": 231.78,
+          "turn_index": 101,
+          "speaker_after": "U3A",
+          "end_time": 231.95
+        }
+      ]
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 231.78,
+      "end_time": 232.57,
+      "utterance": "OKAY",
+      "turn_index": 101,
+      "topic": ""
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 233.06,
+      "end_time": 233.51,
+      "utterance": "<%aa>",
+      "turn_index": 102,
+      "topic": ""
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 233.94,
+      "end_time": 234.7,
+      "utterance": "OKAY",
+      "turn_index": 103,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U3A",
+          "start_time": 233.97,
+          "turn_index": 104,
+          "speaker_after": "U4A",
+          "end_time": 234.7
+        }
+      ]
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 233.97,
+      "end_time": 236.27,
+      "utterance": "<WHERE> WHERE ARE YOUR TWO",
+      "turn_index": 104,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 236.9,
+      "end_time": 237.63,
+      "utterance": "OCTOPUS",
+      "turn_index": 105,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U4A",
+          "start_time": 236.94,
+          "turn_index": 106,
+          "speaker_after": "U3A",
+          "end_time": 237.63
+        }
+      ]
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 236.94,
+      "end_time": 237.94,
+      "utterance": "MY TWO",
+      "turn_index": 106,
+      "topic": ""
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 238.2,
+      "end_time": 241.21,
+      "utterance": "<<I DON'T HAVE> <%aa> I DON'T HAVE> ONE OCTOPUS",
+      "turn_index": 107,
+      "topic": ""
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 241.74,
+      "end_time": 244.46,
+      "utterance": "<IN <THE=>> CLOSE TO THE",
+      "turn_index": 108,
+      "topic": ""
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 244.76,
+      "end_time": 245.52,
+      "utterance": "LEFT SIDE",
+      "turn_index": 109,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 247.27,
+      "end_time": 248.89,
+      "utterance": "YES CLOSE TO THE LEFT SIDE",
+      "turn_index": 110,
+      "topic": ""
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 249.01,
+      "end_time": 249.32,
+      "utterance": "YEAH",
+      "turn_index": 111,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 249.42,
+      "end_time": 251.36,
+      "utterance": "ARE THEY BOTH IN THE SAME LINE?",
+      "turn_index": 112,
+      "topic": ""
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 252.54,
+      "end_time": 252.9,
+      "utterance": "WELL",
+      "turn_index": 113,
+      "topic": ""
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 253.2,
+      "end_time": 258.73,
+      "utterance": "I HAVE <ONE~> <ONE OCTOPUS<%aa>> ONE OCTOPUS <%aa>",
+      "turn_index": 114,
+      "topic": ""
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 259.69,
+      "end_time": 260.43,
+      "utterance": "UP LINE",
+      "turn_index": 115,
+      "topic": ""
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 260.8,
+      "end_time": 261.59,
+      "utterance": "AND <%aa>",
+      "turn_index": 116,
+      "topic": ""
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 261.87,
+      "end_time": 262.96,
+      "utterance": "SECOND OCTOPUS",
+      "turn_index": 117,
+      "topic": ""
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 264.41,
+      "end_time": 265.597628416,
+      "utterance": "DOWNLINE OF",
+      "turn_index": 118,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U3A",
+          "start_time": 265.23,
+          "turn_index": 119,
+          "speaker_after": "U4A",
+          "end_time": 265.597628416
+        }
+      ]
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 265.23,
+      "end_time": 265.91,
+      "utterance": "JUST BELOW",
+      "turn_index": 119,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 266.3,
+      "end_time": 266.68,
+      "utterance": "OKAY",
+      "turn_index": 120,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U4A",
+          "start_time": 266.44,
+          "turn_index": 121,
+          "speaker_after": "U3A",
+          "end_time": 266.68
+        }
+      ]
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 266.44,
+      "end_time": 266.95,
+      "utterance": "BELOW",
+      "turn_index": 121,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 267.06,
+      "end_time": 267.44,
+      "utterance": "<%aa>",
+      "turn_index": 122,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 267.77,
+      "end_time": 270.45,
+      "utterance": "IS IT BELOW MORE TO THE LEFT OR TO THE RIGHT?",
+      "turn_index": 123,
+      "topic": ""
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 270.91,
+      "end_time": 271.31,
+      "utterance": "%<%ahm>",
+      "turn_index": 124,
+      "topic": ""
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 271.72,
+      "end_time": 272.33,
+      "utterance": "BELOW",
+      "turn_index": 125,
+      "topic": ""
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 273.21,
+      "end_time": 274.42,
+      "utterance": "TO THE RIGHT",
+      "turn_index": 126,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 274.68,
+      "end_time": 275.23,
+      "utterance": "TO THE RIGHT",
+      "turn_index": 127,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 275.42,
+      "end_time": 278.14,
+      "utterance": "OKAY SO <I <%aa>> IF YOU CLICK ON THE LEFT",
+      "turn_index": 128,
+      "topic": ""
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 278.27,
+      "end_time": 278.58,
+      "utterance": "YEAH",
+      "turn_index": 129,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U3A",
+          "start_time": 278.57,
+          "turn_index": 130,
+          "speaker_after": "U4A",
+          "end_time": 278.58
+        }
+      ]
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 278.57,
+      "end_time": 281.19,
+      "utterance": "I THINK THERE'S AN OCTOPUS MISSING THERE SO SHALL WE CLICK?",
+      "turn_index": 130,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U4A",
+          "speaker_after": "U4A",
+          "turn_index": 131,
+          "start_time": 280.41,
+          "end_time": 280.74
+        }
+      ]
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 280.41,
+      "end_time": 280.74,
+      "utterance": "YEAH",
+      "turn_index": 131,
+      "topic": ""
+    },
+    {
+      "speaker": "U3A",
+      "start_time": 281.22,
+      "end_time": 281.8,
+      "utterance": "I CLICK",
+      "turn_index": 132,
+      "topic": ""
+    },
+    {
+      "speaker": "U4A",
+      "start_time": 282.13,
+      "end_time": 282.29,
+      "utterance": "YEAH",
+      "turn_index": 133,
+      "topic": ""
+    }
+  ]
+}

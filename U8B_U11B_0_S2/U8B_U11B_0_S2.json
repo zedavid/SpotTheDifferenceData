@@ -1,0 +1,60 @@
+{
+  "participants": {
+    "instruction_giver": {
+      "id": "U8B",
+      "gender": "M",
+      "extraversion": "I"
+    },
+    "instruction_follower": {
+      "id": "U11B",
+      "gender": "F",
+      "extraversion": "E"
+    }
+  },
+  "scenes": {
+    "church": {
+      "scene_file": "U8B_U11B_church.json",
+      "ig_video_offset": "151",
+      "if_video_offset": "199"
+    },
+    "city": {
+      "scene_file": "U8B_U11B_city.json",
+      "ig_video_offset": "413",
+      "if_video_offset": "462"
+    },
+    "jungle": {
+      "scene_file": "U8B_U11B_jungle.json",
+      "ig_video_offset": "629",
+      "if_video_offset": "673"
+    }
+  },
+  "condition": "SP",
+  "turns": [],
+  "data": {
+    "audio": "",
+    "instruction_giver": {
+      "audio": "",
+      "video": "U8B_0_S2.MP4"
+    },
+    "instruction_follower": {
+      "audio": "",
+      "video": "U11B_0_S2.MP4"
+    }
+  },
+  "annotation": {
+    "audio": {
+      "file": "",
+      "tiers_instruction_giver": [],
+      "tiers_instruction_follower": [],
+      "common_tiers": []
+    },
+    "video": {
+      "ig": {
+        "file": "U8B_0_S2.eaf"
+      },
+      "if": {
+        "file": "U11B_0_S2.eaf"
+      }
+    }
+  }
+}

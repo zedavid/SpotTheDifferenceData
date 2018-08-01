@@ -1,0 +1,702 @@
+{
+  "success": 0.5,
+  "dialogue_duration": 161.0899999999965,
+  "audio": {
+    "ig": "U2B_0_city.wav",
+    "if": "U5B_0_city.wav"
+  },
+  "turns": [
+    {
+      "speaker": "U5B",
+      "start_time": 514.727791066,
+      "end_time": 515.012018224,
+      "utterance": "yeah",
+      "turn_index": 0,
+      "topic": ""
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 515.012018224,
+      "end_time": 520.031157029,
+      "utterance": "let's go okay so now we have the same kind of background but now with houses and a road",
+      "turn_index": 1,
+      "topic": ""
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 520.374813633,
+      "end_time": 520.602195741,
+      "utterance": "yes",
+      "turn_index": 2,
+      "topic": ""
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 520.701675414,
+      "end_time": 529.236437352,
+      "utterance": "<%aa> so we start in the right upper corner where there are <%aa> two clouds that are grey and they have a ray like <%ahm> blixt",
+      "turn_index": 3,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U2B",
+          "speaker_after": "U2B",
+          "turn_index": 4,
+          "start_time": 522.797810334,
+          "end_time": 523.025192443
+        },
+        {
+          "speaker_before": "U2B",
+          "speaker_after": "U2B",
+          "turn_index": 5,
+          "start_time": 525.414763362,
+          "end_time": 525.549771489
+        }
+      ]
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 522.797810334,
+      "end_time": 523.025192443,
+      "utterance": "yeah",
+      "turn_index": 4,
+      "topic": ""
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 525.414763362,
+      "end_time": 525.549771489,
+      "utterance": "yeah",
+      "turn_index": 5,
+      "topic": ""
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 529.414079625,
+      "end_time": 530.981889216,
+      "utterance": "<no> no blixt where's the blixt",
+      "turn_index": 6,
+      "topic": ""
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 531.40576784,
+      "end_time": 534.896923049,
+      "utterance": "<%eh> it's <under the lowest> <%eh> under the lowest cloud",
+      "turn_index": 7,
+      "topic": ""
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 535.031931176,
+      "end_time": 536.825613413,
+      "utterance": "okay so that's the change it's the difference",
+      "turn_index": 8,
+      "topic": ""
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 537.585262881,
+      "end_time": 539.170023243,
+      "utterance": "<and you> but your clouds are grey",
+      "turn_index": 9,
+      "topic": ""
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 539.36650991,
+      "end_time": 541.313888383,
+      "utterance": "yeah they're <gr> grey with <whi-> white outlines",
+      "turn_index": 10,
+      "topic": ""
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 541.562739071,
+      "end_time": 541.90886678,
+      "utterance": "yeah",
+      "turn_index": 11,
+      "topic": ""
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 542.870689431,
+      "end_time": 549.858980159,
+      "utterance": "and then <%aa> next to them to the left there is (a=) moon but different colour from before it's more reddish",
+      "turn_index": 12,
+      "topic": "DESCRIBING PICTURE"
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 549.973757696,
+      "end_time": 550.366679834,
+      "utterance": "yeah",
+      "turn_index": 13,
+      "topic": ""
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 550.550043499,
+      "end_time": 552.022747512,
+      "utterance": "and it's the same shape as before",
+      "turn_index": 14,
+      "topic": ""
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 552.022747512,
+      "end_time": 552.415669651,
+      "utterance": "yes",
+      "turn_index": 15,
+      "topic": ""
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 552.991955454,
+      "end_time": 559.859048186,
+      "utterance": "and then to the left of that there's an airplane which is white <with a red> <%aa> with a red stripe on it",
+      "turn_index": 16,
+      "topic": "DESCRIBING PICTURE"
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 560.241983715,
+      "end_time": 561.852964483,
+      "utterance": "yeah and a green star on the tai",
+      "turn_index": 17,
+      "topic": ""
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 562.141107385,
+      "end_time": 563.909257008,
+      "utterance": "oh no it's (a=) red star",
+      "turn_index": 18,
+      "topic": ""
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 564.200296719,
+      "end_time": 565.352868325,
+      "utterance": "AA so that's something",
+      "turn_index": 19,
+      "topic": ""
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 566.112517793,
+      "end_time": 566.492342527,
+      "utterance": "okay",
+      "turn_index": 20,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U5B",
+          "start_time": 566.295881458,
+          "turn_index": 21,
+          "speaker_after": "U2B",
+          "end_time": 566.492342527
+        }
+      ]
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 566.295881458,
+      "end_time": 566.904569076,
+      "utterance": "red star",
+      "turn_index": 21,
+      "topic": ""
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 567.258199,
+      "end_time": 571.425692177,
+      "utterance": "and then under the airplane there are one two three four five stars",
+      "turn_index": 22,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U2B",
+          "start_time": 571.2267126,
+          "turn_index": 23,
+          "speaker_after": "U5B",
+          "end_time": 571.425692177
+        }
+      ]
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 571.2267126,
+      "end_time": 571.593439929,
+      "utterance": "yeah",
+      "turn_index": 23,
+      "topic": ""
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 572.523355657,
+      "end_time": 576.748304742,
+      "utterance": "and then left to the airplane there are two white clouds with blue lining",
+      "turn_index": 24,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U2B",
+          "speaker_after": "U2B",
+          "turn_index": 25,
+          "start_time": 575.74962764,
+          "end_time": 576.217664966
+        }
+      ]
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 575.74962764,
+      "end_time": 576.217664966,
+      "utterance": "yes",
+      "turn_index": 25,
+      "topic": ""
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 576.817066117,
+      "end_time": 577.144501232,
+      "utterance": "yes",
+      "turn_index": 26,
+      "topic": ""
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 578.223937345,
+      "end_time": 588.49455839,
+      "utterance": "under those two <%aa> white clouds there is (a=) like a high rise kind of building that looks like (a=) store kind of building it's blue with a lot of windows",
+      "turn_index": 27,
+      "topic": ""
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 588.716140435,
+      "end_time": 591.774384414,
+      "utterance": "it's not blue it's <%eh> do you have one to the right as well?",
+      "turn_index": 28,
+      "topic": ""
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 592.898489266,
+      "end_time": 595.555884252,
+      "utterance": "<%aa> so is that <%eh> sort of orange and green?",
+      "turn_index": 29,
+      "topic": ""
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 595.979277957,
+      "end_time": 596.260872156,
+      "utterance": "yeah",
+      "turn_index": 30,
+      "topic": ""
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 596.699635211,
+      "end_time": 598.626168367,
+      "utterance": "so the left one is the same colour for me",
+      "turn_index": 31,
+      "topic": ""
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 599.417491127,
+      "end_time": 601.735731745,
+      "utterance": "okay so then <I> we click (the=) left one",
+      "turn_index": 32,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U2B",
+          "start_time": 600.936790063,
+          "turn_index": 33,
+          "speaker_after": "U5B",
+          "end_time": 601.735731745
+        }
+      ]
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 600.936790063,
+      "end_time": 601.983855442,
+      "utterance": "we click the left one yeah",
+      "turn_index": 33,
+      "topic": ""
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 602.921324528,
+      "end_time": 604.166485828,
+      "utterance": "and the right one is the same",
+      "turn_index": 34,
+      "topic": ""
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 604.348941631,
+      "end_time": 604.525756593,
+      "utterance": "yeah",
+      "turn_index": 35,
+      "topic": ""
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 604.781155984,
+      "end_time": 610.786871331,
+      "utterance": "okay so now we go like <in> in the front of the picture there's a road <%eh> that goes like serpentiny",
+      "turn_index": 36,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U2B",
+          "start_time": 610.682092094,
+          "turn_index": 37,
+          "speaker_after": "U5B",
+          "end_time": 610.786871331
+        }
+      ]
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 610.682092094,
+      "end_time": 610.83926095,
+      "utterance": "yeah",
+      "turn_index": 37,
+      "topic": ""
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 612.364359611,
+      "end_time": 612.488784955,
+      "utterance": "yeah",
+      "turn_index": 38,
+      "topic": ""
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 612.816220071,
+      "end_time": 619.380476757,
+      "utterance": "on the road on the first there are <two <%ahm>> two <%ahm> how do you say red lights?",
+      "turn_index": 39,
+      "topic": ""
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 619.850287297,
+      "end_time": 620.903900794,
+      "utterance": "<%aa> yes",
+      "turn_index": 40,
+      "topic": ""
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 621.411089593,
+      "end_time": 625.346859681,
+      "utterance": "and there's <one> one in the begining and then one <by the> by the second curve",
+      "turn_index": 41,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U2B",
+          "speaker_after": "U2B",
+          "turn_index": 42,
+          "start_time": 621.581355853,
+          "end_time": 621.948083182
+        }
+      ]
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 621.581355853,
+      "end_time": 621.948083182,
+      "utterance": "on the <ri->",
+      "turn_index": 42,
+      "topic": ""
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 625.485832271,
+      "end_time": 625.832913494,
+      "utterance": "yes",
+      "turn_index": 43,
+      "topic": ""
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 626.343712274,
+      "end_time": 628.603775516,
+      "utterance": "and they are red yellow and green",
+      "turn_index": 44,
+      "topic": ""
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 628.662713837,
+      "end_time": 630.177823696,
+      "utterance": "yeah they're kind of all shiny",
+      "turn_index": 45,
+      "topic": ""
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 631.066848889,
+      "end_time": 631.891882653,
+      "utterance": "shiny?",
+      "turn_index": 46,
+      "topic": ""
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 631.983667213,
+      "end_time": 634.595705281,
+      "utterance": "yeah <they're all> they're green red and yellow at the same time",
+      "turn_index": 47,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U5B",
+          "start_time": 634.497474747,
+          "turn_index": 48,
+          "speaker_after": "U2B",
+          "end_time": 634.595705281
+        }
+      ]
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 634.497474747,
+      "end_time": 635.849611644,
+      "utterance": "okay yeah exactly yes",
+      "turn_index": 48,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U2B",
+          "start_time": 635.489433017,
+          "turn_index": 49,
+          "speaker_after": "U5B",
+          "end_time": 635.849611644
+        }
+      ]
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 635.489433017,
+      "end_time": 636.183595462,
+      "utterance": "they look lit up",
+      "turn_index": 49,
+      "topic": ""
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 636.242533782,
+      "end_time": 636.57093474,
+      "utterance": "yes",
+      "turn_index": 50,
+      "topic": ""
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 637.337132911,
+      "end_time": 641.638640023,
+      "utterance": "okay and in the front of the picture there is a car with a man driving he's waving",
+      "turn_index": 51,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U2B",
+          "speaker_after": "U2B",
+          "turn_index": 52,
+          "start_time": 639.972610563,
+          "end_time": 640.110133312
+        }
+      ]
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 639.972610563,
+      "end_time": 640.110133312,
+      "utterance": "yeah",
+      "turn_index": 52,
+      "topic": ""
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 641.878282935,
+      "end_time": 642.192620646,
+      "utterance": "yes",
+      "turn_index": 53,
+      "topic": ""
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 642.421825227,
+      "end_time": 648.487052721,
+      "utterance": "the car is blue and it has <%aa> the guy has a yellow shirt with red stars on it",
+      "turn_index": 54,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U2B",
+          "start_time": 647.849188083,
+          "turn_index": 55,
+          "speaker_after": "U5B",
+          "end_time": 648.487052721
+        }
+      ]
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 647.849188083,
+      "end_time": 648.754762472,
+      "utterance": "stars or <some-> yeah",
+      "turn_index": 55,
+      "topic": ""
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 649.560405275,
+      "end_time": 653.96768193,
+      "utterance": "and there're three small like engine clouds behind the car",
+      "turn_index": 56,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U2B",
+          "speaker_after": "U2B",
+          "turn_index": 57,
+          "start_time": 653.253873378,
+          "end_time": 653.620600707
+        }
+      ]
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 653.253873378,
+      "end_time": 653.620600707,
+      "utterance": "yeah",
+      "turn_index": 57,
+      "topic": ""
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 654.053371108,
+      "end_time": 654.407001033,
+      "utterance": "that's right",
+      "turn_index": 58,
+      "topic": ""
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 655.055322562,
+      "end_time": 657.321451814,
+      "utterance": "and then there's <lamps> lamp posts",
+      "turn_index": 59,
+      "topic": ""
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 657.484891118,
+      "end_time": 657.68790089,
+      "utterance": "yeah",
+      "turn_index": 60,
+      "topic": ""
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 658.032988551,
+      "end_time": 660.003061791,
+      "utterance": "and there're three lamp posts",
+      "turn_index": 61,
+      "topic": ""
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 660.122024588,
+      "end_time": 660.364326573,
+      "utterance": "yeah",
+      "turn_index": 62,
+      "topic": ""
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 660.717956498,
+      "end_time": 662.278776077,
+      "utterance": "each of them with three lamps",
+      "turn_index": 63,
+      "topic": ""
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 662.667403457,
+      "end_time": 664.326168367,
+      "utterance": "<%aa> each of them with two lamps",
+      "turn_index": 64,
+      "topic": ""
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 664.752790834,
+      "end_time": 665.787485799,
+      "utterance": "<%aa> sorry two lamps",
+      "turn_index": 65,
+      "topic": ""
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 665.787485799,
+      "end_time": 666.003592975,
+      "utterance": "right",
+      "turn_index": 66,
+      "topic": ""
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 666.003592975,
+      "end_time": 666.69147449,
+      "utterance": "sorry yes",
+      "turn_index": 67,
+      "topic": ""
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 666.723950229,
+      "end_time": 666.9133339,
+      "utterance": "right",
+      "turn_index": 68,
+      "topic": ""
+    },
+    {
+      "speaker": "U2B",
+      "start_time": 667.372271758,
+      "end_time": 670.511515848,
+      "utterance": "okay and in the road there is a white line in the middle of the road",
+      "turn_index": 69,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U2B",
+          "start_time": 670.360895695,
+          "turn_index": 70,
+          "speaker_after": "U5B",
+          "end_time": 670.511515848
+        }
+      ]
+    },
+    {
+      "speaker": "U5B",
+      "start_time": 670.360895695,
+      "end_time": 670.920340703,
+      "utterance": "yes",
+      "turn_index": 70,
+      "topic": ""
+    }
+  ]
+}

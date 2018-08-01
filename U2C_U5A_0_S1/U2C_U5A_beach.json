@@ -1,0 +1,1117 @@
+{
+  "success": 0.5,
+  "dialogue_duration": 200.1359999999986,
+  "audio": {
+    "ig": "U2C_0_beach.wav",
+    "if": "U5A_0_beach.wav"
+  },
+  "turns": [
+    {
+      "speaker": "U2C",
+      "start_time": 99.85,
+      "end_time": 100.93,
+      "utterance": "OKAY SHOULD WE CLICK",
+      "turn_index": 0,
+      "topic": ""
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 101.2,
+      "end_time": 101.48,
+      "utterance": "YEAH",
+      "turn_index": 1,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 101.96,
+      "end_time": 102.31,
+      "utterance": "OKAY",
+      "turn_index": 2,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 103.66,
+      "end_time": 104.1,
+      "utterance": "NOW",
+      "turn_index": 3,
+      "topic": ""
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 104.41,
+      "end_time": 104.6,
+      "utterance": "YEAH",
+      "turn_index": 4,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U5A",
+          "start_time": 104.45,
+          "turn_index": 5,
+          "speaker_after": "U2C",
+          "end_time": 104.6
+        }
+      ]
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 104.45,
+      "end_time": 107.44,
+      "utterance": "<%aa> IN THE LEFT OF UPPER CORNER",
+      "turn_index": 5,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 107.71,
+      "end_time": 108.74,
+      "utterance": "I SEE A SUN",
+      "turn_index": 6,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U2C",
+          "speaker_after": "U2C",
+          "turn_index": 7,
+          "start_time": 107.77,
+          "end_time": 108.02
+        }
+      ]
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 107.77,
+      "end_time": 108.02,
+      "utterance": "YEAH",
+      "turn_index": 7,
+      "topic": ""
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 109.35,
+      "end_time": 109.75,
+      "utterance": "ME TOO",
+      "turn_index": 8,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U5A",
+          "start_time": 109.58,
+          "turn_index": 9,
+          "speaker_after": "U2C",
+          "end_time": 109.75
+        }
+      ]
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 109.58,
+      "end_time": 110.72,
+      "utterance": "IT'S KIND OF WHITISH",
+      "turn_index": 9,
+      "topic": ""
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 110.93,
+      "end_time": 111.17,
+      "utterance": "YEAH",
+      "turn_index": 10,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 111.54,
+      "end_time": 113.03,
+      "utterance": "HAS GOT LIKE ONE TWO THREE FOUR",
+      "turn_index": 11,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 113.48,
+      "end_time": 116.52,
+      "utterance": "<FIVE LIKE> FIVE DIFFERENT LIKE SHAPES AROUND IT",
+      "turn_index": 12,
+      "topic": ""
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 116.92,
+      "end_time": 118.12,
+      "utterance": "OKAY MINE HAVE SIX",
+      "turn_index": 13,
+      "topic": ""
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 118.18,
+      "end_time": 119.35,
+      "utterance": "(SO=) LET'S SEE",
+      "turn_index": 14,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 119.55,
+      "end_time": 123.52,
+      "utterance": "WELL MINE HAS SIX YEAH BECAUSE THE ONE ON THE VERY LEFT IS KIND OF CUT IN TWO",
+      "turn_index": 15,
+      "topic": ""
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 123.54,
+      "end_time": 123.78,
+      "utterance": "YEAH",
+      "turn_index": 16,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 124.17,
+      "end_time": 124.45,
+      "utterance": "OKAY",
+      "turn_index": 17,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 124.79,
+      "end_time": 127.57,
+      "utterance": "AND THEN THERE'S LIKE TWO SQUARES BEHIND LIKE SHIFTED",
+      "turn_index": 18,
+      "topic": ""
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 127.77,
+      "end_time": 128.05,
+      "utterance": "YEAH",
+      "turn_index": 19,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 128.32,
+      "end_time": 129.18,
+      "utterance": "IN LIKE LIGHT BLUE",
+      "turn_index": 20,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 129.97,
+      "end_time": 132.04,
+      "utterance": "OKAY THEN I SEE THREE CLOUDS",
+      "turn_index": 21,
+      "topic": ""
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 132.56,
+      "end_time": 132.96,
+      "utterance": "OKAY",
+      "turn_index": 22,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 133.53,
+      "end_time": 135.1,
+      "utterance": "IN THE SKY FROM <LEF->",
+      "turn_index": 23,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U2C",
+          "start_time": 134.59,
+          "turn_index": 24,
+          "speaker_after": "U5A",
+          "end_time": 135.1
+        }
+      ]
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 134.59,
+      "end_time": 136.04,
+      "utterance": "HOW MANY IN TOTAL DO YOU HAVE",
+      "turn_index": 24,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 136.37,
+      "end_time": 137.96,
+      "utterance": "I HAVE <THREE> THREE CLOUDS",
+      "turn_index": 25,
+      "topic": ""
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 138.51,
+      "end_time": 139.17,
+      "utterance": "OKAY YES",
+      "turn_index": 26,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 139.58,
+      "end_time": 141.9,
+      "utterance": "AH OKAY AND THEY ARE KIND OF <%aa> LIGHT BLUE",
+      "turn_index": 27,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 143.11,
+      "end_time": 145.04,
+      "utterance": "OKAY AND THEN <TO THE> TO THE <%aa>",
+      "turn_index": 28,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 145.36,
+      "end_time": 147.9,
+      "utterance": "RIGHT HAND SIDE I SEE A PALM TREE",
+      "turn_index": 29,
+      "topic": ""
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 148.64,
+      "end_time": 149.13,
+      "utterance": "YES",
+      "turn_index": 30,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 149.18,
+      "end_time": 150.61,
+      "utterance": "THREE COCONUTS BROWN",
+      "turn_index": 31,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 151.57,
+      "end_time": 152.03,
+      "utterance": "AND",
+      "turn_index": 32,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U2C",
+          "speaker_after": "U2C",
+          "turn_index": 33,
+          "start_time": 151.63,
+          "end_time": 151.94
+        }
+      ]
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 151.63,
+      "end_time": 151.94,
+      "utterance": "SO",
+      "turn_index": 33,
+      "topic": ""
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 152.17,
+      "end_time": 154.71,
+      "utterance": "AH YOUR CLOUDS WHERE ARE THEY LOCATED?",
+      "turn_index": 34,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 155.1,
+      "end_time": 156.5,
+      "utterance": "<%aa> ONE IS",
+      "turn_index": 35,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 157.26,
+      "end_time": 161.46,
+      "utterance": "<%aa> BY THE SUN IN THE RIGHT LOWER CORNER",
+      "turn_index": 36,
+      "topic": ""
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 161.6,
+      "end_time": 161.79,
+      "utterance": "YEAH",
+      "turn_index": 37,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 162.24,
+      "end_time": 165.1,
+      "utterance": "THERE'S ONE IN THE KIND OF CENTER OF THE PICTURE BY THE PALM TREE",
+      "turn_index": 38,
+      "topic": ""
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 165.14,
+      "end_time": 165.33,
+      "utterance": "YEAH",
+      "turn_index": 39,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 165.65,
+      "end_time": 167.19,
+      "utterance": "AND THERE'S ONE UNDERNEATH THE PALM TREE",
+      "turn_index": 40,
+      "topic": ""
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 167.27,
+      "end_time": 168.828378462,
+      "utterance": "OKAY YEAH <ME TOO> MINE TOO",
+      "turn_index": 41,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U5A",
+          "start_time": 168.53,
+          "turn_index": 42,
+          "speaker_after": "U2C",
+          "end_time": 168.828378462
+        }
+      ]
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 168.53,
+      "end_time": 174.23,
+      "utterance": "THEN THE PALM TREE IS BROWN <+ WITH> THE TRUNK IS BROWN WITH LIKE <%aa> <RECTANGULAR NO> <%aa> LIKE <%aa>",
+      "turn_index": 42,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U2C",
+          "speaker_after": "U2C",
+          "turn_index": 43,
+          "start_time": 171.56,
+          "end_time": 171.8
+        }
+      ]
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 171.56,
+      "end_time": 171.8,
+      "utterance": "YEAH",
+      "turn_index": 43,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 175.07,
+      "end_time": 176.98,
+      "utterance": "OH MY NOT SQUARES BUT LIKE",
+      "turn_index": 44,
+      "topic": ""
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 177.26,
+      "end_time": 177.46,
+      "utterance": "YEAH",
+      "turn_index": 45,
+      "topic": ""
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 177.72,
+      "end_time": 178.73,
+      "utterance": "<I <%aa>> MINE TWO",
+      "turn_index": 46,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U5A",
+          "start_time": 177.81,
+          "turn_index": 47,
+          "speaker_after": "U2C",
+          "end_time": 178.73
+        }
+      ]
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 177.81,
+      "end_time": 178.89,
+      "utterance": "<%aa> SHAPES OKAY",
+      "turn_index": 47,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 179.53,
+      "end_time": 180.53,
+      "utterance": "DN'T KNOW THE WORD IN ENGLISH",
+      "turn_index": 48,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U2C",
+          "speaker_after": "U2C",
+          "turn_index": 49,
+          "start_time": 179.82,
+          "end_time": 180.08
+        }
+      ]
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 179.82,
+      "end_time": 180.08,
+      "utterance": "HA",
+      "turn_index": 49,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 180.8,
+      "end_time": 182.46,
+      "utterance": "AND THEN THREE BROWN COCONUTS",
+      "turn_index": 50,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U2C",
+          "start_time": 182.4,
+          "turn_index": 51,
+          "speaker_after": "U5A",
+          "end_time": 182.46
+        }
+      ]
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 182.4,
+      "end_time": 182.55,
+      "utterance": "YEAH",
+      "turn_index": 51,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 183.25,
+      "end_time": 185.45,
+      "utterance": "AND <%aa> <TWO> FIVE GREEN",
+      "turn_index": 52,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 185.64,
+      "end_time": 187.23,
+      "utterance": "KIND OF LEAVES OR WELL BRANCHES",
+      "turn_index": 53,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U2C",
+          "speaker_after": "U2C",
+          "turn_index": 54,
+          "start_time": 186.81,
+          "end_time": 186.97
+        }
+      ]
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 186.81,
+      "end_time": 186.97,
+      "utterance": "YEAH",
+      "turn_index": 54,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 187.74,
+      "end_time": 190.55,
+      "utterance": "OKAY THEN DO YOU HAVE FLOATING THINGS IN THE SEA",
+      "turn_index": 55,
+      "topic": ""
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 190.62,
+      "end_time": 191.51,
+      "utterance": "OKAY THREE HERE",
+      "turn_index": 56,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 191.95,
+      "end_time": 192.28,
+      "utterance": "OKAY",
+      "turn_index": 57,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 192.49,
+      "end_time": 197.11,
+      "utterance": "MINE ARE ONE TO THE RIGHT AND ONE IS SLIGHTLY HIGHER UP TO THE LEFT",
+      "turn_index": 58,
+      "topic": ""
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 200.33,
+      "end_time": 203.41,
+      "utterance": "OKAY <SO MINE> I HAVE THREE AND THEY'RE LIKE A V.",
+      "turn_index": 59,
+      "topic": ""
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 203.75,
+      "end_time": 205.59,
+      "utterance": "SO IT'S LIKE ONE TO THE LEFT TOP",
+      "turn_index": 60,
+      "topic": ""
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 205.9,
+      "end_time": 208.2,
+      "utterance": "<AND THEN ONE TO THE> SO I THINK",
+      "turn_index": 61,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U5A",
+          "speaker_after": "U5A",
+          "turn_index": 62,
+          "start_time": 206.13,
+          "end_time": 206.59
+        }
+      ]
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 206.13,
+      "end_time": 206.59,
+      "utterance": "OKAY",
+      "turn_index": 62,
+      "topic": ""
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 208.57,
+      "end_time": 211.48,
+      "utterance": "YOU'RE MISSING THE ONE <TO THE> TO MY RIGHT",
+      "turn_index": 63,
+      "topic": ""
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 211.69,
+      "end_time": 212.09,
+      "utterance": "LIKE",
+      "turn_index": 64,
+      "topic": ""
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 212.29,
+      "end_time": 212.68,
+      "utterance": "<%aa>",
+      "turn_index": 65,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 212.88,
+      "end_time": 214.99,
+      "utterance": "SO UPPER UPPER ON THE RIGHT HAND SIDE",
+      "turn_index": 66,
+      "topic": ""
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 215.09,
+      "end_time": 215.7,
+      "utterance": "YES",
+      "turn_index": 67,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 215.89,
+      "end_time": 217.23,
+      "utterance": "OKAY SO I CLICK THERE",
+      "turn_index": 68,
+      "topic": ""
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 217.33,
+      "end_time": 217.52,
+      "utterance": "YEAH",
+      "turn_index": 69,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 217.91,
+      "end_time": 218.59,
+      "utterance": "OKAY YOU CLICK?",
+      "turn_index": 70,
+      "topic": ""
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 218.89,
+      "end_time": 219.12,
+      "utterance": "YES",
+      "turn_index": 71,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 219.55,
+      "end_time": 220.59,
+      "utterance": "THEN <%aa>",
+      "turn_index": 72,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 221.31,
+      "end_time": 223.31,
+      "utterance": "AND THEY ARE <%aa> RED AND WHITE RIGHT?",
+      "turn_index": 73,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 223.83,
+      "end_time": 225.03,
+      "utterance": "WITH A ROPE AROUND THEM",
+      "turn_index": 74,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 225.9,
+      "end_time": 229.07,
+      "utterance": "OKAY <THEN I SEE THREE WELL> THERE'S KIND OF A LIKE <%aa>",
+      "turn_index": 75,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 229.27,
+      "end_time": 234.09,
+      "utterance": "A GREY SHADE <BY THE> TO THE RIGHT BY THE PALM TREE IS LIKE A MOUNTAIN IT SEEMS",
+      "turn_index": 76,
+      "topic": ""
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 234.6,
+      "end_time": 234.89,
+      "utterance": "AHA",
+      "turn_index": 77,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 235.23,
+      "end_time": 236.11,
+      "utterance": "DO YOU HAVE THAT SHADE",
+      "turn_index": 78,
+      "topic": ""
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 236.12,
+      "end_time": 236.32,
+      "utterance": "YEAH",
+      "turn_index": 79,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 236.67,
+      "end_time": 236.95,
+      "utterance": "OKAY",
+      "turn_index": 80,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 237.25,
+      "end_time": 241.0,
+      "utterance": "THEN <THE> <THE> THE SEA IS LIKE <%aa> LIGHT GREEN",
+      "turn_index": 81,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 241.78,
+      "end_time": 242.8,
+      "utterance": "TURQUOISE KIND OF",
+      "turn_index": 82,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 243.7,
+      "end_time": 245.41,
+      "utterance": "<%aa> THERE'S <%aa>",
+      "turn_index": 83,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 245.68,
+      "end_time": 246.911123361,
+      "utterance": "ONE BIG LEAF",
+      "turn_index": 84,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 247.26,
+      "end_time": 249.41,
+      "utterance": "TO THE BOTTOM OF THE PALM TREE AND <%aa>",
+      "turn_index": 85,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 249.59,
+      "end_time": 251.69,
+      "utterance": "YOU CAN SEE A LITTLE BIT OF ANOTHER ONE TO THE RIGHT",
+      "turn_index": 86,
+      "topic": ""
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 252.73,
+      "end_time": 253.09,
+      "utterance": "OKAY",
+      "turn_index": 87,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 253.6,
+      "end_time": 254.66,
+      "utterance": "DO YOU SEE THE LEAVES",
+      "turn_index": 88,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U2C",
+          "start_time": 254.13,
+          "turn_index": 89,
+          "speaker_after": "U5A",
+          "end_time": 254.66
+        }
+      ]
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 254.13,
+      "end_time": 254.97,
+      "utterance": "YES YES",
+      "turn_index": 89,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 255.2,
+      "end_time": 258.64,
+      "utterance": "AND THEN THERE'S ONE ROUND <+ GREEN THING> DARKER GREEN",
+      "turn_index": 90,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U2C",
+          "speaker_after": "U2C",
+          "turn_index": 91,
+          "start_time": 257.28,
+          "end_time": 257.53
+        }
+      ]
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 257.28,
+      "end_time": 257.53,
+      "utterance": "YEAH",
+      "turn_index": 91,
+      "topic": ""
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 258.87,
+      "end_time": 259.09,
+      "utterance": "YEAH",
+      "turn_index": 92,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 259.32,
+      "end_time": 260.18,
+      "utterance": "WITH FIVE",
+      "turn_index": 93,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 260.57,
+      "end_time": 261.76,
+      "utterance": "SHAPES IN IT",
+      "turn_index": 94,
+      "topic": ""
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 261.89,
+      "end_time": 262.09,
+      "utterance": "YOU",
+      "turn_index": 95,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 262.56,
+      "end_time": 263.7,
+      "utterance": "AND AT GREYSTONE",
+      "turn_index": 96,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 263.88,
+      "end_time": 265.11,
+      "utterance": "<BEHIND> BELOW EVERYTHING",
+      "turn_index": 97,
+      "topic": ""
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 265.13,
+      "end_time": 265.57,
+      "utterance": "YES",
+      "turn_index": 98,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 265.75,
+      "end_time": 267.57,
+      "utterance": "OKAY THEN I SEE THREE SEATS",
+      "turn_index": 99,
+      "topic": ""
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 267.79,
+      "end_time": 268.02,
+      "utterance": "YEAH",
+      "turn_index": 100,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 268.45,
+      "end_time": 271.71,
+      "utterance": "<+BLUE> THE SEAT IS BLUE AND THE STRUCTURE IS BROWN",
+      "turn_index": 101,
+      "topic": ""
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 271.98,
+      "end_time": 276.33,
+      "utterance": "OKAY SO I'VE GOT THE ORANGE ONE <THE> THE LOWER ONE <IS> IS ORANGE",
+      "turn_index": 102,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U5A",
+          "start_time": 276.3,
+          "turn_index": 103,
+          "speaker_after": "U2C",
+          "end_time": 276.33
+        }
+      ]
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 276.3,
+      "end_time": 277.61,
+      "utterance": "OKAY SO WE CLICK IN THAT ONE",
+      "turn_index": 103,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U2C",
+          "start_time": 277.57,
+          "turn_index": 104,
+          "speaker_after": "U5A",
+          "end_time": 277.61
+        }
+      ]
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 277.57,
+      "end_time": 277.78,
+      "utterance": "YEAH",
+      "turn_index": 104,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 278.43,
+      "end_time": 280.87,
+      "utterance": "THEN I SEE THREE <%ahm>",
+      "turn_index": 105,
+      "topic": "DESCRIBING PICTURE",
+      "overlap": [
+        {
+          "speaker_before": "U2C",
+          "start_time": 280.2,
+          "turn_index": 106,
+          "speaker_after": "U5A",
+          "end_time": 280.87
+        }
+      ]
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 280.2,
+      "end_time": 281.77,
+      "utterance": "<WHAT> WHAT WAY ARE THEY FACING",
+      "turn_index": 106,
+      "topic": ""
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 282.18,
+      "end_time": 282.73,
+      "utterance": "LEFT OR RIGHT",
+      "turn_index": 107,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U5A",
+          "start_time": 282.41,
+          "turn_index": 108,
+          "speaker_after": "U2C",
+          "end_time": 282.73
+        }
+      ]
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 282.41,
+      "end_time": 284.09,
+      "utterance": "THEY ARE FACING <%aa> LEFT",
+      "turn_index": 108,
+      "topic": ""
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 284.571415649,
+      "end_time": 285.38,
+      "utterance": "YES <MY> MINE TOO",
+      "turn_index": 109,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 285.63,
+      "end_time": 286.18,
+      "utterance": "OKAY GREAT",
+      "turn_index": 110,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 286.37,
+      "end_time": 291.62,
+      "utterance": "THEN <%aa> BELOW THE PALM TREE AND THE SEATS AND WHATEVER THERE'S LIKE A SAND BUCKET <%aa>",
+      "turn_index": 111,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 292.13,
+      "end_time": 293.51,
+      "utterance": "DO YOU HAVE THIS SAND BUCKET",
+      "turn_index": 112,
+      "topic": ""
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 293.55,
+      "end_time": 293.99,
+      "utterance": "YES",
+      "turn_index": 113,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 294.12,
+      "end_time": 297.04,
+      "utterance": "WITH <A RED STRING> LIKE A RED <HOLDER> HANGER",
+      "turn_index": 114,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U2C",
+          "speaker_after": "U2C",
+          "turn_index": 115,
+          "start_time": 296.750044877,
+          "end_time": 296.94702877
+        }
+      ]
+    },
+    {
+      "speaker": "U5A",
+      "start_time": 296.750044877,
+      "end_time": 296.94702877,
+      "utterance": "YEAH",
+      "turn_index": 115,
+      "topic": ""
+    },
+    {
+      "speaker": "U2C",
+      "start_time": 297.96,
+      "end_time": 298.97,
+      "utterance": "AND A GREEN SPADE",
+      "turn_index": 116,
+      "topic": ""
+    }
+  ]
+}

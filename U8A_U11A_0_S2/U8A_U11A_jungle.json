@@ -1,0 +1,781 @@
+{
+  "success": 0.3333333333333333,
+  "dialogue_duration": 200.10899999999674,
+  "audio": {
+    "ig": "U8A_0_jungle.wav",
+    "if": "U11A_0_jungle.wav"
+  },
+  "turns": [
+    {
+      "speaker": "U8A",
+      "start_time": 108.170535553,
+      "end_time": 110.164559736,
+      "utterance": "alright <%aa>",
+      "turn_index": 0,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 111.193685981,
+      "end_time": 111.932936797,
+      "utterance": "do you see a cloud?",
+      "turn_index": 1,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 113.596251135,
+      "end_time": 114.309100137,
+      "utterance": "a what?",
+      "turn_index": 2,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 114.309100137,
+      "end_time": 115.421475836,
+      "utterance": "do you see a cloud?",
+      "turn_index": 3,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 115.8404054,
+      "end_time": 117.002085255,
+      "utterance": "I doo see a cloud",
+      "turn_index": 4,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 117.002085255,
+      "end_time": 117.794139702,
+      "utterance": "which colour is it?",
+      "turn_index": 5,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 118.62579687,
+      "end_time": 120.552337514,
+      "utterance": "<it is well> it's a white cloud",
+      "turn_index": 6,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 120.830348413,
+      "end_time": 122.612470918,
+      "utterance": "okay so that's one difference",
+      "turn_index": 7,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 123.34962558,
+      "end_time": 124.616912492,
+      "utterance": "and which colour is yours?",
+      "turn_index": 8,
+      "overlap": [
+        {
+          "speaker_before": "",
+          "start_time": 123.34962558,
+          "speaker_after": "U11A",
+          "end_time": 123.811657266,
+          "turn_index": 9
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 123.34962558,
+      "end_time": 123.811657266,
+      "utterance": "okay I",
+      "turn_index": 9,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 125.012939652,
+      "end_time": 127.33629899,
+      "utterance": "mine is <%aa> grey with a gradient",
+      "turn_index": 10,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U8A",
+          "speaker_after": "U8A",
+          "turn_index": 11,
+          "start_time": 126.623450102,
+          "end_time": 127.317870394
+        }
+      ]
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 126.623450102,
+      "end_time": 127.317870394,
+      "utterance": "okay",
+      "turn_index": 11,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 129.012813968,
+      "end_time": 130.990270478,
+      "utterance": "and <%aa> how many raindrops does it have?",
+      "turn_index": 12,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 131.90113292,
+      "end_time": 133.564446943,
+      "utterance": "it doesn't have any raindrops",
+      "turn_index": 13,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 133.788862328,
+      "end_time": 136.059417979,
+      "utterance": "that's another difference because mine has",
+      "turn_index": 14,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U8A",
+          "start_time": 135.452176351,
+          "turn_index": 15,
+          "speaker_after": "U11A",
+          "end_time": 136.059417979
+        }
+      ]
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 135.452176351,
+      "end_time": 137.392610703,
+      "utterance": "the raindrops are under it I guess",
+      "turn_index": 15,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 138.593892879,
+      "end_time": 139.42554977,
+      "utterance": "sorry the raindrops?",
+      "turn_index": 16,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 140.204403049,
+      "end_time": 142.580565595,
+      "utterance": "are falling from the clouds is that what you mean?",
+      "turn_index": 17,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 143.055798104,
+      "end_time": 143.742245062,
+      "utterance": "yeah exactly",
+      "turn_index": 18,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 145.167942589,
+      "end_time": 145.471563359,
+      "utterance": "okay",
+      "turn_index": 19,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 146.329281552,
+      "end_time": 148.377711664,
+      "utterance": "can you see <no> no raindrops",
+      "turn_index": 20,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U8A",
+          "start_time": 147.768179983,
+          "turn_index": 21,
+          "speaker_after": "U11A",
+          "end_time": 148.377711664
+        }
+      ]
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 147.768179983,
+      "end_time": 150.329155171,
+      "utterance": "no there's no raindrops at all in my picture",
+      "turn_index": 21,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 150.394819182,
+      "end_time": 151.060931618,
+      "utterance": "okay cool",
+      "turn_index": 22,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 151.424489619,
+      "end_time": 152.830750213,
+      "utterance": "<%aa> do you see a sun?",
+      "turn_index": 23,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 153.589437716,
+      "end_time": 154.63650985,
+      "utterance": "there is a sun",
+      "turn_index": 24,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 154.935929826,
+      "end_time": 158.374495755,
+      "utterance": "how does <can you> can you explain how the sun looks like?",
+      "turn_index": 25,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 159.008139101,
+      "end_time": 160.45576155,
+      "utterance": "it's <%eh> smiling",
+      "turn_index": 26,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 161.041078168,
+      "end_time": 162.321565762,
+      "utterance": "very weirdly",
+      "turn_index": 27,
+      "overlap": [
+        {
+          "speaker_before": "",
+          "start_time": 161.041078168,
+          "speaker_after": "U11A",
+          "end_time": 161.61576155,
+          "turn_index": 28
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 161.041078168,
+      "end_time": 161.61576155,
+      "utterance": "alright",
+      "turn_index": 28,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 163.192825362,
+      "end_time": 163.562450647,
+      "utterance": "yeah",
+      "turn_index": 29,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 163.984879544,
+      "end_time": 164.753312571,
+      "utterance": "sounds like mine",
+      "turn_index": 30,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 165.318170751,
+      "end_time": 166.757069181,
+      "utterance": "and <is> is it yellow as well?",
+      "turn_index": 31,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 166.955082727,
+      "end_time": 167.298306206,
+      "utterance": "yeah",
+      "turn_index": 32,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 167.694333297,
+      "end_time": 169.349607754,
+      "utterance": "okay so we have the same sun",
+      "turn_index": 33,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 169.349607754,
+      "end_time": 171.916147038,
+      "utterance": "it is kind of like there is a shadow to the left",
+      "turn_index": 34,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 173.732307561,
+      "end_time": 174.481158376,
+      "utterance": "on the sun?",
+      "turn_index": 35,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 174.788379804,
+      "end_time": 179.70374341,
+      "utterance": "yeah so like the left part of the sun has like a shadow",
+      "turn_index": 36,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U11A",
+          "speaker_after": "U11A",
+          "turn_index": 37,
+          "start_time": 177.758582986,
+          "end_time": 178.106872662
+        }
+      ]
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 177.758582986,
+      "end_time": 178.106872662,
+      "utterance": "yeah",
+      "turn_index": 37,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 179.791522054,
+      "end_time": 180.165942956,
+      "utterance": "yeah",
+      "turn_index": 38,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 180.51757172,
+      "end_time": 182.175187481,
+      "utterance": "<we> <so> are so identical",
+      "turn_index": 39,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "",
+          "start_time": 180.51757172,
+          "speaker_after": "U8A",
+          "end_time": 180.828695372,
+          "turn_index": 40
+        }
+      ]
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 180.51757172,
+      "end_time": 180.828695372,
+      "utterance": "okay",
+      "turn_index": 40,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 182.637219087,
+      "end_time": 183.16836926,
+      "utterance": "yeah",
+      "turn_index": 41,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U11A",
+          "start_time": 182.663620893,
+          "turn_index": 42,
+          "speaker_after": "U8A",
+          "end_time": 183.16836926
+        }
+      ]
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 182.663620893,
+      "end_time": 185.391249079,
+      "utterance": "<%aa> do you see any vegetation or any trees?",
+      "turn_index": 42,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 185.726230397,
+      "end_time": 187.745968561,
+      "utterance": "<%aa> three palm trees to the left",
+      "turn_index": 43,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U11A",
+          "start_time": 187.297137858,
+          "turn_index": 44,
+          "speaker_after": "U8A",
+          "end_time": 187.745968561
+        }
+      ]
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 187.297137858,
+      "end_time": 189.343403274,
+      "utterance": "three okay I have two palm trees",
+      "turn_index": 44,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 189.660099501,
+      "end_time": 190.68975248,
+      "utterance": "so that's another difference",
+      "turn_index": 45,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 191.191404253,
+      "end_time": 199.263607355,
+      "utterance": "(so=) they're like two at (the=) same altitude",
+      "turn_index": 46,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 199.900396428,
+      "end_time": 204.460213107,
+      "utterance": "than the tiger and the elephant and then a third one which one your'e missing",
+      "turn_index": 47,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 205.595490767,
+      "end_time": 206.189775156,
+      "utterance": "okay",
+      "turn_index": 48,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 206.657802367,
+      "end_time": 208.745421414,
+      "utterance": "<%aa> I have two palms",
+      "turn_index": 49,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 209.936153166,
+      "end_time": 214.490160643,
+      "utterance": "and they are on different altitudes one is <%aa> higher up than the other",
+      "turn_index": 50,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 215.031701737,
+      "end_time": 215.401327022,
+      "utterance": "yeah",
+      "turn_index": 51,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 215.440929731,
+      "end_time": 218.331927495,
+      "utterance": "and then there's an elephant a tiger and a giraffe",
+      "turn_index": 52,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 221.192919627,
+      "end_time": 221.961362457,
+      "utterance": "okay",
+      "turn_index": 53,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 223.093849664,
+      "end_time": 230.03659088,
+      "utterance": "so from down to up there is the tiger snd then the elephant and then the giraffe",
+      "turn_index": 54,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 230.696636032,
+      "end_time": 231.594297438,
+      "utterance": "<%aa> <y->",
+      "turn_index": 55,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 232.109132656,
+      "end_time": 236.531338727,
+      "utterance": "<the> there is a giraffe on the same level on the same altitute as the elephant",
+      "turn_index": 56,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 237.244187491,
+      "end_time": 238.405866958,
+      "utterance": "to the right of the elephant",
+      "turn_index": 57,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 238.998397963,
+      "end_time": 240.824786494,
+      "utterance": "okay no I don't have the giraffe",
+      "turn_index": 58,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 241.084140643,
+      "end_time": 242.047463011,
+      "utterance": "good so we have another one",
+      "turn_index": 59,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 242.456691005,
+      "end_time": 246.523085813,
+      "utterance": "so one two three four differences have we spotted so far",
+      "turn_index": 60,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 246.905395327,
+      "end_time": 247.737052218,
+      "utterance": "<%aa>",
+      "turn_index": 61,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 248.779923558,
+      "end_time": 249.946736607,
+      "utterance": "which colour is the elephant?",
+      "turn_index": 62,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 250.720456304,
+      "end_time": 251.545489442,
+      "utterance": "grey",
+      "turn_index": 63,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 251.87210088,
+      "end_time": 254.401634566,
+      "utterance": "right and the tiger is orange and <%aa> black?",
+      "turn_index": 64,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 254.961111831,
+      "end_time": 256.733085813,
+      "utterance": "no orange and white",
+      "turn_index": 65,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 257.627693934,
+      "end_time": 259.214627764,
+      "utterance": "and <does> does it have black stripes?",
+      "turn_index": 66,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 260.005507514,
+      "end_time": 262.350001913,
+      "utterance": "it does have white stripes (and=)",
+      "turn_index": 67,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 263.42453991,
+      "end_time": 266.737965129,
+      "utterance": "a white area surrounding the mouth",
+      "turn_index": 68,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 266.935978588,
+      "end_time": 269.722434293,
+      "utterance": "yes mine has <%aa> white areas around the mouth as well",
+      "turn_index": 69,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U8A",
+          "start_time": 269.445215482,
+          "turn_index": 70,
+          "speaker_after": "U11A",
+          "end_time": 269.722434293
+        }
+      ]
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 269.445215482,
+      "end_time": 270.078858478,
+      "utterance": "okay",
+      "turn_index": 70,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 270.078858478,
+      "end_time": 271.667983773,
+      "utterance": "but it does have black stripes",
+      "turn_index": 71,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 271.667983773,
+      "end_time": 272.993698058,
+      "utterance": "yes it does",
+      "turn_index": 72,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 273.616698539,
+      "end_time": 274.609344317,
+      "utterance": "yours as well?",
+      "turn_index": 73,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 274.94998901,
+      "end_time": 275.722768353,
+      "utterance": "yes",
+      "turn_index": 74,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U11A",
+          "start_time": 275.689239172,
+          "turn_index": 75,
+          "speaker_after": "U8A",
+          "end_time": 275.722768353
+        }
+      ]
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 275.689239172,
+      "end_time": 276.374945224,
+      "utterance": "okay cool",
+      "turn_index": 75,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 276.679306353,
+      "end_time": 278.827870394,
+      "utterance": "what colour are the ears of the elephant?",
+      "turn_index": 76,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 279.415641585,
+      "end_time": 279.803131165,
+      "utterance": "pink",
+      "turn_index": 77,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 280.220896226,
+      "end_time": 280.92836926,
+      "utterance": "okay",
+      "turn_index": 78,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 281.633392071,
+      "end_time": 285.189349165,
+      "utterance": "(and=) I think (the=) maybe we're <%aa>",
+      "turn_index": 79,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 285.875795744,
+      "end_time": 287.427314182,
+      "utterance": "(the=) background",
+      "turn_index": 80,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 288.694600174,
+      "end_time": 289.361271755,
+      "utterance": "of the image",
+      "turn_index": 81,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 291.841566539,
+      "end_time": 293.054061332,
+      "utterance": "is it <%aa>",
+      "turn_index": 82,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 293.793311494,
+      "end_time": 300.650636834,
+      "utterance": "is it blue <on (the=)> on <(the=)> the upper half and green or light green <(the=)> the lower half?",
+      "turn_index": 83,
+      "topic": ""
+    }
+  ]
+}

@@ -1,0 +1,726 @@
+{
+  "success": 0.625,
+  "dialogue_duration": 200.51800000000367,
+  "audio": {
+    "ig": "U3C_0_sheep.wav",
+    "if": "U4C_0_sheep.wav"
+  },
+  "turns": [
+    {
+      "speaker": "U3C",
+      "start_time": 87.8020028123,
+      "end_time": 89.5694166007,
+      "utterance": "there is another picture also with",
+      "turn_index": 0,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 89.94790625,
+      "end_time": 90.8952842541,
+      "utterance": "trees and sheep and so on",
+      "turn_index": 1,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 91.41990625,
+      "end_time": 94.7243087042,
+      "utterance": "I can not hear you I think we need to shut this door",
+      "turn_index": 2,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 95.87590625,
+      "end_time": 96.45990625,
+      "utterance": "<%ahm>",
+      "turn_index": 3,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 96.9095392679,
+      "end_time": 97.1027120386,
+      "utterance": "ah",
+      "turn_index": 4,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 97.2475916166,
+      "end_time": 97.651498319,
+      "utterance": "<%mm>",
+      "turn_index": 5,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 98.3407738872,
+      "end_time": 100.77807633,
+      "utterance": "z\u00e9 can you close the door please I can't hear him",
+      "turn_index": 6,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 103.35590625,
+      "end_time": 103.723961083,
+      "utterance": "or",
+      "turn_index": 7,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 105.17190625,
+      "end_time": 106.58790625,
+      "utterance": "i don't know what's happened to the volume",
+      "turn_index": 8,
+      "overlap": [
+        {
+          "speaker_before": "",
+          "start_time": 105.17190625,
+          "speaker_after": "U4C",
+          "end_time": 105.86272379,
+          "turn_index": 9
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 105.17190625,
+      "end_time": 105.86272379,
+      "utterance": "is it better now?",
+      "turn_index": 9,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 107.646612189,
+      "end_time": 107.975883957,
+      "utterance": "oh",
+      "turn_index": 10,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 109.14790625,
+      "end_time": 109.51590625,
+      "utterance": "okay",
+      "turn_index": 11,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 112.17190625,
+      "end_time": 112.55590625,
+      "utterance": "how about now?",
+      "turn_index": 12,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 114.30790625,
+      "end_time": 115.17990625,
+      "utterance": "<%ahm>",
+      "turn_index": 13,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 115.55590625,
+      "end_time": 120.05190625,
+      "utterance": "yeah I think it's okay I think we will try yeah",
+      "turn_index": 14,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 120.850288189,
+      "end_time": 121.18790625,
+      "utterance": "okay",
+      "turn_index": 15,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 121.675662755,
+      "end_time": 122.004934523,
+      "utterance": "okay",
+      "turn_index": 16,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 124.411851448,
+      "end_time": 125.052833823,
+      "utterance": "(so=)",
+      "turn_index": 17,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 125.698206489,
+      "end_time": 127.730516931,
+      "utterance": "in this this picture now there is two trees",
+      "turn_index": 18,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 128.22790625,
+      "end_time": 128.665648753,
+      "utterance": "yes",
+      "turn_index": 19,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 129.486239505,
+      "end_time": 131.40390625,
+      "utterance": "the one on the left is bigger",
+      "turn_index": 20,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 132.01990625,
+      "end_time": 133.061366741,
+      "utterance": "and has for apples",
+      "turn_index": 21,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 133.98790625,
+      "end_time": 135.590173921,
+      "utterance": "okay mine is the same",
+      "turn_index": 22,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 135.99590625,
+      "end_time": 139.607240814,
+      "utterance": "<%ahm> oh it's bigger than the other one but mine has five apples",
+      "turn_index": 23,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 140.1980564,
+      "end_time": 140.584401942,
+      "utterance": "okay",
+      "turn_index": 24,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 141.177091125,
+      "end_time": 142.17368701,
+      "utterance": "where is the extra apple",
+      "turn_index": 25,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U3C",
+          "speaker_after": "U3C",
+          "turn_index": 26,
+          "start_time": 141.295628961,
+          "end_time": 141.519533764
+        }
+      ]
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 141.295628961,
+      "end_time": 141.519533764,
+      "utterance": "and",
+      "turn_index": 26,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 142.993538143,
+      "end_time": 145.364294874,
+      "utterance": "it's in the <%aa> the middle",
+      "turn_index": 27,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 146.307851663,
+      "end_time": 146.729319527,
+      "utterance": "a-ah",
+      "turn_index": 28,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 148.141859425,
+      "end_time": 150.139441485,
+      "utterance": "so there are four on the side and one in the middle",
+      "turn_index": 29,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 152.39052682,
+      "end_time": 154.572501071,
+      "utterance": "<%aa> can you describe the tree on your right?",
+      "turn_index": 30,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 157.425401013,
+      "end_time": 158.685414313,
+      "utterance": "<%aa> the tree on the right",
+      "turn_index": 31,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 159.295664657,
+      "end_time": 161.048081405,
+      "utterance": "has four oranges",
+      "turn_index": 32,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 161.715405522,
+      "end_time": 162.505657765,
+      "utterance": "and it's smaller",
+      "turn_index": 33,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U4C",
+          "speaker_after": "U4C",
+          "turn_index": 34,
+          "start_time": 161.807601617,
+          "end_time": 162.066628741
+        }
+      ]
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 161.807601617,
+      "end_time": 162.066628741,
+      "utterance": "ohm",
+      "turn_index": 34,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 163.103428179,
+      "end_time": 166.444439054,
+      "utterance": "my tree on the right is also smaller but has no fruits whatsoever",
+      "turn_index": 35,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 167.168836944,
+      "end_time": 167.63420771,
+      "utterance": "okay",
+      "turn_index": 36,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 168.856485889,
+      "end_time": 171.336999876,
+      "utterance": "mine has four rather large oranges",
+      "turn_index": 37,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 173.962344345,
+      "end_time": 175.731631313,
+      "utterance": "<aa%> what about rocks",
+      "turn_index": 38,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 177.965154652,
+      "end_time": 178.527111804,
+      "utterance": "<%ahm>",
+      "turn_index": 39,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 179.444682464,
+      "end_time": 182.322840102,
+      "utterance": "<%ah> mine has two rocks behind the apple tree",
+      "turn_index": 40,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 183.09990625,
+      "end_time": 184.798777175,
+      "utterance": "but no rocks behind the orange tree",
+      "turn_index": 41,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 185.220638144,
+      "end_time": 187.705542422,
+      "utterance": "mine has one rock behind the orange tree",
+      "turn_index": 42,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 190.599779477,
+      "end_time": 192.158332513,
+      "utterance": "okay that must be a difference",
+      "turn_index": 43,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U4C",
+          "speaker_after": "U4C",
+          "turn_index": 44,
+          "start_time": 191.37247056,
+          "end_time": 191.706132618
+        }
+      ]
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 191.37247056,
+      "end_time": 191.706132618,
+      "utterance": "<%aa>",
+      "turn_index": 44,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 193.14575346,
+      "end_time": 194.278448343,
+      "utterance": "what about the sun?",
+      "turn_index": 45,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 195.391708885,
+      "end_time": 198.144420868,
+      "utterance": "<%ah> my sun is the middle of the sky",
+      "turn_index": 46,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 198.535156699,
+      "end_time": 201.381496589,
+      "utterance": "the same here and it has like triangles for rays",
+      "turn_index": 47,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 201.658084874,
+      "end_time": 202.378092474,
+      "utterance": "yeah",
+      "turn_index": 48,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 203.46790625,
+      "end_time": 204.870988199,
+      "utterance": "it has i (guess=)",
+      "turn_index": 49,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 205.037819228,
+      "end_time": 206.15734324,
+      "utterance": "<%eh>",
+      "turn_index": 50,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 207.22857406,
+      "end_time": 211.0524686,
+      "utterance": "so eight triangles or so sticking out so",
+      "turn_index": 51,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 211.636377202,
+      "end_time": 214.666368411,
+      "utterance": "do you have a <clou-> cloud on the upper right corner",
+      "turn_index": 52,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 214.973688728,
+      "end_time": 216.400533057,
+      "utterance": "yes above the",
+      "turn_index": 53,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 217.14648804,
+      "end_time": 217.765518965,
+      "utterance": "orange tree",
+      "turn_index": 54,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 219.931363032,
+      "end_time": 220.532832795,
+      "utterance": "mm-mm",
+      "turn_index": 55,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 221.283572427,
+      "end_time": 222.161630476,
+      "utterance": "what kind of cloud is it?",
+      "turn_index": 56,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 223.286580563,
+      "end_time": 226.934911755,
+      "utterance": "it is a cumulus cloud a fluffy white cumulus cloud",
+      "turn_index": 57,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 227.810010491,
+      "end_time": 230.071009966,
+      "utterance": "yeah same here with like a blue border",
+      "turn_index": 58,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 231.562575506,
+      "end_time": 232.392340362,
+      "utterance": "<%eh> sorry",
+      "turn_index": 59,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 233.033322737,
+      "end_time": 235.011124361,
+      "utterance": "<%ahm> <my> my cloud has like a blue",
+      "turn_index": 60,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 235.634891255,
+      "end_time": 236.666609462,
+      "utterance": "a blue border yes",
+      "turn_index": 61,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 237.061735584,
+      "end_time": 237.250518064,
+      "utterance": "yeah",
+      "turn_index": 62,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 238.551475371,
+      "end_time": 240.996867036,
+      "utterance": "<%aa> tell me about the flowers in the middle",
+      "turn_index": 63,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 241.849275119,
+      "end_time": 245.248791162,
+      "utterance": "<%eh> three flower <%aa> a red one on the left",
+      "turn_index": 64,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 246.166361823,
+      "end_time": 246.816124779,
+      "utterance": "(a=)",
+      "turn_index": 65,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 247.482315753,
+      "end_time": 251.525773067,
+      "utterance": "orange one in the middle and a blue one on the right and the red and the blue one",
+      "turn_index": 66,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 252.696107382,
+      "end_time": 254.671737992,
+      "utterance": "are a little bit higher or behind",
+      "turn_index": 67,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 255.896234612,
+      "end_time": 256.480143214,
+      "utterance": "the orange one",
+      "turn_index": 68,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 257.359632658,
+      "end_time": 260.852430929,
+      "utterance": "oh that's different in mine <%mm> a have a red on the left",
+      "turn_index": 69,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 261.348533726,
+      "end_time": 263.280261433,
+      "utterance": "then blue in the middle and yellow on the right",
+      "turn_index": 70,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 263.425141011,
+      "end_time": 263.864170036,
+      "utterance": "ah",
+      "turn_index": 71,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 264.171490353,
+      "end_time": 265.607115262,
+      "utterance": "so that's the difference",
+      "turn_index": 72,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 265.920257682,
+      "end_time": 266.43392164,
+      "utterance": "(and=)",
+      "turn_index": 73,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 266.97831763,
+      "end_time": 270.448077483,
+      "utterance": "<the blue one> like the middle flower is lower than the other two",
+      "turn_index": 74,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 270.592957061,
+      "end_time": 270.917838539,
+      "utterance": "yeah",
+      "turn_index": 75,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 271.324262769,
+      "end_time": 271.934513113,
+      "utterance": "mine is too",
+      "turn_index": 76,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 272.838912903,
+      "end_time": 273.484285569,
+      "utterance": "(and=)",
+      "turn_index": 77,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 274.300879554,
+      "end_time": 274.647712483,
+      "utterance": "and <the->",
+      "turn_index": 78,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 275.054529402,
+      "end_time": 275.309166236,
+      "utterance": "<aa%>",
+      "turn_index": 79,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 275.717463229,
+      "end_time": 276.946744497,
+      "utterance": "and <+there> about the sheep",
+      "turn_index": 80,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 277.858791307,
+      "end_time": 279.399783183,
+      "utterance": "there is two sheep behind each tree",
+      "turn_index": 81,
+      "topic": ""
+    },
+    {
+      "speaker": "U4C",
+      "start_time": 280.517433598,
+      "end_time": 283.186730066,
+      "utterance": "<%aa> i have two sheep in front of each tree",
+      "turn_index": 82,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 283.901213815,
+      "end_time": 285.112933922,
+      "utterance": "oh yes sorry in front",
+      "turn_index": 83,
+      "topic": ""
+    },
+    {
+      "speaker": "U3C",
+      "start_time": 285.740745427,
+      "end_time": 286.34221519,
+      "utterance": "<%mm> same here",
+      "turn_index": 84,
+      "topic": ""
+    }
+  ]
+}

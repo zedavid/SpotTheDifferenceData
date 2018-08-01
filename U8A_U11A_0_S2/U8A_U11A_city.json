@@ -1,0 +1,568 @@
+{
+  "success": 0.3333333333333333,
+  "dialogue_duration": 200.10400000000664,
+  "audio": {
+    "ig": "U8A_0_city.wav",
+    "if": "U11A_0_city.wav"
+  },
+  "turns": [
+    {
+      "speaker": "U8A",
+      "start_time": 590.969923049,
+      "end_time": 591.899457696,
+      "utterance": "alright wow",
+      "turn_index": 0,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 592.81654479,
+      "end_time": 593.359947583,
+      "utterance": "this one's fun",
+      "turn_index": 1,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 593.744305656,
+      "end_time": 598.861908632,
+      "utterance": "<%aa> okay let's start from the top and then move <%aa> downwards",
+      "turn_index": 2,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 599.471580058,
+      "end_time": 603.477031392,
+      "utterance": "<%aa> to you upper left do you see two white clouds?",
+      "turn_index": 3,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 603.477031392,
+      "end_time": 604.267235473,
+      "utterance": "I do",
+      "turn_index": 4,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 604.68029463,
+      "end_time": 608.287371528,
+      "utterance": "okay to the right of these white clouds do you see an airplane?",
+      "turn_index": 5,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 608.603397718,
+      "end_time": 608.96911756,
+      "utterance": "yes",
+      "turn_index": 6,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 609.4320755,
+      "end_time": 612.626223622,
+      "utterance": "is it <%aa> like a jumbo jet-ish but small?",
+      "turn_index": 7,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 613.500969581,
+      "end_time": 614.726555201,
+      "utterance": "yeah kind of",
+      "turn_index": 8,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U11A",
+          "start_time": 614.29619318,
+          "turn_index": 9,
+          "speaker_after": "U8A",
+          "end_time": 614.726555201
+        }
+      ]
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 614.29619318,
+      "end_time": 615.40204273,
+      "utterance": "okay cool",
+      "turn_index": 9,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 615.992670191,
+      "end_time": 620.517666312,
+      "utterance": "and to the right of this <%aa> jumbo jet do you see (a=) orange half moon?",
+      "turn_index": 10,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 620.777265511,
+      "end_time": 621.301883999,
+      "utterance": "I do",
+      "turn_index": 11,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 621.625504016,
+      "end_time": 629.026872662,
+      "utterance": "cool and to the right of this <%aa> half moon do you see two grey clouds with an <%aa> lighting beneath them?",
+      "turn_index": 12,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 630.313054785,
+      "end_time": 631.028756024,
+      "utterance": "no lighting",
+      "turn_index": 13,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 631.717949809,
+      "end_time": 633.886124362,
+      "utterance": "okay that's one the first difference then",
+      "turn_index": 14,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 635.124402887,
+      "end_time": 637.80165567,
+      "utterance": "and below this jumbo jet do you see five stars?",
+      "turn_index": 15,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 638.132998836,
+      "end_time": 639.81789307,
+      "utterance": "<there> there are five stars",
+      "turn_index": 16,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 640.409363657,
+      "end_time": 640.936169714,
+      "utterance": "alright",
+      "turn_index": 17,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 641.792691881,
+      "end_time": 650.541203727,
+      "utterance": "<%aa> let's move on to the left side of the picture do you se (a=) building <%aa> that is blue-ish in colour?",
+      "turn_index": 18,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 651.770304129,
+      "end_time": 654.659616538,
+      "utterance": "<it is> it has three colours the windows are blue",
+      "turn_index": 19,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 654.977705978,
+      "end_time": 655.223698058,
+      "utterance": "yeah",
+      "turn_index": 20,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U8A",
+          "start_time": 655.096989518,
+          "turn_index": 21,
+          "speaker_after": "U11A",
+          "end_time": 655.223698058
+        }
+      ]
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 655.096989518,
+      "end_time": 658.869503047,
+      "utterance": "(the=) side to the left is green and the side to the right is orange",
+      "turn_index": 21,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 660.761858365,
+      "end_time": 662.339051836,
+      "utterance": "so this is only on one building?",
+      "turn_index": 22,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 663.346335062,
+      "end_time": 668.132654974,
+      "utterance": "no I have to buildings and they are <identically> identically the same",
+      "turn_index": 23,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 668.600925299,
+      "end_time": 668.879253558,
+      "utterance": "yeah",
+      "turn_index": 24,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 669.078059458,
+      "end_time": 671.050769378,
+      "utterance": "and (they=) are",
+      "turn_index": 25,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 672.073988986,
+      "end_time": 675.819820507,
+      "utterance": "green to the left orange to the right and the windows are blue",
+      "turn_index": 26,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 676.50794062,
+      "end_time": 678.625436753,
+      "utterance": "okay and that's how they look on both sides?",
+      "turn_index": 27,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 678.885593904,
+      "end_time": 679.390636834,
+      "utterance": "yes",
+      "turn_index": 28,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 679.780911009,
+      "end_time": 682.108709396,
+      "utterance": "interesting because my building to the left is blue",
+      "turn_index": 29,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 682.566342002,
+      "end_time": 684.54378114,
+      "utterance": "<%aa> <in the> <in> in colour",
+      "turn_index": 30,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 685.069602296,
+      "end_time": 689.276171551,
+      "utterance": "<%aa> <+ my> the building to my right is identical as the one that you have described",
+      "turn_index": 31,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U8A",
+          "start_time": 689.148269108,
+          "turn_index": 32,
+          "speaker_after": "U11A",
+          "end_time": 689.276171551
+        }
+      ]
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 689.148269108,
+      "end_time": 690.995748848,
+      "utterance": "okay I'm gonna click the building",
+      "turn_index": 32,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 691.166285439,
+      "end_time": 691.685829578,
+      "utterance": "do that",
+      "turn_index": 33,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 692.499448381,
+      "end_time": 692.965308036,
+      "utterance": "okay",
+      "turn_index": 34,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 693.352131338,
+      "end_time": 695.796489148,
+      "utterance": "<%aa> do you see any animals?",
+      "turn_index": 35,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 696.634960723,
+      "end_time": 699.441342172,
+      "utterance": "no I don't have any animals but a human animal",
+      "turn_index": 36,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 699.763428669,
+      "end_time": 701.217575609,
+      "utterance": "LAUGH that's good",
+      "turn_index": 37,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 701.797631479,
+      "end_time": 707.794834944,
+      "utterance": "this human animal <%aa> what okay what colour does <%aa> his car have?",
+      "turn_index": 38,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 708.718574814,
+      "end_time": 710.622493409,
+      "utterance": "<he has a> he's driving a blue car",
+      "turn_index": 39,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 710.892509679,
+      "end_time": 711.361485305,
+      "utterance": "okay",
+      "turn_index": 40,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 711.958363375,
+      "end_time": 717.68555057,
+      "utterance": "and <%aa> (what's=) <%aa> <how> how is his clothing do you see wear a yellow shirt",
+      "turn_index": 41,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U8A",
+          "start_time": 716.804444848,
+          "turn_index": 42,
+          "speaker_after": "U11A",
+          "end_time": 717.68555057
+        }
+      ]
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 716.804444848,
+      "end_time": 721.093063138,
+      "utterance": "yeah he is wearing a yellow shirt with some red symbolds into it",
+      "turn_index": 42,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 721.304037347,
+      "end_time": 728.352883125,
+      "utterance": "and he's raising his <%aa> right hand about and wearing some brown sunglasses",
+      "turn_index": 43,
+      "overlap": [
+        {
+          "speaker_before": "",
+          "start_time": 721.304037347,
+          "speaker_after": "U11A",
+          "end_time": 721.545630851,
+          "turn_index": 44
+        }
+      ],
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 721.304037347,
+      "end_time": 721.545630851,
+      "utterance": "yeah",
+      "turn_index": 44,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 728.452362803,
+      "end_time": 730.474574029,
+      "utterance": "okay it's the identical human",
+      "turn_index": 45,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 731.043029333,
+      "end_time": 732.228709396,
+      "utterance": "how many stop lights do you see?",
+      "turn_index": 46,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 732.49259036,
+      "end_time": 733.797258149,
+      "utterance": "I see two stop lights",
+      "turn_index": 47,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 733.797258149,
+      "end_time": 735.548037623,
+      "utterance": "okay how (many=) street lamps do you see?",
+      "turn_index": 48,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 735.74699698,
+      "end_time": 737.112609623,
+      "utterance": "I see three street lamps",
+      "turn_index": 49,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 737.296037685,
+      "end_time": 740.521614428,
+      "utterance": "do they both have <%aa> lights on the both sides?",
+      "turn_index": 50,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 741.758004716,
+      "end_time": 744.856086126,
+      "utterance": "yeah all of them have light in both sides",
+      "turn_index": 51,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 745.336484254,
+      "end_time": 746.242065405,
+      "utterance": "<%mm> interesting",
+      "turn_index": 52,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 746.587085924,
+      "end_time": 757.195436315,
+      "utterance": "<okay how <does> <do> does the road <%aa> twist <%aa> the <%aa>> I'm gonna explain how my road looks like <and + you> and I want you to tell me if it's identical on your side",
+      "turn_index": 53,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 757.55072088,
+      "end_time": 758.145738875,
+      "utterance": "yeah",
+      "turn_index": 54,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U11A",
+          "start_time": 758.033907889,
+          "turn_index": 55,
+          "speaker_after": "U8A",
+          "end_time": 758.145738875
+        }
+      ]
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 758.033907889,
+      "end_time": 760.72890124,
+      "utterance": "my road goes from the below middle",
+      "turn_index": 55,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 761.169454101,
+      "end_time": 762.775340337,
+      "utterance": "continues <%aa>",
+      "turn_index": 56,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 763.997519242,
+      "end_time": 766.221234875,
+      "utterance": "up <%aa> to the left of the picture",
+      "turn_index": 57,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 766.988649537,
+      "end_time": 769.532487025,
+      "utterance": "then it takes the <%aa> first turn to the right",
+      "turn_index": 58,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 770.012724921,
+      "end_time": 772.926058358,
+      "utterance": "to the middle of the picture and then takes another turn to the left",
+      "turn_index": 59,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 774.006123437,
+      "end_time": 784.038596018,
+      "utterance": "and then finally takes one turn to the right onto (the=) picture's final <%aa> <dis-> <%aa> <to the <ho->> into the horizon",
+      "turn_index": 60,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 784.285472345,
+      "end_time": 785.504944661,
+      "utterance": "yeah looks like that",
+      "turn_index": 61,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 785.504944661,
+      "end_time": 787.679286202,
+      "utterance": "okay does it have a white stripe in the middle your road?",
+      "turn_index": 62,
+      "topic": ""
+    }
+  ]
+}

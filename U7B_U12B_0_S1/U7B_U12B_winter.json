@@ -1,0 +1,997 @@
+{
+  "success": 0.5,
+  "dialogue_duration": 200.65299999999115,
+  "audio": {
+    "ig": "U7B_0_winter.wav",
+    "if": "U12B_0_winter.wav"
+  },
+  "turns": [
+    {
+      "speaker": "U7B",
+      "start_time": 92.58,
+      "end_time": 92.94,
+      "utterance": "OKAY",
+      "turn_index": 0,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 93.25,
+      "end_time": 93.8,
+      "utterance": "SO",
+      "turn_index": 1,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 94.66,
+      "end_time": 98.16,
+      "utterance": "<%aa> I SEE THREE CLOUDS <%ahm>",
+      "turn_index": 2,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 98.69,
+      "end_time": 100.87,
+      "utterance": "THE TOP OF THE IMAGE IS LIKE SNOWING",
+      "turn_index": 3,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U7B",
+          "start_time": 100.07,
+          "turn_index": 4,
+          "speaker_after": "U12B",
+          "end_time": 100.87
+        }
+      ]
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 100.07,
+      "end_time": 102.4,
+      "utterance": "<I> I HAVE FOUR CLOUDS",
+      "turn_index": 4,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 102.65,
+      "end_time": 103.01,
+      "utterance": "OKAY",
+      "turn_index": 5,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 103.22,
+      "end_time": 104.43,
+      "utterance": "THERE'S ONE MISSING HERE THEN",
+      "turn_index": 6,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 105.43,
+      "end_time": 105.95,
+      "utterance": "<%aa>",
+      "turn_index": 7,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 106.14,
+      "end_time": 106.84,
+      "utterance": "THEN",
+      "turn_index": 8,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 107.21,
+      "end_time": 108.93,
+      "utterance": "<%ahm> I SEE",
+      "turn_index": 9,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U7B",
+          "start_time": 108.59,
+          "turn_index": 10,
+          "speaker_after": "U12B",
+          "end_time": 108.93
+        }
+      ]
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 108.59,
+      "end_time": 112.96,
+      "utterance": "<JUST> JUST <ONE> ONE <SEC-> ARE THE THREE CLOUDS THAT YOU HAVE AT THE SAME LEVEL?",
+      "turn_index": 10,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 113.41,
+      "end_time": 116.72,
+      "utterance": "<%aa> THE ONE ON MY LEFT IS SLIGHTLY",
+      "turn_index": 11,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 117.05,
+      "end_time": 118.72,
+      "utterance": "BELOW OF THE OTHERS",
+      "turn_index": 12,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 119.06,
+      "end_time": 123.13,
+      "utterance": "<SO=> <WHICH ONE> <WHERE IS THE OTHER> WHERE ARE THE OTHER TWO?",
+      "turn_index": 13,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 123.42,
+      "end_time": 127.07,
+      "utterance": "SO THE OTHER TWO ARE ON THE RIGHT OF THIS",
+      "turn_index": 14,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 127.25,
+      "end_time": 127.67,
+      "utterance": "CLOUD",
+      "turn_index": 15,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 128.24,
+      "end_time": 129.7,
+      "utterance": "TOWARDS THE RIGHT OF THE IMAGE",
+      "turn_index": 16,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 130.65,
+      "end_time": 131.8,
+      "utterance": "<YES=>",
+      "turn_index": 17,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 132.04,
+      "end_time": 133.14,
+      "utterance": "IS THERE ANY CLOUD",
+      "turn_index": 18,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 133.65,
+      "end_time": 134.07,
+      "utterance": "ON THE",
+      "turn_index": 19,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 134.37,
+      "end_time": 135.19,
+      "utterance": "TOP RIGHT",
+      "turn_index": 20,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 135.72,
+      "end_time": 136.67,
+      "utterance": "OF THE IMAGE",
+      "turn_index": 21,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 136.85,
+      "end_time": 137.57,
+      "utterance": "YES YES",
+      "turn_index": 22,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 137.92,
+      "end_time": 138.27,
+      "utterance": "AND",
+      "turn_index": 23,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U12B",
+          "start_time": 138.1,
+          "turn_index": 24,
+          "speaker_after": "U7B",
+          "end_time": 138.27
+        }
+      ]
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 138.1,
+      "end_time": 138.31,
+      "utterance": "YEAH",
+      "turn_index": 24,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 138.64,
+      "end_time": 139.37,
+      "utterance": "THERE IS ONE",
+      "turn_index": 25,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 139.59,
+      "end_time": 140.97,
+      "utterance": "EXACTLY NEXT TO IT",
+      "turn_index": 26,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 142.26,
+      "end_time": 145.49,
+      "utterance": "YEAH <%eh> <NO> <NO> NO <THAT'S THE ONE IS MISSING> THAT'S THE ONE IS MISSING",
+      "turn_index": 27,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U7B",
+          "speaker_after": "U7B",
+          "turn_index": 28,
+          "start_time": 142.36,
+          "end_time": 142.98
+        },
+        {
+          "speaker_before": "U7B",
+          "speaker_after": "U7B",
+          "turn_index": 29,
+          "start_time": 143.24,
+          "end_time": 143.72
+        },
+        {
+          "speaker_before": "U7B",
+          "speaker_after": "U7B",
+          "turn_index": 30,
+          "start_time": 144.74,
+          "end_time": 145.11
+        }
+      ]
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 142.36,
+      "end_time": 142.98,
+      "utterance": "OR IS THERE",
+      "turn_index": 28,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 143.24,
+      "end_time": 143.72,
+      "utterance": "A SPACE",
+      "turn_index": 29,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 144.74,
+      "end_time": 145.11,
+      "utterance": "OKAY",
+      "turn_index": 30,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 145.72,
+      "end_time": 145.97,
+      "utterance": "HERE",
+      "turn_index": 31,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 146.68,
+      "end_time": 147.08,
+      "utterance": "OKAY",
+      "turn_index": 32,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 147.32,
+      "end_time": 150.92,
+      "utterance": "THEN THERE ARE THREE PINE TREES BELOW",
+      "turn_index": 33,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 151.24,
+      "end_time": 152.54,
+      "utterance": "THE CLOUD",
+      "turn_index": 34,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 152.82,
+      "end_time": 153.95,
+      "utterance": "THAT IS ON THE LEFT",
+      "turn_index": 35,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 154.9,
+      "end_time": 155.51,
+      "utterance": "YES",
+      "turn_index": 36,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 155.68,
+      "end_time": 156.07,
+      "utterance": "YES",
+      "turn_index": 37,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 156.49,
+      "end_time": 157.26,
+      "utterance": "AND THE",
+      "turn_index": 38,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U7B",
+          "start_time": 157.22,
+          "turn_index": 39,
+          "speaker_after": "U12B",
+          "end_time": 157.26
+        }
+      ]
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 157.22,
+      "end_time": 158.53,
+      "utterance": "DOES THE CLOUD ON THE LEFT",
+      "turn_index": 39,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 158.9,
+      "end_time": 159.8,
+      "utterance": "<%eh> HAVE",
+      "turn_index": 40,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 160.32,
+      "end_time": 161.55,
+      "utterance": "ANYTHING BEHIND IT",
+      "turn_index": 41,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 162.14,
+      "end_time": 162.44,
+      "utterance": "NO",
+      "turn_index": 42,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 163.58,
+      "end_time": 165.04,
+      "utterance": "HERE THERE IS THE SUN",
+      "turn_index": 43,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 165.687878637,
+      "end_time": 167.43,
+      "utterance": "THERE IS THE SUN OKAY HERE IS MISSING",
+      "turn_index": 44,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U7B",
+          "start_time": 166.73,
+          "turn_index": 45,
+          "speaker_after": "U12B",
+          "end_time": 167.43
+        }
+      ]
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 166.73,
+      "end_time": 168.35,
+      "utterance": "BEHIND IT A BIT ON THE LEFT",
+      "turn_index": 45,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 170.72,
+      "end_time": 171.33,
+      "utterance": "<%ahm>",
+      "turn_index": 46,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 172.41,
+      "end_time": 172.89,
+      "utterance": "THEN",
+      "turn_index": 47,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 173.79,
+      "end_time": 176.63,
+      "utterance": "TO THE LEFT OF THE PINE TREES THERE ARE TWO",
+      "turn_index": 48,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 176.91,
+      "end_time": 177.81,
+      "utterance": "SLEDGES",
+      "turn_index": 49,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 178.0,
+      "end_time": 179.13,
+      "utterance": "THAT ARE EMPTY",
+      "turn_index": 50,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 180.3,
+      "end_time": 181.46,
+      "utterance": "HERE THERE IS ONLY ONE",
+      "turn_index": 51,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 181.93,
+      "end_time": 182.29,
+      "utterance": "OKAY",
+      "turn_index": 52,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 182.68,
+      "end_time": 186.78,
+      "utterance": "WHICH ONE THE ONE TOWARDS YOU OR THE ONE BEHIND OF THE IMAGE?",
+      "turn_index": 53,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 187.820041508,
+      "end_time": 188.204406183,
+      "utterance": "<%aa>",
+      "turn_index": 54,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 188.59,
+      "end_time": 191.22,
+      "utterance": "PROBABLY THE ONE TOWARDS ME IS MISSING",
+      "turn_index": 55,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 191.98,
+      "end_time": 192.32,
+      "utterance": "OKAY",
+      "turn_index": 56,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 192.729691086,
+      "end_time": 193.81,
+      "utterance": "SO THAT'S ANOTHER ONE",
+      "turn_index": 57,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 195.69,
+      "end_time": 205.02,
+      "utterance": "TO THE RIGHT OF THE SLEDGES THERE ARE TWO OLYMPIC SKIERS THEY HAVE AN OLYMPIC SHIRT WHERE YOU CAN SEE THE FIVE OLYMPIC RINGS",
+      "turn_index": 58,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 205.61,
+      "end_time": 207.54,
+      "utterance": "THEY ARE EXACTLY NEXT TO EACH OTHER RIGHT?",
+      "turn_index": 59,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 208.16,
+      "end_time": 208.66,
+      "utterance": "<%aa>",
+      "turn_index": 60,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 208.99,
+      "end_time": 209.48,
+      "utterance": "MORE OR LESS",
+      "turn_index": 61,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U12B",
+          "start_time": 209.19,
+          "turn_index": 62,
+          "speaker_after": "U7B",
+          "end_time": 209.48
+        }
+      ]
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 209.19,
+      "end_time": 210.49,
+      "utterance": "YES THEY ARE GOING",
+      "turn_index": 62,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 210.95,
+      "end_time": 211.95,
+      "utterance": "THE SAME DIRECTION",
+      "turn_index": 63,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U7B",
+          "start_time": 211.63,
+          "turn_index": 64,
+          "speaker_after": "U12B",
+          "end_time": 211.95
+        }
+      ]
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 211.63,
+      "end_time": 213.27,
+      "utterance": "<+ I> YES I HAVE",
+      "turn_index": 64,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 213.75,
+      "end_time": 215.62,
+      "utterance": "A THIRD ONE BEHIND THOSE TWO",
+      "turn_index": 65,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 216.55,
+      "end_time": 216.85,
+      "utterance": "OKAY",
+      "turn_index": 66,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 217.6,
+      "end_time": 218.94,
+      "utterance": "THE <THI-> YES EXACTLY THE",
+      "turn_index": 67,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U12B",
+          "start_time": 218.51,
+          "turn_index": 68,
+          "speaker_after": "U7B",
+          "end_time": 218.94
+        }
+      ]
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 218.51,
+      "end_time": 222.55,
+      "utterance": "<%aa> <+ THEY ARE> HERE THEY ARE NOT NEXT TO EACH OTHER THEY ARE IN DIFFERENT PLANES",
+      "turn_index": 68,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 223.0,
+      "end_time": 224.15,
+      "utterance": "<%aa> OF THE IMAGE",
+      "turn_index": 69,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U7B",
+          "speaker_after": "U7B",
+          "turn_index": 70,
+          "start_time": 223.47,
+          "end_time": 223.78
+        }
+      ]
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 223.47,
+      "end_time": 223.78,
+      "utterance": "YEAH",
+      "turn_index": 70,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 224.37,
+      "end_time": 226.22,
+      "utterance": "YES THEY ARE IN DIFFERENT PLANES",
+      "turn_index": 71,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 226.73,
+      "end_time": 228.01,
+      "utterance": "BUT IN MINE THERE ARE THREE",
+      "turn_index": 72,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 228.46,
+      "end_time": 228.84,
+      "utterance": "OKAY",
+      "turn_index": 73,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 229.36,
+      "end_time": 229.67,
+      "utterance": "OKAY",
+      "turn_index": 74,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U7B",
+          "start_time": 229.47,
+          "turn_index": 75,
+          "speaker_after": "U12B",
+          "end_time": 229.67
+        }
+      ]
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 229.47,
+      "end_time": 230.04,
+      "utterance": "SO",
+      "turn_index": 75,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 230.63,
+      "end_time": 233.28,
+      "utterance": "TWO ARE OF THE SAME SIZE THE THIRD ONE",
+      "turn_index": 76,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 233.95,
+      "end_time": 237.12,
+      "utterance": "SLIGHTLY <%aa> BEHIND IT IS THE SMALLER SO THERE IS A DISTANCE",
+      "turn_index": 77,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 237.14,
+      "end_time": 237.55,
+      "utterance": "OKAY",
+      "turn_index": 78,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 237.78,
+      "end_time": 238.28,
+      "utterance": "SO HE'S BEHIND",
+      "turn_index": 79,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 238.82,
+      "end_time": 239.13,
+      "utterance": "SO HE'S BEHIND",
+      "turn_index": 80,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 240.12,
+      "end_time": 240.51,
+      "utterance": "OKAY",
+      "turn_index": 81,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 241.4,
+      "end_time": 241.98,
+      "utterance": "THEN",
+      "turn_index": 82,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 242.37,
+      "end_time": 244.07,
+      "utterance": "RIGHT TO <THE=>",
+      "turn_index": 83,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 245.61,
+      "end_time": 246.62,
+      "utterance": "TO THE SKIER",
+      "turn_index": 84,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 247.25,
+      "end_time": 248.59,
+      "utterance": "THERE IS A REINDEER",
+      "turn_index": 85,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 250.32,
+      "end_time": 251.54,
+      "utterance": "WITH SOME RED",
+      "turn_index": 86,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 251.91,
+      "end_time": 253.47,
+      "utterance": "<%eh> THINGS ON IT",
+      "turn_index": 87,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 253.88,
+      "end_time": 255.39,
+      "utterance": "HOW MANY REINDEER DO YOU HAVE?",
+      "turn_index": 88,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 255.62,
+      "end_time": 256.78,
+      "utterance": "IN TOTAL I HAVE TWO",
+      "turn_index": 89,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 257.58,
+      "end_time": 258.25,
+      "utterance": "I HAVE THREE",
+      "turn_index": 90,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 258.95,
+      "end_time": 264.45,
+      "utterance": "OKAY <I THINK YOU> I THINK THERE'S MISSING ONE IN THE MIDDLE HERE YOU HAVE THREE ALIGNED",
+      "turn_index": 91,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 264.57,
+      "end_time": 265.04,
+      "utterance": "YES",
+      "turn_index": 92,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 265.14,
+      "end_time": 265.37,
+      "utterance": "YEAH",
+      "turn_index": 93,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 266.73,
+      "end_time": 267.15,
+      "utterance": "OKAY",
+      "turn_index": 94,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 267.44,
+      "end_time": 267.89,
+      "utterance": "<%aa>",
+      "turn_index": 95,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 268.14,
+      "end_time": 273.47,
+      "utterance": "BEHIND THE REINDEERS THERE ARE <TWO + HOUSES> TWO WOODEN HOUSES WITH ONE WINDOW",
+      "turn_index": 96,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 274.7,
+      "end_time": 276.54,
+      "utterance": "I HAVE THREE HOUSES",
+      "turn_index": 97,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 277.05,
+      "end_time": 279.58,
+      "utterance": "OKAY I HAVE ONE <ON + TOP> ON THE TOP OF THE HILL",
+      "turn_index": 98,
+      "topic": ""
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 280.47,
+      "end_time": 280.96,
+      "utterance": "YES",
+      "turn_index": 99,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 281.4,
+      "end_time": 281.9,
+      "utterance": "THEN",
+      "turn_index": 100,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U7B",
+          "start_time": 281.63,
+          "turn_index": 101,
+          "speaker_after": "U12B",
+          "end_time": 281.9
+        }
+      ]
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 281.63,
+      "end_time": 282.56,
+      "utterance": "NEXT TO A TREE",
+      "turn_index": 101,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 282.82,
+      "end_time": 284.81,
+      "utterance": "NEXT TO A TREE EXACTLY THEN",
+      "turn_index": 102,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U7B",
+          "speaker_after": "U7B",
+          "turn_index": 103,
+          "start_time": 283.87,
+          "end_time": 284.1
+        }
+      ]
+    },
+    {
+      "speaker": "U12B",
+      "start_time": 283.87,
+      "end_time": 284.1,
+      "utterance": "YES",
+      "turn_index": 103,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 285.0,
+      "end_time": 286.81,
+      "utterance": "I HAVE ANOTHER ONE NEXT",
+      "turn_index": 104,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 287.27,
+      "end_time": 289.47,
+      "utterance": "IN A BELOW PLANE",
+      "turn_index": 105,
+      "topic": ""
+    },
+    {
+      "speaker": "U7B",
+      "start_time": 290.8,
+      "end_time": 291.57,
+      "utterance": "OF THAT TREE",
+      "turn_index": 106,
+      "topic": ""
+    }
+  ]
+}

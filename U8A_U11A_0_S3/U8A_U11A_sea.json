@@ -1,0 +1,816 @@
+{
+  "success": 0.5,
+  "dialogue_duration": 200.11000000000058,
+  "audio": {
+    "ig": "U8A_0_sea.wav",
+    "if": "U11A_0_sea.wav"
+  },
+  "turns": [
+    {
+      "speaker": "U8A",
+      "start_time": 77.84,
+      "end_time": 78.3636125943,
+      "utterance": "HERE IT GOES",
+      "turn_index": 0,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 78.99,
+      "end_time": 79.36,
+      "utterance": "OKAY",
+      "turn_index": 1,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 79.75,
+      "end_time": 80.15,
+      "utterance": "OKAY",
+      "turn_index": 2,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 81.45,
+      "end_time": 83.27,
+      "utterance": "IN THIS <%aa> UNDERWATER SCENE",
+      "turn_index": 3,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 83.95,
+      "end_time": 86.61,
+      "utterance": "STARTING FROM THE TOP LEFT DO YOU SEE TWO PINK SQUIDS?",
+      "turn_index": 4,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 87.23,
+      "end_time": 89.38,
+      "utterance": "NOW I SEE THREE RED SQUIDS IN FACT",
+      "turn_index": 5,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 90.88,
+      "end_time": 94.0,
+      "utterance": "ALRIGHT AND <%aa> CAN YOU EXPLAIN THEIR POSITIONING TO ME",
+      "turn_index": 6,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 95.22,
+      "end_time": 96.33,
+      "utterance": "THEY'RE A TRIANGLE",
+      "turn_index": 7,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 97.02,
+      "end_time": 97.28,
+      "utterance": "YEAH",
+      "turn_index": 8,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 97.6449541961,
+      "end_time": 97.8212750142,
+      "utterance": "AH",
+      "turn_index": 9,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U8A",
+          "start_time": 97.7,
+          "turn_index": 10,
+          "speaker_after": "U11A",
+          "end_time": 97.8212750142
+        }
+      ]
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 97.7,
+      "end_time": 98.07,
+      "utterance": "<%aa>",
+      "turn_index": 10,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 98.96,
+      "end_time": 100.34,
+      "utterance": "<POINTING UP> POINTING UP",
+      "turn_index": 11,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 100.63,
+      "end_time": 105.84,
+      "utterance": "OKAY THE LEFT <%aa> POINT OF THE TRIANGLE IS MISSING <AT MY> <%aa> <AT MY> SIDE",
+      "turn_index": 12,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 106.09,
+      "end_time": 108.71,
+      "utterance": "OKAY AND THEN THERE IS A COLOR AS WELL LET'S CLICK THEM ALL",
+      "turn_index": 13,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 109.99,
+      "end_time": 111.39,
+      "utterance": "ARE THEY ALL A DIFFERENT COLOR",
+      "turn_index": 14,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 111.89,
+      "end_time": 113.5,
+      "utterance": "NO THE THREE ARE RED",
+      "turn_index": 15,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 114.04,
+      "end_time": 116.0,
+      "utterance": "YEAH WELL MINE ARE ALSO RED ACTUALLY",
+      "turn_index": 16,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U8A",
+          "start_time": 115.78,
+          "turn_index": 17,
+          "speaker_after": "U11A",
+          "end_time": 116.0
+        }
+      ]
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 115.78,
+      "end_time": 117.138524498,
+      "utterance": "AH OKAY I THOUGHT THEY WERE PINK",
+      "turn_index": 17,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U11A",
+          "speaker_after": "U11A",
+          "turn_index": 18,
+          "start_time": 116.6,
+          "end_time": 116.88
+        }
+      ]
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 116.6,
+      "end_time": 116.88,
+      "utterance": "YEAH",
+      "turn_index": 18,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 117.72,
+      "end_time": 120.29,
+      "utterance": "AND <%aa> TO THE LEFT OF THEM DO YOU SEE TWO SHARKS",
+      "turn_index": 19,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 120.5,
+      "end_time": 121.92,
+      "utterance": "YEAH THERE TWO SHARKS",
+      "turn_index": 20,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 122.29,
+      "end_time": 124.66,
+      "utterance": "POINTING ON THE SAME SIDE ONE BLUE AND ONE GREEN",
+      "turn_index": 21,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 125.09,
+      "end_time": 127.42,
+      "utterance": "OKAY BOTH OF MINE ARE",
+      "turn_index": 22,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 127.8,
+      "end_time": 129.32,
+      "utterance": "BLUE ON THE TOP AND <%aa>",
+      "turn_index": 23,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 129.81,
+      "end_time": 130.69,
+      "utterance": "LIGHT",
+      "turn_index": 24,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 130.89,
+      "end_time": 131.79,
+      "utterance": "GREEN ON THE BOTTOM",
+      "turn_index": 25,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 132.53,
+      "end_time": 134.4,
+      "utterance": "OKAY SO THAT ONE IN THE BOTTOM",
+      "turn_index": 26,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 134.77,
+      "end_time": 135.01,
+      "utterance": "YEAH",
+      "turn_index": 27,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 135.3,
+      "end_time": 136.53,
+      "utterance": "IS GREEN ON TOP",
+      "turn_index": 28,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 136.73,
+      "end_time": 137.46,
+      "utterance": "I'M GONNA CLICK THAT",
+      "turn_index": 29,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 137.63,
+      "end_time": 138.13,
+      "utterance": "DO THAT",
+      "turn_index": 30,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 138.5,
+      "end_time": 141.66,
+      "utterance": "DO YOU SEE ANY OTHER OBJECTS OR ANIMALS BETWEEN THE SQUIDS OR THE SHARKS",
+      "turn_index": 31,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 141.89,
+      "end_time": 143.211130857,
+      "utterance": "NOW THERE'S NOTHING THERE",
+      "turn_index": 32,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 143.64,
+      "end_time": 144.08,
+      "utterance": "OKAY",
+      "turn_index": 33,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 144.49,
+      "end_time": 146.96,
+      "utterance": "BELOW THE SHARKS DO SEE THREE <%aa>",
+      "turn_index": 34,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 147.66,
+      "end_time": 148.0,
+      "utterance": "<%aa>",
+      "turn_index": 35,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 148.61,
+      "end_time": 148.9,
+      "utterance": "<%aa>",
+      "turn_index": 36,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 149.21,
+      "end_time": 150.05,
+      "utterance": "JELLY FISHES",
+      "turn_index": 37,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 150.64,
+      "end_time": 151.7,
+      "utterance": "I SEE TWO OF THEM",
+      "turn_index": 38,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 152.17,
+      "end_time": 152.6,
+      "utterance": "OKAY",
+      "turn_index": 39,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 153.27,
+      "end_time": 157.42,
+      "utterance": "I HAVE <%aa> THREE JELLYFISHES AND THEY'RE POSITIONED",
+      "turn_index": 40,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 158.09,
+      "end_time": 162.37,
+      "utterance": "THERE IS ONE JUST BELOW <THIS <%aa>> THE LOWER SHARK",
+      "turn_index": 41,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 162.56,
+      "end_time": 162.87,
+      "utterance": "YEAH",
+      "turn_index": 42,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 163.49,
+      "end_time": 164.93,
+      "utterance": "<%aa> JUST BELOW HIS TEETH",
+      "turn_index": 43,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 165.58,
+      "end_time": 168.28,
+      "utterance": "AND THERE'S ONE JUST BELOW THE TEETH OF THE UPPER SHARK",
+      "turn_index": 44,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 169.56,
+      "end_time": 170.8,
+      "utterance": "AND THEN THERE IS ONE",
+      "turn_index": 45,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 171.52,
+      "end_time": 171.95,
+      "utterance": "JUST",
+      "turn_index": 46,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 172.615975732,
+      "end_time": 174.2,
+      "utterance": "BETWEEN THEIR TWO",
+      "turn_index": 47,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 174.48,
+      "end_time": 174.81,
+      "utterance": "<%aa>",
+      "turn_index": 48,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 175.0,
+      "end_time": 175.71,
+      "utterance": "TAILS",
+      "turn_index": 49,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 176.15,
+      "end_time": 180.56,
+      "utterance": "YEAH SURE SO THE ONE THAT IS MISSING IS THE ONE TO <THE (RIGHT=)> THE RIGHT MOST ONE",
+      "turn_index": 50,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 182.44,
+      "end_time": 183.56,
+      "utterance": "ALRIGHT SO LET'S CLICK IT",
+      "turn_index": 51,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 183.85,
+      "end_time": 184.04,
+      "utterance": "YEAH",
+      "turn_index": 52,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 185.03,
+      "end_time": 186.09,
+      "utterance": "AND <%aa>",
+      "turn_index": 53,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 186.99,
+      "end_time": 190.36,
+      "utterance": "LET'S JUMP TO THE LEFT SIDE OF THE PICTURE DO YOU SEE TO SEE HORSES",
+      "turn_index": 54,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U8A",
+          "start_time": 190.34,
+          "turn_index": 55,
+          "speaker_after": "U11A",
+          "end_time": 190.36
+        }
+      ]
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 190.34,
+      "end_time": 191.68,
+      "utterance": "YEAH I SEE TWO SEAHORSES",
+      "turn_index": 55,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 192.03,
+      "end_time": 192.48,
+      "utterance": "ORANGE?",
+      "turn_index": 56,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 194.14,
+      "end_time": 194.55,
+      "utterance": "YEAH",
+      "turn_index": 57,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 194.98,
+      "end_time": 195.65,
+      "utterance": "THEY'RE ORANGE",
+      "turn_index": 58,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 196.11,
+      "end_time": 196.78,
+      "utterance": "ARE (THEY=)",
+      "turn_index": 59,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 197.04,
+      "end_time": 198.69,
+      "utterance": "FACING IN DIFFERENT DIRECTIONS",
+      "turn_index": 60,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U8A",
+          "start_time": 198.68,
+          "turn_index": 61,
+          "speaker_after": "U11A",
+          "end_time": 198.69
+        }
+      ]
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 198.68,
+      "end_time": 200.08,
+      "utterance": "THEY'RE FACING TO THE LEFT",
+      "turn_index": 61,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 200.55,
+      "end_time": 200.97,
+      "utterance": "OKAY",
+      "turn_index": 62,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 201.51,
+      "end_time": 208.11,
+      "utterance": "<%aa> <I <HA->> <THE ONE TO THE <R->> THE RIGHT SEAHORSE IS FACING TO THE RIGHT ON MY PICTURE",
+      "turn_index": 63,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U8A",
+          "start_time": 207.55,
+          "turn_index": 64,
+          "speaker_after": "U11A",
+          "end_time": 208.11
+        }
+      ]
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 207.55,
+      "end_time": 209.11,
+      "utterance": "OKAY SO LET'S CLICK THAT ONE",
+      "turn_index": 64,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 209.36,
+      "end_time": 209.68,
+      "utterance": "YEAH",
+      "turn_index": 65,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 210.59,
+      "end_time": 212.41,
+      "utterance": "OKAY LET'S GO DOWN FOR THAT",
+      "turn_index": 66,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 213.32,
+      "end_time": 218.78,
+      "utterance": "<ON THE BOTTOM OF <%aa>> <ON THE> <OF THE> ON THE LOWER HALF OF THE SCREEN DO YOU SEE TWO SMALL CRABS",
+      "turn_index": 67,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 218.88,
+      "end_time": 219.3,
+      "utterance": "YEAH",
+      "turn_index": 68,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 219.88,
+      "end_time": 222.75,
+      "utterance": "THERE IS <%eh> ONE RED AND ONE KIND OF BROWN",
+      "turn_index": 69,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 224.9,
+      "end_time": 226.48,
+      "utterance": "IS IT BROWN OR YELLOWISH",
+      "turn_index": 70,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 226.8,
+      "end_time": 227.68,
+      "utterance": "YELLOWISH",
+      "turn_index": 71,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 227.89,
+      "end_time": 228.3,
+      "utterance": "OKAY",
+      "turn_index": 72,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 229.16,
+      "end_time": 230.74,
+      "utterance": "AH SO IT'S THE SAME ON MY PICTURE",
+      "turn_index": 73,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 231.25,
+      "end_time": 232.3,
+      "utterance": "AND <%aa>",
+      "turn_index": 74,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 232.7,
+      "end_time": 234.05,
+      "utterance": "IF YOU LOOK AT THE BROWN",
+      "turn_index": 75,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 234.24,
+      "end_time": 234.67,
+      "utterance": "ONE",
+      "turn_index": 76,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 235.76,
+      "end_time": 239.18,
+      "utterance": "<%aa> DOES IT HAVE A STONE JUST ABOVE IT",
+      "turn_index": 77,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 239.43,
+      "end_time": 240.17,
+      "utterance": "YEAH IT DOES",
+      "turn_index": 78,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 240.84,
+      "end_time": 241.94,
+      "utterance": "DOESN'T HAVE <%aa>",
+      "turn_index": 79,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 242.23,
+      "end_time": 242.61,
+      "utterance": "<%aa>",
+      "turn_index": 80,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 243.23,
+      "end_time": 245.26,
+      "utterance": "<%aa> <A> A PIECE OF GRASS",
+      "turn_index": 81,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 245.59,
+      "end_time": 248.24,
+      "utterance": "WITH <%eh> THREE PARTS JUST TO THE LEFT OF IT",
+      "turn_index": 82,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 249.87,
+      "end_time": 252.282425824,
+      "utterance": "YEAH THERE (IS=) A PIECE OF GRASS WITH",
+      "turn_index": 83,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 252.518384847,
+      "end_time": 252.99,
+      "utterance": "<%aa>",
+      "turn_index": 84,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 253.35,
+      "end_time": 254.05,
+      "utterance": "THREE LEAVES",
+      "turn_index": 85,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 254.18,
+      "end_time": 254.7,
+      "utterance": "EXACTLY",
+      "turn_index": 86,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 255.65,
+      "end_time": 260.09,
+      "utterance": "AND TO THE LEFT OF THIS GRASS DO YOU SEE <ANY MORE> <%aa> ANY MORE <PART> PIECES OF GRASS",
+      "turn_index": 87,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 260.43,
+      "end_time": 262.63,
+      "utterance": "<%mm> NO TO THE LEFT MOST PART",
+      "turn_index": 88,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 262.83,
+      "end_time": 264.66439928,
+      "utterance": "CLOSE TO THE OTHER CRAB THERE",
+      "turn_index": 89,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 266.2,
+      "end_time": 268.18,
+      "utterance": "ANOTHER TWO BUSJES ONE WITH THREE",
+      "turn_index": 90,
+      "topic": ""
+    },
+    {
+      "speaker": "U11A",
+      "start_time": 268.67,
+      "end_time": 269.9,
+      "utterance": "PEACES AND ONE WITH TWO",
+      "turn_index": 91,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 270.77,
+      "end_time": 271.18,
+      "utterance": "OKAY",
+      "turn_index": 92,
+      "topic": ""
+    },
+    {
+      "speaker": "U8A",
+      "start_time": 271.71,
+      "end_time": 272.3,
+      "utterance": "<%aa>",
+      "turn_index": 93,
+      "topic": ""
+    }
+  ]
+}

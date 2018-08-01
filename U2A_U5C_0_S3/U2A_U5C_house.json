@@ -1,0 +1,1125 @@
+{
+  "success": 0.8333333333333334,
+  "dialogue_duration": 200.20999999999913,
+  "audio": {
+    "ig": "U2A_0_house.wav",
+    "if": "U5C_0_house.wav"
+  },
+  "turns": [
+    {
+      "speaker": "U5C",
+      "start_time": 611.96,
+      "end_time": 612.29,
+      "utterance": "OKAY",
+      "turn_index": 0,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 614.227023218,
+      "end_time": 616.32,
+      "utterance": "OKAY <%aa> SO ON (THE=)",
+      "turn_index": 1,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 617.4,
+      "end_time": 619.57,
+      "utterance": "UPPER RIGHT SIDE I HAVE THREE CLOUDS",
+      "turn_index": 2,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 620.63,
+      "end_time": 620.85,
+      "utterance": "YEAH",
+      "turn_index": 3,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 621.15,
+      "end_time": 621.75,
+      "utterance": "THEY'RE WHITE",
+      "turn_index": 4,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 622.45,
+      "end_time": 622.65,
+      "utterance": "YEAH",
+      "turn_index": 5,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 622.91,
+      "end_time": 623.29,
+      "utterance": "AND <%aa>",
+      "turn_index": 6,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 623.73,
+      "end_time": 624.04,
+      "utterance": "<%aa>",
+      "turn_index": 7,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 624.25,
+      "end_time": 626.82,
+      "utterance": "ONE OF THEM IS MUCH SMALLER THAN THE TWO OTHER",
+      "turn_index": 8,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 626.92,
+      "end_time": 627.3,
+      "utterance": "YES",
+      "turn_index": 9,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 627.69,
+      "end_time": 629.46,
+      "utterance": "OKAY IT'S <THE ONE> THE MOST ON THE LEFT",
+      "turn_index": 10,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 629.99,
+      "end_time": 630.76,
+      "utterance": "<%aa> YEAH",
+      "turn_index": 11,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 631.273193403,
+      "end_time": 631.629615505,
+      "utterance": "OKAY",
+      "turn_index": 12,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 631.99,
+      "end_time": 632.35,
+      "utterance": "<%aa>",
+      "turn_index": 13,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U5C",
+          "start_time": 632.14,
+          "turn_index": 14,
+          "speaker_after": "U2A",
+          "end_time": 632.35
+        }
+      ]
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 632.14,
+      "end_time": 632.38,
+      "utterance": "AND",
+      "turn_index": 14,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 632.72,
+      "end_time": 634.34,
+      "utterance": "TOP THEY'RE IN A TRIANGLE",
+      "turn_index": 15,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U5C",
+          "start_time": 633.8,
+          "turn_index": 16,
+          "speaker_after": "U2A",
+          "end_time": 634.34
+        }
+      ]
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 633.8,
+      "end_time": 635.920058172,
+      "utterance": "YEAH <TOP> TOP LEFT THERE IS",
+      "turn_index": 16,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U2A",
+          "speaker_after": "U2A",
+          "turn_index": 17,
+          "start_time": 635.38,
+          "end_time": 635.55
+        }
+      ]
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 635.38,
+      "end_time": 635.55,
+      "utterance": "YEAH",
+      "turn_index": 17,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 636.12166278,
+      "end_time": 638.09,
+      "utterance": "AND THEN THE TWO OTHERS ARE THE SAME SIZE",
+      "turn_index": 18,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 638.4,
+      "end_time": 638.65,
+      "utterance": "YEAH",
+      "turn_index": 19,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 638.97,
+      "end_time": 639.45,
+      "utterance": "AND",
+      "turn_index": 20,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U5C",
+          "speaker_after": "U5C",
+          "turn_index": 21,
+          "start_time": 639.19,
+          "end_time": 639.39
+        }
+      ]
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 639.19,
+      "end_time": 639.39,
+      "utterance": "AND",
+      "turn_index": 21,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 639.73,
+      "end_time": 642.06,
+      "utterance": "THE OTHER CLOUDS ON THE LEFT SIDE ARE SAME",
+      "turn_index": 22,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 642.39,
+      "end_time": 642.7,
+      "utterance": "NO",
+      "turn_index": 23,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 643.48,
+      "end_time": 643.77,
+      "utterance": "NO",
+      "turn_index": 24,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 644.22,
+      "end_time": 645.91,
+      "utterance": "<THE> YOU THEY ALL WHITE FOR YOU",
+      "turn_index": 25,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 646.04,
+      "end_time": 646.27,
+      "utterance": "YEAH",
+      "turn_index": 26,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 646.87,
+      "end_time": 648.89,
+      "utterance": "<%aa> THEN LIKE CLICK ON THE BOTTOM ONE",
+      "turn_index": 27,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 649.32,
+      "end_time": 650.16,
+      "utterance": "BECAUSE MINE IS BLACK",
+      "turn_index": 28,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 650.32,
+      "end_time": 650.58,
+      "utterance": "OKAY",
+      "turn_index": 29,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 651.964120129,
+      "end_time": 653.85,
+      "utterance": "<%aa> BUT THEY ALSO HAVE THE SAME SIZES RIGHT?",
+      "turn_index": 30,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 653.9,
+      "end_time": 656.22,
+      "utterance": "SAME SIZE AND SAME <%aa> GEOMETRY",
+      "turn_index": 31,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U5C",
+          "speaker_after": "U5C",
+          "turn_index": 32,
+          "start_time": 654.97,
+          "end_time": 655.25
+        }
+      ]
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 654.97,
+      "end_time": 655.25,
+      "utterance": "RIGHT",
+      "turn_index": 32,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 656.5,
+      "end_time": 658.53,
+      "utterance": "AND THEN THE SUN IN THE MIDDLE IS YELLOW",
+      "turn_index": 33,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 659.64,
+      "end_time": 660.79,
+      "utterance": "MORE ORANGE FOR ME",
+      "turn_index": 34,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 661.32,
+      "end_time": 661.96,
+      "utterance": "<%aa>",
+      "turn_index": 35,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 662.72,
+      "end_time": 663.07,
+      "utterance": "OKAY",
+      "turn_index": 36,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 664.13,
+      "end_time": 665.5,
+      "utterance": "<I> <BECAUSE> OKAY",
+      "turn_index": 37,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 666.74,
+      "end_time": 667.71,
+      "utterance": "I GUESS I",
+      "turn_index": 38,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U2A",
+          "start_time": 666.77,
+          "turn_index": 39,
+          "speaker_after": "U5C",
+          "end_time": 667.71
+        }
+      ]
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 666.77,
+      "end_time": 673.13,
+      "utterance": "SO COMPARED TO <THE OTHER> THE OTHER PICTURE IT WAS A MORE CLEAR YELLOW AND THIS ONE IS CLEAR ORANGE SO",
+      "turn_index": 39,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 673.74,
+      "end_time": 674.66,
+      "utterance": "AH OKAY BECAUSE",
+      "turn_index": 40,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U2A",
+          "speaker_after": "U2A",
+          "turn_index": 41,
+          "start_time": 673.86,
+          "end_time": 674.19
+        }
+      ]
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 673.86,
+      "end_time": 674.19,
+      "utterance": "I GUESS",
+      "turn_index": 41,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 675.32,
+      "end_time": 678.67,
+      "utterance": "<I> I WOULD SAY THAT'S YELLOW BECAUSE IT'S MUCH LESS ORANGE THAN THE OTHER ONE",
+      "turn_index": 42,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 678.77,
+      "end_time": 680.12,
+      "utterance": "YEAH SO THERE'S A DIFFERENCE THERE",
+      "turn_index": 43,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 680.14,
+      "end_time": 681.25,
+      "utterance": "OKAY LET'S STICK ON THE SUN",
+      "turn_index": 44,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 682.18,
+      "end_time": 683.35,
+      "utterance": "AND THEN I HAVE A HOUSE",
+      "turn_index": 45,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 683.52,
+      "end_time": 683.75,
+      "utterance": "YEAH",
+      "turn_index": 46,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 684.37,
+      "end_time": 688.53,
+      "utterance": "<%aa> <+ WITH> IT'S A YELLOW HOUSE WITH A GREY DOOR AND A GREY ROOF",
+      "turn_index": 47,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U2A",
+          "speaker_after": "U2A",
+          "turn_index": 48,
+          "start_time": 686.36,
+          "end_time": 686.6
+        }
+      ]
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 686.36,
+      "end_time": 686.6,
+      "utterance": "THAT",
+      "turn_index": 48,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 688.84,
+      "end_time": 689.2,
+      "utterance": "YES",
+      "turn_index": 49,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 689.51,
+      "end_time": 691.45,
+      "utterance": "WITH THREE <%ahm> WINDOWS",
+      "turn_index": 50,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 691.53,
+      "end_time": 691.91,
+      "utterance": "YES",
+      "turn_index": 51,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 692.45,
+      "end_time": 694.77,
+      "utterance": "THAT ARE EACH <%aa> <S-> IN FOUR",
+      "turn_index": 52,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 695.63,
+      "end_time": 696.11,
+      "utterance": "PARTS",
+      "turn_index": 53,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 696.24,
+      "end_time": 696.45,
+      "utterance": "YEAH",
+      "turn_index": 54,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 697.2,
+      "end_time": 699.07,
+      "utterance": "OKAY THEY KIND OF ALL LOOK THE SAME",
+      "turn_index": 55,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 699.68,
+      "end_time": 699.91,
+      "utterance": "YEAH",
+      "turn_index": 56,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U5C",
+          "start_time": 699.81,
+          "turn_index": 57,
+          "speaker_after": "U2A",
+          "end_time": 699.91
+        }
+      ]
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 699.81,
+      "end_time": 702.4,
+      "utterance": "EXCEPT THE ONE OVER THE DOOR IS A SLIGHTLY BIT",
+      "turn_index": 57,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 702.77,
+      "end_time": 703.16,
+      "utterance": "BIGGER",
+      "turn_index": 58,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 703.26,
+      "end_time": 703.99,
+      "utterance": "SLIGHTLY BIGGER",
+      "turn_index": 59,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 704.14,
+      "end_time": 704.4,
+      "utterance": "YEAH",
+      "turn_index": 60,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U2A",
+          "start_time": 704.2,
+          "turn_index": 61,
+          "speaker_after": "U5C",
+          "end_time": 704.4
+        }
+      ]
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 704.2,
+      "end_time": 704.5,
+      "utterance": "I AGREE",
+      "turn_index": 61,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 704.97,
+      "end_time": 706.25,
+      "utterance": "THEN THERE'S TWO CATS",
+      "turn_index": 62,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 706.95,
+      "end_time": 708.98,
+      "utterance": "ON EACH SIDE THEY LOOK EXACTLY THE SAME",
+      "turn_index": 63,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U2A",
+          "speaker_after": "U2A",
+          "turn_index": 64,
+          "start_time": 707.78,
+          "end_time": 708.03
+        }
+      ]
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 707.78,
+      "end_time": 708.03,
+      "utterance": "YEAH",
+      "turn_index": 64,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 709.11,
+      "end_time": 709.55,
+      "utterance": "YES",
+      "turn_index": 65,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 710.1,
+      "end_time": 711.18,
+      "utterance": "UNDER THE HOUSE I HAVE",
+      "turn_index": 66,
+      "topic": "DESCRIBING PICTURE",
+      "overlap": [
+        {
+          "speaker_before": "U2A",
+          "start_time": 710.83,
+          "turn_index": 67,
+          "speaker_after": "U5C",
+          "end_time": 711.18
+        }
+      ]
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 710.83,
+      "end_time": 714.13,
+      "utterance": "OH <%aa> ONE OF MY CATS <IS> <%aa> DOESN'T HAVE A TAIL",
+      "turn_index": 67,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 714.37,
+      "end_time": 715.09,
+      "utterance": "AHA WHICH ONE",
+      "turn_index": 68,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U2A",
+          "start_time": 714.38,
+          "turn_index": 69,
+          "speaker_after": "U5C",
+          "end_time": 715.09
+        }
+      ]
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 714.38,
+      "end_time": 717.27,
+      "utterance": "<THE ONE TO THE RIGHT> THE ONE TO THE RIGHT DOESN'T HAVE A TAIL",
+      "turn_index": 69,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U5C",
+          "speaker_after": "U5C",
+          "turn_index": 70,
+          "start_time": 715.73,
+          "end_time": 716.41
+        }
+      ]
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 715.73,
+      "end_time": 716.41,
+      "utterance": "ON THE RIGHT",
+      "turn_index": 70,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 717.48,
+      "end_time": 718.76,
+      "utterance": "<%aa> LET'S CLICK ON THE TAIL THEN",
+      "turn_index": 71,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 719.19,
+      "end_time": 719.804618964,
+      "utterance": "OF THAT ONE",
+      "turn_index": 72,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 721.72,
+      "end_time": 723.78,
+      "utterance": "AND THEN UNDER THE HOUSE I HAVE TWO ROCKS",
+      "turn_index": 73,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 723.85,
+      "end_time": 724.16,
+      "utterance": "YES",
+      "turn_index": 74,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 724.69,
+      "end_time": 729.73,
+      "utterance": "<%aa> SAME SIZE BUT <%aa> ONE OF THEM IS GRAY AND ONE OF THEM IS BLACK WITH A LOT OF POINTS",
+      "turn_index": 75,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U2A",
+          "start_time": 729.62,
+          "turn_index": 76,
+          "speaker_after": "U5C",
+          "end_time": 729.73
+        }
+      ]
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 729.62,
+      "end_time": 730.5,
+      "utterance": "THEY'RE BOTH GREY",
+      "turn_index": 76,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 730.9,
+      "end_time": 732.22,
+      "utterance": "OKAY CLICK ON THE BOTTOM ONE",
+      "turn_index": 77,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 732.64,
+      "end_time": 734.26,
+      "utterance": "<THEN> <THE CLOSEST> THE NEAREST ONE",
+      "turn_index": 78,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 734.87,
+      "end_time": 735.13,
+      "utterance": "YEAH",
+      "turn_index": 79,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 735.54,
+      "end_time": 735.85,
+      "utterance": "OKAY",
+      "turn_index": 80,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 737.56,
+      "end_time": 740.75,
+      "utterance": "AND THEN ON THE RIGHT OF THAT I HAVE THREE FLOWERS",
+      "turn_index": 81,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 741.77,
+      "end_time": 742.87,
+      "utterance": "<%aa> AND IT'S",
+      "turn_index": 82,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 743.03,
+      "end_time": 745.72,
+      "utterance": "IN THE SAME ORDER AS THE PICTURE BEFORE ORANGE BLUE RED",
+      "turn_index": 83,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 746.15,
+      "end_time": 746.44,
+      "utterance": "YEAH",
+      "turn_index": 84,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 747.48,
+      "end_time": 749.13,
+      "utterance": "THEN NEXT TO THAT I HAVE TWO PICTURES",
+      "turn_index": 85,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 749.35,
+      "end_time": 752.22,
+      "utterance": "AND THEN NEXT TO THOSE THREE FLOWERS THERE ARE",
+      "turn_index": 86,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 752.47,
+      "end_time": 753.62,
+      "utterance": "THREE FLOWERS AGAIN",
+      "turn_index": 87,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 753.98,
+      "end_time": 754.97,
+      "utterance": "NO I ONLY HAVE TWO",
+      "turn_index": 88,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 755.33,
+      "end_time": 755.68,
+      "utterance": "OKAY",
+      "turn_index": 89,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 755.77,
+      "end_time": 757.81,
+      "utterance": "<HOW ARE THEY OF> DO YOU HAVE ORANGE AND BLUE",
+      "turn_index": 90,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 758.2,
+      "end_time": 759.95,
+      "utterance": "SAME COPY ORANGE BLUE RED",
+      "turn_index": 91,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 760.01,
+      "end_time": 761.58,
+      "utterance": "OKAY YOU CAN CLICK ON THE RED ONE THEM",
+      "turn_index": 92,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 762.43,
+      "end_time": 763.46,
+      "utterance": "THE MOST RIGHT",
+      "turn_index": 93,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 764.04,
+      "end_time": 764.65,
+      "utterance": "MOST LEFT",
+      "turn_index": 94,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 764.88,
+      "end_time": 765.89,
+      "utterance": "<%aa> YEAH LEFT SORRY",
+      "turn_index": 95,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U2A",
+          "start_time": 765.83,
+          "turn_index": 96,
+          "speaker_after": "U5C",
+          "end_time": 765.89
+        }
+      ]
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 765.83,
+      "end_time": 766.05,
+      "utterance": "GO",
+      "turn_index": 96,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 767.19,
+      "end_time": 769.95,
+      "utterance": "THEN ABOVE THAT THERE IS <THREE> THREE ROCKS",
+      "turn_index": 97,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 769.95,
+      "end_time": 770.51,
+      "utterance": "TWO ROCKS",
+      "turn_index": 98,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 771.4,
+      "end_time": 772.67,
+      "utterance": "OKAY HOW DO THEY LOOK LIKE",
+      "turn_index": 99,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 773.2,
+      "end_time": 774.82,
+      "utterance": "<%aa> SAME LIKE THE OTHER TWO",
+      "turn_index": 100,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 776.13,
+      "end_time": 779.26,
+      "utterance": "ALRIGHTS <%aa> OKAY SO I HAVE ANOTHER ONE THAT IS",
+      "turn_index": 101,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 780.2,
+      "end_time": 784.22,
+      "utterance": "LIKE IN THE MIDDLE OF THOSE TWO BUT <%aa> <ON (THE=)> ON THE RIGHT SIDE",
+      "turn_index": 102,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 785.65,
+      "end_time": 787.26,
+      "utterance": "RIGHT SIDE SO I HAVE",
+      "turn_index": 103,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U5C",
+          "start_time": 787.22,
+          "turn_index": 104,
+          "speaker_after": "U2A",
+          "end_time": 787.26
+        }
+      ]
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 787.22,
+      "end_time": 787.6,
+      "utterance": "SO LIKE",
+      "turn_index": 104,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 788.16,
+      "end_time": 791.3,
+      "utterance": "IF YOU SEE <THE> ALL OF THE OTHER TWO ROCKS IN FRONT OF THE HOUSE",
+      "turn_index": 105,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 792.03,
+      "end_time": 792.7,
+      "utterance": "AND YOU CAN JUST",
+      "turn_index": 106,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 793.16,
+      "end_time": 796.26,
+      "utterance": "<%aa> TRANSPOSE AND MAKE A COPY OF THOSE AND PUT THEM",
+      "turn_index": 107,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U5C",
+          "speaker_after": "U5C",
+          "turn_index": 108,
+          "start_time": 795.62,
+          "end_time": 795.97
+        }
+      ]
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 795.62,
+      "end_time": 795.97,
+      "utterance": "YEAH",
+      "turn_index": 108,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 796.55,
+      "end_time": 797.89,
+      "utterance": "AND THEN THERE WOULD BE ANOTHER",
+      "turn_index": 109,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 798.13,
+      "end_time": 799.76,
+      "utterance": "KIND OF IN THE MIDDLE BUT LIKE",
+      "turn_index": 110,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 800.76,
+      "end_time": 801.59,
+      "utterance": "ON THE RIGHT SIDE",
+      "turn_index": 111,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 801.8,
+      "end_time": 803.65,
+      "utterance": "OKAY I'LL CLICK A LITTLE BIT TO THE RIGHT SIDE",
+      "turn_index": 112,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 803.76,
+      "end_time": 803.99,
+      "utterance": "YEAH",
+      "turn_index": 113,
+      "topic": ""
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 805.09,
+      "end_time": 805.45,
+      "utterance": "YEAH",
+      "turn_index": 114,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 805.75,
+      "end_time": 806.09,
+      "utterance": "COOL",
+      "turn_index": 115,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U5C",
+          "start_time": 805.97,
+          "turn_index": 116,
+          "speaker_after": "U2A",
+          "end_time": 806.09
+        }
+      ]
+    },
+    {
+      "speaker": "U2A",
+      "start_time": 805.97,
+      "end_time": 808.01,
+      "utterance": "<<%aa> BUT THEN> DO YOU HAVE SOMETHING ELSE",
+      "turn_index": 116,
+      "topic": ""
+    },
+    {
+      "speaker": "U5C",
+      "start_time": 808.14,
+      "end_time": 809.66,
+      "utterance": "NO <THAT'S> THAT SHOULD BE IT",
+      "turn_index": 117,
+      "topic": ""
+    }
+  ]
+}

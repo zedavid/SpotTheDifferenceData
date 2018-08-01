@@ -1,0 +1,822 @@
+{
+  "success": 0.7,
+  "dialogue_duration": 200.10800000000017,
+  "audio": {
+    "ig": "U8B_0_winter.wav",
+    "if": "U11B_0_winter.wav"
+  },
+  "turns": [
+    {
+      "speaker": "U11B",
+      "start_time": 90.4863469724,
+      "end_time": 91.1361237347,
+      "utterance": "yes",
+      "turn_index": 0,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 91.3115634606,
+      "end_time": 97.1522628781,
+      "utterance": "there is (a=) circle <%aa> <in the <m->> as a sun and around it some kind of carrot shape",
+      "turn_index": 1,
+      "topic": ""
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 97.5226356326,
+      "end_time": 97.9514777494,
+      "utterance": "yes",
+      "turn_index": 2,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 98.5817717553,
+      "end_time": 100.732520833,
+      "utterance": "okay I have three clouds",
+      "turn_index": 3,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U8B",
+          "start_time": 100.037893756,
+          "turn_index": 4,
+          "speaker_after": "U11B",
+          "end_time": 100.732520833
+        }
+      ]
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 100.037893756,
+      "end_time": 101.043609269,
+      "utterance": "what colour is it?",
+      "turn_index": 4,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 101.246478534,
+      "end_time": 101.519384775,
+      "utterance": "ah?",
+      "turn_index": 5,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 101.655837895,
+      "end_time": 102.574380244,
+      "utterance": "<%eh> it's white",
+      "turn_index": 6,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U8B",
+          "speaker_after": "U8B",
+          "turn_index": 7,
+          "start_time": 101.720815571,
+          "end_time": 102.097686093
+        }
+      ]
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 101.720815571,
+      "end_time": 102.097686093,
+      "utterance": "what colour",
+      "turn_index": 7,
+      "topic": ""
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 102.799444996,
+      "end_time": 103.468066918,
+      "utterance": "yes okay",
+      "turn_index": 8,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 104.059363772,
+      "end_time": 105.465627409,
+      "utterance": "I have three clouds",
+      "turn_index": 9,
+      "topic": ""
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 105.543395183,
+      "end_time": 105.90727017,
+      "utterance": "yes",
+      "turn_index": 10,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 106.608380618,
+      "end_time": 109.486891675,
+      "utterance": "<%aa> on of them in the middle one of them in (the=)",
+      "turn_index": 11,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 109.980722014,
+      "end_time": 115.947532171,
+      "utterance": "a bit down to the left of the cloud one of the is again same level to the right",
+      "turn_index": 12,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U8B",
+          "speaker_after": "U8B",
+          "turn_index": 13,
+          "start_time": 111.770003284,
+          "end_time": 112.777157266
+        }
+      ]
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 111.770003284,
+      "end_time": 112.777157266,
+      "utterance": "<AA> AA",
+      "turn_index": 13,
+      "topic": ""
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 116.750071937,
+      "end_time": 117.115786139,
+      "utterance": "yes",
+      "turn_index": 14,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 117.308879953,
+      "end_time": 119.235400652,
+      "utterance": "they're white <%aa> kind of white blue",
+      "turn_index": 15,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U8B",
+          "start_time": 119.115259352,
+          "turn_index": 16,
+          "speaker_after": "U11B",
+          "end_time": 119.235400652
+        }
+      ]
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 119.115259352,
+      "end_time": 119.856004861,
+      "utterance": "blue yes",
+      "turn_index": 16,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 119.933978073,
+      "end_time": 120.174395475,
+      "utterance": "yes",
+      "turn_index": 17,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 120.764275973,
+      "end_time": 123.139232851,
+      "utterance": "and I have (a=) tree",
+      "turn_index": 18,
+      "topic": ""
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 123.363383022,
+      "end_time": 123.770457341,
+      "utterance": "AA",
+      "turn_index": 19,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 123.77924015,
+      "end_time": 126.372854966,
+      "utterance": "coconut tree and there are three coconuts on the tree",
+      "turn_index": 20,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U8B",
+          "speaker_after": "U8B",
+          "turn_index": 21,
+          "start_time": 124.696430919,
+          "end_time": 125.034314835
+        }
+      ]
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 124.696430919,
+      "end_time": 125.034314835,
+      "utterance": "yes",
+      "turn_index": 21,
+      "topic": ""
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 126.35985943,
+      "end_time": 126.912169678,
+      "utterance": "yes",
+      "turn_index": 22,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 127.448030566,
+      "end_time": 131.140207908,
+      "utterance": "one of them is big <one of them is> <%aa> and two of them are same",
+      "turn_index": 23,
+      "topic": ""
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 131.484148879,
+      "end_time": 132.472452806,
+      "utterance": "yeah smaller",
+      "turn_index": 24,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 132.739223329,
+      "end_time": 136.710364706,
+      "utterance": "<%aa> the biggest one is <%eh> <down to the> the two other one is <%aa> <%aa>",
+      "turn_index": 25,
+      "topic": ""
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 136.943278279,
+      "end_time": 138.172362177,
+      "utterance": "yep yes",
+      "turn_index": 26,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U11B",
+          "speaker_after": "U11B",
+          "turn_index": 27,
+          "start_time": 136.944284301,
+          "end_time": 138.01748682
+        }
+      ]
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 136.944284301,
+      "end_time": 138.01748682,
+      "utterance": "a bit higher so",
+      "turn_index": 27,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 138.436203879,
+      "end_time": 141.90601121,
+      "utterance": "I have (two=) lifevests <on the> <%aa> on the water",
+      "turn_index": 28,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U8B",
+          "start_time": 141.652598315,
+          "turn_index": 29,
+          "speaker_after": "U11B",
+          "end_time": 141.90601121
+        }
+      ]
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 141.652598315,
+      "end_time": 142.55163648,
+      "utterance": "I hae three",
+      "turn_index": 29,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 142.998257648,
+      "end_time": 145.402431267,
+      "utterance": "so <%aa> okay <%aa>",
+      "turn_index": 30,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U8B",
+          "start_time": 145.10888025,
+          "turn_index": 31,
+          "speaker_after": "U11B",
+          "end_time": 145.402431267
+        }
+      ]
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 145.10888025,
+      "end_time": 149.698459719,
+      "utterance": "it's like in a triangle <%aa> two are at the back one is more on the front",
+      "turn_index": 31,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 150.053150409,
+      "end_time": 156.644765731,
+      "utterance": "so I realise the position so you should click <on (the=)> <%aa> on the one in the back to the right",
+      "turn_index": 32,
+      "topic": ""
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 156.838830406,
+      "end_time": 157.346035573,
+      "utterance": "okay",
+      "turn_index": 33,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 158.02789436,
+      "end_time": 158.36577822,
+      "utterance": "I click",
+      "turn_index": 34,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 158.586702282,
+      "end_time": 161.614661489,
+      "utterance": "I have (three=) <%aa> rest <%aa> chairs",
+      "turn_index": 35,
+      "topic": ""
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 162.264438143,
+      "end_time": 162.867441468,
+      "utterance": "yes",
+      "turn_index": 36,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 163.213112058,
+      "end_time": 163.959777069,
+      "utterance": "they are blue",
+      "turn_index": 37,
+      "topic": ""
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 164.383183916,
+      "end_time": 166.540442362,
+      "utterance": "<%aa> <%ahm> I have an orange one",
+      "turn_index": 38,
+      "topic": ""
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 167.060263674,
+      "end_time": 171.920797477,
+      "utterance": "that's <%aa> the one <mo-> closest to us like front one",
+      "turn_index": 39,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U11B",
+          "start_time": 171.621695689,
+          "turn_index": 40,
+          "speaker_after": "U8B",
+          "end_time": 171.920797477
+        }
+      ]
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 171.621695689,
+      "end_time": 174.80072945,
+      "utterance": "<okay> okay <I click on the> so it's down then?",
+      "turn_index": 40,
+      "topic": ""
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 174.80072945,
+      "end_time": 175.667124008,
+      "utterance": "down yes",
+      "turn_index": 41,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U11B",
+          "start_time": 175.548356259,
+          "turn_index": 42,
+          "speaker_after": "U8B",
+          "end_time": 175.667124008
+        }
+      ]
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 175.548356259,
+      "end_time": 176.255831491,
+      "utterance": "so I click on that",
+      "turn_index": 42,
+      "topic": ""
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 176.764788407,
+      "end_time": 177.132679563,
+      "utterance": "yes",
+      "turn_index": 43,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 177.341739786,
+      "end_time": 182.787579208,
+      "utterance": "I have <%aa> <three> <%aa> three sun <%aa> protector",
+      "turn_index": 44,
+      "topic": ""
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 182.930530068,
+      "end_time": 183.45732809,
+      "utterance": "yes",
+      "turn_index": 45,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 183.840217365,
+      "end_time": 187.367324565,
+      "utterance": "and <they have> <%aa> two of them are same one is different",
+      "turn_index": 46,
+      "topic": ""
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 187.679217352,
+      "end_time": 188.206012897,
+      "utterance": "yes",
+      "turn_index": 47,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 188.887801903,
+      "end_time": 194.582619577,
+      "utterance": "<%aa> <the two of> <on the> two at the top are like <%aa> kind of rainbow",
+      "turn_index": 48,
+      "topic": ""
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 195.154423021,
+      "end_time": 198.702203477,
+      "utterance": "<%aa> I have one rainbow that's close to the sea",
+      "turn_index": 49,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 198.923127535,
+      "end_time": 199.611890773,
+      "utterance": "okay",
+      "turn_index": 50,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U8B",
+          "start_time": 199.027091797,
+          "turn_index": 51,
+          "speaker_after": "U11B",
+          "end_time": 199.611890773
+        }
+      ]
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 199.027091797,
+      "end_time": 204.978515109,
+      "utterance": "and then two of the are blue and yellow kind of striped towards me",
+      "turn_index": 51,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U11B",
+          "speaker_after": "U11B",
+          "turn_index": 52,
+          "start_time": 203.743939492,
+          "end_time": 204.431840561
+        }
+      ]
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 203.743939492,
+      "end_time": 204.431840561,
+      "utterance": "so",
+      "turn_index": 52,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 205.277412363,
+      "end_time": 213.690684099,
+      "utterance": "exactly so I have <%aa> <<my> my> <%aa> these umbrelas <are> <one of them is> <%aa> two of them are close to the sea",
+      "turn_index": 53,
+      "topic": ""
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 214.0718135,
+      "end_time": 214.713994756,
+      "utterance": "okay",
+      "turn_index": 54,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U11B",
+          "start_time": 214.69338416,
+          "turn_index": 55,
+          "speaker_after": "U8B",
+          "end_time": 214.713994756
+        }
+      ]
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 214.69338416,
+      "end_time": 217.020457341,
+      "utterance": "they are in same <%aa> level actually",
+      "turn_index": 55,
+      "topic": ""
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 217.020457341,
+      "end_time": 217.632158022,
+      "utterance": "okay",
+      "turn_index": 56,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U11B",
+          "start_time": 217.184577929,
+          "turn_index": 57,
+          "speaker_after": "U8B",
+          "end_time": 217.632158022
+        }
+      ]
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 217.184577929,
+      "end_time": 220.767713577,
+      "utterance": "and the one which is different is close <to> to me",
+      "turn_index": 57,
+      "topic": ""
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 220.909944786,
+      "end_time": 221.247457308,
+      "utterance": "AA",
+      "turn_index": 58,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 221.477579482,
+      "end_time": 223.166829223,
+      "utterance": "<%aa> and is blue kind of",
+      "turn_index": 59,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 224.212827,
+      "end_time": 229.352222224,
+      "utterance": "so I think the one in the <middle> <%aa> middle of these two umbrellaa are different",
+      "turn_index": 60,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "",
+          "start_time": 224.212827,
+          "speaker_after": "U8B",
+          "end_time": 224.918535001,
+          "turn_index": 61
+        }
+      ]
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 224.212827,
+      "end_time": 224.918535001,
+      "utterance": "okay",
+      "turn_index": 61,
+      "topic": ""
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 230.64195394,
+      "end_time": 234.389596891,
+      "utterance": "(yeah=) yes yes",
+      "turn_index": 62,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U11B",
+          "start_time": 234.374255413,
+          "turn_index": 63,
+          "speaker_after": "U8B",
+          "end_time": 234.389596891
+        }
+      ]
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 234.374255413,
+      "end_time": 235.301591128,
+      "utterance": "so I click in",
+      "turn_index": 63,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U8B",
+          "start_time": 234.543011674,
+          "turn_index": 64,
+          "speaker_after": "U11B",
+          "end_time": 235.301591128
+        }
+      ]
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 234.543011674,
+      "end_time": 237.621206036,
+      "utterance": "but click <%aa> also click on (the=)",
+      "turn_index": 64,
+      "topic": ""
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 238.403621428,
+      "end_time": 247.4853553,
+      "utterance": "because I dont't have anything I have only one <%aa> umbrella close to the sea so I think we should click on both of these umbrella sites",
+      "turn_index": 65,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 247.588007709,
+      "end_time": 248.815325885,
+      "utterance": "okay which one <%aa>",
+      "turn_index": 66,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 249.014765088,
+      "end_time": 253.064915068,
+      "utterance": "so <%aa> first of all one of the umbrellas near to the sea is a raibow",
+      "turn_index": 67,
+      "topic": ""
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 254.016086654,
+      "end_time": 256.04353184,
+      "utterance": "I have only one and it's rainbow",
+      "turn_index": 68,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 256.641849377,
+      "end_time": 258.095990221,
+      "utterance": "<%aa> where is the rainbow?",
+      "turn_index": 69,
+      "topic": ""
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 258.605558215,
+      "end_time": 266.18062075,
+      "utterance": "<the rainbow one is> <%eh> the rainbow coloured umbrella is towards the sea closer to the sea and it's only one",
+      "turn_index": 70,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 266.550907728,
+      "end_time": 266.986466125,
+      "utterance": "okay",
+      "turn_index": 71,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 267.416027381,
+      "end_time": 273.242441312,
+      "utterance": "<mine is so> <%aa> and to the right side of that umbrella I have a rainbow umbrella",
+      "turn_index": 72,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 273.687344041,
+      "end_time": 274.761247179,
+      "utterance": "exactly say",
+      "turn_index": 73,
+      "topic": ""
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 275.390247588,
+      "end_time": 277.636783872,
+      "utterance": "no so I dont't have that so we click there",
+      "turn_index": 74,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U11B",
+          "start_time": 277.277248816,
+          "turn_index": 75,
+          "speaker_after": "U8B",
+          "end_time": 277.636783872
+        }
+      ]
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 277.277248816,
+      "end_time": 280.161613804,
+      "utterance": "so we click to the right side <of that> of that umbrella",
+      "turn_index": 75,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U8B",
+          "start_time": 279.960749419,
+          "turn_index": 76,
+          "speaker_after": "U11B",
+          "end_time": 280.161613804
+        }
+      ]
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 279.960749419,
+      "end_time": 281.687010629,
+      "utterance": "<yes we> yeah I did it",
+      "turn_index": 76,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U11B",
+          "start_time": 281.510238232,
+          "turn_index": 77,
+          "speaker_after": "U8B",
+          "end_time": 281.687010629
+        }
+      ]
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 281.510238232,
+      "end_time": 282.559482285,
+      "utterance": "so where is",
+      "turn_index": 77,
+      "topic": ""
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 282.768239051,
+      "end_time": 283.228483253,
+      "utterance": "okay",
+      "turn_index": 78,
+      "topic": ""
+    }
+  ]
+}

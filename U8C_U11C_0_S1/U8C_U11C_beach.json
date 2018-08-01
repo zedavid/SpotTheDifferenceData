@@ -1,0 +1,928 @@
+{
+  "success": 1.0,
+  "dialogue_duration": 200.10499999999593,
+  "audio": {
+    "ig": "U8C_0_beach.wav",
+    "if": "U11C_0_beach.wav"
+  },
+  "turns": [
+    {
+      "speaker": "U8C",
+      "start_time": 667.97,
+      "end_time": 676.46,
+      "utterance": "OKAY SO NOW I HAVE LIKE ON THE UPPER LEFT CORNER I HAVE A SUN BUT IS A <SUN <%eh>> DIFFERENT TYPE OF SUN FROM THE ONE THAT WE HAVE SEEN BEFORE",
+      "turn_index": 0,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U8C",
+          "speaker_after": "U8C",
+          "turn_index": 1,
+          "start_time": 672.71,
+          "end_time": 673.1
+        }
+      ]
+    },
+    {
+      "speaker": "U11C",
+      "start_time": 672.71,
+      "end_time": 673.1,
+      "utterance": "YES",
+      "turn_index": 1,
+      "topic": ""
+    },
+    {
+      "speaker": "U8C",
+      "start_time": 676.7,
+      "end_time": 678.910864383,
+      "utterance": "AND THIS SUN AS KIND OF <%aa>",
+      "turn_index": 2,
+      "topic": ""
+    },
+    {
+      "speaker": "U8C",
+      "start_time": 679.24,
+      "end_time": 679.73,
+      "utterance": "<%aa>",
+      "turn_index": 3,
+      "topic": ""
+    },
+    {
+      "speaker": "U8C",
+      "start_time": 679.94,
+      "end_time": 684.21,
+      "utterance": "THREE <%ahm> LIKE KIND OF <%aa> THIS IS A WEIRD THING TO EXPLAIN",
+      "turn_index": 4,
+      "topic": ""
+    },
+    {
+      "speaker": "U11C",
+      "start_time": 684.41,
+      "end_time": 685.53,
+      "utterance": "YEAH LIKE RINGS",
+      "turn_index": 5,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U11C",
+          "speaker_after": "U11C",
+          "turn_index": 6,
+          "start_time": 684.48,
+          "end_time": 685.0
+        }
+      ]
+    },
+    {
+      "speaker": "U8C",
+      "start_time": 684.48,
+      "end_time": 685.0,
+      "utterance": "YEAH IT'S LIKE",
+      "turn_index": 6,
+      "topic": ""
+    },
+    {
+      "speaker": "U8C",
+      "start_time": 685.69,
+      "end_time": 689.2,
+      "utterance": "YEAH I RINGS EXACTLY RINGS AND THEN I HAVE LIKE <%aa> THREE",
+      "turn_index": 7,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U8C",
+          "speaker_after": "U8C",
+          "turn_index": 8,
+          "start_time": 687.36,
+          "end_time": 687.76
+        }
+      ]
+    },
+    {
+      "speaker": "U11C",
+      "start_time": 687.36,
+      "end_time": 687.76,
+      "utterance": "MINE",
+      "turn_index": 8,
+      "topic": ""
+    },
+    {
+      "speaker": "U8C",
+      "start_time": 689.2,
+      "end_time": 690.34,
+      "utterance": "INNER RINGS",
+      "turn_index": 9,
+      "topic": ""
+    },
+    {
+      "speaker": "U8C",
+      "start_time": 690.87,
+      "end_time": 693.48,
+      "utterance": "AND THEN <%aa> THERE IS LIKE <%ahm>",
+      "turn_index": 10,
+      "topic": ""
+    },
+    {
+      "speaker": "U8C",
+      "start_time": 693.9,
+      "end_time": 695.26,
+      "utterance": "YEAH NOT THREE IN A RINGS LIKE BUT",
+      "turn_index": 11,
+      "topic": ""
+    },
+    {
+      "speaker": "U8C",
+      "start_time": 695.44,
+      "end_time": 697.22,
+      "utterance": "YEAH IT'S LIKE <%aa>",
+      "turn_index": 12,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U8C",
+          "start_time": 696.71,
+          "turn_index": 13,
+          "speaker_after": "U11C",
+          "end_time": 697.22
+        }
+      ]
+    },
+    {
+      "speaker": "U11C",
+      "start_time": 696.71,
+      "end_time": 700.28,
+      "utterance": "HOW MANY PIECES AROUND <THE> THE SPHERE ONE TWO THREE FOUR FIVE SIX",
+      "turn_index": 13,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U11C",
+          "start_time": 698.69,
+          "turn_index": 14,
+          "speaker_after": "U8C",
+          "end_time": 700.28
+        }
+      ]
+    },
+    {
+      "speaker": "U8C",
+      "start_time": 698.69,
+      "end_time": 702.89,
+      "utterance": "YEAH <GOOD> GOOD ONE LIKE IT HAS DOES ONE TWO THREE THAT WE CAN SEE COMPLETELY AND LIKE",
+      "turn_index": 14,
+      "topic": ""
+    },
+    {
+      "speaker": "U8C",
+      "start_time": 703.08,
+      "end_time": 706.51,
+      "utterance": "<TWO THAT WE CAN SEE> THREE THAT WE CAN SEE JUST A LITTLE PIECE OF IT",
+      "turn_index": 15,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U8C",
+          "speaker_after": "U8C",
+          "turn_index": 16,
+          "start_time": 705.42,
+          "end_time": 705.75
+        }
+      ]
+    },
+    {
+      "speaker": "U11C",
+      "start_time": 705.42,
+      "end_time": 705.75,
+      "utterance": "OKAY",
+      "turn_index": 16,
+      "topic": ""
+    },
+    {
+      "speaker": "U11C",
+      "start_time": 706.71,
+      "end_time": 710.32,
+      "utterance": "AND DOES IT HAVE LIKE <%aa> SORT OF TWO TRANSPARENT SQUARES AROUND IT AS WELL?",
+      "turn_index": 17,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U11C",
+          "start_time": 710.1,
+          "turn_index": 18,
+          "speaker_after": "U8C",
+          "end_time": 710.32
+        }
+      ]
+    },
+    {
+      "speaker": "U8C",
+      "start_time": 710.1,
+      "end_time": 713.077025963,
+      "utterance": "YES YEAH AND THE TRANSPARENT SQUARES THEY ARE LIKE <%eh>",
+      "turn_index": 18,
+      "topic": ""
+    },
+    {
+      "speaker": "U8C",
+      "start_time": 713.3,
+      "end_time": 716.46,
+      "utterance": "<%aa> LIKE <%eh> SHIFTED BY LET'S <SAY=>",
+      "turn_index": 19,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U8C",
+          "speaker_after": "U8C",
+          "turn_index": 20,
+          "start_time": 715.746143143,
+          "end_time": 715.98358631
+        }
+      ]
+    },
+    {
+      "speaker": "U11C",
+      "start_time": 715.746143143,
+      "end_time": 715.98358631,
+      "utterance": "YEAH",
+      "turn_index": 20,
+      "topic": ""
+    },
+    {
+      "speaker": "U11C",
+      "start_time": 716.2,
+      "end_time": 717.33,
+      "utterance": "<OKAY> OKAY <MOVE ON> MOVE ON",
+      "turn_index": 21,
+      "topic": ""
+    },
+    {
+      "speaker": "U8C",
+      "start_time": 717.56,
+      "end_time": 720.04,
+      "utterance": "YEAH OKAY THEN WE HAVE LIKE <%eh> THREE CLOUDS",
+      "turn_index": 22,
+      "topic": ""
+    },
+    {
+      "speaker": "U8C",
+      "start_time": 721.29,
+      "end_time": 722.22,
+      "utterance": "ON <THE> THE DRAWING",
+      "turn_index": 23,
+      "topic": ""
+    },
+    {
+      "speaker": "U11C",
+      "start_time": 723.65,
+      "end_time": 724.88,
+      "utterance": "THAT LOOK LIKE MOUSTACHES",
+      "turn_index": 24,
+      "topic": ""
+    },
+    {
+      "speaker": "U8C",
+      "start_time": 725.0,
+      "end_time": 726.82,
+      "utterance": "YEAH THEY LOOK LIKE MOUSTACHES YES PRECISELY",
+      "turn_index": 25,
+      "topic": ""
+    },
+    {
+      "speaker": "U8C",
+      "start_time": 727.05,
+      "end_time": 727.61,
+      "utterance": "THREE CLOUDS",
+      "turn_index": 26,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U8C",
+          "start_time": 727.2,
+          "turn_index": 27,
+          "speaker_after": "U11C",
+          "end_time": 727.61
+        }
+      ]
+    },
+    {
+      "speaker": "U11C",
+      "start_time": 727.2,
+      "end_time": 731.85,
+      "utterance": "<BUT> BUT I SEE TWO CLOUDS BESIDE THE SUN AND A THIRD ONE UNDER A PALM TREE ON THE RIGHT",
+      "turn_index": 27,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U11C",
+          "start_time": 731.81,
+          "turn_index": 28,
+          "speaker_after": "U8C",
+          "end_time": 731.85
+        }
+      ]
+    },
+    {
+      "speaker": "U8C",
+      "start_time": 731.81,
+      "end_time": 732.72,
+      "utterance": "YEAH THE SAME FOR ME",
+      "turn_index": 28,
+      "topic": ""
+    },
+    {
+      "speaker": "U8C",
+      "start_time": 732.97,
+      "end_time": 737.98,
+      "utterance": "YEAH BUT <THEY> THEY ARE BESIDES THE SUN AND LIKE <THE> THE ONE CLOSER TO THE SUN <IS> IS A BIT SMALLER THAN THE OTHER TWO",
+      "turn_index": 29,
+      "topic": ""
+    },
+    {
+      "speaker": "U11C",
+      "start_time": 738.32,
+      "end_time": 738.67,
+      "utterance": "YEAH",
+      "turn_index": 30,
+      "topic": ""
+    },
+    {
+      "speaker": "U8C",
+      "start_time": 739.08,
+      "end_time": 739.3,
+      "utterance": "YEAH",
+      "turn_index": 31,
+      "topic": ""
+    },
+    {
+      "speaker": "U8C",
+      "start_time": 739.65,
+      "end_time": 742.88,
+      "utterance": "OKAY SO THEN WE HAVE LIKE THIS COCO TREE WITH THREE COCOS",
+      "turn_index": 32,
+      "topic": "DESCRIBING PICTURE"
+    },
+    {
+      "speaker": "U11C",
+      "start_time": 743.29,
+      "end_time": 744.47,
+      "utterance": "YEAH HOW MANY LEAVES?",
+      "turn_index": 33,
+      "topic": ""
+    },
+    {
+      "speaker": "U8C",
+      "start_time": 744.65,
+      "end_time": 745.52,
+      "utterance": "<%aa> FIVE",
+      "turn_index": 34,
+      "topic": ""
+    },
+    {
+      "speaker": "U11C",
+      "start_time": 746.42,
+      "end_time": 746.79,
+      "utterance": "OKAY",
+      "turn_index": 35,
+      "topic": ""
+    },
+    {
+      "speaker": "U8C",
+      "start_time": 747.02,
+      "end_time": 747.33,
+      "utterance": "YEAH",
+      "turn_index": 36,
+      "topic": ""
+    },
+    {
+      "speaker": "U8C",
+      "start_time": 747.57,
+      "end_time": 750.72,
+      "utterance": "AND THEN I HAVE LIKE <T-> TWO BUOYS LIKE BAYWATCH <%eh> SAVING BUOYS",
+      "turn_index": 37,
+      "topic": ""
+    },
+    {
+      "speaker": "U11C",
+      "start_time": 750.9,
+      "end_time": 751.98,
+      "utterance": "I HAVE THREE BUOYS",
+      "turn_index": 38,
+      "topic": ""
+    },
+    {
+      "speaker": "U8C",
+      "start_time": 752.14,
+      "end_time": 752.58,
+      "utterance": "OKAY",
+      "turn_index": 39,
+      "topic": ""
+    },
+    {
+      "speaker": "U8C",
+      "start_time": 752.92,
+      "end_time": 753.56,
+      "utterance": "OKAY LIKE",
+      "turn_index": 40,
+      "topic": ""
+    },
+    {
+      "speaker": "U8C",
+      "start_time": 753.74,
+      "end_time": 754.99,
+      "utterance": "<THE> I HAVE <%ahm>",
+      "turn_index": 41,
+      "topic": ""
+    },
+    {
+      "speaker": "U8C",
+      "start_time": 755.58,
+      "end_time": 755.91,
+      "utterance": "<%aa>",
+      "turn_index": 42,
+      "topic": ""
+    },
+    {
+      "speaker": "U8C",
+      "start_time": 756.14,
+      "end_time": 760.65,
+      "utterance": "<%aa> TWO AND THEY ARE MORE OR LESS THE SAME SIZE AND THEY ARE ALIGNED WITH THE <%aa> COCOS",
+      "turn_index": 43,
+      "topic": ""
+    },
+    {
+      "speaker": "U8C",
+      "start_time": 761.02,
+      "end_time": 761.47,
+      "utterance": "MORE OR LESS",
+      "turn_index": 44,
+      "topic": ""
+    },
+    {
+      "speaker": "U11C",
+      "start_time": 762.15,
+      "end_time": 765.07,
+      "utterance": "OKAY I HAVE A THIRD ONE WHICH IS A BIT",
+      "turn_index": 45,
+      "topic": ""
+    },
+    {
+      "speaker": "U11C",
+      "start_time": 765.78,
+      "end_time": 769.03,
+      "utterance": "<%aa> FURTHER DOWN CLOSER TO THE CHAIRS I SUPPOSE YOU ALSO HAVE SOME CHAIRS",
+      "turn_index": 46,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U11C",
+          "start_time": 768.87,
+          "turn_index": 47,
+          "speaker_after": "U8C",
+          "end_time": 769.03
+        }
+      ]
+    },
+    {
+      "speaker": "U8C",
+      "start_time": 768.87,
+      "end_time": 771.35,
+      "utterance": "YEAH I HAVE THAT ONE I HAVE LIKE ONE CLOSER TO THE CHAIRS",
+      "turn_index": 47,
+      "topic": ""
+    },
+    {
+      "speaker": "U8C",
+      "start_time": 771.54,
+      "end_time": 778.73,
+      "utterance": "ONE <%aa> LIKE IN <%aa> <%aa> IN THE MIDDLE OF THE SEA AND THEN YEAH NOTHING ELSE I GUESS THIS IS <THE> THE ONE",
+      "turn_index": 48,
+      "topic": ""
+    },
+    {
+      "speaker": "U11C",
+      "start_time": 779.04,
+      "end_time": 779.84,
+      "utterance": "<YE-> <%ahm>",
+      "turn_index": 49,
+      "topic": ""
+    },
+    {
+      "speaker": "U8C",
+      "start_time": 780.08,
+      "end_time": 784.09,
+      "utterance": "ONE <ON> <ON> ON TOP OF THE SMALL ONE CLOSER TO THE CHAIRS DO YOU HAVE ANYTHING",
+      "turn_index": 50,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U8C",
+          "speaker_after": "U8C",
+          "turn_index": 51,
+          "start_time": 780.21,
+          "end_time": 780.5
+        }
+      ]
+    },
+    {
+      "speaker": "U11C",
+      "start_time": 780.21,
+      "end_time": 780.5,
+      "utterance": "WOULD",
+      "turn_index": 51,
+      "topic": ""
+    },
+    {
+      "speaker": "U11C",
+      "start_time": 785.25,
+      "end_time": 787.71,
+      "utterance": "<I HAVE> <I> OKAY SO I HAVE ONE CLOSER TO THE CHAIRS",
+      "turn_index": 52,
+      "topic": ""
+    },
+    {
+      "speaker": "U8C",
+      "start_time": 787.77,
+      "end_time": 788.0,
+      "utterance": "YEAH",
+      "turn_index": 53,
+      "topic": ""
+    },
+    {
+      "speaker": "U11C",
+      "start_time": 788.03,
+      "end_time": 792.41,
+      "utterance": "ONE A BIT FURTHER UP TO THE LEFT AND ONE A BIT FURTHER UP TO THE RIGHT SO THEY MAKE A TRIANGLE",
+      "turn_index": 54,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U11C",
+          "speaker_after": "U11C",
+          "turn_index": 55,
+          "start_time": 791.38,
+          "end_time": 791.66
+        }
+      ]
+    },
+    {
+      "speaker": "U8C",
+      "start_time": 791.38,
+      "end_time": 791.66,
+      "utterance": "YEAH",
+      "turn_index": 55,
+      "topic": ""
+    },
+    {
+      "speaker": "U8C",
+      "start_time": 792.41,
+      "end_time": 795.07,
+      "utterance": "SO <THE> THE ONE <%aa> UPWARD TO THE RIGHT I DON'T HAVE",
+      "turn_index": 56,
+      "topic": ""
+    },
+    {
+      "speaker": "U11C",
+      "start_time": 795.12,
+      "end_time": 796.07,
+      "utterance": "OKAY CLICKED",
+      "turn_index": 57,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U11C",
+          "start_time": 795.678631641,
+          "turn_index": 58,
+          "speaker_after": "U8C",
+          "end_time": 796.07
+        }
+      ]
+    },
+    {
+      "speaker": "U8C",
+      "start_time": 795.678631641,
+      "end_time": 796.63,
+      "utterance": "LET'S CLICK THERE YEAH",
+      "turn_index": 58,
+      "topic": ""
+    },
+    {
+      "speaker": "U8C",
+      "start_time": 797.43,
+      "end_time": 802.05,
+      "utterance": "OKAY THEN I HAVE LIKE <F-> <%aa> THREE <%aa> <L-> BEACH LYING CHAIRS",
+      "turn_index": 59,
+      "topic": ""
+    },
+    {
+      "speaker": "U11C",
+      "start_time": 802.17,
+      "end_time": 802.6,
+      "utterance": "OKAY",
+      "turn_index": 60,
+      "topic": ""
+    },
+    {
+      "speaker": "U8C",
+      "start_time": 802.92,
+      "end_time": 803.22,
+      "utterance": "YEAH",
+      "turn_index": 61,
+      "topic": ""
+    },
+    {
+      "speaker": "U8C",
+      "start_time": 803.52,
+      "end_time": 803.93,
+      "utterance": "YOU TOO?",
+      "turn_index": 62,
+      "topic": ""
+    },
+    {
+      "speaker": "U11C",
+      "start_time": 804.33,
+      "end_time": 806.48,
+      "utterance": "YES TWO OF THEM BLUE ONE IS ORANGE",
+      "turn_index": 63,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U11C",
+          "speaker_after": "U11C",
+          "turn_index": 64,
+          "start_time": 804.97,
+          "end_time": 805.37
+        }
+      ]
+    },
+    {
+      "speaker": "U8C",
+      "start_time": 804.97,
+      "end_time": 805.37,
+      "utterance": "THAT",
+      "turn_index": 64,
+      "topic": ""
+    },
+    {
+      "speaker": "U8C",
+      "start_time": 806.65,
+      "end_time": 808.11,
+      "utterance": "OH THEY'RE <THE> THE THREE BLUE",
+      "turn_index": 65,
+      "topic": ""
+    },
+    {
+      "speaker": "U11C",
+      "start_time": 808.65,
+      "end_time": 810.73,
+      "utterance": "OKAY THE ONE ORANGE IS THE ONE IN THE BOTTOM",
+      "turn_index": 66,
+      "topic": ""
+    },
+    {
+      "speaker": "U8C",
+      "start_time": 810.98,
+      "end_time": 812.71,
+      "utterance": "YEAH OKAY LET'S CLICK THERE I DON'T HAVE THAT",
+      "turn_index": 67,
+      "topic": ""
+    },
+    {
+      "speaker": "U8C",
+      "start_time": 813.84,
+      "end_time": 818.68,
+      "utterance": "AND THEN I HAVE LIKE <%eh> THREE <%ahm> <%ahm> UMBRELLAS LIKE SUN UMBRELLAS",
+      "turn_index": 68,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U8C",
+          "speaker_after": "U8C",
+          "turn_index": 69,
+          "start_time": 817.17,
+          "end_time": 817.74
+        }
+      ]
+    },
+    {
+      "speaker": "U11C",
+      "start_time": 817.17,
+      "end_time": 817.74,
+      "utterance": "UMBRELLAS",
+      "turn_index": 69,
+      "topic": ""
+    },
+    {
+      "speaker": "U11C",
+      "start_time": 818.97,
+      "end_time": 819.38,
+      "utterance": "YES",
+      "turn_index": 70,
+      "topic": ""
+    },
+    {
+      "speaker": "U8C",
+      "start_time": 819.53,
+      "end_time": 825.72,
+      "utterance": "YEAH AND THEN LIKE THE TWO ON THE <%aa> TOP THEY ARE <%aa> LIKE RAINBOW COLOURED UMBRELLAS",
+      "turn_index": 71,
+      "topic": ""
+    },
+    {
+      "speaker": "U8C",
+      "start_time": 826.17,
+      "end_time": 829.74,
+      "utterance": "<AND> AND THE ONE ON THE BOTTOM IS LIKE <%aa> <%ahm>",
+      "turn_index": 72,
+      "topic": ""
+    },
+    {
+      "speaker": "U8C",
+      "start_time": 830.08,
+      "end_time": 830.65,
+      "utterance": "<%aa>",
+      "turn_index": 73,
+      "topic": ""
+    },
+    {
+      "speaker": "U8C",
+      "start_time": 831.03,
+      "end_time": 833.27,
+      "utterance": "<+ BLUE TONES> DIFFERENT BLUE TONES",
+      "turn_index": 74,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U8C",
+          "start_time": 832.75,
+          "turn_index": 75,
+          "speaker_after": "U11C",
+          "end_time": 833.27
+        }
+      ]
+    },
+    {
+      "speaker": "U11C",
+      "start_time": 832.75,
+      "end_time": 836.86,
+      "utterance": "<YEAH> YEAH <I> I BLUE TONES WITH YELLOW SO I HAVE TWO OF THOSE BLUE TONES IN THE BOTTOM",
+      "turn_index": 75,
+      "topic": ""
+    },
+    {
+      "speaker": "U11C",
+      "start_time": 837.38,
+      "end_time": 839.16,
+      "utterance": "AND ABOVE THEM THE YELLOW ONES",
+      "turn_index": 76,
+      "topic": ""
+    },
+    {
+      "speaker": "U8C",
+      "start_time": 839.61,
+      "end_time": 840.67,
+      "utterance": "AH OKAY SO WE HAVE FOUR",
+      "turn_index": 77,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U8C",
+          "start_time": 839.69,
+          "turn_index": 78,
+          "speaker_after": "U11C",
+          "end_time": 840.67
+        }
+      ]
+    },
+    {
+      "speaker": "U11C",
+      "start_time": 839.69,
+      "end_time": 840.87,
+      "utterance": "<THE> THE ONE WITH THE COLORS",
+      "turn_index": 78,
+      "topic": ""
+    },
+    {
+      "speaker": "U8C",
+      "start_time": 842.1,
+      "end_time": 843.07,
+      "utterance": "YOU HAVE FOUR UMBRELLAS",
+      "turn_index": 79,
+      "topic": ""
+    },
+    {
+      "speaker": "U11C",
+      "start_time": 843.15,
+      "end_time": 846.23,
+      "utterance": "NO I HAVE THREE UMBRELLAS ON THE BOTTOM OF THE TWO BLUE WITH",
+      "turn_index": 80,
+      "topic": ""
+    },
+    {
+      "speaker": "U11C",
+      "start_time": 846.67,
+      "end_time": 849.83,
+      "utterance": "THE DIFFERENT BLUES AND THE YELLOW COLOUR AND ON TOP I HAVE",
+      "turn_index": 81,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U11C",
+          "speaker_after": "U11C",
+          "turn_index": 82,
+          "start_time": 847.94,
+          "end_time": 848.54
+        }
+      ]
+    },
+    {
+      "speaker": "U8C",
+      "start_time": 847.94,
+      "end_time": 848.54,
+      "utterance": "OKAY OKAY",
+      "turn_index": 82,
+      "topic": ""
+    },
+    {
+      "speaker": "U11C",
+      "start_time": 850.25,
+      "end_time": 852.56,
+      "utterance": "THE ONE WITH A LOT OF COLOURS SO THIS IS ALL MESSED UP",
+      "turn_index": 83,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U11C",
+          "start_time": 851.61,
+          "turn_index": 84,
+          "speaker_after": "U8C",
+          "end_time": 852.56
+        }
+      ]
+    },
+    {
+      "speaker": "U8C",
+      "start_time": 851.61,
+      "end_time": 859.953080905,
+      "utterance": "OKAY SO I GUESS LIKE WE HAVE TWO DIFFERENT THEORIES <LIKE <ONE> ONE IT'S LIKE> SO LET'S CLICK FIRST ON THE ONE ON <THE> THE UMBRELLAS LIKE WITH THE RAINBOW THE TWO ON THE TOP",
+      "turn_index": 84,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U8C",
+          "speaker_after": "U8C",
+          "turn_index": 85,
+          "start_time": 853.6,
+          "end_time": 854.04
+        }
+      ]
+    },
+    {
+      "speaker": "U11C",
+      "start_time": 853.6,
+      "end_time": 854.04,
+      "utterance": "YES",
+      "turn_index": 85,
+      "topic": ""
+    },
+    {
+      "speaker": "U8C",
+      "start_time": 860.285904808,
+      "end_time": 863.26,
+      "utterance": "I HAVE <%aa> ONE ON THE LEFT AND ONE ON THE RIGHT WHICH ONE DO YOU HAVE?",
+      "turn_index": 86,
+      "topic": ""
+    },
+    {
+      "speaker": "U11C",
+      "start_time": 863.36,
+      "end_time": 864.39,
+      "utterance": "I HAVE THE ONE ON THE LEFT",
+      "turn_index": 87,
+      "topic": ""
+    },
+    {
+      "speaker": "U8C",
+      "start_time": 864.64,
+      "end_time": 866.53,
+      "utterance": "OKAY SO LET'S CLICK THE ONE ON THE RIGHT",
+      "turn_index": 88,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U8C",
+          "speaker_after": "U8C",
+          "turn_index": 89,
+          "start_time": 864.7,
+          "end_time": 865.87
+        }
+      ]
+    },
+    {
+      "speaker": "U11C",
+      "start_time": 864.7,
+      "end_time": 865.87,
+      "utterance": "SO I DON'T HAVE THE ONE ON THE RIGHT",
+      "turn_index": 89,
+      "topic": ""
+    }
+  ]
+}

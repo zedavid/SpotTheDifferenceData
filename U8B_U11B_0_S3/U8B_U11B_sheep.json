@@ -1,0 +1,711 @@
+{
+  "success": 0.5,
+  "dialogue_duration": 200.112000000001,
+  "audio": {
+    "ig": "U8B_0_sheep.wav",
+    "if": "U11B_0_sheep.wav"
+  },
+  "turns": [
+    {
+      "speaker": "U8B",
+      "start_time": 132.492961234,
+      "end_time": 137.667373795,
+      "utterance": "so I have <%aa> again <%aa> something like first picture we saw",
+      "turn_index": 0,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 137.99300104,
+      "end_time": 143.744085813,
+      "utterance": "<%aa> <now I have> <%aa> if I divide <the section into> <%aa> the picture in four sections",
+      "turn_index": 1,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 144.235645012,
+      "end_time": 147.968222396,
+      "utterance": "exactly in the top middle I have a sun",
+      "turn_index": 2,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 148.981550249,
+      "end_time": 152.139339555,
+      "utterance": "the sun is composed of a circle in the middle",
+      "turn_index": 3,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U8B",
+          "speaker_after": "U8B",
+          "turn_index": 4,
+          "start_time": 151.150140829,
+          "end_time": 151.735718467
+        }
+      ]
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 151.150140829,
+      "end_time": 151.735718467,
+      "utterance": "yes",
+      "turn_index": 4,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 152.469072464,
+      "end_time": 159.097922786,
+      "utterance": "and there are one two three four five six seven eight <%aa> triangular",
+      "turn_index": 5,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U8B",
+          "speaker_after": "U8B",
+          "turn_index": 6,
+          "start_time": 157.792180468,
+          "end_time": 158.473541596
+        }
+      ]
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 157.792180468,
+      "end_time": 158.473541596,
+      "utterance": "yes",
+      "turn_index": 6,
+      "topic": ""
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 159.295762532,
+      "end_time": 160.61059375,
+      "utterance": "yes the same",
+      "turn_index": 7,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U11B",
+          "speaker_after": "U11B",
+          "turn_index": 8,
+          "start_time": 159.388087746,
+          "end_time": 160.54091121
+        }
+      ]
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 159.388087746,
+      "end_time": 160.54091121,
+      "utterance": "shapes around so",
+      "turn_index": 8,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 161.071040759,
+      "end_time": 168.270344317,
+      "utterance": "<in the left> in the right side up <%aa> <in the> into the right of the sun I have a white cloud",
+      "turn_index": 9,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 169.871631727,
+      "end_time": 170.597044126,
+      "utterance": "just one",
+      "turn_index": 10,
+      "topic": ""
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 170.742126606,
+      "end_time": 171.534516652,
+      "utterance": "yes one",
+      "turn_index": 11,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U11B",
+          "start_time": 171.098238147,
+          "turn_index": 12,
+          "speaker_after": "U8B",
+          "end_time": 171.534516652
+        }
+      ]
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 171.098238147,
+      "end_time": 174.248167446,
+      "utterance": "<%aa> now <I'm> I'm coming to the bottom of the picture",
+      "turn_index": 12,
+      "topic": ""
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 174.248167446,
+      "end_time": 174.75537833,
+      "utterance": "yes",
+      "turn_index": 13,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 174.75537833,
+      "end_time": 178.451704861,
+      "utterance": "<%aa> in the right bottom I have <%aa> two sheeps",
+      "turn_index": 14,
+      "topic": ""
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 178.451704861,
+      "end_time": 178.998099419,
+      "utterance": "yes",
+      "turn_index": 15,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 179.120658958,
+      "end_time": 182.840046168,
+      "utterance": "<%aa> the body of two sheeps are black and the head is white",
+      "turn_index": 16,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U8B",
+          "start_time": 181.771711544,
+          "turn_index": 17,
+          "speaker_after": "U11B",
+          "end_time": 182.840046168
+        }
+      ]
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 181.771711544,
+      "end_time": 184.198545752,
+      "utterance": "yes yes same",
+      "turn_index": 17,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U11B",
+          "start_time": 183.693635151,
+          "turn_index": 18,
+          "speaker_after": "U8B",
+          "end_time": 184.198545752
+        }
+      ]
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 183.693635151,
+      "end_time": 187.254750565,
+      "utterance": "and they are facing to the <%aa> left of the picture",
+      "turn_index": 18,
+      "topic": ""
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 188.112056128,
+      "end_time": 191.677263063,
+      "utterance": "<%aa> mean yeah they're kind of looking at me <%aa>",
+      "turn_index": 19,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U11B",
+          "start_time": 191.387098103,
+          "turn_index": 20,
+          "speaker_after": "U8B",
+          "end_time": 191.677263063
+        }
+      ]
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 191.387098103,
+      "end_time": 193.338099419,
+      "utterance": "yeah looking at you but the head is to the left",
+      "turn_index": 20,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U8B",
+          "start_time": 192.112510502,
+          "turn_index": 21,
+          "speaker_after": "U11B",
+          "end_time": 193.338099419
+        }
+      ]
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 192.112510502,
+      "end_time": 194.921834884,
+      "utterance": "yeah yeah yeah",
+      "turn_index": 21,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U11B",
+          "start_time": 194.275558383,
+          "turn_index": 22,
+          "speaker_after": "U8B",
+          "end_time": 194.921834884
+        }
+      ]
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 194.275558383,
+      "end_time": 201.736489442,
+      "utterance": "so <%aa> and in the left side I have <%aa> again <%eh> two sheeps <%aa> positioned the same",
+      "turn_index": 22,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 202.34926988,
+      "end_time": 211.968847718,
+      "utterance": "<%aa> <they are actually> one of them in the <%aa> is <+ in top> a bit in top into the right and the other sheep is the bottom to the left",
+      "turn_index": 23,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U8B",
+          "speaker_after": "U8B",
+          "turn_index": 24,
+          "start_time": 209.128578482,
+          "end_time": 209.681843654
+        }
+      ]
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 209.128578482,
+      "end_time": 209.681843654,
+      "utterance": "yeah",
+      "turn_index": 24,
+      "topic": ""
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 211.968847718,
+      "end_time": 212.820900945,
+      "utterance": "are they white",
+      "turn_index": 25,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 213.111065905,
+      "end_time": 218.96662692,
+      "utterance": "no <%aa> <the top> <%aa> the right sheep the body is black and the head is white",
+      "turn_index": 26,
+      "topic": ""
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 218.96662692,
+      "end_time": 219.534788761,
+      "utterance": "okay",
+      "turn_index": 27,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 219.863500431,
+      "end_time": 222.013358996,
+      "utterance": "<%aa> the other one is completely white",
+      "turn_index": 28,
+      "topic": ""
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 222.013358996,
+      "end_time": 227.531727537,
+      "utterance": "okay (the=) one on the right top is <%aa> different in mine",
+      "turn_index": 29,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 227.531727537,
+      "end_time": 230.711560741,
+      "utterance": "okay so now I click <in> in the right one",
+      "turn_index": 30,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U8B",
+          "speaker_after": "U8B",
+          "turn_index": 31,
+          "start_time": 229.577279535,
+          "end_time": 230.049664045
+        }
+      ]
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 229.577279535,
+      "end_time": 230.049664045,
+      "utterance": "yes",
+      "turn_index": 31,
+      "topic": ""
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 231.067672282,
+      "end_time": 231.819463314,
+      "utterance": "yes",
+      "turn_index": 32,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 232.254710754,
+      "end_time": 234.640571074,
+      "utterance": "and in the bottom middle again",
+      "turn_index": 33,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 235.331919384,
+      "end_time": 237.125666408,
+      "utterance": "I have <%aa> three flowers",
+      "turn_index": 34,
+      "topic": ""
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 237.125666408,
+      "end_time": 237.613292163,
+      "utterance": "yes",
+      "turn_index": 35,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 238.497355308,
+      "end_time": 245.672634566,
+      "utterance": "and these three flowers <%ahm> <%aa> <%aa> kind of they shaping kind of <%aa> if you imagine a triangle",
+      "turn_index": 36,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 246.265267919,
+      "end_time": 248.272339782,
+      "utterance": "with a head of the triangle down",
+      "turn_index": 37,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 248.923448581,
+      "end_time": 255.689567423,
+      "utterance": "<%aa> <in the> <r-> in the right side <%aa> the flower is orange same as the sun",
+      "turn_index": 38,
+      "topic": ""
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 256.388601144,
+      "end_time": 265.886748868,
+      "utterance": "<%eh> no I have three <on-> one is <%ahm> red the other one is blue the other one is orange and they're like <%aa> star shaped",
+      "turn_index": 39,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 266.59897167,
+      "end_time": 272.238025216,
+      "utterance": "is (ah=) yes <the> <the> the flowers are a star shaped but the position of the flowers I mean",
+      "turn_index": 40,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U8B",
+          "speaker_after": "U8B",
+          "turn_index": 41,
+          "start_time": 270.523414766,
+          "end_time": 270.891296698
+        }
+      ]
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 270.523414766,
+      "end_time": 270.891296698,
+      "utterance": "yeah",
+      "turn_index": 41,
+      "topic": ""
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 272.356729016,
+      "end_time": 273.501772888,
+      "utterance": "yeah yeah",
+      "turn_index": 42,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U11B",
+          "start_time": 273.121709063,
+          "turn_index": 43,
+          "speaker_after": "U8B",
+          "end_time": 273.501772888
+        }
+      ]
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 273.121709063,
+      "end_time": 277.719495663,
+      "utterance": "<<%aa> <the>> <%aa> the down flower which is kind of head is the <%ahm>",
+      "turn_index": 43,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 277.943713952,
+      "end_time": 280.040814426,
+      "utterance": "is blue the middle flower is blue?",
+      "turn_index": 44,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U8B",
+          "start_time": 279.502487725,
+          "turn_index": 45,
+          "speaker_after": "U11B",
+          "end_time": 280.040814426
+        }
+      ]
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 279.502487725,
+      "end_time": 283.978779691,
+      "utterance": "no <the> the middle flower is <%aa> orange for me so we can click",
+      "turn_index": 45,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U11B",
+          "start_time": 282.852572758,
+          "turn_index": 46,
+          "speaker_after": "U8B",
+          "end_time": 283.978779691
+        }
+      ]
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 282.852572758,
+      "end_time": 284.633129764,
+      "utterance": "okay sowe click in the middle?",
+      "turn_index": 46,
+      "topic": ""
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 284.870537364,
+      "end_time": 285.443065405,
+      "utterance": "yeah",
+      "turn_index": 47,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 285.464056366,
+      "end_time": 288.389777423,
+      "utterance": "so the flower in the right side is orange for me",
+      "turn_index": 48,
+      "topic": ""
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 288.389777423,
+      "end_time": 295.919414612,
+      "utterance": "yeah but <%aa> <this> I think each picture has one we can click only one so we found it so we can skip to <the> another part",
+      "turn_index": 49,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U11B",
+          "start_time": 294.996297871,
+          "turn_index": 50,
+          "speaker_after": "U8B",
+          "end_time": 295.919414612
+        }
+      ]
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 294.996297871,
+      "end_time": 302.628406097,
+      "utterance": "okay so <%aa> <the> the tree I have two trees in the right side I have one tree without <%aa> any <%aa>",
+      "turn_index": 50,
+      "topic": "DESCRIBING PICTURE"
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 303.076842676,
+      "end_time": 304.540856214,
+      "utterance": "<%aa> any fruits or nuts",
+      "turn_index": 51,
+      "topic": ""
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 304.540856214,
+      "end_time": 308.112217712,
+      "utterance": "okay <th-> I have four oranges so we click on the",
+      "turn_index": 52,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U11B",
+          "start_time": 308.019892534,
+          "turn_index": 53,
+          "speaker_after": "U8B",
+          "end_time": 308.112217712
+        }
+      ]
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 308.019892534,
+      "end_time": 309.45381098,
+      "utterance": "okay on the flower?",
+      "turn_index": 53,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U8B",
+          "speaker_after": "U8B",
+          "turn_index": 54,
+          "start_time": 308.636073689,
+          "end_time": 309.104108489
+        }
+      ]
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 308.636073689,
+      "end_time": 309.104108489,
+      "utterance": "there",
+      "turn_index": 54,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 309.664839959,
+      "end_time": 313.432997378,
+      "utterance": "and behind the tree I have <one + stone> one big stone",
+      "turn_index": 55,
+      "topic": ""
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 313.432997378,
+      "end_time": 315.886330711,
+      "utterance": "I don't have anything so we click behind the tree",
+      "turn_index": 56,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U11B",
+          "speaker_after": "U11B",
+          "turn_index": 57,
+          "start_time": 314.774665078,
+          "end_time": 315.223101657
+        }
+      ]
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 314.774665078,
+      "end_time": 315.223101657,
+      "utterance": "so",
+      "turn_index": 57,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 316.040838949,
+      "end_time": 317.04873434,
+      "utterance": "okay we click",
+      "turn_index": 58,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 318.467672201,
+      "end_time": 321.563178784,
+      "utterance": "and in the left side I have a tree with four apples",
+      "turn_index": 59,
+      "topic": ""
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 321.580349633,
+      "end_time": 323.95442564,
+      "utterance": "I have five so we can click",
+      "turn_index": 60,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U11B",
+          "start_time": 323.242202838,
+          "turn_index": 61,
+          "speaker_after": "U8B",
+          "end_time": 323.95442564
+        }
+      ]
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 323.242202838,
+      "end_time": 324.271863591,
+      "utterance": "okay we click",
+      "turn_index": 61,
+      "topic": ""
+    },
+    {
+      "speaker": "U8B",
+      "start_time": 324.687745549,
+      "end_time": 329.142700453,
+      "utterance": "so behind <%aa> the tree <one> I have two stones behind the tree",
+      "turn_index": 62,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U8B",
+          "speaker_after": "U8B",
+          "turn_index": 63,
+          "start_time": 328.219448672,
+          "end_time": 328.667885251
+        }
+      ]
+    },
+    {
+      "speaker": "U11B",
+      "start_time": 328.219448672,
+      "end_time": 328.667885251,
+      "utterance": "yes",
+      "turn_index": 63,
+      "topic": ""
+    }
+  ]
+}
