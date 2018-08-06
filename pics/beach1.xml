@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<scene id="1" xmlns="sptdf">
+	<object id="umbrellas1" num="3" visible="true" group="true" differs="false">
+		<attributes>
+			<color>blue</color>
+			<color>rainbow</color>
+			<name>sunshades</name>
+			<name>umbrellas</name>
+			<property_of prep="on">sand</property_of>
+			<x>159</x>
+			<y>440</y>
+			<radius>2</radius>
+		</attributes>
+		<object id="sunshades1" num="plu" visible="true" group="true" differs="false">
+			<attributes>
+				<color>blue</color>
+				<name>sunshades</name>
+				<name>umbrellas</name>
+				<property_of prep="on">sand</property_of>
+				<x>204</x>
+				<y>524</y>
+				<radius>240</radius>
+			</attributes>
+			<object id="sunshade1" num="sing" visible="true" group="false" differs="true">
+				<attributes>
+					<color>blue</color>
+					<name>sunshade</name>
+					<name>umbrella</name>
+					<property_of prep="on">sand</property_of>
+					<x>141</x>
+					<y>503</y>
+					<radius>155</radius>
+				</attributes>
+			</object>
+			<object id="sunshade2" num="sing" visible="true" group="false" differs="false">
+				<attributes>
+					<color>blue</color>
+					<name>sunshade</name>
+					<name>umbrella</name>
+					<property_of prep="on">sand</property_of>
+					<x>313</x>
+					<y>571</y>
+					<radius>155</radius>
+				</attributes>
+			</object>
+		</object>
+		<object id="sunshades2" num="plu" visible="true" group="true" differs="false">
+			<attributes>
+				<color>rainbow</color>
+				<name>sunshades</name>
+				<name>umbrellas</name>
+				<property_of prep="on">sand</property_of>
+				<x>206</x>
+				<y>331</y>
+				<radius>220</radius>
+			</attributes>
+			<object id="sunshade3" num="sing" visible="true" group="false" differs="false">
+				<attributes>
+					<color>rainbow</color>
+					<name>sunshade</name>
+					<name>umbrella</name>
+					<property_of prep="on">sand</property_of>
+					<x>158</x>
+					<y>361</y>
+					<radius>150</radius>
+				</attributes>
+			</object>
+			<object id="sunshade4" num="sing" visible="false" group="false" differs="true">
+				<attributes>
+					<color>rainbow</color>
+					<name>sunshade</name>
+					<name>umbrella</name>
+					<property_of prep="on">sand</property_of>
+					<x>319</x>
+					<y>348</y>
+					<radius>120</radius>
+				</attributes>
+			</object>
+		</object>
+	</object>
+	<object id="kite1" num="sing" visible="true" group="false" differs="false">
+		<attributes>
+			<color></color>
+			<name>kite</name>
+			<property_of prep="on">sand</property_of>
+			<x>552</x>
+			<y>588</y>
+			<radius>100</radius>
+		</attributes>
+	</object>
+	<object id="bucket1" num="sing" visible="true" group="false" differs="false">
+		<attributes>
+			<color>orange</color>
+			<name>bucket</name>
+			<property_of prep="on">sand</property_of>
+			<x>745</x>
+			<y>576</y>
+			<radius>75</radius>
+		</attributes>
+	</object>
+	<object id="chairs1" num="plu" visible="true" group="true" differs="false">
+		<attributes>
+			<color>blue</color>
+			<name>chairs</name>
+			<property_of prep="on">sand</property_of>
+			<x>657</x>
+			<y>410</y>
+			<radius>175</radius>
+		</attributes>
+		<object id="chair1" num="sing" visible="true" group="false" differs="true">
+			<attributes>
+				<color>orange</color>
+				<name>chair</name>
+				<property_of prep="on">sand</property_of>
+				<x>625</x>
+				<y>463</y>
+				<radius>75</radius>
+			</attributes>
+		</object>
+		<object id="chair2" num="sing" visible="true" group="false" differs="false">
+			<attributes>
+				<color>blue</color>
+				<name>chair</name>
+				<property_of prep="on">sand</property_of>
+				<x>572</x>
+				<y>391</y>
+				<radius>75</radius>
+			</attributes>
+		</object>
+		<object id="chair3" num="sing" visible="true" group="false" differs="false">
+			<attributes>
+				<color>blue</color>
+				<name>chair</name>
+				<property_of prep="on">sand</property_of>
+				<x>716</x>
+				<y>361</y>
+				<radius>75</radius>
+			</attributes>
+		</object>
+	</object>
+	<object id="floats1" num="plu" visible="true" group="true" differs="false">
+		<attributes>
+			<color>white and read</color>
+			<name>floating device</name>
+			<name>buoys</name>
+			<property_of prep="on">water</property_of>
+			<x>639</x>
+			<y>245</y>
+			<radius>150</radius>
+		</attributes>
+		<object id="float1" num="sing" visible="true" group="false" differs="false">
+			<attributes>
+				<color>white and red</color>
+				<name>floating device</name>
+				<name>buoy</name>
+				<property_of prep="on">water</property_of>
+				<x>545</x>
+				<y>244</y>
+				<radius>65</radius>
+			</attributes>
+		</object>
+		<object id="float2" num="sing" visible="true" group="false" differs="false">
+			<attributes>
+				<color>white and red</color>
+				<name>floating device</name>
+				<name>buoy</name>
+				<property_of prep="on">water</property_of>
+				<x>634</x>
+				<y>292</y>
+				<radius>65</radius>
+			</attributes>
+		</object>
+		<object id="float3" num="sing" visible="true" group="false" differs="true">
+			<attributes>
+				<color>white and red</color>
+				<name>floating device</name>
+				<name>buoy</name>
+				<property_of prep="on">water</property_of>
+				<x>727</x>
+				<y>244</y>
+				<radius>65</radius>
+			</attributes>
+		</object>
+	</object>
+</scene>

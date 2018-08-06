@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<scene id="1" xmlns="sptdf">
+	<object id="sun1" num="sing" visible="true" group="false"
+		differs="false">
+		<attributes>
+			<color>yellow</color>
+			<name>sun</name>
+			<property_of prep="in">sky</property_of>
+			<x>469</x>
+			<y>103</y>
+			<radius>100</radius>
+		</attributes>
+	</object>
+	<object id="clouds1" num="plur" visible="true" group="true"
+		differs="false">
+		<attributes>
+			<color></color>
+			<name>clouds</name>
+			<property_of prep="in">sky</property_of>
+			<x>164</x>
+			<y>104</y>
+			<radius>150</radius>
+		</attributes>
+		<object id="cloud1" num="sing" visible="true" group="false"
+			differs="false">
+			<attributes>
+				<color>white</color>
+				<name>cloud</name>
+				<property_of prep="in">sky</property_of>
+				<x>88</x>
+				<y>79</y>
+				<radius>50</radius>
+			</attributes>
+		</object>
+		<object id="cloud2" num="sing" visible="true" group="false"
+			differs="true">
+			<attributes>
+				<color>grey</color>
+				<color>black</color>
+				<name>cloud</name>
+				<property_of prep="in">sky</property_of>
+				<x>120</x>
+				<y>158</y>
+				<radius>80</radius>
+			</attributes>
+		</object>
+		<object id="cloud3" num="sing" visible="true" group="false"
+			differs="false">
+			<attributes>
+				<color>white</color>
+				<name>cloud</name>
+				<property_of prep="in">sky</property_of>
+				<x>224</x>
+				<y>70</y>
+				<radius>80</radius>
+			</attributes>
+		</object>
+	</object>
+	<object id="clouds2" num="plur" visible="true" group="true"
+		differs="false">
+		<attributes>
+			<color>white</color>
+			<name>clouds</name>
+			<property_of prep="in">sky</property_of>
+			<x>753</x>
+			<y>104</y>
+			<radius>150</radius>
+		</attributes>
+		<object id="cloud4" num="sing" visible="true" group="false"
+			differs="false">
+			<attributes>
+				<color>white</color>
+				<name>cloud</name>
+				<property_of prep="in">sky</property_of>
+				<x>692</x>
+				<y>81</y>
+				<radius>50</radius>
+			</attributes>
+		</object>
+		<object id="cloud5" num="sing" visible="true" group="false"
+			differs="false">
+			<attributes>
+				<color>white</color>
+				<name>cloud</name>
+				<property_of prep="in">sky</property_of>
+				<x>727</x>
+				<y>155</y>
+				<radius>80</radius>
+			</attributes>
+		</object>
+		<object id="cloud6" num="sing" visible="true" group="false"
+			differs="false">
+			<attributes>
+				<color>white</color>
+				<name>cloud</name>
+				<property_of prep="in">sky</property_of>
+				<x>827</x>
+				<y>68</y>
+				<radius>80</radius>
+			</attributes>
+		</object>
+	</object>
+	<object id="house1" num="sing" visible="true" group="true"
+		differs="false">
+		<attributes>
+			<color>yellow</color>
+			<name>house</name>
+			<property_of prep="in">scene</property_of>
+			<x>665</x>
+			<y>406</y>
+			<radius>170</radius>
+		</attributes>
+		<object id="door1" num="sing" visible="true" group="false"
+			differs="false">
+			<attributes>
+				<color>grey</color>
+				<name>door</name>
+				<property_of prep="on">house</property_of>
+				<x>668</x>
+				<y>463</y>
+				<radius>60</radius>
+			</attributes>
+		</object>
+		<object id="windows1" num="3" visible="true" group="true" differs="false">
+			<attributes>
+				<color>white</color>
+				<name>windows</name>
+				<property_of prep="of">house</property_of>
+				<x>668</x>
+				<y>444</y>
+				<radius>1</radius>
+			</attributes>
+			<object id="window1" num="sing" visible="true" group="false"
+				differs="false">
+				<attributes>
+					<color>white</color>
+					<name>window</name>
+					<property_of prep="on">house</property_of>
+					<x>731</x>
+					<y>434</y>
+					<radius>25</radius>
+				</attributes>
+			</object>
+			<object id="window2" num="sing" visible="true" group="false"
+				differs="false">
+				<attributes>
+					<color>white</color>
+					<name>window</name>
+					<property_of prep="on">house</property_of>
+					<x>600</x>
+					<y>435</y>
+					<radius>25</radius>
+				</attributes>
+			</object>
+			<object id="window3" num="sing" visible="true" group="false"
+				differs="false">
+				<attributes>
+					<color>white</color>
+					<name>window</name>
+					<property_of prep="on">house</property_of>
+					<x>668</x>
+					<y>369</y>
+					<radius>25</radius>
+				</attributes>
+			</object>
+		</object>
+		<object id="chimney1" num="sing" visible="false" group="false"
+			differs="true">
+			<attributes>
+				<color>grey</color>
+				<name>chimney</name>
+				<property_of prep="on">house</property_of>
+				<location>right part of the roof</location>
+				<x>735</x>
+				<y>321</y>
+				<radius>40</radius>
+			</attributes>
+		</object>
+	</object>
+	<object id="cats1" num="2" visible="true" group="true" differs="false">
+		<attributes>
+			<color>grey</color>
+			<name>cats</name>
+			<property_of prep="in">grass</property_of>
+			<x>665</x>
+			<y>406</y>
+			<radius>1</radius>
+		</attributes>
+		<object id="cat1" num="sing" visible="true" group="false"
+			differs="true">
+			<attributes>
+				<color>grey</color>
+				<name>cat</name>
+				<property_of prep="in">grass</property_of>
+				<x>877</x>
+				<y>447</y>
+				<radius>70</radius>
+			</attributes>
+		</object>
+		<object id="cat2" num="sing" visible="true" group="false"
+			differs="false">
+			<attributes>
+				<color>grey</color>
+				<name>cat</name>
+				<property_of prep="in">grass</property_of>
+				<x>450</x>
+				<y>447</y>
+				<radius>70</radius>
+			</attributes>
+		</object>
+	</object>
+	<object id="stones1" num="plur" visible="true" group="true"
+		differs="false">
+		<attributes>
+			<color>grey</color>
+			<name>stones</name>
+			<name>rocks</name>
+			<property_of prep="on">grass</property_of>
+			<x>214</x>
+			<y>435</y>
+			<radius>130</radius>
+		</attributes>
+		<object id="stone1" num="sing" visible="true" group="false"
+			differs="false">
+			<attributes>
+				<color>grey</color>
+				<name>stone</name>
+				<name>rock</name>
+				<property_of prep="on">grass</property_of>
+				<x>149</x>
+				<y>402</y>
+				<radius>100</radius>
+			</attributes>
+		</object>
+		<object id="stone2" num="sing" visible="true" group="false"
+			differs="false">
+			<attributes>
+				<color>grey</color>
+				<name>stone</name>
+				<name>rock</name>
+				<property_of prep="on">grass</property_of>
+				<x>237</x>
+				<y>468</y>
+				<radius>100</radius>
+			</attributes>
+		</object>
+		<object id="stone3" num="sing" visible="true" group="false"
+			differs="true">
+			<attributes>
+				<color>grey</color>
+				<name>stone</name>
+				<name>rocks</name>
+				<property_of prep="on">grass</property_of>
+				<x>292</x>
+				<y>425</y>
+				<radius>100</radius>
+			</attributes>
+		</object>
+	</object>
+	<object id="stones2" num="plur" visible="true" group="true"
+		differs="false">
+		<attributes>
+			<color></color>
+			<name>stones</name>
+			<name>rocks</name>
+			<property_of prep="on">grass</property_of>
+			<x>688</x>
+			<y>601</y>
+			<radius>120</radius>
+		</attributes>
+		<object id="stone4" num="sing" visible="false" group="false"
+			differs="false">
+			<attributes>
+				<color>grey</color>
+				<name>stone</name>
+				<name>rock</name>
+				<property_of prep="on">grass</property_of>
+				<x>648</x>
+				<y>584</y>
+				<radius>100</radius>
+			</attributes>
+		</object>
+		<object id="stone5" num="sing" visible="true" group="false"
+			differs="true">
+			<attributes>
+				<color>dotted dark grey</color>
+				<color>black with white dots</color>
+				<name>stone</name>
+				<name>rock</name>
+				<property_of prep="on">grass</property_of>
+				<x>734</x>
+				<y>648</y>
+				<radius>100</radius>
+			</attributes>
+		</object>
+	</object>
+	<object id="groupsofflowers2" num="2" visible="true" group="true" differs="false">
+		<attributes>
+			<name>groups of flowers</name>
+			<property_of prep="on">grass</property_of>
+			<x>300</x>
+			<y>628</y>
+			<radius>1</radius>
+		</attributes>
+		<object id="flowers1" num="plur" visible="true" group="true"
+			differs="false">
+			<attributes>
+				<name>flowers</name>
+				<property_of prep="on">grass</property_of>
+				<x>391</x>
+				<y>644</y>
+				<radius>75</radius>
+			</attributes>
+			<object id="flower1" num="sing" visible="true" group="false"
+				differs="false">
+				<attributes>
+					<color>yellow</color>
+					<name>flower</name>
+					<property_of prep="on">grass</property_of>
+					<x>436</x>
+					<y>600</y>
+					<radius>30</radius>
+				</attributes>
+			</object>
+			<object id="flower2" num="sing" visible="true" group="false"
+				differs="false">
+				<attributes>
+					<color>blue</color>
+					<name>flower</name>
+					<property_of prep="on">grass</property_of>
+					<x>391</x>
+					<y>623</y>
+					<radius>30</radius>
+				</attributes>
+			</object>
+			<object id="flower3" num="sing" visible="true" group="false"
+				differs="false">
+				<attributes>
+					<color>yellow</color>
+					<name>flower</name>
+					<property_of prep="on">grass</property_of>
+					<x>348</x>
+					<y>606</y>
+					<radius>30</radius>
+				</attributes>
+			</object>
+		</object>
+		<object id="flowers2" num="plur" visible="true" group="true"
+			differs="false">
+			<attributes>
+				<name>flowers</name>
+				<property_of prep="on">grass</property_of>
+				<x>168</x>
+				<y>659</y>
+				<radius>85</radius>
+			</attributes>
+			<object id="flower4" num="sing" visible="true" group="false"
+				differs="false">
+				<attributes>
+					<color>yellow</color>
+					<name>flower</name>
+					<property_of prep="on">grass</property_of>
+					<x>211</x>
+					<y>605</y>
+					<radius>30</radius>
+				</attributes>
+			</object>
+			<object id="flower5" num="sing" visible="true" group="false"
+				differs="false">
+				<attributes>
+					<color>blue</color>
+					<name>flower</name>
+					<property_of prep="on">grass</property_of>
+					<x>168</x>
+					<y>628</y>
+					<radius>30</radius>
+				</attributes>
+			</object>
+			<object id="flower6" num="sing" visible="false" group="false"
+				differs="true">
+				<attributes>
+					<color>red</color>
+					<name>flower</name>
+					<property_of prep="on">grass</property_of>
+					<x>124</x>
+					<y>612</y>
+					<radius>30</radius>
+				</attributes>
+			</object>
+		</object>
+	</object>
+</scene>

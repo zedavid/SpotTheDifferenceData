@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<scene id="1" xmlns="sptdf">
+	<object id="sun1" num="sing" visible="true" group="false"
+		differs="true">
+		<attributes>
+			<color>orange</color>
+			<name>sun</name>
+			<property_of prep="in">sky</property_of>
+			<x>479</x>
+			<y>99</y>
+			<radius>100</radius>
+		</attributes>
+	</object>
+	<object id="sheeps1" num="plur" visible="true" group="true"
+		differs="false">
+		<attributes>
+			<color></color>
+			<name>sheep</name>
+			<property_of prep="on">grass</property_of>
+			<x>188</x>
+			<y>589</y>
+			<radius>115</radius>
+		</attributes>
+		<object id="sheep1" num="sing" visible="true" group="false"
+			differs="false">
+			<attributes>
+				<color>white</color>
+				<name>sheep</name>
+				<property_of prep="on">grass</property_of>
+				<x>149</x>
+				<y>621</y>
+				<radius>60</radius>
+			</attributes>
+		</object>
+		<object id="sheep2" num="sing" visible="true" group="false"
+			differs="true">
+			<attributes>
+				<color>black</color>
+				<name>sheep</name>
+				<property_of prep="on">grass</property_of>
+				<x>243</x>
+				<y>570</y>
+				<radius>60</radius>
+			</attributes>
+		</object>
+	</object>
+	<object id="tree1" num="sing" visible="true" group="true"
+		differs="false">
+		<attributes>
+			<color>green</color>
+			<name>tree</name>
+			<property_of prep="in">grass</property_of>
+			<x>204</x>
+			<y>294</y>
+			<radius>200</radius>
+		</attributes>
+		<object id="apples1" num="plur" visible="true" group="true"
+			differs="false">
+			<attributes>
+				<color>red</color>
+				<name>apples</name>
+				<property_of prep="on">tree1</property_of>
+				<x>204</x>
+				<y>210</y>
+				<radius>140</radius>
+			</attributes>
+			<object id="apple1" num="sing" visible="true" group="false"
+				differs="false">
+				<attributes>
+					<color>red</color>
+					<name>apple</name>
+					<property_of prep="on">tree1</property_of>
+					<x>155</x>
+					<y>166</y>
+					<radius>25</radius>
+				</attributes>
+			</object>
+			<object id="apple2" num="sing" visible="true" group="false"
+				differs="false">
+				<attributes>
+					<color>red</color>
+					<name>apple</name>
+					<property_of prep="on">tree1</property_of>
+					<x>263</x>
+					<y>177</y>
+					<radius>25</radius>
+				</attributes>
+			</object>
+			<object id="apple3" num="sing" visible="false" group="false"
+				differs="true">
+				<attributes>
+					<color>red</color>
+					<name>apple</name>
+					<property_of prep="on">tree1</property_of>
+					<x>193</x>
+					<y>247</y>
+					<radius>25</radius>
+				</attributes>
+			</object>
+			<object id="apple4" num="sing" visible="true" group="false"
+				differs="false">
+				<attributes>
+					<color>red</color>
+					<name>apple</name>
+					<property_of prep="on">tree1</property_of>
+					<x>295</x>
+					<y>261</y>
+					<radius>25</radius>
+				</attributes>
+			</object>
+			<object id="apple5" num="sing" visible="true" group="false"
+				differs="false">
+				<attributes>
+					<color>red</color>
+					<name>apple</name>
+					<property_of prep="on">tree1</property_of>
+					<x>109</x>
+					<y>266</y>
+					<radius>25</radius>
+				</attributes>
+			</object>
+		</object>
+	</object>
+	<object id="stones1" num="2" visible="true" group="true" differs="false">
+		<attributes>
+			<name>stones</name>
+			<name>rocks</name>
+			<property_of prep="in">grass</property_of>
+			<x>204</x>
+			<y>600</y>
+			<radius>2</radius>
+		</attributes>
+		<object id="stone1" num="sing" visible="true" group="false"
+			differs="false">
+			<attributes>
+				<color>grey</color>
+				<name>stone</name>
+				<name>rock</name>
+				<property_of prep="on">grass</property_of>
+				<x>126</x>
+				<y>401</y>
+				<radius>85</radius>
+			</attributes>
+		</object>
+		<object id="stone2" num="sing" visible="true" group="false"
+			differs="true">
+			<attributes>
+				<color>beige</color>
+				<color>dark green</color>
+				<name>stone</name>
+				<name>rock</name>
+				<property_of prep="on">grass</property_of>
+				<x>316</x>
+				<y>413</y>
+				<radius>110</radius>
+			</attributes>
+		</object>
+	</object>
+	<object id="stone3" num="sing" visible="true" group="false"
+		differs="true">
+		<attributes>
+			<color>dark</color>
+			<name>stone</name>
+			<name>rock</name>
+			<property_of prep="on">grass</property_of>
+			<x>679</x>
+			<y>426</y>
+			<radius>70</radius>
+		</attributes>
+	</object>
+	<object id="tree2" num="sing" visible="true" group="true"
+		differs="false">
+		<attributes>
+			<color>green</color>
+			<name>tree</name>
+			<property_of prep="in">grass</property_of>
+			<x>751</x>
+			<y>364</y>
+			<radius>180</radius>
+		</attributes>
+		<object id="oranges1" num="plur" visible="false" group="true"
+			differs="true">
+			<attributes>
+				<color>orange</color>
+				<name>oranges</name>
+				<property_of prep="on">tree2</property_of>
+				<x>748</x>
+				<y>284</y>
+				<radius>130</radius>
+			</attributes>
+		</object>
+	</object>
+	<object id="sheeps2" num="plur" visible="true" group="true"
+		differs="false">
+		<attributes>
+			<color>black</color>
+			<name>sheep</name>
+			<property_of prep="on">grass</property_of>
+			<x>753</x>
+			<y>608</y>
+			<radius>110</radius>
+		</attributes>
+		<object id="sheep3" num="sing" visible="true" group="false"
+			differs="false">
+			<attributes>
+				<color>black</color>
+				<name>sheep</name>
+				<property_of prep="on">grass</property_of>
+				<x>808</x>
+				<y>591</y>
+				<radius>50</radius>
+			</attributes>
+		</object>
+		<object id="sheep4" num="sing" visible="true" group="false"
+			differs="false">
+			<attributes>
+				<color>black</color>
+				<name>sheep</name>
+				<property_of prep="on">grass</property_of>
+				<x>716</x>
+				<y>631</y>
+				<radius>50</radius>
+			</attributes>
+		</object>
+	</object>
+	<object id="flowers1" num="plur" visible="true" group="true"
+		differs="false">
+		<attributes>
+			<name>flowers</name>
+			<property_of prep="on">grass</property_of>
+			<x>474</x>
+			<y>538</y>
+			<radius>90</radius>
+		</attributes>
+		<object id="flower1" num="sing" visible="true" group="false"
+			differs="true">
+			<attributes>
+				<color>yellow</color>
+				<name>flower</name>
+				<property_of prep="on">grass</property_of>
+				<x>525</x>
+				<y>510</y>
+				<radius>35</radius>
+			</attributes>
+		</object>
+		<object id="flower2" num="sing" visible="true" group="false"
+			differs="true">
+			<attributes>
+				<color>blue</color>
+				<name>sheep</name>
+				<property_of prep="on">grass</property_of>
+				<x>475</x>
+				<y>544</y>
+				<radius>35</radius>
+			</attributes>
+		</object>
+		<object id="flower3" num="sing" visible="true" group="false"
+			differs="false">
+			<attributes>
+				<color>red</color>
+				<name>sheep</name>
+				<property_of prep="on">grass</property_of>
+				<x>431</x>
+				<y>524</y>
+				<radius>35</radius>
+			</attributes>
+		</object>
+	</object>
+	<object id="cloud1" num="sing" visible="true" group="false"
+		differs="false">
+		<attributes>
+			<color>white</color>
+			<name>cloud</name>
+			<property_of prep="in">sky</property_of>
+			<x>758</x>
+			<y>43</y>
+			<radius>110</radius>
+		</attributes>
+	</object>
+</scene>

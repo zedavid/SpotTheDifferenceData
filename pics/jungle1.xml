@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<scene id="1" xmlns="sptdf">
+	<object id="cloud1" num="sing" visible="true" group="false" differs="true">
+		<attributes>
+			<color>grey</color>
+			<name>cloud</name>
+			<property_of prep="in">sky</property_of>
+			<x>200</x>
+			<y>104</y>
+			<radius>150</radius>
+			<property>raining</property>
+		</attributes>
+	</object>
+	<object id="sun1" num="sing" visible="true" group="false" differs="false">
+		<attributes>
+			<color>yellow</color>
+			<name>sun</name>
+			<property_of prep="in">sky</property_of>
+			<x>752</x>
+			<y>101</y>
+			<radius>90</radius>
+		</attributes>
+	</object>
+	<object id="trees1" num="plu" visible="true" group="true" differs="false">
+		<attributes>
+			<color></color>
+			<name>palm trees</name>
+			<property_of prep="on">grass</property_of>
+			<x>173</x>
+			<y>495</y>
+			<radius>190</radius>
+		</attributes>
+		<object id="tree1" num="sing" visible="true" group="false" differs="false">
+			<attributes>
+				<color></color>
+				<name>palm tree</name>
+				<property_of prep="on">grass</property_of>
+				<x>292</x>
+				<y>470</y>
+				<radius>80</radius>
+			</attributes>
+		</object>
+		<object id="tree2" num="sing" visible="true" group="false" differs="true">
+			<attributes>
+				<color></color>
+				<name>palm tree</name>
+				<property_of prep="on">grass</property_of>
+				<x>213</x>
+				<y>398</y>
+				<radius>80</radius>
+			</attributes>
+		</object>
+		<object id="tree3" num="sing" visible="true" group="false" differs="false">
+			<attributes>
+				<color></color>
+				<name>palm tree</name>
+				<property_of prep="on">grass</property_of>
+				<x>134</x>
+				<y>320</y>
+				<radius>90</radius>
+			</attributes>
+		</object>
+	</object>
+	<object id="elephant1" num="sing" visible="true" group="false" differs="false">
+		<attributes>
+			<color>grey</color>
+			<name>elephant</name>
+			<property_of prep="on">grass</property_of>
+			<x>545</x>
+			<y>424</y>
+			<radius>115</radius>
+		</attributes>
+	</object>
+	<object id="giraffe1" num="sing" visible="false" group="false" differs="true">
+		<attributes>
+			<color>yellow</color>
+			<name>giraffe</name>
+			<property_of prep="on">grass</property_of>
+			<x>795</x>
+			<y>422</y>
+			<radius>130</radius>
+		</attributes>
+	</object>
+	<object id="tiger1" num="sing" visible="true" group="false" differs="false">
+		<attributes>
+			<color>orange</color>
+			<name>tiger</name>
+			<property_of prep="on">grass</property_of>
+			<x>638</x>
+			<y>595</y>
+			<radius>90</radius>
+		</attributes>
+	</object>
+</scene>

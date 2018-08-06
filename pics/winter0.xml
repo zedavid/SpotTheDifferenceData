@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<scene id="1" xmlns="sptdf">
+	<object id="snowmen1" num="plu" visible="true" group="true" differs="false">
+		<attributes>
+			<color>white</color>
+			<name>snowmen</name>
+			<property_of prep="on">snow</property_of>
+			<x>407</x>
+			<y>556</y>
+			<radius>170</radius>
+		</attributes>
+		<object id="snowman1" num="sing" visible="true" group="false" differs="false">
+			<attributes>
+				<color>white</color>
+				<name>snowman</name>
+				<property_of prep="on">snow</property_of>
+				<x>296</x>
+				<y>574</y>
+				<radius>70</radius>
+			</attributes>
+		</object>
+		<object id="snowman2" num="sing" visible="true" group="false" differs="true">
+			<attributes>
+				<color>white</color>
+				<name>snowman</name>
+				<property_of prep="on">snow</property_of>
+				<x>415</x>
+				<y>615</y>
+				<radius>70</radius>
+				<property>red hat</property>
+			</attributes>
+		</object>
+		<object id="snowman3" num="sing" visible="true" group="false" differs="true">
+			<attributes>
+				<color>white</color>
+				<name>snowman</name>
+				<property_of prep="on">snow</property_of>
+				<x>533</x>
+				<y>564</y>
+				<radius>70</radius>
+				<property>green scarf</property>
+			</attributes>
+		</object>
+	</object>
+	<object id="reindeers1" num="plu" visible="true" group="true" differs="false">
+		<attributes>
+			<color>grey</color>
+			<name>reindeers</name>
+			<property_of prep="on">snow</property_of>
+			<x>705</x>
+			<y>485</y>
+			<radius>190</radius>
+		</attributes>
+		<object id="reindeer1" num="sing" visible="true" group="false" differs="false">
+			<attributes>
+				<color>grey</color>
+				<name>reindeer</name>
+				<property_of prep="on">snow</property_of>
+				<x>803</x>
+				<y>533</y>
+				<radius>60</radius>
+			</attributes>
+		</object>
+		<object id="reindeer2" num="sing" visible="false" group="false" differs="true">
+			<attributes>
+				<color>grey</color>
+				<name>reindeer</name>
+				<property_of prep="on">snow</property_of>
+				<x>684</x>
+				<y>469</y>
+				<radius>60</radius>
+			</attributes>
+		</object>
+		<object id="reindeer3" num="sing" visible="true" group="false" differs="false">
+			<attributes>
+				<color>grey</color>
+				<name>reindeer</name>
+				<property_of prep="on">snow</property_of>
+				<x>584</x>
+				<y>407</y>
+				<radius>60</radius>
+			</attributes>
+		</object>
+	</object>
+	<object id="house1" num="sing" visible="true" group="false" differs="false">
+		<attributes>
+			<color>wood</color>
+			<name>house</name>
+			<property_of prep="on">hill</property_of>
+			<x>879</x>
+			<y>342</y>
+			<radius>100</radius>
+		</attributes>
+	</object>
+	<object id="house2" num="sing" visible="true" group="false" differs="false">
+		<attributes>
+			<color>wood</color>
+			<name>house</name>
+			<property_of prep="on">hill</property_of>
+			<x>670</x>
+			<y>258</y>
+			<radius>90</radius>
+		</attributes>
+	</object>
+	<object id="tree1" num="sing" visible="true" group="false" differs="false">
+		<attributes>
+			<color>white and green</color>
+			<name>tree</name>
+			<property_of prep="besides">house2</property_of>
+			<x>801</x>
+			<y>254</y>
+			<radius>70</radius>
+		</attributes>
+	</object>
+	<object id="house3" num="sing" visible="false" group="false" differs="true">
+		<attributes>
+			<color>wood</color>
+			<name>house</name>
+			<property_of prep="on">hill</property_of>
+			<x>506</x>
+			<y>313</y>
+			<radius>60</radius>
+		</attributes>
+	</object>
+	<object id="skiers1" num="plu" visible="true" group="true" differs="false">
+		<attributes>
+			<color>orange</color>
+			<name>skiers</name>
+			<name>ski</name>
+			<property_of prep="on">snow</property_of>
+			<x>330</x>
+			<y>354</y>
+			<radius>150</radius>
+		</attributes>
+		<object id="skier1" num="sing" visible="false" group="false" differs="true">
+			<attributes>
+				<color>orange</color>
+				<name>skier</name>
+				<property_of prep="on">snow</property_of>
+				<x>350</x>
+				<y>318</y>
+				<radius>50</radius>
+			</attributes>
+		</object>
+		<object id="skier2" num="sing" visible="true" group="false" differs="false">
+			<attributes>
+				<color>orange</color>
+				<name>skier</name>
+				<property_of prep="on">snow</property_of>
+				<x>269</x>
+				<y>381</y>
+				<radius>60</radius>
+			</attributes>
+		</object>
+		<object id="skier3" num="sing" visible="true" group="false" differs="false">
+			<attributes>
+				<color>orange</color>
+				<name>skier</name>
+				<property_of prep="on">snow</property_of>
+				<x>378</x>
+				<y>408</y>
+				<radius>60</radius>
+			</attributes>
+		</object>
+	</object>
+	<object id="trees1" num="plu" visible="true" group="true" differs="false">
+		<attributes>
+			<color>white and green</color>
+			<name>trees</name>
+			<property_of prep="on">hill</property_of>
+			<x>219</x>
+			<y>270</y>
+			<radius>90</radius>
+		</attributes>
+		<object id="tree2" num="sing" visible="true" group="false" differs="true">
+			<attributes>
+				<color>white and green</color>
+				<name>tree</name>
+				<property_of prep="on">hill</property_of>
+				<x>282</x>
+				<y>264</y>
+				<radius>55</radius>
+			</attributes>
+		</object>
+		<object id="tree3" num="sing" visible="true" group="false" differs="false">
+			<attributes>
+				<color>white and green</color>
+				<name>tree</name>
+				<property_of prep="on">hill</property_of>
+				<x>216</x>
+				<y>258</y>
+				<radius>55</radius>
+			</attributes>
+		</object>
+		<object id="tree4" num="sing" visible="true" group="false" differs="false">
+			<attributes>
+				<color>white and green</color>
+				<name>tree</name>
+				<property_of prep="on">hill</property_of>
+				<x>169</x>
+				<y>269</y>
+				<radius>55</radius>
+			</attributes>
+		</object>
+		<object id="tree5" num="sing" visible="false" group="false" differs="true">
+			<attributes>
+				<color>white and green</color>
+				<name>tree</name>
+				<property_of prep="on">hill</property_of>
+				<x>185</x>
+				<y>285</y>
+				<radius>55</radius>
+			</attributes>
+		</object>
+	</object>
+	<object id="sleds1" num="plu" visible="true" group="true" differs="false">
+		<attributes>
+			<color>wood</color>
+			<name>sledges</name>
+			<property_of prep="on">snow</property_of>
+			<x>102</x>
+			<y>383</y>
+			<radius>70</radius>
+		</attributes>
+		<object id="sled1" num="sing" visible="true" group="false" differs="false">
+			<attributes>
+				<color>wood</color>
+				<name>sledge</name>
+				<property_of prep="on">snow</property_of>
+				<x>102</x>
+				<y>350</y>
+				<radius>50</radius>
+			</attributes>
+		</object>
+		<object id="sled2" num="sing" visible="true" group="false" differs="true">
+			<attributes>
+				<color>wood</color>
+				<name>sledge</name>
+				<property_of prep="on">snow</property_of>
+				<x>69</x>
+				<y>413</y>
+				<radius>55</radius>
+			</attributes>
+		</object>
+	</object>
+	<object id="clouds1" num="3" visible="true" group="true" differs="false">
+		<attributes>
+			<color>white</color>
+			<name>clouds</name>
+			<property_of prep="in">sky</property_of>
+			<x>400</x>
+			<y>100</y>
+			<radius>10</radius>
+		</attributes>
+		<object id="cloud1" num="sing" visible="true" group="true" differs="false">
+			<attributes>
+				<color>white</color>
+				<name>cloud</name>
+				<property_of prep="in">sky</property_of>
+				<x>124</x>
+				<y>100</y>
+				<radius>125</radius>
+			</attributes>
+			<object id="sun1" num="sing" visible="false" group="false" differs="true">
+				<attributes>
+					<color>orange</color>
+					<name>sun</name>
+					<property_of prep="behind">cloud1</property_of>
+					<x>89</x>
+					<y>85</y>
+					<radius>65</radius>
+				</attributes>
+			</object>
+		</object>
+		<object id="cloud2" num="sing" visible="true" group="true" differs="false">
+			<attributes>
+				<color>white</color>
+				<name>cloud</name>
+				<property_of prep="in">sky</property_of>
+				<x>437</x>
+				<y>77</y>
+				<radius>100</radius>
+			</attributes>
+		</object>
+		<object id="cloud3" num="sing" visible="false" group="true" differs="true">
+			<attributes>
+				<color>white</color>
+				<name>cloud</name>
+				<property_of prep="in">sky</property_of>
+				<x>648</x>
+				<y>77</y>
+				<radius>100</radius>
+			</attributes>
+		</object>
+		<object id="cloud4" num="sing" visible="false" group="true" differs="false">
+			<attributes>
+				<color>white</color>
+				<name>cloud</name>
+				<property_of prep="in">sky</property_of>
+				<x>859</x>
+				<y>69</y>
+				<radius>100</radius>
+			</attributes>
+		</object>
+	</object>
+</scene>

@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<xs:schema  
+  xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  targetNamespace="sptdf" 
+  xmlns:sptdf="sptdf"
+  attributeFormDefault="qualified" 
+  elementFormDefault="qualified"
+  version="1.0">
+  
+  <!-- The top element in the XML -->
+  <xs:element name="scene" type="sptdf:scenePic" />
+  <xs:element name="object" type="sptdf:objectPic"></xs:element>
+  
+  <xs:complexType name="scenePic">
+  	<xs:sequence>
+		<xs:element name="object" type="sptdf:objectPic" minOccurs="1" maxOccurs="unbounded"></xs:element>  	
+  	</xs:sequence>
+ 	<xs:attribute name="id" form="unqualified" type="xs:string" use="required"/>
+  </xs:complexType>  
+  
+  <xs:complexType name="objectPic">
+  	<xs:sequence>
+  		<xs:element name="attributes" type="sptdf:attributes" minOccurs="1" maxOccurs="1"></xs:element>
+  		<xs:element name="object" type="sptdf:objectPic" minOccurs="0" maxOccurs="unbounded"></xs:element>
+  	</xs:sequence>
+  	<xs:attribute name="id" form="unqualified" type="xs:string" use="required"></xs:attribute>
+  	<xs:attribute name="num" form="unqualified" type="xs:string" use="required"></xs:attribute>
+  	<xs:attribute name="visible" form="unqualified" type="xs:boolean" use="required"></xs:attribute>
+  	<xs:attribute name="group" form="unqualified" type="xs:boolean" use="required"></xs:attribute>
+  	<xs:attribute name="differs" form="unqualified" type="xs:boolean" use="required"></xs:attribute>
+  </xs:complexType>
+  
+  <xs:complexType name="attributes">
+	 <xs:sequence>
+  		<xs:element name="color" type="xs:string" minOccurs="0" maxOccurs="1"></xs:element>
+  		<xs:element name="name" type="xs:string" minOccurs="0" maxOccurs="unbounded"></xs:element>
+  		<xs:element name="property_of" type="sptdf:property_of" minOccurs="1" maxOccurs="1"></xs:element>
+  		<xs:element name="location" type="xs:string" minOccurs="0" maxOccurs="unbounded"></xs:element>
+  		<xs:element name="x" type="xs:integer"></xs:element>
+  		<xs:element name="y" type="xs:integer"></xs:element>
+  		<xs:element name="radius" type="xs:integer"></xs:element>
+		<xs:element name="property" type="xs:string" minOccurs="0" maxOccurs="unbounded"></xs:element>
+	 </xs:sequence>
+  </xs:complexType>
+  
+  <xs:complexType name="property_of">
+  	<xs:simpleContent>
+  	<xs:extension base="xs:string">
+  		<xs:attribute name="prep" form="unqualified" type="xs:string" use="required"></xs:attribute>
+  	</xs:extension>
+  	</xs:simpleContent>
+  </xs:complexType>
+  
+  <!-- restriction for attribute types -->
+  <xs:simpleType name="attributeTypes">
+	<xs:restriction base="xs:string">
+		<xs:enumeration value="integer" />
+		<xs:enumeration value="float" />
+		<xs:enumeration value="boolean" />
+		<xs:enumeration value="string" />
+	</xs:restriction>
+  </xs:simpleType>
+    
+</xs:schema>
+

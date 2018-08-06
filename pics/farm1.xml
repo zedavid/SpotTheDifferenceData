@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<scene id="1" xmlns="sptdf">
+	<object id="clouds1" num="plur" visible="true" group="true"
+		differs="false">
+		<attributes>
+			<color>white</color>
+			<name>clouds</name>
+			<property_of prep="in">sky</property_of>
+			<x>668</x>
+			<y>93</y>
+			<radius>200</radius>
+		</attributes>
+		<object id="cloud1" num="sing" visible="true" group="false"
+			differs="false">
+			<attributes>
+				<color>white</color>
+				<name>cloud</name>
+				<property_of prep="in">sky</property_of>
+				<x>806</x>
+				<y>114</y>
+				<radius>95</radius>
+			</attributes>
+		</object>
+		<object id="cloud2" num="sing" visible="true" group="false"
+			differs="false">
+			<attributes>
+				<color>white</color>
+				<name>cloud</name>
+				<property_of prep="in">sky</property_of>
+				<x>656</x>
+				<y>177</y>
+				<radius>95</radius>
+			</attributes>
+		</object>
+		<object id="cloud3" num="sing" visible="true" group="false"
+			differs="false">
+			<attributes>
+				<color>white</color>
+				<name>cloud</name>
+				<property_of prep="in">sky</property_of>
+				<x>633</x>
+				<y>84</y>
+				<radius>70</radius>
+			</attributes>
+		</object>
+		<object id="cloud4" num="sing" visible="true" group="false"
+			differs="true">
+			<attributes>
+				<color>white</color>
+				<name>cloud</name>
+				<property_of prep="in">sky</property_of>
+				<x>517</x>
+				<y>137</y>
+				<radius>70</radius>
+			</attributes>
+		</object>
+	</object>
+	<object id="birds1" num="plu" visible="true" group="true" differs="false">
+		<attributes>
+			<color></color>
+			<name>birds</name>
+			<property_of prep="in">sky</property_of>
+			<x>205</x>
+			<y>135</y>
+			<radius>110</radius>
+		</attributes>
+		<object id="parrots1" num="2" visible="true" group="true" differs="false">
+			<attributes>
+				<color>pink</color>
+				<name>parrots</name>
+				<property_of prep="in">sky</property_of>
+				<x>275</x>
+				<y>179</y>
+				<radius>4</radius>
+			</attributes>
+			<object id="bird1" num="sing" visible="true" group="false" differs="true">
+				<attributes>
+					<color>pink</color>
+					<name>bird</name>
+					<name>parrot</name>
+					<property_of prep="in">sky</property_of>
+					<x>275</x>
+					<y>106</y>
+					<radius>45</radius>
+				</attributes>
+			</object>
+			<object id="bird3" num="sing" visible="true" group="false" differs="false">
+				<attributes>
+					<color>pink</color>
+					<name>bird</name>
+					<name>parrot</name>
+					<property_of prep="in">sky</property_of>
+					<x>118</x>
+					<y>102</y>
+					<radius>45</radius>
+				</attributes>
+			</object>
+		</object>
+		<object id="bird2" num="sing" visible="true" group="false" differs="false">
+			<attributes>
+				<color>black</color>
+				<name>bird</name>
+				<property_of prep="in">sky</property_of>
+				<x>207</x>
+				<y>179</y>
+				<radius>45</radius>
+			</attributes>
+		</object>
+	</object>
+	<object id="tractor1" num="sing" visible="true" group="false" differs="true">
+		<attributes>
+			<color>green</color>
+			<name>tractor</name>
+			<property_of prep="on">grass</property_of>
+			<x>161</x>
+			<y>408</y>
+			<radius>130</radius>
+			<property>facing left</property>
+		</attributes>
+	</object>
+	<object id="tractor2" num="sing" visible="true" group="false" differs="true">
+		<attributes>
+			<color>pink</color>
+			<name>tractor</name>
+			<property_of prep="on">grass</property_of>
+			<x>388</x>
+			<y>580</y>
+			<radius>165</radius>
+		</attributes>
+	</object>
+	<object id="fences1" num="plu" visible="true" group="true" differs="false">
+		<attributes>
+			<color></color>
+			<name>fences</name>
+			<property_of prep="on">grass</property_of>
+			<x>537</x>
+			<y>382</y>
+			<radius>140</radius>
+		</attributes>
+		<object id="fence1" num="sing" visible="true" group="false" differs="true">
+			<attributes>
+				<color>blue</color>
+				<name>fence</name>
+				<property_of prep="on">grass</property_of>
+				<x>473</x>
+				<y>398</y>
+				<radius>70</radius>
+			</attributes>
+		</object>
+		<object id="fence2" num="sing" visible="true" group="false" differs="false">
+			<attributes>
+				<color>white</color>
+				<name>fence</name>
+				<property_of prep="on">grass</property_of>
+				<x>601</x>
+				<y>398</y>
+				<radius>70</radius>
+			</attributes>
+		</object>
+	</object>
+	<object id="birds2" num="2" visible="true" group="true" differs="false">
+		<attributes>
+			<color>red</color>
+			<name>birds</name>
+			<property_of prep="on">fences1</property_of>
+			<x>520</x>
+			<y>333</y>
+			<radius>40</radius>
+		</attributes>
+		<object id="bird4" num="sing" visible="true" group="false" differs="true">
+			<attributes>
+				<color>red</color>
+				<name>bird</name>
+				<property_of prep="on">fence1</property_of>
+				<x>481</x>
+				<y>333</y>
+				<radius>40</radius>
+			</attributes>
+		</object>
+		<object id="bird5" num="sing" visible="true" group="false" differs="false">
+			<attributes>
+				<color>red</color>
+				<name>bird</name>
+				<property_of prep="on">fence2</property_of>
+				<x>596</x>
+				<y>328</y>
+				<radius>40</radius>
+			</attributes>
+		</object>
+	</object>
+<object id="bales1" num="plu" visible="true" group="false" differs="false">
+		<attributes>
+			<color>yellow</color>
+			<name>bales of straw</name>
+			<name>haystacks</name>
+			<property_of prep="on">grass</property_of>
+			<x>817</x>
+			<y>457</y>
+			<radius>120</radius>
+		</attributes>
+	</object>
+	<object id="cow1" num="sing" visible="true" group="false" differs="false">
+		<attributes>
+			<color>black and white</color>
+			<name>cow</name>
+			<property_of prep="on">grass</property_of>
+			<x>852</x>
+			<y>595</y>
+			<radius>55</radius>
+		</attributes>
+	</object>
+	<object id="sheep1" num="sing" visible="true" group="false" differs="false">
+		<attributes>
+			<color>white</color>
+			<name>sheep</name>
+			<property_of prep="on">grass</property_of>
+			<x>701</x>
+			<y>578</y>
+			<radius>60</radius>
+		</attributes>
+	</object>
+	<object id="pig1" num="sing" visible="true" group="false" differs="true">
+		<attributes>
+			<color>pink</color>
+			<name>pig</name>
+			<property_of prep="on">grass</property_of>
+			<x>758</x>
+			<y>657</y>
+			<radius>50</radius>
+		</attributes>
+	</object>
+</scene>

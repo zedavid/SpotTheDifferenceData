@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<scene id="1" xmlns="sptdf">
+	<object id="octopuses1" num="plu" visible="true" group="true" differs="false">
+		<attributes>
+			<color>violet</color>
+			<name>octopuses</name>
+			<property_of prep="in">sea</property_of>
+			<x>191</x>
+			<y>216</y>
+			<radius>200</radius>
+		</attributes>
+		<object id="octopus1" num="sing" visible="true" group="false" differs="false">
+			<attributes>
+				<color>violet</color>
+				<name>octopus</name>
+				<property_of prep="in">sea</property_of>
+				<x>175</x>
+				<y>140</y>
+				<radius>90</radius>
+			</attributes>
+		</object>
+		<object id="octopus2" num="sing" visible="false" group="false" differs="true">
+			<attributes>
+				<color>violet</color>
+				<name>octopus</name>
+				<property_of prep="in">sea</property_of>
+				<x>112</x>
+				<y>259</y>
+				<radius>90</radius>
+			</attributes>
+		</object>
+		<object id="octopus3" num="sing" visible="true" group="false" differs="false">
+			<attributes>
+				<color>violet</color>
+				<name>octopus</name>
+				<property_of prep="in">sea</property_of>
+				<x>281</x>
+				<y>259</y>
+				<radius>90</radius>
+			</attributes>
+		</object>
+	</object>
+	<object id="seahorses1" num="plu" visible="true" group="true" differs="false">
+		<attributes>
+			<color>orange</color>
+			<name>sea horses</name>
+			<property_of prep="in">sea</property_of>
+			<x>193</x>
+			<y>433</y>
+			<radius>80</radius>
+		</attributes>
+		<object id="seahorse1" num="sing" visible="true" group="false" differs="false">
+			<attributes>
+				<color>orange</color>
+				<name>sea horse</name>
+				<property_of prep="in">sea</property_of>
+				<x>169</x>
+				<y>412</y>
+				<radius>30</radius>
+			</attributes>
+		</object>
+		<object id="seahorse2" num="sing" visible="true" group="false" differs="true">
+			<attributes>
+				<color>orange</color>
+				<name>sea horse</name>
+				<property_of prep="in">sea</property_of>
+				<x>220</x>
+				<y>432</y>
+				<radius>30</radius>
+				<property>facing right</property>
+			</attributes>
+		</object>
+	</object>
+	<object id="jellyfishes1" num="plu" visible="true" group="true" differs="false">
+		<attributes>
+			<color>yellow</color>
+			<name>jelly fishes</name>
+			<name>medusas</name>
+			<property_of prep="in">sea</property_of>
+			<x>680</x>
+			<y>449</y>
+			<radius>190</radius>
+		</attributes>
+		<object id="jellyfish1" num="sing" visible="true" group="false" differs="false">
+			<attributes>
+				<color>yellow</color>
+				<name>jellyfish</name>
+				<name>medusa</name>
+				<property_of prep="in">sea</property_of>
+				<x>561</x>
+				<y>408</y>
+				<radius>50</radius>
+			</attributes>
+		</object>
+		<object id="jellyfish2" num="sing" visible="true" group="false" differs="false">
+			<attributes>
+				<color>yellow</color>
+				<name>jellyfish</name>
+				<name>medusa</name>
+				<property_of prep="in">sea</property_of>
+				<x>671</x>
+				<y>370</y>
+				<radius>50</radius>
+			</attributes>
+		</object>
+		<object id="jellyfish3" num="sing" visible="true" group="false" differs="true">
+			<attributes>
+				<color>yellow</color>
+				<name>jellyfish</name>
+				<name>medusa</name>
+				<property_of prep="in">sea</property_of>
+				<x>798</x>
+				<y>437</y>
+				<radius>50</radius>
+			</attributes>
+		</object>
+	</object>
+	<object id="sharks1" num="plu" visible="true" group="true" differs="false">
+		<attributes>
+			<color>blue</color>
+			<name>sharks</name>
+			<property_of prep="in">sea</property_of>
+			<x>668</x>
+			<y>163</y>
+			<radius>230</radius>
+		</attributes>
+		<object id="shark1" num="sing" visible="true" group="false" differs="false">
+			<attributes>
+				<color>blue</color>
+				<name>shark</name>
+				<property_of prep="in">sea</property_of>
+				<x>651</x>
+				<y>89</y>
+				<radius>120</radius>
+			</attributes>
+		</object>
+		<object id="shark2" num="sing" visible="true" group="false" differs="true">
+			<attributes>
+				<color>blue</color>
+				<name>shark</name>
+				<property_of prep="in">sea</property_of>
+				<x>796</x>
+				<y>200</y>
+				<radius>120</radius>
+			</attributes>
+		</object>
+	</object>
+</scene>
