@@ -1,8 +1,18 @@
 # Spot The Difference Data
 
-The data set will be available soon (without video or audio). If you want access to video and/or audio please  contact the person responsible (jdlopes@kth.se).
+Beta release of the dataset with data and annotations as described in the the LREC paper below. Access to video and/or audio could be granted upon agreement with the responsible for the corpus maintenance (jdlopes@kth.se).
 
-In the meantime please check the corresponding [LREC 2018 paper](https://github.com/zedavid/SpotTheDifferenceData/blob/master/lrec2018.pdf). 
+[LREC 2018 paper](https://github.com/zedavid/SpotTheDifferenceData/blob/master/lrec2018.pdf). 
 
-# sptd.json
-Link to all session files which will link to the scenes files.
+`sptd.json`: Json file with all sessions a avialable.
+`pics`: Pictures used and their respective xml definition.
+
+`src`
+
+  |
+ 
+ +- `picdef.xsd`: XSD definition of the xml picture files
+ 
+  |
+  
+ +- `picdef.py`: Python class to parse the picture xml files
