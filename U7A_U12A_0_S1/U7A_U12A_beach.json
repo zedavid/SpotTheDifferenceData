@@ -8,721 +8,1045 @@
   "turns": [
     {
       "speaker": "U7A",
-      "start_time": 1.85090700379,
-      "end_time": 3.03670191482,
-      "utterance": "That's a nice picture",
+      "start_time": 0.575445113123,
+      "end_time": 4.6133414139,
+      "utterance": "okay we're on a beach now <%aa> I have the sun on the top left",
       "turn_index": 0,
-      "topic": ""
-    },
-    {
-      "speaker": "U7A",
-      "start_time": 3.27204548361,
-      "end_time": 5.17608262472,
-      "utterance": "I see a lot of snow",
-      "turn_index": 1,
-      "topic": ""
-    },
-    {
-      "speaker": "U7A",
-      "start_time": 5.41628688813,
-      "end_time": 9.1033361325,
-      "utterance": "<and> and I start at the top left corner",
-      "turn_index": 2,
       "topic": "",
       "overlap": [
         {
           "speaker_before": "U7A",
           "speaker_after": "U7A",
-          "turn_index": 3,
-          "start_time": 5.87612191297,
-          "end_time": 6.30104750489
+          "turn_index": 1,
+          "start_time": 2.19414987245,
+          "end_time": 3.40158751417
         }
       ]
     },
     {
       "speaker": "U12A",
-      "start_time": 5.87612191297,
-      "end_time": 6.30104750489,
-      "utterance": "<y->",
-      "turn_index": 3,
-      "topic": ""
-    },
-    {
-      "speaker": "U7A",
-      "start_time": 9.82015401016,
-      "end_time": 13.4055913002,
-      "utterance": "<%ahm> <and we have like> on the top we have three <%eh> clouds",
-      "turn_index": 4,
+      "start_time": 2.19414987245,
+      "end_time": 3.40158751417,
+      "utterance": "<%mm> yes",
+      "turn_index": 1,
       "topic": ""
     },
     {
       "speaker": "U12A",
-      "start_time": 13.6707736203,
-      "end_time": 15.9666495181,
-      "utterance": "<%eh> four clouds one in front of the sun",
+      "start_time": 4.73635750399,
+      "end_time": 5.31902421583,
+      "utterance": "yeah",
+      "turn_index": 2,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 5.44692666477,
+      "end_time": 9.14628445631,
+      "utterance": "yeah and it has kind of one two three four five kind of like",
+      "turn_index": 3,
+      "topic": ""
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 10.0204471504,
+      "end_time": 12.7986099427,
+      "utterance": "three clouds only",
+      "turn_index": 4,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U12A",
+          "speaker_after": "U12A",
+          "turn_index": 5,
+          "start_time": 11.7682846596,
+          "end_time": 12.7488701014
+        }
+      ]
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 11.7682846596,
+      "end_time": 12.7488701014,
+      "utterance": "yeah three clouds",
       "turn_index": 5,
       "topic": ""
     },
     {
       "speaker": "U7A",
-      "start_time": 16.5413722358,
-      "end_time": 17.6683970964,
-      "utterance": "I have no sun",
+      "start_time": 13.9142035251,
+      "end_time": 14.4397804021,
+      "utterance": "and",
       "turn_index": 6,
       "topic": ""
     },
     {
       "speaker": "U12A",
-      "start_time": 18.0574298252,
-      "end_time": 21.9144452889,
-      "utterance": "yeah I have three <cloud-> okay then <I'll> I'll go if you're talking about the clouds",
+      "start_time": 14.4397804021,
+      "end_time": 16.6212276673,
+      "utterance": "three coconuts in the coconut three",
       "turn_index": 7,
-      "topic": ""
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U12A",
+          "start_time": 16.4009512334,
+          "turn_index": 8,
+          "speaker_after": "U7A",
+          "end_time": 16.6212276673
+        }
+      ]
     },
     {
-      "speaker": "U12A",
-      "start_time": 22.2413110061,
-      "end_time": 23.3399566607,
-      "utterance": "top right corner",
+      "speaker": "U7A",
+      "start_time": 16.4009512334,
+      "end_time": 18.4473903617,
+      "utterance": "I have three coconuts in the coconut tree",
       "turn_index": 8,
       "topic": ""
     },
     {
-      "speaker": "U7A",
-      "start_time": 23.575299974,
-      "end_time": 23.9413895724,
-      "utterance": "yes",
+      "speaker": "U12A",
+      "start_time": 18.8250203359,
+      "end_time": 20.07453536,
+      "utterance": "with five leaves",
       "turn_index": 9,
       "topic": ""
     },
     {
-      "speaker": "U12A",
-      "start_time": 23.9740761437,
-      "end_time": 26.860721174,
-      "utterance": "three clouds all at the same level at the same distance",
+      "speaker": "U7A",
+      "start_time": 20.1324675392,
+      "end_time": 21.957357813,
+      "utterance": "I have five leaves yeah",
       "turn_index": 10,
-      "topic": ""
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U7A",
+          "start_time": 21.8720895171,
+          "turn_index": 11,
+          "speaker_after": "U12A",
+          "end_time": 21.957357813
+        }
+      ]
     },
     {
       "speaker": "U12A",
-      "start_time": 27.3312469706,
-      "end_time": 35.8297555054,
-      "utterance": "and then on the top left corner I have a sun with one two three four (five=) triangles around the ball and a cloud in front of it",
+      "start_time": 21.8720895171,
+      "end_time": 24.2902439215,
+      "utterance": "<brown> <%aa> brown coconut tree",
       "turn_index": 11,
       "topic": ""
     },
     {
       "speaker": "U7A",
-      "start_time": 35.842830134,
-      "end_time": 37.0979944714,
-      "utterance": "okay so I <ha->",
+      "start_time": 24.58383725,
+      "end_time": 26.1119956774,
+      "utterance": "one brown coconut tree yes",
       "turn_index": 12,
       "topic": "",
       "overlap": [
         {
           "speaker_before": "U7A",
-          "start_time": 36.9516148322,
+          "start_time": 25.5359998872,
           "turn_index": 13,
           "speaker_after": "U12A",
-          "end_time": 37.0979944714
+          "end_time": 26.1119956774
         }
       ]
     },
     {
       "speaker": "U12A",
-      "start_time": 36.9516148322,
-      "end_time": 39.2658240638,
-      "utterance": "<and this> and this cloud is slightly lower",
+      "start_time": 25.5359998872,
+      "end_time": 27.1381861536,
+      "utterance": "and brown coconuts",
       "turn_index": 13,
       "topic": ""
     },
     {
       "speaker": "U7A",
-      "start_time": 39.2788986923,
-      "end_time": 44.1841098356,
-      "utterance": "exactly so I'm missing the second cloud <%eh> from the right",
+      "start_time": 27.4212276432,
+      "end_time": 27.7338780614,
+      "utterance": "sorry?",
       "turn_index": 14,
+      "topic": ""
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 28.2739106019,
+      "end_time": 29.4407031604,
+      "utterance": "and brown coconuts",
+      "turn_index": 15,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U12A",
+          "start_time": 29.2744187558,
+          "turn_index": 16,
+          "speaker_after": "U7A",
+          "end_time": 29.4407031604
+        }
+      ]
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 29.2744187558,
+      "end_time": 33.0805650624,
+      "utterance": "yeah exactly and then <the> the tree has this kind of like light brown",
+      "turn_index": 16,
+      "topic": ""
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 33.9626992504,
+      "end_time": 35.6467480488,
+      "utterance": "yes yeah shadow",
+      "turn_index": 17,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U12A",
+          "start_time": 35.0072358469,
+          "turn_index": 18,
+          "speaker_after": "U7A",
+          "end_time": 35.6467480488
+        }
+      ]
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 35.0072358469,
+      "end_time": 36.3868113474,
+      "utterance": "kind of yeah",
+      "turn_index": 18,
       "topic": "",
       "overlap": [
         {
           "speaker_before": "U7A",
-          "start_time": 44.176594877,
-          "turn_index": 15,
+          "start_time": 36.1381121411,
+          "turn_index": 19,
           "speaker_after": "U12A",
-          "end_time": 44.1841098356
+          "end_time": 36.3868113474
         }
       ]
     },
     {
       "speaker": "U12A",
-      "start_time": 44.176594877,
-      "end_time": 45.1048934953,
-      "utterance": "okay there's no",
-      "turn_index": 15,
-      "topic": ""
-    },
-    {
-      "speaker": "U12A",
-      "start_time": 45.8632219441,
-      "end_time": 46.2816100538,
-      "utterance": "okay",
-      "turn_index": 16,
-      "topic": ""
-    },
-    {
-      "speaker": "U7A",
-      "start_time": 46.4254309665,
-      "end_time": 48.399699859,
-      "utterance": "so we can click both on that area",
-      "turn_index": 17,
-      "topic": ""
-    },
-    {
-      "speaker": "U12A",
-      "start_time": 49.0848079071,
-      "end_time": 50.9675544006,
-      "utterance": "the second cloud so the one in the middle",
-      "turn_index": 18,
-      "topic": ""
-    },
-    {
-      "speaker": "U7A",
-      "start_time": 51.5951365652,
-      "end_time": 53.1640919765,
-      "utterance": "yeah like second <to the> from the right",
+      "start_time": 36.1381121411,
+      "end_time": 38.4972017549,
+      "utterance": "<%eh> <I> I have three boys",
       "turn_index": 19,
       "topic": ""
     },
     {
       "speaker": "U7A",
-      "start_time": 53.88319654,
-      "end_time": 55.5305997218,
-      "utterance": "and then I don't have the sun",
+      "start_time": 38.6535269703,
+      "end_time": 39.6781181264,
+      "utterance": "three buoys",
       "turn_index": 20,
       "topic": ""
     },
     {
-      "speaker": "U7A",
-      "start_time": 55.8369504969,
-      "end_time": 59.7462642919,
-      "utterance": "is the sun <%aa> like in the top left corner behind the cloud?",
+      "speaker": "U12A",
+      "start_time": 40.3954091725,
+      "end_time": 41.7739133444,
+      "utterance": "red and white buyos",
       "turn_index": 21,
       "topic": "",
       "overlap": [
         {
-          "speaker_before": "",
-          "start_time": 55.8369504969,
+          "speaker_before": "U12A",
+          "start_time": 41.2409864738,
+          "turn_index": 22,
           "speaker_after": "U7A",
-          "end_time": 56.2941098356,
-          "turn_index": 22
+          "end_time": 41.7739133444
         }
       ]
     },
     {
-      "speaker": "U12A",
-      "start_time": 55.8369504969,
-      "end_time": 56.2941098356,
-      "utterance": "okay",
+      "speaker": "U7A",
+      "start_time": 41.2409864738,
+      "end_time": 42.9534581513,
+      "utterance": "aha those no I have only too",
       "turn_index": 22,
       "topic": ""
     },
     {
-      "speaker": "U12A",
-      "start_time": 59.8449913854,
-      "end_time": 63.3751409425,
-      "utterance": "yes <it's like on the left> it's on the left side of the cloud",
+      "speaker": "U7A",
+      "start_time": 43.7999420985,
+      "end_time": 52.219861401,
+      "utterance": "<%ahm> <and there's like> the one is like <%aa> just kind of like when you go down from the left there's like (a=) left from the palm tree like belo",
       "turn_index": 23,
       "topic": ""
     },
     {
-      "speaker": "U7A",
-      "start_time": 63.4242987134,
-      "end_time": 64.3264480024,
-      "utterance": "okay cool",
+      "speaker": "U12A",
+      "start_time": 52.631790339,
+      "end_time": 53.4212700539,
+      "utterance": "there's one there",
       "turn_index": 24,
-      "topic": "",
-      "overlap": [
-        {
-          "speaker_before": "U7A",
-          "start_time": 63.685791261,
-          "turn_index": 25,
-          "speaker_after": "U12A",
-          "end_time": 64.3264480024
-        }
-      ]
+      "topic": ""
     },
     {
-      "speaker": "U12A",
-      "start_time": 63.685791261,
-      "end_time": 64.3395226298,
-      "utterance": "behind it",
+      "speaker": "U7A",
+      "start_time": 53.4212700539,
+      "end_time": 57.8672910307,
+      "utterance": "and <then I have one that is like> the next one is like a bit further down to the right",
       "turn_index": 25,
       "topic": ""
     },
     {
-      "speaker": "U7A",
-      "start_time": 64.3793195235,
-      "end_time": 67.9421370465,
-      "utterance": "then we can click in that area as well because I don't have the sun there",
+      "speaker": "U12A",
+      "start_time": 58.5113235011,
+      "end_time": 61.3789798044,
+      "utterance": "<okay but in like> as <it> it was into the front",
       "turn_index": 26,
-      "topic": "",
-      "overlap": [
-        {
-          "speaker_before": "U7A",
-          "speaker_after": "U7A",
-          "turn_index": 27,
-          "start_time": 67.3734088314,
-          "end_time": 67.9094684892
-        }
-      ]
+      "topic": ""
     },
     {
-      "speaker": "U12A",
-      "start_time": 67.3734088314,
-      "end_time": 67.9094684892,
-      "utterance": "okay",
+      "speaker": "U7A",
+      "start_time": 61.4815025931,
+      "end_time": 62.2637190334,
+      "utterance": "yeah exactly",
       "turn_index": 27,
       "topic": ""
     },
     {
-      "speaker": "U7A",
-      "start_time": 69.1347626266,
-      "end_time": 74.5266495181,
-      "utterance": "<%ahm> <be-> below <this like> left this cloud there's three trees",
+      "speaker": "U12A",
+      "start_time": 62.2637190334,
+      "end_time": 67.1687983985,
+      "utterance": "okay now I have a third one on the right same height as the first one under the tree",
       "turn_index": 28,
       "topic": ""
     },
     {
-      "speaker": "U12A",
-      "start_time": 74.8571030329,
-      "end_time": 75.5435429422,
-      "utterance": "exactly",
+      "speaker": "U7A",
+      "start_time": 67.2178525138,
+      "end_time": 68.1913322381,
+      "utterance": "okay let's click there",
       "turn_index": 29,
       "topic": ""
     },
     {
-      "speaker": "U7A",
-      "start_time": 75.6561410711,
-      "end_time": 79.6863921957,
-      "utterance": "yeah they're like <%eh> a little bit of green but then they're like mostly snow on top of it",
+      "speaker": "U12A",
+      "start_time": 68.7820111389,
+      "end_time": 70.1534095458,
+      "utterance": "okay good",
       "turn_index": 30,
+      "topic": ""
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 70.2031493844,
+      "end_time": 73.4224038407,
+      "utterance": "then I have three chairs two blue <one> <%aa> one orange",
+      "turn_index": 31,
+      "topic": "DESCRIBING PICTURE",
+      "overlap": [
+        {
+          "speaker_before": "U12A",
+          "start_time": 73.4088445809,
+          "turn_index": 32,
+          "speaker_after": "U7A",
+          "end_time": 73.4224038407
+        }
+      ]
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 73.4088445809,
+      "end_time": 76.1778233418,
+      "utterance": "okay I have three blue chairs which one is the orange one?",
+      "turn_index": 32,
       "topic": "",
       "overlap": [
         {
           "speaker_before": "U7A",
-          "start_time": 79.5981385214,
-          "turn_index": 31,
+          "start_time": 76.1159503564,
+          "turn_index": 33,
           "speaker_after": "U12A",
-          "end_time": 79.6863921957
+          "end_time": 76.1778233418
         }
       ]
     },
     {
       "speaker": "U12A",
-      "start_time": 79.5981385214,
-      "end_time": 83.7858497859,
-      "utterance": "yes and then I have a bob sledge slightly to the left slightly lower",
-      "turn_index": 31,
-      "topic": ""
-    },
-    {
-      "speaker": "U7A",
-      "start_time": 83.8446855688,
-      "end_time": 85.5705351987,
-      "utterance": "yeah I have two bob sledge",
-      "turn_index": 32,
-      "topic": ""
-    },
-    {
-      "speaker": "U12A",
-      "start_time": 85.7737998841,
-      "end_time": 92.5104970192,
-      "utterance": "<%mm> <<I> mine is> <%eh> the top of the bob sledge is like coinciding with the top of the mountain which is white",
+      "start_time": 76.1159503564,
+      "end_time": 79.9611173437,
+      "utterance": "it's the one closest to you so it's the one in front slightly lower",
       "turn_index": 33,
-      "topic": ""
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U12A",
+          "start_time": 78.7024219632,
+          "turn_index": 34,
+          "speaker_after": "U7A",
+          "end_time": 79.9611173437
+        }
+      ]
     },
     {
       "speaker": "U7A",
-      "start_time": 92.5997512959,
-      "end_time": 94.7668692972,
-      "utterance": "okay and then there's one below",
+      "start_time": 78.7024219632,
+      "end_time": 80.6632881944,
+      "utterance": "yes okay I clicked",
       "turn_index": 34,
       "topic": ""
     },
     {
-      "speaker": "U7A",
-      "start_time": 95.4042569446,
-      "end_time": 97.6792405478,
-      "utterance": "<that we> that you don't have I guess",
+      "speaker": "U12A",
+      "start_time": 81.2944427422,
+      "end_time": 81.7918411281,
+      "utterance": "okay",
       "turn_index": 35,
       "topic": ""
     },
     {
       "speaker": "U12A",
-      "start_time": 97.6792405478,
-      "end_time": 98.4251755952,
-      "utterance": "that I don't have",
+      "start_time": 82.1044915421,
+      "end_time": 86.6117191681,
+      "utterance": "a buckle and <%aa> a buck and a shovel <full of> full of sand",
       "turn_index": 36,
-      "topic": ""
-    },
-    {
-      "speaker": "U7A",
-      "start_time": 98.4994096888,
-      "end_time": 102.274705754,
-      "utterance": "yeah so let's click on the area below <the> the bob sledge",
-      "turn_index": 37,
       "topic": "",
       "overlap": [
         {
-          "speaker_before": "U7A",
-          "start_time": 102.206064008,
-          "turn_index": 38,
+          "speaker_before": "U12A",
           "speaker_after": "U12A",
-          "end_time": 102.274705754
+          "turn_index": 37,
+          "start_time": 84.8210849788,
+          "end_time": 85.6453451612
         }
       ]
     },
     {
+      "speaker": "U7A",
+      "start_time": 84.8210849788,
+      "end_time": 85.6453451612,
+      "utterance": "<%aa> exactly",
+      "turn_index": 37,
+      "topic": ""
+    },
+    {
       "speaker": "U12A",
-      "start_time": 102.206064008,
-      "end_time": 103.255302135,
-      "utterance": "okay done",
+      "start_time": 86.6398981099,
+      "end_time": 89.8043122747,
+      "utterance": "white <%eh> not white <%eh> yellow",
       "turn_index": 38,
       "topic": ""
     },
     {
       "speaker": "U7A",
-      "start_time": 103.902754926,
-      "end_time": 107.707468883,
-      "utterance": "<%ahm> to the right of bod sledge are like two skiers",
+      "start_time": 89.9581334495,
+      "end_time": 91.7914017862,
+      "utterance": "yeah exactly and the shovel",
       "turn_index": 39,
-      "topic": ""
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U7A",
+          "start_time": 90.9316131477,
+          "turn_index": 40,
+          "speaker_after": "U12A",
+          "end_time": 91.7914017862
+        }
+      ]
     },
     {
       "speaker": "U12A",
-      "start_time": 107.842091695,
-      "end_time": 108.87392843,
-      "utterance": "three skiers",
+      "start_time": 90.9316131477,
+      "end_time": 93.0591385346,
+      "utterance": "and green <sh-> and green shovel",
       "turn_index": 40,
-      "topic": ""
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U12A",
+          "start_time": 92.8572554703,
+          "turn_index": 41,
+          "speaker_after": "U7A",
+          "end_time": 93.0591385346
+        }
+      ]
     },
     {
       "speaker": "U7A",
-      "start_time": 109.305840983,
-      "end_time": 111.149362179,
-      "utterance": "three skiers are they wearing yellow?",
+      "start_time": 92.8572554703,
+      "end_time": 93.6293530228,
+      "utterance": "yeah exactly",
       "turn_index": 41,
       "topic": ""
     },
     {
-      "speaker": "U12A",
-      "start_time": 111.393463708,
-      "end_time": 116.325863503,
-      "utterance": "<%eh> yes yellow (with=) blue vests <%eh> with the olympic symbols on",
-      "turn_index": 42,
-      "topic": ""
-    },
-    {
       "speaker": "U7A",
-      "start_time": 116.355281394,
-      "end_time": 118.790208586,
-      "utterance": "yeah and below the blue there is also some white",
-      "turn_index": 43,
-      "topic": ""
+      "start_time": 93.9348977456,
+      "end_time": 97.3749174679,
+      "utterance": "and did the bucket has a (red=) kind of what do you think wait",
+      "turn_index": 42,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U7A",
+          "start_time": 96.8917304644,
+          "turn_index": 43,
+          "speaker_after": "U12A",
+          "end_time": 97.3749174679
+        }
+      ]
     },
     {
       "speaker": "U12A",
-      "start_time": 118.868656296,
-      "end_time": 120.859266949,
-      "utterance": "yes there's like a white stripe",
-      "turn_index": 44,
+      "start_time": 96.8917304644,
+      "end_time": 97.7728361766,
+      "utterance": "strip yeah",
+      "turn_index": 43,
       "topic": "",
       "overlap": [
         {
           "speaker_before": "U12A",
-          "speaker_after": "U12A",
-          "turn_index": 45,
-          "start_time": 119.57468569,
-          "end_time": 120.044880811
+          "start_time": 97.7088849556,
+          "turn_index": 44,
+          "speaker_after": "U7A",
+          "end_time": 97.7728361766
         }
       ]
     },
     {
       "speaker": "U7A",
-      "start_time": 119.57468569,
-      "end_time": 120.044880811,
-      "utterance": "okay",
+      "start_time": 97.7088849556,
+      "end_time": 99.0376492151,
+      "utterance": "yeah where you can carry it on",
+      "turn_index": 44,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 99.7373364386,
+      "end_time": 103.504784793,
+      "utterance": "<%aa> to the left there is <%eh> <a> a flying kite",
       "turn_index": 45,
       "topic": ""
     },
     {
-      "speaker": "U7A",
-      "start_time": 120.869072913,
-      "end_time": 124.381093963,
-      "utterance": "okay then let's see like you had three skiers I have only two skiers",
+      "speaker": "U12A",
+      "start_time": 103.558723041,
+      "end_time": 104.773796241,
+      "utterance": "a kite yes",
       "turn_index": 46,
-      "topic": ""
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U12A",
+          "start_time": 104.397194606,
+          "turn_index": 47,
+          "speaker_after": "U7A",
+          "end_time": 104.773796241
+        }
+      ]
     },
     {
-      "speaker": "U12A",
-      "start_time": 124.924032958,
-      "end_time": 132.319906804,
-      "utterance": "so <I> <ha-> <I have one> they have like two <%eh> bigger ones and one smaller one so which is <coming backwards> on the back",
+      "speaker": "U7A",
+      "start_time": 104.397194606,
+      "end_time": 108.240090916,
+      "utterance": "yeah and it's like red yellow purple and green",
       "turn_index": 47,
       "topic": ""
     },
     {
-      "speaker": "U7A",
-      "start_time": 132.395631281,
-      "end_time": 138.515851602,
-      "utterance": "okay I don't <ha-> I don't have two that are like the same size so I guess the one that is you know behind",
+      "speaker": "U12A",
+      "start_time": 108.346727172,
+      "end_time": 111.114263251,
+      "utterance": "exactly <if you> if you go on the clockwork",
       "turn_index": 48,
       "topic": "",
       "overlap": [
         {
-          "speaker_before": "U7A",
-          "start_time": 138.30012067,
+          "speaker_before": "U12A",
+          "start_time": 110.786117711,
           "turn_index": 49,
-          "speaker_after": "U12A",
-          "end_time": 138.515851602
+          "speaker_after": "U7A",
+          "end_time": 111.114263251
         }
       ]
     },
     {
-      "speaker": "U12A",
-      "start_time": 138.30012067,
-      "end_time": 145.322182401,
-      "utterance": "okay the one behind is precisely on top of the end of <(the=)> the what do you call the thing that you ski with",
+      "speaker": "U7A",
+      "start_time": 110.786117711,
+      "end_time": 111.831020621,
+      "utterance": "yeah exactly",
       "turn_index": 49,
       "topic": ""
     },
     {
-      "speaker": "U7A",
-      "start_time": 145.349666449,
-      "end_time": 147.554109836,
-      "utterance": "<%aa> (the=) ski stick or whatever",
+      "speaker": "U12A",
+      "start_time": 111.958434802,
+      "end_time": 114.283333546,
+      "utterance": "three <%eh> <s-> three umbrellas",
       "turn_index": 50,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 114.518622092,
+      "end_time": 117.16904492,
+      "utterance": "three umbrellas <%aa> but",
+      "turn_index": 51,
       "topic": "",
       "overlap": [
         {
           "speaker_before": "U7A",
-          "start_time": 146.830365092,
-          "turn_index": 51,
-          "speaker_after": "U12A",
-          "end_time": 147.554109836
+          "speaker_after": "U7A",
+          "turn_index": 52,
+          "start_time": 116.600589621,
+          "end_time": 117.105093699
         }
       ]
     },
     {
       "speaker": "U12A",
-      "start_time": 146.830365092,
-      "end_time": 148.07659181,
-      "utterance": "yeah the hold in the hand",
-      "turn_index": 51,
+      "start_time": 116.600589621,
+      "end_time": 117.105093699,
+      "utterance": "two",
+      "turn_index": 52,
       "topic": ""
     },
     {
-      "speaker": "U12A",
-      "start_time": 148.282516787,
-      "end_time": 153.776944303,
-      "utterance": "<on the> <th-> the skier on the left the guy is on top of that so he's like in the end",
-      "turn_index": 52,
+      "speaker": "U7A",
+      "start_time": 117.822768513,
+      "end_time": 122.37830132,
+      "utterance": "two have kind of like <%aa> like <%eh> more rainbow colours like red orange",
+      "turn_index": 53,
       "topic": "",
       "overlap": [
         {
-          "speaker_before": "U12A",
-          "speaker_after": "U12A",
-          "turn_index": 53,
-          "start_time": 150.677346465,
-          "end_time": 151.205606434
-        },
-        {
-          "speaker_before": "U12A",
-          "speaker_after": "U12A",
+          "speaker_before": "U7A",
+          "speaker_after": "U7A",
           "turn_index": 54,
-          "start_time": 152.305134377,
-          "end_time": 152.873879551
+          "start_time": 121.888008625,
+          "end_time": 122.179341965
         }
       ]
     },
     {
-      "speaker": "U7A",
-      "start_time": 150.677346465,
-      "end_time": 151.205606434,
-      "utterance": "okay",
-      "turn_index": 53,
-      "topic": ""
-    },
-    {
-      "speaker": "U7A",
-      "start_time": 152.305134377,
-      "end_time": 152.873879551,
-      "utterance": "okay",
+      "speaker": "U12A",
+      "start_time": 121.888008625,
+      "end_time": 122.179341965,
+      "utterance": "no",
       "turn_index": 54,
       "topic": ""
     },
     {
-      "speaker": "U7A",
-      "start_time": 153.599519945,
-      "end_time": 155.648963762,
-      "utterance": "okay then let's click in that area",
+      "speaker": "U12A",
+      "start_time": 122.179341965,
+      "end_time": 127.481094413,
+      "utterance": "one has rainbow colours <the <highe->> the one on top the one that you see like <on the> on the water",
       "turn_index": 55,
       "topic": ""
     },
     {
-      "speaker": "U12A",
-      "start_time": 156.374604156,
-      "end_time": 156.820141582,
-      "utterance": "okay",
+      "speaker": "U7A",
+      "start_time": 127.559257017,
+      "end_time": 127.869564275,
+      "utterance": "yes",
       "turn_index": 56,
       "topic": ""
     },
     {
-      "speaker": "U7A",
-      "start_time": 156.917721972,
-      "end_time": 161.846148288,
-      "utterance": "okay to the right of the skier I have two elks or reinders or whatever",
+      "speaker": "U12A",
+      "start_time": 128.175108997,
+      "end_time": 133.202161998,
+      "utterance": "the other ones is like <light (yellow=) no> light <blue> blue and a strip of yellow",
       "turn_index": 57,
       "topic": "",
       "overlap": [
         {
-          "speaker_before": "U7A",
-          "start_time": 161.836342337,
+          "speaker_before": "U12A",
+          "start_time": 132.730560255,
           "turn_index": 58,
-          "speaker_after": "U12A",
-          "end_time": 161.846148288
+          "speaker_after": "U7A",
+          "end_time": 133.202161998
         }
       ]
     },
     {
-      "speaker": "U12A",
-      "start_time": 161.836342337,
-      "end_time": 162.881230017,
-      "utterance": "three reindeers",
+      "speaker": "U7A",
+      "start_time": 132.730560255,
+      "end_time": 133.235064305,
+      "utterance": "okay",
       "turn_index": 58,
       "topic": ""
     },
     {
       "speaker": "U7A",
-      "start_time": 163.003250539,
-      "end_time": 163.925009959,
-      "utterance": "three reindeers?",
+      "start_time": 133.483763485,
+      "end_time": 140.350408376,
+      "utterance": "<%aa> mine is the second one like <t-> <right to the> next to the rainbow one that one is also rainbow one so that one is different in that cas",
       "turn_index": 59,
       "topic": ""
     },
     {
       "speaker": "U12A",
-      "start_time": 163.993651618,
-      "end_time": 164.366277766,
-      "utterance": "yeah",
+      "start_time": 140.806819889,
+      "end_time": 143.137486487,
+      "utterance": "okay so from the kite it's the secon",
       "turn_index": 60,
       "topic": ""
     },
     {
       "speaker": "U7A",
-      "start_time": 164.488175431,
-      "end_time": 173.115833192,
-      "utterance": "okay I have one that is like at the bottom kind of like where the <kind of the> hill starts and one at the same height as the <%eh> lower skier",
+      "start_time": 143.975958007,
+      "end_time": 147.088128745,
+      "utterance": "yeah it's kind of behind <%eh> the one",
       "turn_index": 61,
       "topic": ""
     },
     {
       "speaker": "U12A",
-      "start_time": 173.389446655,
-      "end_time": 174.833429563,
-      "utterance": "I have one in between them",
+      "start_time": 147.194714108,
+      "end_time": 149.116620802,
+      "utterance": "yeah like the one in the middle we should say",
       "turn_index": 62,
-      "topic": ""
-    },
-    {
-      "speaker": "U7A",
-      "start_time": 174.860339346,
-      "end_time": 176.850947455,
-      "utterance": "okay so we can click in that area as well",
-      "turn_index": 63,
       "topic": "",
       "overlap": [
         {
-          "speaker_before": "U7A",
-          "start_time": 176.841141504,
-          "turn_index": 64,
+          "speaker_before": "U12A",
           "speaker_after": "U12A",
-          "end_time": 176.850947455
+          "turn_index": 63,
+          "start_time": 148.125559609,
+          "end_time": 149.059775275
         }
       ]
     },
     {
+      "speaker": "U7A",
+      "start_time": 148.125559609,
+      "end_time": 149.059775275,
+      "utterance": "yeah exactly",
+      "turn_index": 63,
+      "topic": ""
+    },
+    {
       "speaker": "U12A",
-      "start_time": 176.841141504,
-      "end_time": 177.385357001,
-      "utterance": "yes",
+      "start_time": 149.386637054,
+      "end_time": 149.94088094,
+      "utterance": "okay good",
       "turn_index": 64,
       "topic": ""
     },
     {
       "speaker": "U7A",
-      "start_time": 177.831542583,
-      "end_time": 180.134676729,
-      "utterance": "and then I have three snowmen",
+      "start_time": 149.94088094,
+      "end_time": 150.444467333,
+      "utterance": "or let me",
       "turn_index": 65,
       "topic": ""
     },
     {
       "speaker": "U12A",
-      "start_time": 180.658268062,
-      "end_time": 183.562205074,
-      "utterance": "<%eh> two snowmen one red and one blue",
+      "start_time": 150.594604498,
+      "end_time": 151.120425621,
+      "utterance": "clicked on",
       "turn_index": 66,
-      "topic": "",
-      "overlap": [
-        {
-          "speaker_before": "U12A",
-          "speaker_after": "U12A",
-          "turn_index": 67,
-          "start_time": 181.952653631,
-          "end_time": 182.536059949
-        }
-      ]
-    },
-    {
-      "speaker": "U7A",
-      "start_time": 181.952653631,
-      "end_time": 182.536059949,
-      "utterance": "okay",
-      "turn_index": 67,
       "topic": ""
     },
     {
       "speaker": "U7A",
-      "start_time": 184.219134936,
-      "end_time": 191.169166525,
-      "utterance": "okay <I've only> I have three <%eh> snowmen two are wearing a red scarf and one is wearing a green scarf",
+      "start_time": 151.258844497,
+      "end_time": 154.676485473,
+      "utterance": "yeah so I'm just thinking I have like one <%aa> umbrella that is",
+      "turn_index": 67,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "",
+          "start_time": 151.258844497,
+          "speaker_after": "U7A",
+          "end_time": 152.729722502,
+          "turn_index": 68
+        }
+      ]
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 151.258844497,
+      "end_time": 152.729722502,
+      "utterance": "yeah I clicked on it",
       "turn_index": 68,
       "topic": ""
     },
     {
       "speaker": "U12A",
-      "start_time": 191.296500126,
-      "end_time": 199.146445102,
-      "utterance": "no <two are wearing> <%eh> <two are th-> my two are wearing red scarves but one is red hat and one is blue hat",
+      "start_time": 154.543690468,
+      "end_time": 156.888568447,
+      "utterance": "is there a mountain <on the> <on the> on the end",
       "turn_index": 69,
       "topic": "",
       "overlap": [
         {
           "speaker_before": "U12A",
-          "start_time": 199.087609395,
+          "start_time": 156.618552195,
           "turn_index": 70,
           "speaker_after": "U7A",
-          "end_time": 199.146445102
+          "end_time": 156.888568447
         }
       ]
     },
     {
       "speaker": "U7A",
-      "start_time": 199.087609395,
-      "end_time": 201.038993699,
-      "utterance": "okay which one is wearing the red <ha->",
+      "start_time": 156.618552195,
+      "end_time": 159.68110495,
+      "utterance": "yeah <%eh> yeah it's like very small",
       "turn_index": 70,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U7A",
+          "speaker_after": "U7A",
+          "turn_index": 71,
+          "start_time": 157.073316409,
+          "end_time": 159.283186263
+        }
+      ]
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 157.073316409,
+      "end_time": 159.283186263,
+      "utterance": "behind the palm tree on the right side of the",
+      "turn_index": 71,
+      "topic": ""
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 160.512308041,
+      "end_time": 163.151766955,
+      "utterance": "yeah like <a> <a> a grey thing that stays there",
+      "turn_index": 72,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U12A",
+          "speaker_after": "U12A",
+          "turn_index": 73,
+          "start_time": 161.954763282,
+          "end_time": 162.863242843
+        }
+      ]
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 161.954763282,
+      "end_time": 162.863242843,
+      "utterance": "yeah exactly",
+      "turn_index": 73,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 163.066498664,
+      "end_time": 166.605132706,
+      "utterance": "<%aa> like a stone or something at the bottom of the coconut tree",
+      "turn_index": 74,
+      "topic": ""
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 167.041868644,
+      "end_time": 170.189614725,
+      "utterance": "yes and then like a small <%aa> bush also",
+      "turn_index": 75,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U12A",
+          "start_time": 169.031462082,
+          "turn_index": 76,
+          "speaker_after": "U7A",
+          "end_time": 170.189614725
+        }
+      ]
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 169.031462082,
+      "end_time": 171.664013818,
+      "utterance": "yeah exactly with five kind of leaves",
+      "turn_index": 76,
+      "topic": ""
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 172.213295777,
+      "end_time": 175.848662344,
+      "utterance": "yeah five leaves and then there's another leaf with small leaves inside",
+      "turn_index": 77,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U12A",
+          "speaker_after": "U12A",
+          "turn_index": 78,
+          "start_time": 175.041360734,
+          "end_time": 175.784399306
+        }
+      ]
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 175.041360734,
+      "end_time": 175.784399306,
+      "utterance": "exactly",
+      "turn_index": 78,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 176.776056039,
+      "end_time": 181.039470547,
+      "utterance": "and I have like one two three four five six seven eight small leaves in there",
+      "turn_index": 79,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 183.339088516,
+      "end_time": 183.843592566,
+      "utterance": "yeah",
+      "turn_index": 80,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "",
+          "start_time": 183.339088516,
+          "speaker_after": "",
+          "end_time": 183.843592566,
+          "turn_index": 81
+        }
+      ]
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 183.339088516,
+      "end_time": 183.843592566,
+      "utterance": "yeah",
+      "turn_index": 81,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "",
+          "start_time": 183.339088516,
+          "speaker_after": "",
+          "end_time": 183.339088516,
+          "turn_index": 80
+        }
+      ]
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 184.220194181,
+      "end_time": 186.964512684,
+      "utterance": "<can we just like> quickly regarding <the> the umbrellas",
+      "turn_index": 82,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U7A",
+          "start_time": 184.896141449,
+          "turn_index": 83,
+          "speaker_after": "U12A",
+          "end_time": 186.964512684
+        }
+      ]
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 184.896141449,
+      "end_time": 186.964512684,
+      "utterance": "<three white +> three white clouds",
+      "turn_index": 83,
+      "topic": ""
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 188.711897434,
+      "end_time": 189.621425863,
+      "utterance": "<%eh> what?",
+      "turn_index": 84,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U12A",
+          "start_time": 189.09560474,
+          "turn_index": 85,
+          "speaker_after": "U7A",
+          "end_time": 189.621425863
+        }
+      ]
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 189.09560474,
+      "end_time": 192.333288194,
+      "utterance": "regarding the umbrellas because you were mentioning like something in the middle",
+      "turn_index": 85,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 192.333288194,
+      "end_time": 195.873986979,
+      "utterance": "<I have like> <%eh> one is like directly left on the kite",
+      "turn_index": 86,
+      "topic": ""
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 196.641401591,
+      "end_time": 198.959517251,
+      "utterance": "and then the other one is behind",
+      "turn_index": 87,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U7A",
+          "speaker_after": "U7A",
+          "turn_index": 88,
+          "start_time": 196.961157679,
+          "end_time": 197.557437854
+        }
+      ]
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 196.961157679,
+      "end_time": 197.557437854,
+      "utterance": "exactly",
+      "turn_index": 88,
+      "topic": ""
+    },
+    {
+      "speaker": "U12A",
+      "start_time": 199.400070084,
+      "end_time": 200.7376875,
+      "utterance": "slightly behind yes",
+      "turn_index": 89,
+      "topic": "",
+      "overlap": [
+        {
+          "speaker_before": "U12A",
+          "speaker_after": "U12A",
+          "turn_index": 90,
+          "start_time": 199.861939989,
+          "end_time": 200.330915585
+        }
+      ]
+    },
+    {
+      "speaker": "U7A",
+      "start_time": 199.861939989,
+      "end_time": 200.330915585,
+      "utterance": "yeah",
+      "turn_index": 90,
       "topic": ""
     }
   ]
