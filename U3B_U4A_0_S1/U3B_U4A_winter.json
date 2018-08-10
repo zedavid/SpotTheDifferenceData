@@ -1,5 +1,11 @@
 {
   "success": 0.1,
+  "instruction_giver": {
+    "id": "U3B"
+  },
+  "instruction_follower": {
+    "id": "U4A"
+  },
   "dialogue_duration": 200.1050000000032,
   "audio": {
     "ig": "U3B_0_winter.wav",
@@ -45,7 +51,7 @@
       "end_time": 348.38,
       "utterance": "THERE ARE THREE BIG WHITE <%mm> CLOUD <%aa> ON THE TOP OF THE PICTURE",
       "turn_index": 3,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4A",
@@ -53,7 +59,7 @@
       "end_time": 349.62,
       "utterance": "OKAY I HAVE FOUR",
       "turn_index": 4,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3B",
@@ -61,7 +67,7 @@
       "end_time": 355.36,
       "utterance": "<%aa> I THINK <WE CAN> <+ WE CAN> <%aa> WELL WE CAN CLICK THE THIRD ONE",
       "turn_index": 5,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U3B",
@@ -85,7 +91,7 @@
       "end_time": 351.04,
       "utterance": "<%aa>",
       "turn_index": 6,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4A",
@@ -93,7 +99,7 @@
       "end_time": 353.99,
       "utterance": "WE",
       "turn_index": 7,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4A",
@@ -101,7 +107,7 @@
       "end_time": 356.379320948,
       "utterance": "THE THIRD",
       "turn_index": 8,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U4A",
@@ -118,7 +124,7 @@
       "end_time": 357.85,
       "utterance": "THERE'S A BLANK IN MY HERE",
       "turn_index": 9,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4A",
@@ -126,7 +132,7 @@
       "end_time": 361.94,
       "utterance": "<O-> OKAY BUT <WHICH> WHICH ONE SHOULD I CLICK BECAUSE SO I HAVE FOUR",
       "turn_index": 10,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3B",
@@ -134,7 +140,7 @@
       "end_time": 363.77,
       "utterance": "THE THIRD ONE FROM THE LEFT",
       "turn_index": 11,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4A",
@@ -142,7 +148,7 @@
       "end_time": 365.78,
       "utterance": "<%aa>",
       "turn_index": 12,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4A",
@@ -150,7 +156,7 @@
       "end_time": 366.47,
       "utterance": "OKAY",
       "turn_index": 13,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4A",
@@ -158,7 +164,7 @@
       "end_time": 372.14,
       "utterance": "YOU HAVE THREE CLOUDS BUT ARE THEY ALL <%aa> <+ MORE> LEANING MORE TOWARDS THE RIGHT?",
       "turn_index": 14,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4A",
@@ -166,7 +172,7 @@
       "end_time": 373.92,
       "utterance": "SO ONE'S IN THE MIDDLE",
       "turn_index": 15,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3B",
@@ -174,7 +180,7 @@
       "end_time": 374.92,
       "utterance": "YEAH",
       "turn_index": 16,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U3B",
@@ -191,7 +197,7 @@
       "end_time": 375.4,
       "utterance": "OF THE PICTURE",
       "turn_index": 17,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3B",
@@ -199,7 +205,7 @@
       "end_time": 377.06,
       "utterance": "<%ahm> YES",
       "turn_index": 18,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U3B",
@@ -216,7 +222,7 @@
       "end_time": 379.34,
       "utterance": "THEN ANOTHER ONE TO THE RIGHT AND ANOTHER ONE TO THE RIGHT",
       "turn_index": 19,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4A",
@@ -224,7 +230,7 @@
       "end_time": 380.67,
       "utterance": "TOP RIGHT CORNER",
       "turn_index": 20,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4A",
@@ -232,7 +238,7 @@
       "end_time": 382.6,
       "utterance": "IS THAT WHY YOU HAVE?",
       "turn_index": 21,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3B",
@@ -240,7 +246,7 @@
       "end_time": 384.62,
       "utterance": "YOU MEAN THE CLOUDS",
       "turn_index": 22,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4A",
@@ -248,7 +254,7 @@
       "end_time": 385.86,
       "utterance": "THE CLOUDS",
       "turn_index": 23,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3B",
@@ -256,7 +262,7 @@
       "end_time": 387.07,
       "utterance": "(NO=)",
       "turn_index": 24,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U3B",
@@ -273,7 +279,7 @@
       "end_time": 388.35,
       "utterance": "I HAVE FOUR CLOUDS",
       "turn_index": 25,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3B",
@@ -281,7 +287,7 @@
       "end_time": 392.45,
       "utterance": "I HAVE ONLY THREE AND <+ THE> I THINK THE THIRD ONE IS MISSING IN THE RIGHT PART",
       "turn_index": 26,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4A",
@@ -289,7 +295,7 @@
       "end_time": 394.42,
       "utterance": "THE FOURTH ONE YOU MEAN",
       "turn_index": 27,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3B",
@@ -297,7 +303,7 @@
       "end_time": 395.2,
       "utterance": "THE THIRD",
       "turn_index": 28,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U3B",
@@ -314,7 +320,7 @@
       "end_time": 395.15,
       "utterance": "YEAH",
       "turn_index": 29,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4A",
@@ -322,7 +328,7 @@
       "end_time": 397.23,
       "utterance": "OKAY",
       "turn_index": 30,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4A",
@@ -330,7 +336,7 @@
       "end_time": 397.69,
       "utterance": "<%aa>",
       "turn_index": 31,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4A",
@@ -338,7 +344,7 @@
       "end_time": 398.8,
       "utterance": "HANG ON A SECOND",
       "turn_index": 32,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4A",
@@ -346,7 +352,7 @@
       "end_time": 402.73,
       "utterance": "LET ME SEE IF I UNDERSTAND YOU HAVE THREE CLOUDS IS THAT IT?",
       "turn_index": 33,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3B",
@@ -354,7 +360,7 @@
       "end_time": 403.28,
       "utterance": "YEAH",
       "turn_index": 34,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4A",
@@ -362,7 +368,7 @@
       "end_time": 404.84,
       "utterance": "OKAY I HAVE FOUR",
       "turn_index": 35,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3B",
@@ -370,7 +376,7 @@
       "end_time": 405.79,
       "utterance": "YES",
       "turn_index": 36,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U3B",
@@ -387,7 +393,7 @@
       "end_time": 407.55,
       "utterance": "SO THERE'S ONE MISSING IN YOUR PICTURE",
       "turn_index": 37,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3B",
@@ -395,7 +401,7 @@
       "end_time": 409.8,
       "utterance": "YES I THINK THE THIRD ONE IS MISSING",
       "turn_index": 38,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4A",
@@ -403,7 +409,7 @@
       "end_time": 410.92,
       "utterance": "OKAY",
       "turn_index": 39,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4A",
@@ -411,7 +417,7 @@
       "end_time": 414.92,
       "utterance": "<THE> <THE FOURTH PICTURE> THE FOURTH CLOUD WHICH IS MISSING",
       "turn_index": 40,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4A",
@@ -419,7 +425,7 @@
       "end_time": 417.38,
       "utterance": "<<%mm> IT MIGHT BE> DO YOU SEE THE SUN?",
       "turn_index": 41,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3B",
@@ -427,7 +433,7 @@
       "end_time": 419.5,
       "utterance": "NO THERE'S NO SUN",
       "turn_index": 42,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4A",
@@ -435,7 +441,7 @@
       "end_time": 422.77,
       "utterance": "OKAY I HAVE SUN AND A CLOUD IN FRONT OF THE SUN",
       "turn_index": 43,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4A",
@@ -443,7 +449,7 @@
       "end_time": 427.05,
       "utterance": "ON TOP LEFT CORNER SO CAN YOU CLICK ON THE TOP LEFT CORNER OF THE",
       "turn_index": 44,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U4A",
@@ -460,7 +466,7 @@
       "end_time": 427.57,
       "utterance": "YES OF COURSE",
       "turn_index": 45,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4A",
@@ -476,7 +482,7 @@
       "end_time": 429.67,
       "utterance": "AND <%aa>",
       "turn_index": 47,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3B",
@@ -484,7 +490,7 @@
       "end_time": 433.63,
       "utterance": "BELOW THE TOP LEFT CORNERS CLOUDS THERE ARE THREE TREES",
       "turn_index": 48,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4A",
@@ -492,7 +498,7 @@
       "end_time": 436.4,
       "utterance": "OKAY I HAVE THREE TREES AS WELL",
       "turn_index": 49,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3B",
@@ -500,7 +506,7 @@
       "end_time": 438.24,
       "utterance": "YEAH <THEY ARE> THEY ARE",
       "turn_index": 50,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3B",
@@ -508,7 +514,7 @@
       "end_time": 439.53,
       "utterance": "COVERED WITH SNOW",
       "turn_index": 51,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4A",
@@ -516,7 +522,7 @@
       "end_time": 440.43,
       "utterance": "YES",
       "turn_index": 52,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3B",
@@ -524,7 +530,7 @@
       "end_time": 442.84,
       "utterance": "AND <%aa> BELOW THE TREE THERE'S TWO",
       "turn_index": 53,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3B",
@@ -532,7 +538,7 @@
       "end_time": 444.76,
       "utterance": "<%ahm> SNOWBOARDS",
       "turn_index": 54,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3B",
@@ -540,7 +546,7 @@
       "end_time": 446.11,
       "utterance": "I DON'T KNOW HOW TO CALL IT",
       "turn_index": 55,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U3B",
@@ -557,7 +563,7 @@
       "end_time": 447.32,
       "utterance": "OH OKAY I ONLY HAVE ONE",
       "turn_index": 56,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3B",
@@ -565,7 +571,7 @@
       "end_time": 448.2,
       "utterance": "<%ahm>",
       "turn_index": 57,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U3B",
@@ -582,7 +588,7 @@
       "end_time": 452.63,
       "utterance": "SO <%aa> <CLICK> CLICK ON THE ONE THAT IS JUST BELOW (THE=)",
       "turn_index": 58,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U4A",
@@ -599,7 +605,7 @@
       "end_time": 449.86,
       "utterance": "WE CAN CLICK",
       "turn_index": 59,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4A",
@@ -607,7 +613,7 @@
       "end_time": 456.45,
       "utterance": "TREES BECAUSE THE <%aa> <+ IT MIGHT> <%aa> I THINK IT MIGHT BE THERE",
       "turn_index": 60,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3B",
@@ -615,7 +621,7 @@
       "end_time": 457.58,
       "utterance": "OKAY",
       "turn_index": 61,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U3B",
@@ -632,7 +638,7 @@
       "end_time": 459.59,
       "utterance": "<CLICK> CLICK ON THE SNOWBOARD JUST BELOW THE TREES",
       "turn_index": 62,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3B",
@@ -640,7 +646,7 @@
       "end_time": 462.98,
       "utterance": "AND BESIDE <THE> THE SNOWBALLS THERE ARE TWO MEN",
       "turn_index": 63,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4A",
@@ -648,7 +654,7 @@
       "end_time": 464.91,
       "utterance": "OKAY I HAVE THREE",
       "turn_index": 64,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3B",
@@ -656,7 +662,7 @@
       "end_time": 465.91,
       "utterance": "<%mm>",
       "turn_index": 65,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U3B",
@@ -673,7 +679,7 @@
       "end_time": 466.2,
       "utterance": "<%ahm>",
       "turn_index": 66,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3B",
@@ -681,7 +687,7 @@
       "end_time": 471.530946925,
       "utterance": "<<THE> <ONE>> ONE <IS <%eh>> <%ahm> <IT> IT SEEMS LIKE ONE IS <%ahm>",
       "turn_index": 67,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U3B",
@@ -698,7 +704,7 @@
       "end_time": 466.86,
       "utterance": "ONE",
       "turn_index": 68,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3B",
@@ -706,7 +712,7 @@
       "end_time": 472.30065214,
       "utterance": "<%ahm>",
       "turn_index": 69,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3B",
@@ -714,7 +720,7 @@
       "end_time": 474.17,
       "utterance": "<ONE> ONE IS <%aa>",
       "turn_index": 70,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3B",
@@ -722,7 +728,7 @@
       "end_time": 476.27,
       "utterance": "A LITTLE TOPPER THAN ANOTHER",
       "turn_index": 71,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4A",
@@ -730,7 +736,7 @@
       "end_time": 478.28,
       "utterance": "A LITTLE SORRY?",
       "turn_index": 72,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U4A",
@@ -747,7 +753,7 @@
       "end_time": 478.41,
       "utterance": "A LITTLE",
       "turn_index": 73,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3B",
@@ -755,7 +761,7 @@
       "end_time": 480.14,
       "utterance": "<%mm> UPPER",
       "turn_index": 74,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4A",
@@ -763,7 +769,7 @@
       "end_time": 484.37,
       "utterance": "OH OKAY <IT> <IT'S MORE BEHIND> <IS> IS FURTHER BEHIND?",
       "turn_index": 75,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U4A",
@@ -780,7 +786,7 @@
       "end_time": 483.72,
       "utterance": "YEAH BEHIND",
       "turn_index": 76,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3B",
@@ -788,7 +794,7 @@
       "end_time": 484.93,
       "utterance": "YEP",
       "turn_index": 77,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U3B",
@@ -805,7 +811,7 @@
       "end_time": 485.34,
       "utterance": "AND THERE'S",
       "turn_index": 78,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U4A",
@@ -822,7 +828,7 @@
       "end_time": 486.87,
       "utterance": "AND <IT'S LEFT> HE'S LEFT",
       "turn_index": 79,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4A",
@@ -830,7 +836,7 @@
       "end_time": 488.4,
       "utterance": "OKAY",
       "turn_index": 80,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4A",
@@ -838,7 +844,7 @@
       "end_time": 490.0,
       "utterance": "<%aa> AND",
       "turn_index": 81,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4A",
@@ -846,7 +852,7 @@
       "end_time": 490.78,
       "utterance": "AHA",
       "turn_index": 82,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4A",
@@ -854,7 +860,7 @@
       "end_time": 496.14,
       "utterance": "HE'S <LEF-> OKAY I HAVE <THREE> <%aa> THREE PEOPLE",
       "turn_index": 83,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U4A",
@@ -871,7 +877,7 @@
       "end_time": 496.96,
       "utterance": "<IS IT> SEEMS LIKE A TRIANGLE?",
       "turn_index": 84,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U3B",
@@ -888,7 +894,7 @@
       "end_time": 497.04,
       "utterance": "SKIING",
       "turn_index": 85,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4A",
@@ -896,7 +902,7 @@
       "end_time": 498.02,
       "utterance": "I'M SORRY?",
       "turn_index": 86,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3B",
@@ -904,7 +910,7 @@
       "end_time": 501.67,
       "utterance": "<<HOW> HOW DO THEY> WELL WHAT'S THEIR POSITIONS?",
       "turn_index": 87,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U3B",
@@ -921,7 +927,7 @@
       "end_time": 505.89,
       "utterance": "YES <+ I HAVE> SO I HAVE THREE SKIERS THEY'RE IN SORT OF A TRIANGLE",
       "turn_index": 88,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4A",
@@ -929,7 +935,7 @@
       "end_time": 508.41,
       "utterance": "<%aa> ONE IS FURTHER BEHIND",
       "turn_index": 89,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U4A",
@@ -946,7 +952,7 @@
       "end_time": 508.37,
       "utterance": "AA I KNOW WHERE IT IS",
       "turn_index": 90,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3B",
@@ -954,7 +960,7 @@
       "end_time": 509.46,
       "utterance": "WE CAN CLICK THE",
       "turn_index": 91,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3B",
@@ -962,7 +968,7 @@
       "end_time": 511.1,
       "utterance": "MOST THE LEFT ONE",
       "turn_index": 92,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4A",
@@ -970,7 +976,7 @@
       "end_time": 511.64,
       "utterance": "OKAY",
       "turn_index": 93,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3B",
@@ -978,7 +984,7 @@
       "end_time": 515.22,
       "utterance": "AND <%aa> BELOW HERE THEN THERE ARE THREE",
       "turn_index": 94,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3B",
@@ -986,7 +992,7 @@
       "end_time": 516.52,
       "utterance": "SNOWMAN'S",
       "turn_index": 95,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U3B",
@@ -1003,7 +1009,7 @@
       "end_time": 517.56,
       "utterance": "OKAY I HAVE TWO",
       "turn_index": 96,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3B",
@@ -1011,7 +1017,7 @@
       "end_time": 518.58,
       "utterance": "AHA",
       "turn_index": 97,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3B",
@@ -1019,7 +1025,7 @@
       "end_time": 519.42,
       "utterance": "<%ahm>",
       "turn_index": 98,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U3B",
@@ -1036,7 +1042,7 @@
       "end_time": 520.93,
       "utterance": "HOW ARE THEY ARRANGED YOUR SNOWMEN",
       "turn_index": 99,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3B",
@@ -1044,7 +1050,7 @@
       "end_time": 526.54,
       "utterance": "SOMETHING LIKE <%aa> <%aa> <TWO> TWO IN THE BEHIND AND ONE IN THE FRONT",
       "turn_index": 100,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4A",
@@ -1052,7 +1058,7 @@
       "end_time": 527.56,
       "utterance": "OKAY",
       "turn_index": 101,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4A",
@@ -1060,7 +1066,7 @@
       "end_time": 528.82,
       "utterance": "<%ahm>",
       "turn_index": 102,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4A",
@@ -1068,7 +1074,7 @@
       "end_time": 529.64,
       "utterance": "<%aa>",
       "turn_index": 103,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4A",
@@ -1076,7 +1082,7 @@
       "end_time": 536.07,
       "utterance": "OKAY <IS IT> <SO THE ONES THAT ARE FURTHER BEHIND <%ahm>> OKAY THE ONE TO",
       "turn_index": 104,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U4A",
@@ -1093,7 +1099,7 @@
       "end_time": 536.56,
       "utterance": "THERE ARE TWO BEHIND",
       "turn_index": 105,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4A",
@@ -1101,7 +1107,7 @@
       "end_time": 540.08,
       "utterance": "OKAY <THE ONE> THE ONE <TO> TO THE FRONT",
       "turn_index": 106,
-      "topic": ""
+      "topic": "finding difference"
     }
   ]
 }

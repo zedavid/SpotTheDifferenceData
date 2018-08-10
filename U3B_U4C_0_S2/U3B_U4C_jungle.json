@@ -1,5 +1,11 @@
 {
   "success": 0.6666666666666666,
+  "instruction_giver": {
+    "id": "U3B"
+  },
+  "instruction_follower": {
+    "id": "U4C"
+  },
   "dialogue_duration": 136.62900000000081,
   "audio": {
     "ig": "U3B_0_jungle.wav",
@@ -12,7 +18,7 @@
       "end_time": 586.43,
       "utterance": "<%mm> AH IT'S LIKE A ZOO",
       "turn_index": 0,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3B",
@@ -20,7 +26,7 @@
       "end_time": 587.5,
       "utterance": "THERE'S <%aa>",
       "turn_index": 1,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3B",
@@ -28,7 +34,7 @@
       "end_time": 589.73,
       "utterance": "SUN ON (THE=) RIGHT",
       "turn_index": 2,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4C",
@@ -36,7 +42,7 @@
       "end_time": 591.09,
       "utterance": "YES",
       "turn_index": 3,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3B",
@@ -44,7 +50,7 @@
       "end_time": 593.66,
       "utterance": "<%aa> TOP RIGHT AND IT'S LAUGHING",
       "turn_index": 4,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4C",
@@ -52,7 +58,7 @@
       "end_time": 595.11,
       "utterance": "HE'S LAUGHING YEAH",
       "turn_index": 5,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U4C",
@@ -69,7 +75,7 @@
       "end_time": 599.27,
       "utterance": "LAUGHING AND SEEMS LIKE <HE> <%aa> ITS EYES IS LOOKING AT THE",
       "turn_index": 6,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3B",
@@ -77,7 +83,7 @@
       "end_time": 600.75,
       "utterance": "DOWN LEFT",
       "turn_index": 7,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -85,7 +91,7 @@
       "end_time": 606.09,
       "utterance": "<%mm> <MY> MY SUN'S EYES IS LOOKING TO THE <+ RIGHT> DOWN RIGHT",
       "turn_index": 8,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U4C",
@@ -102,7 +108,7 @@
       "end_time": 606.23,
       "utterance": "<%mm>",
       "turn_index": 9,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3B",
@@ -110,7 +116,7 @@
       "end_time": 607.69,
       "utterance": "YEAH LET'S CLICK HERE",
       "turn_index": 10,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -118,7 +124,7 @@
       "end_time": 608.61,
       "utterance": "THAT'S THE DIFFERENCE",
       "turn_index": 11,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3B",
@@ -126,7 +132,7 @@
       "end_time": 611.53,
       "utterance": "AND <%aa> BELOW THE SOUND THERE'S <%aa>",
       "turn_index": 12,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3B",
@@ -134,7 +140,7 @@
       "end_time": 612.63,
       "utterance": "GIRAFFE",
       "turn_index": 13,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4C",
@@ -142,7 +148,7 @@
       "end_time": 617.1,
       "utterance": "OH I HAVE NO GIRAFFE I JUST HAVE AN ELEPHANT AND A TIGER",
       "turn_index": 14,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3B",
@@ -150,7 +156,7 @@
       "end_time": 617.78,
       "utterance": "AH",
       "turn_index": 15,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3B",
@@ -158,7 +164,7 @@
       "end_time": 619.19,
       "utterance": "LET'S CLICK THE",
       "turn_index": 16,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3B",
@@ -166,7 +172,7 @@
       "end_time": 621.72,
       "utterance": "<BE-> <%aa> BEHIND THIS <%aa>",
       "turn_index": 17,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3B",
@@ -174,7 +180,7 @@
       "end_time": 623.16,
       "utterance": "BELOW THE SUN",
       "turn_index": 18,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3B",
@@ -182,7 +188,7 @@
       "end_time": 627.03,
       "utterance": "<ALMOST <%aa>> ALMOST <%aa> ON THE HORIZON LET'S CLICK THERE",
       "turn_index": 19,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U3B",
@@ -206,7 +212,7 @@
       "end_time": 624.63,
       "utterance": "BELOW THE SUN",
       "turn_index": 20,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4C",
@@ -214,7 +220,7 @@
       "end_time": 626.87,
       "utterance": "OKAY",
       "turn_index": 21,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3B",
@@ -222,7 +228,7 @@
       "end_time": 633.28,
       "utterance": "AND <%aa> THERE'S ALSO <%aa> ELEPHANT AND A TIGER THEY ARE BOTH TOWARD IN LEFT",
       "turn_index": 22,
-      "topic": "DESCRIBING PICTURE"
+      "topic": "describing picture"
     },
     {
       "speaker": "U4C",
@@ -230,7 +236,7 @@
       "end_time": 635.81,
       "utterance": "BOTH TOWARD LEFT YES",
       "turn_index": 23,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3B",
@@ -238,7 +244,7 @@
       "end_time": 638.18,
       "utterance": "AND THE ELEPHANT IS GRAY",
       "turn_index": 24,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3B",
@@ -246,7 +252,7 @@
       "end_time": 640.29,
       "utterance": "AND (THE=) TIGER IS",
       "turn_index": 25,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3B",
@@ -254,7 +260,7 @@
       "end_time": 641.89,
       "utterance": "A COLOUR OF A TIGER",
       "turn_index": 26,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -262,7 +268,7 @@
       "end_time": 643.2,
       "utterance": "YES YES",
       "turn_index": 27,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U4C",
@@ -279,7 +285,7 @@
       "end_time": 643.23,
       "utterance": "YEAH",
       "turn_index": 28,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3B",
@@ -287,7 +293,7 @@
       "end_time": 648.62,
       "utterance": "AND <%aa> THERE ARE TWO COCONUT TREES IN THE BELOW RIGHT SIDE",
       "turn_index": 29,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4C",
@@ -295,7 +301,7 @@
       "end_time": 652.31,
       "utterance": "I HAVE THREE COCONUT TREES ON THE LOWER LEFT SIDE",
       "turn_index": 30,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3B",
@@ -303,7 +309,7 @@
       "end_time": 658.45,
       "utterance": "THREE COCONUT TREE IN THE LOWER <LEF-~> LEFT SIDE <%aa> HOW DID IT <%aa> ARRANGE?",
       "turn_index": 31,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3B",
@@ -311,7 +317,7 @@
       "end_time": 660.11,
       "utterance": "WHAT'S THE POSITION?",
       "turn_index": 32,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4C",
@@ -319,7 +325,7 @@
       "end_time": 661.24,
       "utterance": "THERE ARE",
       "turn_index": 33,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4C",
@@ -327,7 +333,7 @@
       "end_time": 665.73,
       "utterance": "<THE> <THE> THE LOWEST ONE IS",
       "turn_index": 34,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3B",
@@ -335,7 +341,7 @@
       "end_time": 670.71,
       "utterance": "IF THERE ARE TWO ROWS OR THREE ROWS OR THEY ARE ALL TOGETHER",
       "turn_index": 35,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4C",
@@ -343,7 +349,7 @@
       "end_time": 672.06,
       "utterance": "<%ahm>",
       "turn_index": 36,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4C",
@@ -351,7 +357,7 @@
       "end_time": 674.85,
       "utterance": "<IT'S> IT'S <IN> IN A ROW",
       "turn_index": 37,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3B",
@@ -359,7 +365,7 @@
       "end_time": 675.86,
       "utterance": "AH",
       "turn_index": 38,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U3B",
@@ -376,7 +382,7 @@
       "end_time": 677.59,
       "utterance": "<%aa> <GO-> GOING DIAGONALLY",
       "turn_index": 39,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4C",
@@ -384,7 +390,7 @@
       "end_time": 679.21,
       "utterance": "UP TO THE LEFT",
       "turn_index": 40,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3B",
@@ -392,7 +398,7 @@
       "end_time": 682.59,
       "utterance": "OH OKAY LET'S CLICK THE MIDDLE ONE I THINK THIS ONE IS",
       "turn_index": 41,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3B",
@@ -400,7 +406,7 @@
       "end_time": 683.68,
       "utterance": "MISSED",
       "turn_index": 42,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4C",
@@ -408,7 +414,7 @@
       "end_time": 684.67,
       "utterance": "OKAY",
       "turn_index": 43,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3B",
@@ -416,7 +422,7 @@
       "end_time": 687.33,
       "utterance": "AND <%aa>",
       "turn_index": 44,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3B",
@@ -424,7 +430,7 @@
       "end_time": 690.27,
       "utterance": "ABOVE THE TREES THERE'S A CLOUD",
       "turn_index": 45,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4C",
@@ -432,7 +438,7 @@
       "end_time": 691.07,
       "utterance": "YES",
       "turn_index": 46,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U4C",
@@ -449,7 +455,7 @@
       "end_time": 691.15,
       "utterance": "GRAY ONE",
       "turn_index": 47,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3B",
@@ -457,7 +463,7 @@
       "end_time": 692.21,
       "utterance": "AND IT'S RAINING",
       "turn_index": 48,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -465,7 +471,7 @@
       "end_time": 694.16,
       "utterance": "OH I HAVE NO RAIN",
       "turn_index": 49,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3B",
@@ -473,7 +479,7 @@
       "end_time": 695.38,
       "utterance": "AH LET'S <CLI->",
       "turn_index": 50,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3B",
@@ -481,7 +487,7 @@
       "end_time": 697.65,
       "utterance": "CLICK <+ THE> BELOW THE CLOUD",
       "turn_index": 51,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4C",
@@ -489,7 +495,7 @@
       "end_time": 699.2,
       "utterance": "JUST A WHITE CLOUDY YEAH",
       "turn_index": 52,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3B",
@@ -497,7 +503,7 @@
       "end_time": 700.55,
       "utterance": "<%aa> IT'S GRAY CLOUD",
       "turn_index": 53,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4C",
@@ -505,7 +511,7 @@
       "end_time": 703.43,
       "utterance": "AH GREY CLOUD OKAY MINE IS WHITE",
       "turn_index": 54,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U4C",
@@ -522,7 +528,7 @@
       "end_time": 702.19,
       "utterance": "I THINK IT'S",
       "turn_index": 55,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3B",
@@ -530,7 +536,7 @@
       "end_time": 706.09,
       "utterance": "YEAH I THINK <IT'S> IT'S TWO DIFFERENT SO LET'S CLICK THEM BOTH",
       "turn_index": 56,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3B",
@@ -538,7 +544,7 @@
       "end_time": 709.39,
       "utterance": "<%mm> AND THERE'S NOTHING",
       "turn_index": 57,
-      "topic": ""
+      "topic": "end of differences"
     },
     {
       "speaker": "U3B",
@@ -546,7 +552,7 @@
       "end_time": 711.85,
       "utterance": "ELSE IN MY PICTURE IS THERE IN YOURS?",
       "turn_index": 58,
-      "topic": ""
+      "topic": "end of differences"
     },
     {
       "speaker": "U4C",
@@ -554,7 +560,7 @@
       "end_time": 713.43,
       "utterance": "NOTHING ELSE IN MY PICTURE EITHER",
       "turn_index": 59,
-      "topic": ""
+      "topic": "end of differences"
     },
     {
       "speaker": "U3B",
@@ -562,7 +568,7 @@
       "end_time": 715.8,
       "utterance": "OKAY THEN I THINK WE ARE DONE",
       "turn_index": 60,
-      "topic": ""
+      "topic": "end of differences"
     },
     {
       "speaker": "U3B",
@@ -570,7 +576,7 @@
       "end_time": 718.6,
       "utterance": "<CAN WE> CAN I CLICK WE FOUND ALL THE DIFFERENCES",
       "turn_index": 61,
-      "topic": "",
+      "topic": "end of differences",
       "overlap": [
         {
           "speaker_before": "U3B",
@@ -587,7 +593,7 @@
       "end_time": 717.96,
       "utterance": "YEAH",
       "turn_index": 62,
-      "topic": ""
+      "topic": "end of differences"
     }
   ]
 }

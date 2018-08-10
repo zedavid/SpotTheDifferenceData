@@ -1,5 +1,11 @@
 {
   "success": 0.6666666666666666,
+  "instruction_giver": {
+    "id": "U7A"
+  },
+  "instruction_follower": {
+    "id": "U12A"
+  },
   "dialogue_duration": 163.45799999999872,
   "audio": {
     "ig": "U7A_0_jungle.wav",
@@ -12,7 +18,7 @@
       "end_time": 103.455830901,
       "utterance": "start",
       "turn_index": 0,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U12A",
@@ -20,7 +26,7 @@
       "end_time": 104.578530031,
       "utterance": "okay",
       "turn_index": 1,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7A",
@@ -28,7 +34,7 @@
       "end_time": 107.758125236,
       "utterance": "okay so we have <%aa> two palm trees",
       "turn_index": 2,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U12A",
@@ -36,7 +42,7 @@
       "end_time": 109.753512451,
       "utterance": "two palm three palm trees",
       "turn_index": 3,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7A",
@@ -44,7 +50,7 @@
       "end_time": 116.221510028,
       "utterance": "okay I have only two <I have> they're like on (a=) kind of <b-> bottom left yeah of (the=) thing",
       "turn_index": 4,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7A",
@@ -52,7 +58,7 @@
       "end_time": 118.042422052,
       "utterance": "of the screen of the picture",
       "turn_index": 5,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7A",
@@ -60,7 +66,7 @@
       "end_time": 120.82948602,
       "utterance": "<but there's like> <%eh> how are yours placed?",
       "turn_index": 6,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12A",
@@ -68,7 +74,7 @@
       "end_time": 122.768027714,
       "utterance": "in <like> in a straight row",
       "turn_index": 7,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7A",
@@ -76,7 +82,7 @@
       "end_time": 126.132390865,
       "utterance": "I have <o-> the one in the middle one missing",
       "turn_index": 8,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12A",
@@ -84,7 +90,7 @@
       "end_time": 132.768620874,
       "utterance": "<okay that <me->> because <the-> there's <one> one futher away then one closest one slightly to the right and one even closer",
       "turn_index": 9,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12A",
@@ -92,7 +98,7 @@
       "end_time": 135.71378665,
       "utterance": "slightly to (the=) <%mm> right again",
       "turn_index": 10,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7A",
@@ -100,7 +106,7 @@
       "end_time": 140.023205465,
       "utterance": "<okay yeah I have> the one in the middle i think that's the one I'm missing",
       "turn_index": 11,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U7A",
@@ -117,7 +123,7 @@
       "end_time": 142.019783385,
       "utterance": "okay good then click on it",
       "turn_index": 12,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7A",
@@ -125,7 +131,7 @@
       "end_time": 142.633093533,
       "utterance": "yes",
       "turn_index": 13,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "",
@@ -142,7 +148,7 @@
       "end_time": 142.633093533,
       "utterance": "uff",
       "turn_index": 14,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "",
@@ -159,7 +165,7 @@
       "end_time": 146.076934524,
       "utterance": "then I have a tiger an elephant and a giraffe",
       "turn_index": 15,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U7A",
@@ -176,7 +182,7 @@
       "end_time": 144.796594492,
       "utterance": "what",
       "turn_index": 16,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U12A",
@@ -184,7 +190,7 @@
       "end_time": 147.319113825,
       "utterance": "no giraffe",
       "turn_index": 17,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7A",
@@ -192,7 +198,7 @@
       "end_time": 148.777047902,
       "utterance": "no giraffe at all?",
       "turn_index": 18,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U12A",
@@ -200,7 +206,7 @@
       "end_time": 149.432626134,
       "utterance": "no",
       "turn_index": 19,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7A",
@@ -208,7 +214,7 @@
       "end_time": 153.452111728,
       "utterance": "<okay then I> <%aa> the giraffe is to the right of the elephant",
       "turn_index": 20,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7A",
@@ -216,7 +222,7 @@
       "end_time": 157.028181689,
       "utterance": "<%ahm> <yeah <%eh> kind of like> do you have a sun?",
       "turn_index": 21,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12A",
@@ -224,7 +230,7 @@
       "end_time": 165.628195899,
       "utterance": "<%eh> yes I have a smiling sun like (%aa) sun with (a=) line <with> going around bla bla bla and then it's like an emoji inside",
       "turn_index": 22,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7A",
@@ -232,7 +238,7 @@
       "end_time": 168.494006859,
       "utterance": "yeah exactly and it's yellow",
       "turn_index": 23,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U12A",
@@ -240,7 +246,7 @@
       "end_time": 170.619557354,
       "utterance": "<%eh> and it's yellow yeah",
       "turn_index": 24,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U12A",
@@ -257,7 +263,7 @@
       "end_time": 173.070859031,
       "utterance": "yeah and below the sun that would be where the giraffe is",
       "turn_index": 25,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U12A",
@@ -265,7 +271,7 @@
       "end_time": 174.607954932,
       "utterance": "on <l-> on land",
       "turn_index": 26,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7A",
@@ -273,7 +279,7 @@
       "end_time": 176.410381236,
       "utterance": "on land exactly",
       "turn_index": 27,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U7A",
@@ -290,7 +296,7 @@
       "end_time": 176.599542234,
       "utterance": "okay",
       "turn_index": 28,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12A",
@@ -298,7 +304,7 @@
       "end_time": 179.246531355,
       "utterance": "but almost like on the horizon line",
       "turn_index": 29,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7A",
@@ -306,7 +312,7 @@
       "end_time": 181.980789311,
       "utterance": "yeah exactly if you click there because it's quite a long giraffe",
       "turn_index": 30,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U7A",
@@ -323,7 +329,7 @@
       "end_time": 182.314756659,
       "utterance": "just click it",
       "turn_index": 31,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12A",
@@ -331,7 +337,7 @@
       "end_time": 187.139277632,
       "utterance": "<<I have a <gr->> the grey elephant with <or> or with pink ears",
       "turn_index": 32,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U12A",
@@ -348,7 +354,7 @@
       "end_time": 187.473244981,
       "utterance": "yes",
       "turn_index": 33,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U12A",
@@ -356,7 +362,7 @@
       "end_time": 188.589632937,
       "utterance": "and two teeth",
       "turn_index": 34,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U12A",
@@ -373,7 +379,7 @@
       "end_time": 189.803125,
       "utterance": "and <pink toe> pink toe nails",
       "turn_index": 35,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U12A",
@@ -381,7 +387,7 @@
       "end_time": 193.609855573,
       "utterance": "pink toe nails yes and the a small <%aa> tail",
       "turn_index": 36,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U12A",
@@ -398,7 +404,7 @@
           "turn_index": 38
         }
       ],
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7A",
@@ -406,7 +412,7 @@
       "end_time": 194.866170268,
       "utterance": "yes",
       "turn_index": 38,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7A",
@@ -414,7 +420,7 @@
       "end_time": 197.88608778,
       "utterance": "exactly and it's looking to the left",
       "turn_index": 39,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U12A",
@@ -422,7 +428,7 @@
       "end_time": 201.6802409,
       "utterance": "and it's looking to the left the tiger is also looking to the <righ-> to the left",
       "turn_index": 40,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7A",
@@ -430,7 +436,7 @@
       "end_time": 202.113687884,
       "utterance": "yes",
       "turn_index": 41,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U12A",
@@ -438,7 +444,7 @@
       "end_time": 211.253461319,
       "utterance": "with four legs and (a=) kind of a dark <%eh> not dark <%fp_1> yeah <orange> orangish with black stripes",
       "turn_index": 42,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7A",
@@ -446,7 +452,7 @@
       "end_time": 213.985377047,
       "utterance": "exactly and the tail has a white tip",
       "turn_index": 43,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U7A",
@@ -463,7 +469,7 @@
       "end_time": 212.265800487,
       "utterance": "and",
       "turn_index": 44,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U12A",
@@ -471,7 +477,7 @@
       "end_time": 214.575149173,
       "utterance": "yes",
       "turn_index": 45,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7A",
@@ -479,7 +485,7 @@
       "end_time": 215.179132675,
       "utterance": "yes",
       "turn_index": 46,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U7A",
@@ -496,7 +502,7 @@
       "end_time": 216.228271932,
       "utterance": "I have one cloud",
       "turn_index": 47,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7A",
@@ -504,7 +510,7 @@
       "end_time": 220.396606875,
       "utterance": "yes exactly me too it's grey and it's raining",
       "turn_index": 48,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U7A",
@@ -521,7 +527,7 @@
       "end_time": 218.94704647,
       "utterance": "white",
       "turn_index": 49,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U12A",
@@ -529,7 +535,7 @@
       "end_time": 221.689842139,
       "utterance": "white no rain",
       "turn_index": 50,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7A",
@@ -537,7 +543,7 @@
       "end_time": 226.250301876,
       "utterance": "ah okay so mine is grey and raining and it's like above the <pa-> palm trees",
       "turn_index": 51,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12A",
@@ -545,7 +551,7 @@
       "end_time": 226.925342261,
       "utterance": "okay",
       "turn_index": 52,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12A",
@@ -553,7 +559,7 @@
       "end_time": 229.978085331,
       "utterance": "no there okay and there no",
       "turn_index": 53,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U12A",
@@ -570,7 +576,7 @@
       "end_time": 227.960069865,
       "utterance": "yeah?",
       "turn_index": 54,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12A",
@@ -578,7 +584,7 @@
       "end_time": 231.859620403,
       "utterance": "<%eh> <%mm>",
       "turn_index": 55,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7A",
@@ -586,7 +592,7 @@
       "end_time": 234.193937558,
       "utterance": "so we click in that area or where is your cloud?",
       "turn_index": 56,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12A",
@@ -594,7 +600,7 @@
       "end_time": 238.08527193,
       "utterance": "<(the=)> on top of <the> the further palm tree",
       "turn_index": 57,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7A",
@@ -602,7 +608,7 @@
       "end_time": 242.518980049,
       "utterance": "okay cool so that's like in the same area so I click there <did you> you click there as well",
       "turn_index": 58,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12A",
@@ -610,7 +616,7 @@
       "end_time": 243.145190423,
       "utterance": "yes",
       "turn_index": 59,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7A",
@@ -618,7 +624,7 @@
       "end_time": 247.441669508,
       "utterance": "<%mm> do you see anything otherwise weird about the animals",
       "turn_index": 60,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U12A",
@@ -626,7 +632,7 @@
       "end_time": 250.938577137,
       "utterance": "<%eh> there's only two animals",
       "turn_index": 61,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7A",
@@ -634,7 +640,7 @@
       "end_time": 253.432673455,
       "utterance": "no exactly and we talked about them",
       "turn_index": 62,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U7A",
@@ -651,7 +657,7 @@
       "end_time": 253.873226081,
       "utterance": "yes",
       "turn_index": 63,
-      "topic": ""
+      "topic": "end of differences"
     },
     {
       "speaker": "U7A",
@@ -659,7 +665,7 @@
       "end_time": 257.888847325,
       "utterance": "so I think we're fine the palm trees have five leaves",
       "turn_index": 64,
-      "topic": ""
+      "topic": "end of differences"
     },
     {
       "speaker": "U7A",
@@ -667,7 +673,7 @@
       "end_time": 259.738929989,
       "utterance": "and <%aa>",
       "turn_index": 65,
-      "topic": ""
+      "topic": "end of differences"
     },
     {
       "speaker": "U7A",
@@ -675,7 +681,7 @@
       "end_time": 262.056775794,
       "utterance": "do you have anything else on your screen?",
       "turn_index": 66,
-      "topic": ""
+      "topic": "end of differences"
     },
     {
       "speaker": "U12A",
@@ -683,7 +689,7 @@
       "end_time": 262.77846865,
       "utterance": "<%eh> no",
       "turn_index": 67,
-      "topic": ""
+      "topic": "end of differences"
     }
   ]
 }

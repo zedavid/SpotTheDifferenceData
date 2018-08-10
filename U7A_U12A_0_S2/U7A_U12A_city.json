@@ -1,5 +1,11 @@
 {
   "success": 0.5,
+  "instruction_giver": {
+    "id": "U7A"
+  },
+  "instruction_follower": {
+    "id": "U12A"
+  },
   "dialogue_duration": 200.1009999999951,
   "audio": {
     "ig": "U7A_0_city.wav",
@@ -12,7 +18,7 @@
       "end_time": 517.177593734,
       "utterance": "okay <%ahm> two clouds on the top left",
       "turn_index": 0,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U12A",
@@ -20,7 +26,7 @@
       "end_time": 517.994747283,
       "utterance": "yes",
       "turn_index": 1,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7A",
@@ -28,7 +34,7 @@
       "end_time": 520.865161775,
       "utterance": "they're white with <bl-> blue like corners",
       "turn_index": 2,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U7A",
@@ -45,7 +51,7 @@
       "end_time": 520.985958374,
       "utterance": "yes",
       "turn_index": 3,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7A",
@@ -53,7 +59,7 @@
       "end_time": 523.53312482,
       "utterance": "<%aa> right next to it there's an airplane",
       "turn_index": 4,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U12A",
@@ -61,7 +67,7 @@
       "end_time": 527.75489047,
       "utterance": "yes white with (a=) red stripe and a green star on the tail",
       "turn_index": 5,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7A",
@@ -69,7 +75,7 @@
       "end_time": 529.822644014,
       "utterance": "<%aa> <my> <%eh> my star is red",
       "turn_index": 6,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U12A",
@@ -77,7 +83,7 @@
       "end_time": 535.711702593,
       "utterance": "<%mm> okay <flying to (the=)> flying (to=) (the=) <to the> to the left",
       "turn_index": 7,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U12A",
@@ -94,7 +100,7 @@
       "end_time": 534.036983035,
       "utterance": "the right",
       "turn_index": 8,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7A",
@@ -102,7 +108,7 @@
       "end_time": 539.448317744,
       "utterance": "mine is flying to the right towards the moon",
       "turn_index": 9,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U7A",
@@ -119,7 +125,7 @@
       "end_time": 539.066414531,
       "utterance": "okay",
       "turn_index": 10,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U12A",
@@ -127,7 +133,7 @@
       "end_time": 540.373860071,
       "utterance": "no",
       "turn_index": 11,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7A",
@@ -135,7 +141,7 @@
       "end_time": 543.058456533,
       "utterance": "okay the airplane is wrong",
       "turn_index": 12,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "",
@@ -152,7 +158,7 @@
       "end_time": 542.319465576,
       "utterance": "coming from the moon",
       "turn_index": 13,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U12A",
@@ -160,7 +166,7 @@
       "end_time": 544.721186187,
       "utterance": "okay the airplane is also wrong",
       "turn_index": 14,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7A",
@@ -168,7 +174,7 @@
       "end_time": 545.342792972,
       "utterance": "yeah",
       "turn_index": 15,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12A",
@@ -176,7 +182,7 @@
       "end_time": 546.969994214,
       "utterance": "the moon is like a D",
       "turn_index": 16,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7A",
@@ -184,7 +190,7 @@
       "end_time": 549.289973073,
       "utterance": "<%aa> exactly the moon is like a D",
       "turn_index": 17,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U7A",
@@ -201,7 +207,7 @@
       "end_time": 554.392488607,
       "utterance": "and then I have two grey clouds with white lines <on> around them on the right of the moon",
       "turn_index": 18,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7A",
@@ -209,7 +215,7 @@
       "end_time": 556.225754636,
       "utterance": "yes and with a lightling bolt",
       "turn_index": 19,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U12A",
@@ -217,7 +223,7 @@
       "end_time": 557.792457283,
       "utterance": "no lightling bolt",
       "turn_index": 20,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U12A",
@@ -234,7 +240,7 @@
       "end_time": 561.853012516,
       "utterance": "okay the lightning bolt is just coming out of the middle of the lower <%aa>",
       "turn_index": 21,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12A",
@@ -242,7 +248,7 @@
       "end_time": 562.627531885,
       "utterance": "okay",
       "turn_index": 22,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7A",
@@ -250,7 +256,7 @@
       "end_time": 565.516911848,
       "utterance": "<%eh> cloud",
       "turn_index": 23,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12A",
@@ -258,7 +264,7 @@
       "end_time": 566.116261412,
       "utterance": "clicked",
       "turn_index": 24,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7A",
@@ -266,7 +272,7 @@
       "end_time": 569.274556653,
       "utterance": "yes below the airplane there's like five stars",
       "turn_index": 25,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U12A",
@@ -274,7 +280,7 @@
       "end_time": 570.077498751,
       "utterance": "five stars",
       "turn_index": 26,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7A",
@@ -282,7 +288,7 @@
       "end_time": 571.467954932,
       "utterance": "okay so they're",
       "turn_index": 27,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U7A",
@@ -299,7 +305,7 @@
       "end_time": 572.510974281,
       "utterance": "three on top two on the  bottom",
       "turn_index": 28,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7A",
@@ -307,7 +313,7 @@
       "end_time": 573.992448859,
       "utterance": "yes and they are orange",
       "turn_index": 29,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U12A",
@@ -315,7 +321,7 @@
       "end_time": 577.067777609,
       "utterance": "<or-> <%aa> yeah orange is the same colour of the moon",
       "turn_index": 30,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7A",
@@ -323,7 +329,7 @@
       "end_time": 580.844307328,
       "utterance": "exactly and it's kind of like <they're not really> the top ones are not in a straight line",
       "turn_index": 31,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U7A",
@@ -340,7 +346,7 @@
       "end_time": 582.817184713,
       "utterance": "<no> no slightly curved",
       "turn_index": 32,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7A",
@@ -348,7 +354,7 @@
       "end_time": 587.101710537,
       "utterance": "yeah <%ahm> below the left cloud so the white cloud there is a high building a sky scrapper it's kind of blue",
       "turn_index": 33,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U12A",
@@ -356,7 +362,7 @@
       "end_time": 589.660586059,
       "utterance": "a building",
       "turn_index": 34,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U12A",
@@ -364,7 +370,7 @@
       "end_time": 597.361632949,
       "utterance": "<%mm> <green and <%eh>> green and <%eh> orange or brownish",
       "turn_index": 35,
-      "topic": "DESCRIBING OBJECT"
+      "topic": "describing picture"
     },
     {
       "speaker": "U7A",
@@ -372,7 +378,7 @@
       "end_time": 598.761452358,
       "utterance": "<the> the one on the left?",
       "turn_index": 36,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12A",
@@ -380,7 +386,7 @@
       "end_time": 599.414894299,
       "utterance": "yeah",
       "turn_index": 37,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7A",
@@ -388,7 +394,7 @@
       "end_time": 602.179004707,
       "utterance": "now mine is blue the one on the left is blue",
       "turn_index": 38,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12A",
@@ -396,7 +402,7 @@
       "end_time": 604.792584464,
       "utterance": "no I have two they are both same colours",
       "turn_index": 39,
-      "topic": "DESCRIBING OBJECT"
+      "topic": "finding difference"
     },
     {
       "speaker": "U7A",
@@ -404,7 +410,7 @@
       "end_time": 608.499127971,
       "utterance": "okay so now my left one is blue so <%aa> we can click both on that one",
       "turn_index": 40,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12A",
@@ -412,7 +418,7 @@
       "end_time": 610.423416429,
       "utterance": "which side of the building is blue?",
       "turn_index": 41,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7A",
@@ -420,7 +426,7 @@
       "end_time": 612.719582299,
       "utterance": "<%aa> the whole building is blue",
       "turn_index": 42,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12A",
@@ -428,7 +434,7 @@
       "end_time": 616.181080063,
       "utterance": "<%aa> okay I have one side green and one side is yellow",
       "turn_index": 43,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7A",
@@ -436,7 +442,7 @@
       "end_time": 620.131678938,
       "utterance": "yeah that's like on the other one that's <%aa> but click on the left house",
       "turn_index": 44,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12A",
@@ -444,7 +450,7 @@
       "end_time": 625.119546953,
       "utterance": "I clicked on the left side yeah on the left house okay I click again",
       "turn_index": 45,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U12A",
@@ -461,7 +467,7 @@
       "end_time": 622.862201565,
       "utterance": "yeah",
       "turn_index": 46,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7A",
@@ -469,7 +475,7 @@
       "end_time": 628.892423534,
       "utterance": "<%ahm> and then <the right house is like> <the> the left side is green and the other side is yellow",
       "turn_index": 47,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12A",
@@ -477,7 +483,7 @@
       "end_time": 630.292042351,
       "utterance": "aha okay",
       "turn_index": 48,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U12A",
@@ -485,7 +491,7 @@
       "end_time": 633.043012005,
       "utterance": "oops yeah okay <%mm>",
       "turn_index": 49,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U12A",
@@ -502,7 +508,7 @@
       "end_time": 635.407852765,
       "utterance": "but <there's a> there's a house below the grey <%eh> clouds as well",
       "turn_index": 50,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U12A",
@@ -510,7 +516,7 @@
       "end_time": 638.348253789,
       "utterance": "<%mm> yes it's exactly the same with the same colours",
       "turn_index": 51,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U12A",
@@ -527,7 +533,7 @@
       "end_time": 640.897922524,
       "utterance": "exactlybut then it's the same like that we have the same",
       "turn_index": 52,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U12A",
@@ -535,7 +541,7 @@
       "end_time": 644.834269916,
       "utterance": "green on the left and yellow on the right side of the perspective",
       "turn_index": 53,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U12A",
@@ -552,7 +558,7 @@
       "end_time": 646.566664834,
       "utterance": "yeah perfect <%ahm> then I have",
       "turn_index": 54,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U7A",
@@ -569,7 +575,7 @@
       "end_time": 649.181555914,
       "utterance": "<is there> do you have a big <%eh> window on the back?",
       "turn_index": 55,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7A",
@@ -577,7 +583,7 @@
       "end_time": 651.389951307,
       "utterance": "yes exactly do have that as well",
       "turn_index": 56,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U7A",
@@ -594,7 +600,7 @@
       "end_time": 652.015251348,
       "utterance": "okay three lamps",
       "turn_index": 57,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7A",
@@ -602,7 +608,7 @@
       "end_time": 655.969383005,
       "utterance": "<%aa> three lamps like these kind of lanterns <%ahm>",
       "turn_index": 58,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U12A",
@@ -610,7 +616,7 @@
       "end_time": 657.435375015,
       "utterance": "two headlights",
       "turn_index": 59,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U12A",
@@ -627,7 +633,7 @@
           "turn_index": 61
         }
       ],
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7A",
@@ -635,7 +641,7 @@
       "end_time": 659.568070074,
       "utterance": "(two=) headlights",
       "turn_index": 61,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7A",
@@ -643,7 +649,7 @@
       "end_time": 662.902816406,
       "utterance": "yeah exactly <%ahm> where are they?",
       "turn_index": 62,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U12A",
@@ -651,7 +657,7 @@
       "end_time": 667.031057337,
       "utterance": "<red yellow and <g-> and> red yellow and <%aa> red",
       "turn_index": 63,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U12A",
@@ -659,7 +665,7 @@
       "end_time": 669.295267696,
       "utterance": "no green <re-> green yellow and red",
       "turn_index": 64,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7A",
@@ -667,7 +673,7 @@
       "end_time": 671.347458435,
       "utterance": "like from the bottom",
       "turn_index": 65,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U12A",
@@ -675,7 +681,7 @@
       "end_time": 672.169215291,
       "utterance": "from the bottom",
       "turn_index": 66,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7A",
@@ -683,7 +689,7 @@
       "end_time": 672.510288041,
       "utterance": "yes",
       "turn_index": 67,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U7A",
@@ -700,7 +706,7 @@
       "end_time": 676.084085163,
       "utterance": "and then it's like if you come from the horizon there's a first curve",
       "turn_index": 68,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7A",
@@ -708,7 +714,7 @@
       "end_time": 676.63832838,
       "utterance": "yes",
       "turn_index": 69,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U7A",
@@ -725,7 +731,7 @@
       "end_time": 681.953378727,
       "utterance": "on the second curve there's one and then there's a third curve and then in front of the car there is another one",
       "turn_index": 70,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7A",
@@ -733,7 +739,7 @@
       "end_time": 683.62662649,
       "utterance": "yeah what colour does the car have?",
       "turn_index": 71,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U12A",
@@ -741,7 +747,7 @@
       "end_time": 684.415357223,
       "utterance": "blue",
       "turn_index": 72,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7A",
@@ -749,7 +755,7 @@
       "end_time": 690.133759072,
       "utterance": "exactly mine too and the guy sitting in there he's waving in his yellow shirt with red",
       "turn_index": 73,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U12A",
@@ -757,7 +763,7 @@
       "end_time": 693.534838478,
       "utterance": "yes is there smoke coming out of the car?",
       "turn_index": 74,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U12A",
@@ -774,7 +780,7 @@
       "end_time": 691.782277361,
       "utterance": "and",
       "turn_index": 75,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7A",
@@ -782,7 +788,7 @@
       "end_time": 695.743474582,
       "utterance": "yes three little smokes",
       "turn_index": 76,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U7A",
@@ -799,7 +805,7 @@
       "end_time": 695.310027963,
       "utterance": "three <%eh>",
       "turn_index": 77,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U12A",
@@ -807,7 +813,7 @@
       "end_time": 703.285324546,
       "utterance": "yes <%eh> <(the=)> the light is <%eh> white or slightly white on the lamps",
       "turn_index": 78,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7A",
@@ -815,7 +821,7 @@
       "end_time": 709.436392582,
       "utterance": "<yeah> yeah the light itself is yellow but then the kind of like thing around it is greyish",
       "turn_index": 79,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U7A",
@@ -832,7 +838,7 @@
       "end_time": 707.581809506,
       "utterance": "one two three",
       "turn_index": 80,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U12A",
@@ -840,7 +846,7 @@
       "end_time": 711.227024517,
       "utterance": "what's the colour of the road?",
       "turn_index": 81,
-      "topic": ""
+      "topic": "describing object"
     }
   ]
 }

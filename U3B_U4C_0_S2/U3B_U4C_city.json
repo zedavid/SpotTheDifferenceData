@@ -1,5 +1,11 @@
 {
   "success": 0.5,
+  "instruction_giver": {
+    "id": "U3B"
+  },
+  "instruction_follower": {
+    "id": "U4C"
+  },
   "dialogue_duration": 200.1010000000024,
   "audio": {
     "ig": "U3B_0_city.wav",
@@ -20,7 +26,7 @@
       "end_time": 350.64,
       "utterance": "<%ahm> IS ALSO THE NIGHT AND ON THE TOP RIGHT THERE ARE TWO <GRAY> (GRAY=) CLOUDS",
       "turn_index": 1,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4C",
@@ -28,7 +34,7 @@
       "end_time": 353.11,
       "utterance": "YEAH I HAVE TWO GREY CLOUDS YES",
       "turn_index": 2,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U4C",
@@ -45,7 +51,7 @@
       "end_time": 354.44,
       "utterance": "AND THERE'S A THUNDER",
       "turn_index": 3,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3B",
@@ -53,7 +59,7 @@
       "end_time": 355.66,
       "utterance": "BELOW THE",
       "turn_index": 4,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3B",
@@ -61,7 +67,7 @@
       "end_time": 356.37,
       "utterance": "CLOUD",
       "turn_index": 5,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4C",
@@ -69,7 +75,7 @@
       "end_time": 358.36,
       "utterance": "<%aa> I HAVE <NO <THUN-~>> NO THUNDER",
       "turn_index": 6,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3B",
@@ -77,7 +83,7 @@
       "end_time": 362.61,
       "utterance": "YEAH WELL LET'S CLICK <<+ THE> BELOW THE> <BE-> BELOW THE BELOWEST <%aa> CLOUD",
       "turn_index": 7,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4C",
@@ -85,7 +91,7 @@
       "end_time": 363.25,
       "utterance": "YEAH",
       "turn_index": 8,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3B",
@@ -93,7 +99,7 @@
       "end_time": 367.05,
       "utterance": "AND <%aa> BESIDE THE CLOUD THERE'S A MOON",
       "turn_index": 9,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4C",
@@ -101,7 +107,7 @@
       "end_time": 368.11,
       "utterance": "YES",
       "turn_index": 10,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U4C",
@@ -118,7 +124,7 @@
       "end_time": 369.35,
       "utterance": "ALMOST THE SAME LIKE THE LAST ONE",
       "turn_index": 11,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -126,7 +132,7 @@
       "end_time": 371.36,
       "utterance": "I HAVE THE SAME MOON AS LAST TIME YEAH",
       "turn_index": 12,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U4C",
@@ -143,7 +149,7 @@
       "end_time": 371.78,
       "utterance": "YEAH YEAH YEAH",
       "turn_index": 13,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3B",
@@ -151,7 +157,7 @@
       "end_time": 374.26,
       "utterance": "AND BESIDE THE MOON IS THE AIRPLANE",
       "turn_index": 14,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -159,7 +165,7 @@
       "end_time": 375.1,
       "utterance": "YES",
       "turn_index": 15,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3B",
@@ -167,7 +173,7 @@
       "end_time": 376.99,
       "utterance": "<%mm> IS TOWARD THE RIGHT",
       "turn_index": 16,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -175,7 +181,7 @@
       "end_time": 379.07,
       "utterance": "MY AIRPLANE IS FLYING TO THE LEFT",
       "turn_index": 17,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3B",
@@ -183,7 +189,7 @@
       "end_time": 381.17,
       "utterance": "AH THAT'S DIFFERENT LET'S CLICK THERE",
       "turn_index": 18,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U3B",
@@ -200,7 +206,7 @@
       "end_time": 380.96,
       "utterance": "YEAH",
       "turn_index": 19,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3B",
@@ -208,7 +214,7 @@
       "end_time": 384.86,
       "utterance": "AND <%aa> BELOW THE AIRPLANE THERE ARE FIVE STARS",
       "turn_index": 20,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4C",
@@ -216,7 +222,7 @@
       "end_time": 386.43,
       "utterance": "I HAVE FIVE STARS YES",
       "turn_index": 21,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3B",
@@ -224,7 +230,7 @@
       "end_time": 388.08,
       "utterance": "YES AND THEY <%aa>",
       "turn_index": 22,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3B",
@@ -232,7 +238,7 @@
       "end_time": 389.76,
       "utterance": "ALSO ORANGE",
       "turn_index": 23,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -240,7 +246,7 @@
       "end_time": 392.45,
       "utterance": "ORANGE STARS THREE ON TOP AND TWO BELOW",
       "turn_index": 24,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3B",
@@ -248,7 +254,7 @@
       "end_time": 393.54,
       "utterance": "YES IT'S THE SAME",
       "turn_index": 25,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3B",
@@ -256,7 +262,7 @@
       "end_time": 398.8,
       "utterance": "AND <%aa> BESIDE THE LEFT OF THE AIRPLANE THERE ARE TWO WHITE CLOUDS",
       "turn_index": 26,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4C",
@@ -264,7 +270,7 @@
       "end_time": 400.49,
       "utterance": "I HAVE TWO WHITE CLOUDS YES",
       "turn_index": 27,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3B",
@@ -272,7 +278,7 @@
       "end_time": 404.66,
       "utterance": "YEAH THE SHAPE IS <%aa> ALMOST THE SAME AS THE GREY ONES",
       "turn_index": 28,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -280,7 +286,7 @@
       "end_time": 405.32,
       "utterance": "YES",
       "turn_index": 29,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3B",
@@ -288,7 +294,7 @@
       "end_time": 409.52,
       "utterance": "AND <%ahm> BELOW THE WHITE CLOUDS THERE IS (A=) BUILDING",
       "turn_index": 30,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4C",
@@ -296,7 +302,7 @@
       "end_time": 410.49,
       "utterance": "YES",
       "turn_index": 31,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U4C",
@@ -313,7 +319,7 @@
       "end_time": 411.36,
       "utterance": "IT'S IN BLUE",
       "turn_index": 32,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -321,7 +327,7 @@
       "end_time": 415.66,
       "utterance": "YEAH <MY> MY BUILDING IS KIND OF BLUE GREEN",
       "turn_index": 33,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -329,7 +335,7 @@
       "end_time": 416.99,
       "utterance": "SOMEWHERE IN BETWEEN",
       "turn_index": 34,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U4C",
@@ -346,7 +352,7 @@
       "end_time": 416.77,
       "utterance": "<BL->",
       "turn_index": 35,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3B",
@@ -354,7 +360,7 @@
       "end_time": 418.16,
       "utterance": "<%ahm>",
       "turn_index": 36,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3B",
@@ -362,7 +368,7 @@
       "end_time": 422.49,
       "utterance": "BLUE GREEN SOMEWHERE BETWEEN IS THERE <ANOTHER> ANOTHER HOUSE IN YOUR PICTURE?",
       "turn_index": 37,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3B",
@@ -370,7 +376,7 @@
       "end_time": 424.59,
       "utterance": "<+ BUILDING> ANOTHER BUILDING THE RIGHT",
       "turn_index": 38,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U3B",
@@ -387,7 +393,7 @@
       "end_time": 423.22,
       "utterance": "YEAH",
       "turn_index": 39,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4C",
@@ -395,7 +401,7 @@
       "end_time": 426.03,
       "utterance": "YEAH EXACTLY THE SAME",
       "turn_index": 40,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3B",
@@ -403,7 +409,7 @@
       "end_time": 429.04,
       "utterance": "EXACTLY THE SAME AH IT'S DIFFERENT BECAUSE MY ANOTHER",
       "turn_index": 41,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3B",
@@ -411,7 +417,7 @@
       "end_time": 431.5,
       "utterance": "PICTURE IT'S <%ahm> GREEN AND ORANGE",
       "turn_index": 42,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -419,7 +425,7 @@
       "end_time": 434.73,
       "utterance": "YEAH I THINK <IT'S> MINE IS GREEN AND ORANGE YEAH",
       "turn_index": 43,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -427,7 +433,7 @@
       "end_time": 435.25,
       "utterance": "YEAH",
       "turn_index": 44,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3B",
@@ -435,7 +441,7 @@
       "end_time": 439.79,
       "utterance": "AH YOURS IS GREEN AND ORANGE SO LET'S CLICK THE LEFT ONE MINE IS BLUE",
       "turn_index": 45,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U3B",
@@ -452,7 +458,7 @@
       "end_time": 439.37,
       "utterance": "YEAH",
       "turn_index": 46,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3B",
@@ -460,7 +466,7 @@
       "end_time": 445.42,
       "utterance": "AND <%ahm> THERE'S A ROAD IN THE MIDDLE OF THE PICTURE",
       "turn_index": 47,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4C",
@@ -468,7 +474,7 @@
       "end_time": 446.41,
       "utterance": "YES",
       "turn_index": 48,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3B",
@@ -476,7 +482,7 @@
       "end_time": 448.1,
       "utterance": "AND ON THE ROAD <%ahm>",
       "turn_index": 49,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3B",
@@ -484,7 +490,7 @@
       "end_time": 450.83,
       "utterance": "<%aA> IN THE LOWER PART THERE'S A BLUE CAR",
       "turn_index": 50,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4C",
@@ -492,7 +498,7 @@
       "end_time": 451.57,
       "utterance": "YES",
       "turn_index": 51,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3B",
@@ -500,7 +506,7 @@
       "end_time": 454.27,
       "utterance": "AND THERE'S A MAN WITH",
       "turn_index": 52,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3B",
@@ -508,7 +514,7 @@
       "end_time": 456.72,
       "utterance": "YELLOW AND RED <%eh> SHIRT",
       "turn_index": 53,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -516,7 +522,7 @@
       "end_time": 457.3,
       "utterance": "YES",
       "turn_index": 54,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3B",
@@ -524,7 +530,7 @@
       "end_time": 459.37,
       "utterance": "AND HE HAS GLASSES AND <%ahm>",
       "turn_index": 55,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3B",
@@ -532,7 +538,7 @@
       "end_time": 460.92,
       "utterance": "WAVING HIS <%ahm>",
       "turn_index": 56,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3B",
@@ -540,7 +546,7 @@
       "end_time": 462.35,
       "utterance": "LEFT HAND",
       "turn_index": 57,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -548,7 +554,7 @@
       "end_time": 464.3,
       "utterance": "<%aa>",
       "turn_index": 58,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -556,7 +562,7 @@
       "end_time": 469.2,
       "utterance": "YEAH <MY> <%ahm> MY PICTURE HE'S WAVING HIS RIGHT HAND BUT",
       "turn_index": 59,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3B",
@@ -564,7 +570,7 @@
       "end_time": 471.7,
       "utterance": "<%aA> IS HE TOWARDS",
       "turn_index": 60,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3B",
@@ -572,7 +578,7 @@
       "end_time": 473.22,
       "utterance": "LEFT OR RIGHT?",
       "turn_index": 61,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4C",
@@ -580,7 +586,7 @@
       "end_time": 476.07,
       "utterance": "IT'S HIS RIGHT HAND BUT IT'S TO THE LEFT OF HIM",
       "turn_index": 62,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3B",
@@ -588,7 +594,7 @@
       "end_time": 479.5,
       "utterance": "<TO THE> TO THE LEFT OF HIM RIGHT HAND",
       "turn_index": 63,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U3B",
@@ -605,7 +611,7 @@
       "end_time": 480.15,
       "utterance": "IF YOU LOOK AT HIM",
       "turn_index": 64,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3B",
@@ -613,7 +619,7 @@
       "end_time": 481.37,
       "utterance": "<%ahm>",
       "turn_index": 65,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4C",
@@ -621,7 +627,7 @@
       "end_time": 482.24,
       "utterance": "FOR US",
       "turn_index": 66,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U4C",
@@ -638,7 +644,7 @@
       "end_time": 484.35,
       "utterance": "<IT'S> <%aa> IT'S FOR US IS <%eh> RIGHT",
       "turn_index": 67,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3B",
@@ -646,7 +652,7 @@
       "end_time": 487.14,
       "utterance": "IT'S RIGHT FOR ME",
       "turn_index": 68,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4C",
@@ -654,7 +660,7 @@
       "end_time": 489.92,
       "utterance": "OKAY <FOR> FOR ME <IT'S> <%ahm> IT'S HIS LEFT",
       "turn_index": 69,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3B",
@@ -662,7 +668,7 @@
       "end_time": 490.91,
       "utterance": "OKAY LET'S CLICK HERE",
       "turn_index": 70,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3B",
@@ -670,7 +676,7 @@
       "end_time": 495.23,
       "utterance": "AND <%ahm> <THE> <BE-> BESIDE THE CAR THERE'S A TRAFFIC LIGHT",
       "turn_index": 71,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4C",
@@ -678,7 +684,7 @@
       "end_time": 496.67,
       "utterance": "YEAH",
       "turn_index": 72,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3B",
@@ -686,7 +692,7 @@
       "end_time": 498.44,
       "utterance": "AND <%aa> ALSO <%aa> TRAFFIC LIGHT",
       "turn_index": 73,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3B",
@@ -694,7 +700,7 @@
       "end_time": 499.47,
       "utterance": "<%mm>",
       "turn_index": 74,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3B",
@@ -702,7 +708,7 @@
       "end_time": 503.11,
       "utterance": "<%aa> BETWEEN THE ROAD AND <THE> THE RIGHT BUILDING",
       "turn_index": 75,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4C",
@@ -710,7 +716,7 @@
       "end_time": 503.8,
       "utterance": "YES",
       "turn_index": 76,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3B",
@@ -718,7 +724,7 @@
       "end_time": 511.74,
       "utterance": "AND <%aa> <THERE ARE THREE> <%aa> THERE ARE THREE <+ LAMPS> ROAD LAMPS <%aa> ONE ONE IS <%aa>",
       "turn_index": 77,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U3B",
@@ -735,7 +741,7 @@
       "end_time": 508.81,
       "utterance": "YEAH",
       "turn_index": 78,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3B",
@@ -743,7 +749,7 @@
       "end_time": 512.96,
       "utterance": "IN THE",
       "turn_index": 79,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3B",
@@ -751,7 +757,7 @@
       "end_time": 514.31,
       "utterance": "DOWNSIDE CURVE",
       "turn_index": 80,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3B",
@@ -759,7 +765,7 @@
       "end_time": 514.8,
       "utterance": "AND",
       "turn_index": 81,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U3B",
@@ -776,7 +782,7 @@
       "end_time": 514.94,
       "utterance": "YEAH",
       "turn_index": 82,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3B",
@@ -784,7 +790,7 @@
       "end_time": 518.28,
       "utterance": "<%aa> <EVERY CURVE HAVE ONE> EVERY CURVE HAVE <%aa> ONE",
       "turn_index": 83,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3B",
@@ -792,7 +798,7 @@
       "end_time": 519.26,
       "utterance": "<%aa>",
       "turn_index": 84,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3B",
@@ -800,7 +806,7 @@
       "end_time": 520.17,
       "utterance": "ONE LAMP",
       "turn_index": 85,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -808,7 +814,7 @@
       "end_time": 520.89,
       "utterance": "YEAH",
       "turn_index": 86,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3B",
@@ -816,7 +822,7 @@
       "end_time": 521.64,
       "utterance": "AND <%aa>",
       "turn_index": 87,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U3B",
@@ -833,7 +839,7 @@
       "end_time": 521.58,
       "utterance": "OH",
       "turn_index": 88,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -841,7 +847,7 @@
       "end_time": 526.1,
       "utterance": "EACH LAMP I HAVE HAS <TWO> TWO LAMPS EACH LAMPPOST HAS",
       "turn_index": 89,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U4C",
@@ -858,7 +864,7 @@
       "end_time": 526.96,
       "utterance": "YEAH YEAH YEAH YEAH THAT'S RIGHT",
       "turn_index": 90,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3B",
@@ -866,7 +872,7 @@
       "end_time": 528.21,
       "utterance": "AND <%ahm>",
       "turn_index": 91,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3B",
@@ -874,7 +880,7 @@
       "end_time": 531.12,
       "utterance": "HOW TO DESCRIBE IT",
       "turn_index": 92,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3B",
@@ -882,7 +888,7 @@
       "end_time": 532.32,
       "utterance": "ANY DIFFERENCE",
       "turn_index": 93,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3B",
@@ -890,7 +896,7 @@
       "end_time": 534.32,
       "utterance": "<%aa> <%ahm>",
       "turn_index": 94,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3B",
@@ -898,7 +904,7 @@
       "end_time": 538.73,
       "utterance": "SO IF <WE> <WE> WE COUNT THE LEFT",
       "turn_index": 95,
-      "topic": ""
+      "topic": "describing picture"
     }
   ]
 }

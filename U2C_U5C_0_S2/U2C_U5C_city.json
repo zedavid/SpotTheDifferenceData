@@ -1,5 +1,11 @@
 {
   "success": 0.16666666666666666,
+  "instruction_giver": {
+    "id": "U2C"
+  },
+  "instruction_follower": {
+    "id": "U5C"
+  },
   "dialogue_duration": 200.10899999999674,
   "audio": {
     "ig": "U2C_0_city.wav",
@@ -12,7 +18,7 @@
       "end_time": 380.845673087,
       "utterance": "you clicked",
       "turn_index": 0,
-      "topic": ""
+      "topic": "checking readiness"
     },
     {
       "speaker": "U5C",
@@ -20,7 +26,7 @@
       "end_time": 382.808946124,
       "utterance": "there awesome you won",
       "turn_index": 1,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U5C",
@@ -37,7 +43,7 @@
       "end_time": 382.151786777,
       "utterance": "okay",
       "turn_index": 2,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2C",
@@ -45,7 +51,7 @@
       "end_time": 383.854430683,
       "utterance": "<%aa>",
       "turn_index": 3,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U2C",
@@ -62,7 +68,7 @@
       "end_time": 384.057002706,
       "utterance": "go",
       "turn_index": 4,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U5C",
@@ -79,7 +85,7 @@
       "end_time": 386.854925885,
       "utterance": "to the <%eh> again left up corner",
       "turn_index": 5,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2C",
@@ -87,7 +93,7 @@
       "end_time": 388.131176843,
       "utterance": "I see two white clouds",
       "turn_index": 6,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5C",
@@ -95,7 +101,7 @@
       "end_time": 388.775949462,
       "utterance": "yeah me too",
       "turn_index": 7,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2C",
@@ -103,7 +109,7 @@
       "end_time": 390.880344804,
       "utterance": "okay underneath >a> a blue building",
       "turn_index": 8,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5C",
@@ -111,7 +117,7 @@
       "end_time": 392.78883357,
       "utterance": "(a=) greenish building",
       "turn_index": 9,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2C",
@@ -119,7 +125,7 @@
       "end_time": 397.988933107,
       "utterance": "okay <%aa> we might wanna move from there because <th-> I have some issues with some colours",
       "turn_index": 10,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2C",
@@ -127,7 +133,7 @@
       "end_time": 400.484352228,
       "utterance": "I see a plane in the centre",
       "turn_index": 11,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5C",
@@ -135,7 +141,7 @@
       "end_time": 401.523688639,
       "utterance": "yes me too",
       "turn_index": 12,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2C",
@@ -143,7 +149,7 @@
       "end_time": 402.953708245,
       "utterance": "it's heading to the left",
       "turn_index": 13,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U2C",
@@ -160,7 +166,7 @@
       "end_time": 402.311950181,
       "utterance": "facing",
       "turn_index": 14,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U5C",
@@ -168,7 +174,7 @@
       "end_time": 403.415375488,
       "utterance": "yes",
       "turn_index": 15,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2C",
@@ -176,7 +182,7 @@
       "end_time": 404.84149612,
       "utterance": "sorry no to the right sorry",
       "turn_index": 16,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U5C",
@@ -184,7 +190,7 @@
       "end_time": 406.543925183,
       "utterance": "facing to the left mine is",
       "turn_index": 17,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U5C",
@@ -201,7 +207,7 @@
       "end_time": 407.627409069,
       "utterance": "mine is flying to the right",
       "turn_index": 18,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U5C",
@@ -209,7 +215,7 @@
       "end_time": 408.767466489,
       "utterance": "okay click on it",
       "turn_index": 19,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U5C",
@@ -226,7 +232,7 @@
       "end_time": 409.199530615,
       "utterance": "okay we click",
       "turn_index": 20,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2C",
@@ -234,7 +240,7 @@
       "end_time": 411.494555766,
       "utterance": "underneath I see five stars",
       "turn_index": 21,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U5C",
@@ -242,7 +248,7 @@
       "end_time": 412.265624052,
       "utterance": "<%eh> me too",
       "turn_index": 22,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5C",
@@ -250,7 +256,7 @@
       "end_time": 413.249400832,
       "utterance": "small ones",
       "turn_index": 23,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U5C",
@@ -267,7 +273,7 @@
       "end_time": 413.129752305,
       "utterance": "okay",
       "turn_index": 24,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2C",
@@ -275,7 +281,7 @@
       "end_time": 414.370890914,
       "utterance": "<%aa> then I <s->",
       "turn_index": 25,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U2C",
@@ -292,7 +298,7 @@
       "end_time": 415.899733207,
       "utterance": "two in the bottom and three <on> <to-> on top of those",
       "turn_index": 26,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U5C",
@@ -309,7 +315,7 @@
       "end_time": 416.676452244,
       "utterance": "yeah exactly",
       "turn_index": 27,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2C",
@@ -317,7 +323,7 @@
       "end_time": 419.298315622,
       "utterance": "then I see underneath that I see three lamp posts",
       "turn_index": 28,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U2C",
@@ -334,7 +340,7 @@
       "end_time": 417.084817868,
       "utterance": "great",
       "turn_index": 29,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5C",
@@ -342,7 +348,7 @@
       "end_time": 420.135797638,
       "utterance": "I see two lamp posts",
       "turn_index": 30,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2C",
@@ -350,7 +356,7 @@
       "end_time": 420.727393102,
       "utterance": "okay",
       "turn_index": 31,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2C",
@@ -358,7 +364,7 @@
       "end_time": 422.756970029,
       "utterance": "mine is one further back",
       "turn_index": 32,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2C",
@@ -366,7 +372,7 @@
       "end_time": 423.845226103,
       "utterance": "to the",
       "turn_index": 33,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U2C",
@@ -383,7 +389,7 @@
       "end_time": 426.289934871,
       "utterance": "there are total three lamp posts acually sorry",
       "turn_index": 34,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2C",
@@ -391,7 +397,7 @@
       "end_time": 426.877149254,
       "utterance": "okay",
       "turn_index": 35,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U2C",
@@ -408,7 +414,7 @@
       "end_time": 426.794060003,
       "utterance": "but",
       "turn_index": 36,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2C",
@@ -416,7 +422,7 @@
       "end_time": 427.519666102,
       "utterance": "that's",
       "turn_index": 37,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U2C",
@@ -433,7 +439,7 @@
       "end_time": 430.54549583,
       "utterance": "one is all the way to the front left of the picture",
       "turn_index": 38,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U5C",
@@ -441,7 +447,7 @@
       "end_time": 433.347590504,
       "utterance": "almost at the end of the picture kind of",
       "turn_index": 39,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U5C",
@@ -449,7 +455,7 @@
       "end_time": 437.636988781,
       "utterance": "and you should be <%eh> giving instructions sorry",
       "turn_index": 40,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U5C",
@@ -466,7 +472,7 @@
       "end_time": 439.482133358,
       "utterance": "yeah okay mine is to the left",
       "turn_index": 41,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2C",
@@ -474,7 +480,7 @@
       "end_time": 442.03018927,
       "utterance": "the one that is <further or> to the back",
       "turn_index": 42,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2C",
@@ -482,7 +488,7 @@
       "end_time": 444.848833302,
       "utterance": "to the <le-> <<to> sorry> to the right <of the> of the road",
       "turn_index": 43,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2C",
@@ -490,7 +496,7 @@
       "end_time": 447.903704969,
       "utterance": "the middle one in my picture is to the left",
       "turn_index": 44,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2C",
@@ -498,7 +504,7 @@
       "end_time": 451.668382267,
       "utterance": "(and=) the one closer like to the front is to the right again",
       "turn_index": 45,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U2C",
@@ -522,7 +528,7 @@
       "end_time": 448.969075248,
       "utterance": "yeah",
       "turn_index": 46,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U5C",
@@ -530,7 +536,7 @@
       "end_time": 450.468005326,
       "utterance": "I'm probably the same",
       "turn_index": 47,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U5C",
@@ -538,7 +544,7 @@
       "end_time": 453.116212727,
       "utterance": "three lamp posts and",
       "turn_index": 48,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U5C",
@@ -546,7 +552,7 @@
       "end_time": 455.670514755,
       "utterance": "two of them to the left of the road one of them to the right of the road",
       "turn_index": 49,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2C",
@@ -554,7 +560,7 @@
       "end_time": 455.964238301,
       "utterance": "okay",
       "turn_index": 50,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2C",
@@ -562,7 +568,7 @@
       "end_time": 457.846011054,
       "utterance": "then I see two street lights",
       "turn_index": 51,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U5C",

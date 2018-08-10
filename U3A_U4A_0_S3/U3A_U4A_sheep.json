@@ -1,5 +1,11 @@
 {
   "success": 0.75,
+  "instruction_giver": {
+    "id": "U3A"
+  },
+  "instruction_follower": {
+    "id": "U4A"
+  },
   "dialogue_duration": 200.55999999999767,
   "audio": {
     "ig": "U3A_0_sheep.wav",
@@ -12,7 +18,7 @@
       "end_time": 308.2,
       "utterance": "YEAH",
       "turn_index": 0,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U3A",
@@ -29,7 +35,7 @@
       "end_time": 308.74,
       "utterance": "YEAH OKAY",
       "turn_index": 1,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U4A",
@@ -46,7 +52,7 @@
       "end_time": 308.97,
       "utterance": "I'M START",
       "turn_index": 2,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4A",
@@ -54,7 +60,7 @@
       "end_time": 309.92,
       "utterance": "GOOD",
       "turn_index": 3,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3A",
@@ -62,7 +68,7 @@
       "end_time": 310.85,
       "utterance": "OKAY",
       "turn_index": 4,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3A",
@@ -70,7 +76,7 @@
       "end_time": 316.877305636,
       "utterance": "<I HAVE <%aa> <%aa>> I HAVE BELOW <%aa>",
       "turn_index": 5,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3A",
@@ -78,7 +84,7 @@
       "end_time": 318.75,
       "utterance": "FOUR SHEEPS",
       "turn_index": 6,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3A",
@@ -86,7 +92,7 @@
       "end_time": 321.66,
       "utterance": "<TWO + SHEEP> <%aa> TWO BLACK SHEEP <%aa>",
       "turn_index": 7,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3A",
@@ -94,7 +100,7 @@
       "end_time": 323.4,
       "utterance": "<%eh> AT RIGHT SIDE",
       "turn_index": 8,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4A",
@@ -102,7 +108,7 @@
       "end_time": 324.06,
       "utterance": "AHA",
       "turn_index": 9,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U4A",
@@ -119,7 +125,7 @@
       "end_time": 325.37,
       "utterance": "AND TWO SHEEP",
       "turn_index": 10,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3A",
@@ -127,7 +133,7 @@
       "end_time": 329.18,
       "utterance": "<%aa> LEFT SIDE BUT <%aa> TWO SHEEP WHO",
       "turn_index": 11,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U3A",
@@ -144,7 +150,7 @@
       "end_time": 327.27,
       "utterance": "YES",
       "turn_index": 12,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3A",
@@ -152,7 +158,7 @@
       "end_time": 330.2,
       "utterance": "LEFT SIDE",
       "turn_index": 13,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3A",
@@ -160,7 +166,7 @@
       "end_time": 335.12,
       "utterance": "<UP> <%aa> UP SHEEP BLACK AND <%aa> BELOW SHEEP WHITE",
       "turn_index": 14,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4A",
@@ -168,7 +174,7 @@
       "end_time": 337.77,
       "utterance": "OH OKAY SO",
       "turn_index": 15,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4A",
@@ -176,7 +182,7 @@
       "end_time": 340.6,
       "utterance": "SORRY <%aa> <THE ONES> THERE'S FOUR SHEEP",
       "turn_index": 16,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4A",
@@ -184,7 +190,7 @@
       "end_time": 343.69,
       "utterance": "<TO THE RIGHT> TO THE RIGHT YOU HAVE",
       "turn_index": 17,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U4A",
@@ -201,7 +207,7 @@
       "end_time": 342.64,
       "utterance": "NO",
       "turn_index": 18,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3A",
@@ -209,7 +215,7 @@
       "end_time": 344.83,
       "utterance": "TO THE RIGHT",
       "turn_index": 19,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3A",
@@ -217,7 +223,7 @@
       "end_time": 345.38,
       "utterance": "<%aa>",
       "turn_index": 20,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U3A",
@@ -234,7 +240,7 @@
       "end_time": 346.64,
       "utterance": "<YOU> YOU HAVE BLACK SHEEP?",
       "turn_index": 21,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3A",
@@ -242,7 +248,7 @@
       "end_time": 347.08,
       "utterance": "YEAH",
       "turn_index": 22,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3A",
@@ -250,7 +256,7 @@
       "end_time": 348.14,
       "utterance": "TWO BLACK SHEEP",
       "turn_index": 23,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U3A",
@@ -267,7 +273,7 @@
       "end_time": 347.89,
       "utterance": "AND",
       "turn_index": 24,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4A",
@@ -275,7 +281,7 @@
       "end_time": 349.64,
       "utterance": "TO THE LEFT YOU HAVE",
       "turn_index": 25,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3A",
@@ -283,7 +289,7 @@
       "end_time": 351.26,
       "utterance": "BLACK AND WHITE SHEEP",
       "turn_index": 26,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4A",
@@ -291,7 +297,7 @@
       "end_time": 352.46,
       "utterance": "OH OKAY",
       "turn_index": 27,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4A",
@@ -299,7 +305,7 @@
       "end_time": 355.55,
       "utterance": "ON MY LEFT SIDE I ONLY HAVE WHITE SHEEP",
       "turn_index": 28,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4A",
@@ -307,7 +313,7 @@
       "end_time": 358.03,
       "utterance": "SO LET'S SEE WHICH ONE IS BLACK",
       "turn_index": 29,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3A",
@@ -315,7 +321,7 @@
       "end_time": 360.32,
       "utterance": "OKAY",
       "turn_index": 30,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3A",
@@ -323,7 +329,7 @@
       "end_time": 361.79,
       "utterance": "<%aa> BLACK SHEEP",
       "turn_index": 31,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3A",
@@ -331,7 +337,7 @@
       "end_time": 364.0,
       "utterance": "<%aa> <+ UP> MY BLACK SHEEP UP",
       "turn_index": 32,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4A",
@@ -339,7 +345,7 @@
       "end_time": 369.42,
       "utterance": "OKAY SO IT'S WHITE FOR ME SO SHALL WE CLICK <THE WHITE SHEEP UP> THE BLACK SHEEP UP",
       "turn_index": 33,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3A",
@@ -347,7 +353,7 @@
       "end_time": 370.05,
       "utterance": "OKAY",
       "turn_index": 34,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4A",
@@ -355,7 +361,7 @@
       "end_time": 370.56,
       "utterance": "YEAH",
       "turn_index": 35,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3A",
@@ -363,7 +369,7 @@
       "end_time": 371.2,
       "utterance": "I'M CLICK",
       "turn_index": 36,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3A",
@@ -371,7 +377,7 @@
       "end_time": 372.69,
       "utterance": "OKAY",
       "turn_index": 37,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U3A",
@@ -388,7 +394,7 @@
       "end_time": 372.81,
       "utterance": "OKAY GOT IT",
       "turn_index": 38,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3A",
@@ -396,7 +402,7 @@
       "end_time": 374.8,
       "utterance": "I HAVE THREE FLOWER",
       "turn_index": 39,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4A",
@@ -404,7 +410,7 @@
       "end_time": 376.89,
       "utterance": "YES THREE FLOWERS IN THE MIDDLE",
       "turn_index": 40,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3A",
@@ -412,7 +418,7 @@
       "end_time": 377.72,
       "utterance": "IN THE MIDDLE YEAH",
       "turn_index": 41,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4A",
@@ -420,7 +426,7 @@
       "end_time": 378.25,
       "utterance": "OKAY",
       "turn_index": 42,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4A",
@@ -428,7 +434,7 @@
       "end_time": 379.47,
       "utterance": "WHICH COLOUR ARE THEY?",
       "turn_index": 43,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3A",
@@ -436,7 +442,7 @@
       "end_time": 381.86,
       "utterance": "RED BLUE AND ORANGE",
       "turn_index": 44,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4A",
@@ -444,7 +450,7 @@
       "end_time": 384.17,
       "utterance": "OKAY IS IT READ TO THE LEFT?",
       "turn_index": 45,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3A",
@@ -452,7 +458,7 @@
       "end_time": 386.57,
       "utterance": "RIGHT TO THE LEFT BLUE MIDDLE",
       "turn_index": 46,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U3A",
@@ -469,7 +475,7 @@
       "end_time": 386.05,
       "utterance": "AHA",
       "turn_index": 47,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4A",
@@ -477,7 +483,7 @@
       "end_time": 387.2,
       "utterance": "OKAY",
       "turn_index": 48,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U4A",
@@ -494,7 +500,7 @@
       "end_time": 387.94,
       "utterance": "ORANGE RIGHT",
       "turn_index": 49,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4A",
@@ -502,7 +508,7 @@
       "end_time": 388.54,
       "utterance": "OKAY",
       "turn_index": 50,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4A",
@@ -510,7 +516,7 @@
       "end_time": 390.29,
       "utterance": "CLICK THE BLUE",
       "turn_index": 51,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4A",
@@ -518,7 +524,7 @@
       "end_time": 393.08,
       "utterance": "IN THE MIDDLE BECAUSE MINE IN THE MIDDLE IS ORANGE",
       "turn_index": 52,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U4A",
@@ -535,7 +541,7 @@
       "end_time": 393.92,
       "utterance": "OKAY I CLICK",
       "turn_index": 53,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3A",
@@ -543,7 +549,7 @@
       "end_time": 395.2,
       "utterance": "ALREADY CLICK",
       "turn_index": 54,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3A",
@@ -551,7 +557,7 @@
       "end_time": 396.1,
       "utterance": "I HAVE",
       "turn_index": 55,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3A",
@@ -559,7 +565,7 @@
       "end_time": 396.922481597,
       "utterance": "TWO",
       "turn_index": 56,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3A",
@@ -567,7 +573,7 @@
       "end_time": 398.91,
       "utterance": "<TREE=>",
       "turn_index": 57,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4A",
@@ -575,7 +581,7 @@
       "end_time": 399.45,
       "utterance": "AHA",
       "turn_index": 58,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3A",
@@ -583,7 +589,7 @@
       "end_time": 401.09,
       "utterance": "<%aa> <LE-> <%aa> RIGHT",
       "turn_index": 59,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3A",
@@ -591,7 +597,7 @@
       "end_time": 402.26,
       "utterance": "SMALL TREE",
       "turn_index": 60,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3A",
@@ -599,7 +605,7 @@
       "end_time": 403.73,
       "utterance": "WITH ONE STONE",
       "turn_index": 61,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3A",
@@ -607,7 +613,7 @@
       "end_time": 406.24,
       "utterance": "<%aa> AND <%aa> LEFT",
       "turn_index": 62,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3A",
@@ -615,7 +621,7 @@
       "end_time": 407.82,
       "utterance": "BIG TREE",
       "turn_index": 63,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U3A",
@@ -632,7 +638,7 @@
       "end_time": 407.62,
       "utterance": "OKAY",
       "turn_index": 64,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3A",
@@ -640,7 +646,7 @@
       "end_time": 409.81,
       "utterance": "WITH FOUR APPLES",
       "turn_index": 65,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4A",
@@ -648,7 +654,7 @@
       "end_time": 411.54,
       "utterance": "OKAY <WAIT> WAIT A SECOND",
       "turn_index": 66,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U4A",
@@ -665,7 +671,7 @@
       "end_time": 411.64,
       "utterance": "AND TWO STONE",
       "turn_index": 67,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4A",
@@ -673,7 +679,7 @@
       "end_time": 413.42,
       "utterance": "GO BACK TO THE SMALL TREE",
       "turn_index": 68,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3A",
@@ -681,7 +687,7 @@
       "end_time": 414.34,
       "utterance": "OKAY I GO",
       "turn_index": 69,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U3A",
@@ -698,7 +704,7 @@
       "end_time": 414.62,
       "utterance": "CLICK",
       "turn_index": 70,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4A",
@@ -706,7 +712,7 @@
       "end_time": 417.28,
       "utterance": "ON THE STONE TO THE LEFT BECAUSE I DON'T HAVE ONE",
       "turn_index": 71,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3A",
@@ -714,7 +720,7 @@
       "end_time": 418.36,
       "utterance": "OKAY",
       "turn_index": 72,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3A",
@@ -722,7 +728,7 @@
       "end_time": 419.15,
       "utterance": "I CLICK",
       "turn_index": 73,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4A",
@@ -730,7 +736,7 @@
       "end_time": 419.97,
       "utterance": "OKAY",
       "turn_index": 74,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3A",
@@ -738,7 +744,7 @@
       "end_time": 422.78,
       "utterance": "<%aa> AND I HAVE BIG TREE",
       "turn_index": 75,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4A",
@@ -746,7 +752,7 @@
       "end_time": 423.29,
       "utterance": "AHA",
       "turn_index": 76,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U4A",
@@ -763,7 +769,7 @@
       "end_time": 424.55,
       "utterance": "WITH FOUR APPLES",
       "turn_index": 77,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4A",
@@ -771,7 +777,7 @@
       "end_time": 426.49,
       "utterance": "OKAY I HAVE FIVE APPLES",
       "turn_index": 78,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U4A",
@@ -788,7 +794,7 @@
       "end_time": 425.68,
       "utterance": "AND <%aa>",
       "turn_index": 79,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3A",
@@ -796,7 +802,7 @@
       "end_time": 427.19,
       "utterance": "YOU HAVE FIVE",
       "turn_index": 80,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4A",
@@ -804,7 +810,7 @@
       "end_time": 427.73,
       "utterance": "YEAH",
       "turn_index": 81,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4A",
@@ -812,7 +818,7 @@
       "end_time": 430.77,
       "utterance": "TWO AT THE TOP AND THREE <%aa> AT THE BOTTOM",
       "turn_index": 82,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3A",
@@ -820,7 +826,7 @@
       "end_time": 431.34,
       "utterance": "OKAY",
       "turn_index": 83,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U3A",
@@ -837,7 +843,7 @@
       "end_time": 431.81,
       "utterance": "ON THE BIG TREE",
       "turn_index": 84,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3A",
@@ -845,7 +851,7 @@
       "end_time": 436.2,
       "utterance": "<I CLICK <%aa>> I CLICK <%aa>",
       "turn_index": 85,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3A",
@@ -853,7 +859,7 @@
       "end_time": 437.91,
       "utterance": "WHEN YOU MISS APPLE",
       "turn_index": 86,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3A",
@@ -861,7 +867,7 @@
       "end_time": 439.16,
       "utterance": "<%aa>",
       "turn_index": 87,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U3A",
@@ -878,7 +884,7 @@
       "end_time": 442.77,
       "utterance": "THE MIDDLE APPLE <AT THE> AT THE BOTTOM OKAY",
       "turn_index": 88,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U4A",
@@ -902,7 +908,7 @@
       "end_time": 440.9,
       "utterance": "MIDDLE APPLE YEAH",
       "turn_index": 89,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3A",
@@ -910,7 +916,7 @@
       "end_time": 442.09,
       "utterance": "I CLICK",
       "turn_index": 90,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3A",
@@ -918,7 +924,7 @@
       "end_time": 443.27,
       "utterance": "YEAH CLICK",
       "turn_index": 91,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3A",
@@ -926,7 +932,7 @@
       "end_time": 445.36,
       "utterance": "I HAVE TWO STONE <%aa>",
       "turn_index": 92,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3A",
@@ -934,7 +940,7 @@
       "end_time": 446.8,
       "utterance": "NEAR BIG TREE",
       "turn_index": 93,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4A",
@@ -942,7 +948,7 @@
       "end_time": 450.55,
       "utterance": "YES I HAVE TWO STONES AS WELL ONE TO THE LEFT ONE TO THE RIGHT",
       "turn_index": 94,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U4A",
@@ -959,7 +965,7 @@
       "end_time": 449.19,
       "utterance": "OKAY",
       "turn_index": 95,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3A",
@@ -967,7 +973,7 @@
       "end_time": 453.56,
       "utterance": "YEAH I HAVE ORANGE SUN AND ONE <%aa>",
       "turn_index": 96,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U3A",
@@ -984,7 +990,7 @@
       "end_time": 453.75,
       "utterance": "OH",
       "turn_index": 97,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4A",
@@ -992,7 +998,7 @@
       "end_time": 455.11,
       "utterance": "I HAVE YELLOW SUN",
       "turn_index": 98,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4A",
@@ -1000,7 +1006,7 @@
       "end_time": 456.34,
       "utterance": "LET'S CLICK THE SUN",
       "turn_index": 99,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3A",
@@ -1008,7 +1014,7 @@
       "end_time": 457.01,
       "utterance": "OKAY",
       "turn_index": 100,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3A",
@@ -1016,7 +1022,7 @@
       "end_time": 457.88,
       "utterance": "I HAVE",
       "turn_index": 101,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3A",
@@ -1024,7 +1030,7 @@
       "end_time": 459.2,
       "utterance": "WHITE <%aa>",
       "turn_index": 102,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4A",
@@ -1032,7 +1038,7 @@
       "end_time": 460.94,
       "utterance": "CLOUD?",
       "turn_index": 103,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U4A",
@@ -1049,7 +1055,7 @@
       "end_time": 463.01,
       "utterance": "<AT> WHITE CLOUD RIGHT SIDE",
       "turn_index": 104,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4A",
@@ -1057,7 +1063,7 @@
       "end_time": 464.75,
       "utterance": "YES I DO AS WELL",
       "turn_index": 105,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4A",
@@ -1065,7 +1071,7 @@
       "end_time": 466.38,
       "utterance": "JUST ONE CLOUD YES?",
       "turn_index": 106,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3A",
@@ -1073,7 +1079,7 @@
       "end_time": 467.17,
       "utterance": "YEAH ONE CLOUD",
       "turn_index": 107,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4A",
@@ -1081,7 +1087,7 @@
       "end_time": 470.05,
       "utterance": "DO YOU HAVE FOUR ORANGES ON THE SMALL TREE",
       "turn_index": 108,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3A",
@@ -1089,7 +1095,7 @@
       "end_time": 471.68,
       "utterance": "FIVE",
       "turn_index": 109,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3A",
@@ -1097,7 +1103,7 @@
       "end_time": 472.67,
       "utterance": "ORANGES?",
       "turn_index": 110,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4A",
@@ -1105,7 +1111,7 @@
       "end_time": 473.57,
       "utterance": "AHA OKAY",
       "turn_index": 111,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U4A",
@@ -1122,7 +1128,7 @@
       "end_time": 474.43,
       "utterance": "NO I HAVE <%aa>",
       "turn_index": 112,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4A",
@@ -1130,7 +1136,7 @@
       "end_time": 475.14,
       "utterance": "FOUR?",
       "turn_index": 113,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3A",
@@ -1138,7 +1144,7 @@
       "end_time": 478.17,
       "utterance": "<I DON'T HAVE <%aa>> NOTHING I HAVE NOTHING",
       "turn_index": 114,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4A",
@@ -1146,7 +1152,7 @@
       "end_time": 481.04,
       "utterance": "OKAY I HAVE FOUR ORANGES ON THE SMALL TREE LET'S CLICK",
       "turn_index": 115,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3A",
@@ -1154,7 +1160,7 @@
       "end_time": 481.55,
       "utterance": "YEAH",
       "turn_index": 116,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3A",
@@ -1162,7 +1168,7 @@
       "end_time": 482.16,
       "utterance": "CLICK",
       "turn_index": 117,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4A",
@@ -1170,7 +1176,7 @@
       "end_time": 487.12,
       "utterance": "<%ahm> I THINK WE FOUND ALL THE DIFFERENCES",
       "turn_index": 118,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3A",
@@ -1178,7 +1184,7 @@
       "end_time": 488.94,
       "utterance": "OKAY",
       "turn_index": 119,
-      "topic": ""
+      "topic": "end of differences"
     },
     {
       "speaker": "U4A",
@@ -1186,7 +1192,7 @@
       "end_time": 489.65,
       "utterance": "I DON'T KNOW",
       "turn_index": 120,
-      "topic": ""
+      "topic": "end of differences"
     },
     {
       "speaker": "U3A",
@@ -1194,7 +1200,7 @@
       "end_time": 493.06,
       "utterance": "<MAYBE I> <ONE> FOUR CLICK",
       "turn_index": 121,
-      "topic": ""
+      "topic": "end of differences"
     },
     {
       "speaker": "U4A",
@@ -1202,7 +1208,7 @@
       "end_time": 495.46,
       "utterance": "OH FOUR CLICKS?",
       "turn_index": 122,
-      "topic": ""
+      "topic": "end of differences"
     },
     {
       "speaker": "U4A",
@@ -1210,7 +1216,7 @@
       "end_time": 495.97,
       "utterance": "OKAY",
       "turn_index": 123,
-      "topic": ""
+      "topic": "end of differences"
     },
     {
       "speaker": "U3A",
@@ -1218,7 +1224,7 @@
       "end_time": 496.56,
       "utterance": "YEAH",
       "turn_index": 124,
-      "topic": ""
+      "topic": "end of differences"
     },
     {
       "speaker": "U3A",
@@ -1226,7 +1232,7 @@
       "end_time": 497.83,
       "utterance": "TWO",
       "turn_index": 125,
-      "topic": ""
+      "topic": "end of differences"
     },
     {
       "speaker": "U4A",
@@ -1234,7 +1240,7 @@
       "end_time": 498.58,
       "utterance": "OKAY",
       "turn_index": 126,
-      "topic": ""
+      "topic": "end of differences"
     },
     {
       "speaker": "U4A",
@@ -1242,7 +1248,7 @@
       "end_time": 500.45,
       "utterance": "I'VE GOT",
       "turn_index": 127,
-      "topic": ""
+      "topic": "end of differences"
     },
     {
       "speaker": "U4A",
@@ -1250,7 +1256,7 @@
       "end_time": 502.01,
       "utterance": "ONE AT THE TOP",
       "turn_index": 128,
-      "topic": ""
+      "topic": "end of differences"
     },
     {
       "speaker": "U4A",
@@ -1258,7 +1264,7 @@
       "end_time": 505.63,
       "utterance": "IT'S HARD <TO> TO DESCRIBE WHERE EXACTLY THEY ARE BUT",
       "turn_index": 129,
-      "topic": "",
+      "topic": "end of differences",
       "overlap": [
         {
           "speaker_before": "U4A",
@@ -1275,7 +1281,7 @@
       "end_time": 505.69,
       "utterance": "<%aa>",
       "turn_index": 130,
-      "topic": ""
+      "topic": "end of differences"
     }
   ]
 }

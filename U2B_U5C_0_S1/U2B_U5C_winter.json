@@ -1,5 +1,11 @@
 {
   "success": 0.4,
+  "instruction_giver": {
+    "id": "U2B"
+  },
+  "instruction_follower": {
+    "id": "U5C"
+  },
   "dialogue_duration": 200.53600000000006,
   "audio": {
     "ig": "U2B_0_winter.wav",
@@ -12,7 +18,7 @@
       "end_time": 434.03,
       "utterance": "OKAY NOW HAVE NOW HAVE A CHRISTMAS THE SNOWY AND STUFF",
       "turn_index": 0,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U2B",
@@ -29,7 +35,7 @@
       "end_time": 434.96,
       "utterance": "RIGHT ALSO",
       "turn_index": 1,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U5C",
@@ -46,7 +52,7 @@
       "end_time": 434.99,
       "utterance": "OKAY",
       "turn_index": 2,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2B",
@@ -54,7 +60,7 @@
       "end_time": 437.62,
       "utterance": "SNOW HAD THE REINDEER IMAGE PROBABLY",
       "turn_index": 3,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U2B",
@@ -71,7 +77,7 @@
       "end_time": 437.0,
       "utterance": "YEAH",
       "turn_index": 4,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2B",
@@ -79,7 +85,7 @@
       "end_time": 440.2,
       "utterance": "AND I START IN THE DOWN",
       "turn_index": 5,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U2B",
@@ -96,7 +102,7 @@
       "end_time": 438.67,
       "utterance": "YOU GO",
       "turn_index": 6,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2B",
@@ -104,7 +110,7 @@
       "end_time": 446.97,
       "utterance": "RIGHT CORNER AND <+ THERE ARE> FIRST IN THE FRONT OF THE IMAGE <+ THERE ARE> IN THE MIDDLE THERE ARE THREE",
       "turn_index": 7,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U2B",
@@ -121,7 +127,7 @@
       "end_time": 441.79,
       "utterance": "OKAY",
       "turn_index": 8,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2B",
@@ -129,7 +135,7 @@
       "end_time": 448.43,
       "utterance": "<%aa> SNOWMEN",
       "turn_index": 9,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5C",
@@ -137,7 +143,7 @@
       "end_time": 449.03,
       "utterance": "I HAVE TWO",
       "turn_index": 10,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2B",
@@ -145,7 +151,7 @@
       "end_time": 458.85,
       "utterance": "OKAY <%aa> I HAVE ONE TO THE RIGHT THERE IS A SNOWMAN WITH A GREEN SCARF AND A RED <%aa> <CHRISTMAS <%aa>> SANTA CLAUS <HEAD> <HA-> HAT",
       "turn_index": 11,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U2B",
@@ -162,7 +168,7 @@
       "end_time": 459.31,
       "utterance": "<THAT ONE> THAT ONE IS MISSING FOR ME",
       "turn_index": 12,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2B",
@@ -170,7 +176,7 @@
       "end_time": 460.21,
       "utterance": "OKAY",
       "turn_index": 13,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2B",
@@ -178,7 +184,7 @@
       "end_time": 463.28,
       "utterance": "AND THE OTHER TWO SNOW <%aa> MEN <ARE> DO THEY HAVE",
       "turn_index": 14,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2B",
@@ -186,7 +192,7 @@
       "end_time": 464.75,
       "utterance": "<%aa> RED SCARVES",
       "turn_index": 15,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U5C",
@@ -194,7 +200,7 @@
       "end_time": 465.37,
       "utterance": "YES",
       "turn_index": 16,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2B",
@@ -202,7 +208,7 @@
       "end_time": 468.810953576,
       "utterance": "AND THEY HAVE LIKE ARMS WITH TWIGS AND THEY HAVE <%aa>",
       "turn_index": 17,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2B",
@@ -210,7 +216,7 @@
       "end_time": 469.73,
       "utterance": "<%aa>",
       "turn_index": 18,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2B",
@@ -218,7 +224,7 @@
       "end_time": 471.42,
       "utterance": "SANTA CLAUS <HA-> HATS",
       "turn_index": 19,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U5C",
@@ -226,7 +232,7 @@
       "end_time": 476.42,
       "utterance": "YES BUT ONE OF THEM IS BLUE <<THE> THE> WHATEVER WHICH SHOULD PROBABLY BE THE MIDDLE ONE FOR YOU",
       "turn_index": 20,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2B",
@@ -234,7 +240,7 @@
       "end_time": 479.1,
       "utterance": "OKAY SO THE ONE LIKE IN THE FRONT IN THE MIDDLE",
       "turn_index": 21,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U5C",
@@ -242,7 +248,7 @@
       "end_time": 479.43,
       "utterance": "YEAH",
       "turn_index": 22,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U5C",
@@ -259,7 +265,7 @@
       "end_time": 480.33,
       "utterance": "HAS A BLUE HAT",
       "turn_index": 23,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U2B",
@@ -276,7 +282,7 @@
       "end_time": 480.69,
       "utterance": "YES",
       "turn_index": 24,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2B",
@@ -284,7 +290,7 @@
       "end_time": 483.21,
       "utterance": "OKAY THEN WE CLICK ON THAT HAT BECAUSE MINE IS RED",
       "turn_index": 25,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U2B",
@@ -301,7 +307,7 @@
       "end_time": 483.51,
       "utterance": "OKAY",
       "turn_index": 26,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2B",
@@ -309,7 +315,7 @@
       "end_time": 487.96,
       "utterance": "AND THEN TO THE RIGHT OF THAT MAYBE LIKE FIVE CENTIMETERS TO THE RIGHT",
       "turn_index": 27,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U5C",
@@ -317,7 +323,7 @@
       "end_time": 488.21,
       "utterance": "YEAH",
       "turn_index": 28,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2B",
@@ -325,7 +331,7 @@
       "end_time": 493.21,
       "utterance": "AND A BIT UP LIKE ALONGSIDE THE ONE TO THE LEFT THERE'S SUPPOSED TO BE A SNOWMAN",
       "turn_index": 29,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U5C",
@@ -333,7 +339,7 @@
       "end_time": 495.06,
       "utterance": "OKAY I DON'T HAVE ONE SO CLICK THERE",
       "turn_index": 30,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U5C",
@@ -350,7 +356,7 @@
       "end_time": 494.17,
       "utterance": "SO",
       "turn_index": 31,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2B",
@@ -358,7 +364,7 @@
       "end_time": 495.7,
       "utterance": "WE CLICK THERE AS WELL",
       "turn_index": 32,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U5C",
@@ -366,7 +372,7 @@
       "end_time": 496.22,
       "utterance": "OKAY",
       "turn_index": 33,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2B",
@@ -374,7 +380,7 @@
       "end_time": 497.21,
       "utterance": "YES",
       "turn_index": 34,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2B",
@@ -382,7 +388,7 @@
       "end_time": 502.65,
       "utterance": "AND THEN <+ TO THE RIGHT SIDE> BEHIND THE SNOWMANS TO RIGHT SIDE THERE IS ONE THE REINDEER",
       "turn_index": 35,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2B",
@@ -390,7 +396,7 @@
       "end_time": 508.02,
       "utterance": "AND <IT <HA->> IT IS <GR-> GRAYISH WITH SOME RED RIBBONS OR THINGS",
       "turn_index": 36,
-      "topic": "DESCRIBING OBJECT",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U2B",
@@ -407,7 +413,7 @@
       "end_time": 507.41,
       "utterance": "YEAH",
       "turn_index": 37,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2B",
@@ -415,7 +421,7 @@
       "end_time": 510.35,
       "utterance": "AND THEN UP TO (THE=) LEFT",
       "turn_index": 38,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2B",
@@ -423,7 +429,7 @@
       "end_time": 512.86,
       "utterance": "ON TOP OF THAT REINDEER THERE IS ONE MORE",
       "turn_index": 39,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5C",
@@ -431,7 +437,7 @@
       "end_time": 513.28,
       "utterance": "YEAH",
       "turn_index": 40,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2B",
@@ -439,7 +445,7 @@
       "end_time": 515.33,
       "utterance": "AND <THAT> THAT'S THE ONLY REINDEERS I HAVE",
       "turn_index": 41,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5C",
@@ -447,7 +453,7 @@
       "end_time": 518.87,
       "utterance": "I HAVE A THIRD REINDEER ON TOP OF THAT ONE TOO SO THEY'RE IN A LINE",
       "turn_index": 42,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U5C",
@@ -471,7 +477,7 @@
       "end_time": 517.29,
       "utterance": "OKAY",
       "turn_index": 43,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2B",
@@ -479,7 +485,7 @@
       "end_time": 518.84,
       "utterance": "WHERE IS THAT?",
       "turn_index": 44,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U5C",
@@ -487,7 +493,7 @@
       "end_time": 520.74,
       "utterance": "<%aa> EVEN HIGHER UP",
       "turn_index": 45,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2B",
@@ -495,7 +501,7 @@
       "end_time": 521.89,
       "utterance": "EVEN HIGHER",
       "turn_index": 46,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2B",
@@ -503,7 +509,7 @@
       "end_time": 523.340519257,
       "utterance": "CLOSE TO THE COTTAGES?",
       "turn_index": 47,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2B",
@@ -511,7 +517,7 @@
       "end_time": 524.83,
       "utterance": "DO YOU HAVE TWO COTTAGES?",
       "turn_index": 48,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U5C",
@@ -519,7 +525,7 @@
       "end_time": 526.45,
       "utterance": "I HAVE THREE COTTAGES",
       "turn_index": 49,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2B",
@@ -527,7 +533,7 @@
       "end_time": 528.67,
       "utterance": "THREE I HAVE TWO COTTAGES SO",
       "turn_index": 50,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2B",
@@ -535,7 +541,7 @@
       "end_time": 529.79,
       "utterance": "FROM THE",
       "turn_index": 51,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U5C",
@@ -543,7 +549,7 @@
       "end_time": 534.09,
       "utterance": "SO FROM YOUR FIRST <%aa> IF I SHOULD DESCRIBE IT MAYBE I SHOULDN'T I SHOULD",
       "turn_index": 52,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2B",
@@ -551,7 +557,7 @@
       "end_time": 537.52,
       "utterance": "YEAH <+ YOU CAN> I THINK YOU CAN IF IT IS MISSING",
       "turn_index": 53,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U2B",
@@ -568,7 +574,7 @@
       "end_time": 535.36,
       "utterance": "ONLY RECEIVE",
       "turn_index": 54,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U5C",
@@ -576,7 +582,7 @@
       "end_time": 543.35,
       "utterance": "SO <YOU> YOU DESCRIBED ONE REINDEER AND THEN A LITTLE BIT LEFT AND UP THERE'S ONE REINDEER AND THEN LEFT AND UP AGAIN",
       "turn_index": 55,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U5C",
@@ -584,7 +590,7 @@
       "end_time": 545.87,
       "utterance": "EQUAL DISTANCE THERE'S A THIRD REINDEER",
       "turn_index": 56,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U5C",
@@ -601,7 +607,7 @@
       "end_time": 548.76,
       "utterance": "OKAY SO <I> WE SHOULD THEN MISS (THE=) REINDEER IN THE MIDDLE",
       "turn_index": 57,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U5C",
@@ -609,7 +615,7 @@
       "end_time": 552.05,
       "utterance": "<%aa> OKAY",
       "turn_index": 58,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U5C",
@@ -626,7 +632,7 @@
       "end_time": 556.48,
       "utterance": "<PROBABLY THERE'S> CAUSE <THE> THE MIDDLE ONE IS MISSING FOR ME THEN BECAUSE THERE'S A GAP BETWEEN THE TWO OF THEM",
       "turn_index": 59,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U2B",
@@ -643,7 +649,7 @@
       "end_time": 557.89,
       "utterance": "<I SEE> I SEE SO IT'S THE MIDDLE ONE",
       "turn_index": 60,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2B",
@@ -651,7 +657,7 @@
       "end_time": 558.92,
       "utterance": "SO WE CLICK IN THE MIDDLE",
       "turn_index": 61,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U2B",
@@ -668,7 +674,7 @@
       "end_time": 558.39,
       "utterance": "CLICK",
       "turn_index": 62,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U5C",
@@ -676,7 +682,7 @@
       "end_time": 559.2,
       "utterance": "YEAH",
       "turn_index": 63,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2B",
@@ -684,7 +690,7 @@
       "end_time": 562.99,
       "utterance": "OKAY AND THEN YOU SAID YOU HAVE THREE COTTAGES",
       "turn_index": 64,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U2B",
@@ -701,7 +707,7 @@
       "end_time": 561.09,
       "utterance": "AND THEN",
       "turn_index": 65,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U5C",
@@ -709,7 +715,7 @@
       "end_time": 563.17,
       "utterance": "YEAH",
       "turn_index": 66,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2B",
@@ -717,7 +723,7 @@
       "end_time": 567.97,
       "utterance": "<%aa> I HAVE A SMALL ONE AND THEN <A> A BIGGER ONE UP ON THE HILL",
       "turn_index": 67,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U5C",
@@ -725,7 +731,7 @@
       "end_time": 572.17,
       "utterance": "AND THEN I HAVE ONE HERE FURTHER ALL THE WAY TO THE RIGHT",
       "turn_index": 68,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2B",
@@ -733,7 +739,7 @@
       "end_time": 575.79,
       "utterance": "ALL THE WAY TO RIGHT <THERE> THERE HAVE MY SMALL ONE",
       "turn_index": 69,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U5C",
@@ -741,7 +747,7 @@
       "end_time": 577.46,
       "utterance": "OKAY",
       "turn_index": 70,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U5C",
@@ -749,7 +755,7 @@
       "end_time": 580.65,
       "utterance": "SO YOU HAVE A SMALL ONE ALL THE WAY TO THE RIGHT THEN YOU HAVE A BIG ONE UP THE HILL",
       "turn_index": 71,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U5C",
@@ -757,7 +763,7 @@
       "end_time": 583.97,
       "utterance": "AND THEN AS A TRIANGLE IF YOU GO DOWN AGAIN SO",
       "turn_index": 72,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U5C",
@@ -774,7 +780,7 @@
       "end_time": 581.23,
       "utterance": "YEAH",
       "turn_index": 73,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U5C",
@@ -782,7 +788,7 @@
       "end_time": 586.56,
       "utterance": "DEAD MIDDLE OF THE PICTURE",
       "turn_index": 74,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2B",
@@ -790,7 +796,7 @@
       "end_time": 587.6,
       "utterance": "OKAY",
       "turn_index": 75,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U5C",
@@ -798,7 +804,7 @@
       "end_time": 587.99,
       "utterance": "THERE'S A",
       "turn_index": 76,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U5C",
@@ -806,7 +812,7 @@
       "end_time": 589.94,
       "utterance": "TINY AND EVEN SMALLER",
       "turn_index": 77,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2B",
@@ -814,7 +820,7 @@
       "end_time": 591.22,
       "utterance": "OKAY WE CLICK THERE",
       "turn_index": 78,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2B",
@@ -822,7 +828,7 @@
       "end_time": 592.25,
       "utterance": "AROUND THERE",
       "turn_index": 79,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U2B",
@@ -839,7 +845,7 @@
       "end_time": 593.01,
       "utterance": "DEAD MIDDLE OF THE PICTURE",
       "turn_index": 80,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2B",
@@ -847,7 +853,7 @@
       "end_time": 593.63,
       "utterance": "YEAH",
       "turn_index": 81,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2B",
@@ -855,7 +861,7 @@
       "end_time": 595.75,
       "utterance": "CLICK THERE",
       "turn_index": 82,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U5C",
@@ -863,7 +869,7 @@
       "end_time": 596.09,
       "utterance": "YEAH",
       "turn_index": 83,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2B",
@@ -871,7 +877,7 @@
       "end_time": 597.67,
       "utterance": "AND THEN <%aa>",
       "turn_index": 84,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2B",
@@ -879,7 +885,7 @@
       "end_time": 599.75,
       "utterance": "NEXT TO (THE=)",
       "turn_index": 85,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2B",
@@ -887,7 +893,7 @@
       "end_time": 602.68,
       "utterance": "LEFT OF THE REINDEER THE LAST ONE IN THE MIDDLE",
       "turn_index": 86,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2B",
@@ -895,7 +901,7 @@
       "end_time": 603.81,
       "utterance": "I HAVE TWO",
       "turn_index": 87,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2B",
@@ -903,7 +909,7 @@
       "end_time": 605.3,
       "utterance": "PEOPLE ON SKIS",
       "turn_index": 88,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5C",
@@ -911,7 +917,7 @@
       "end_time": 607.53,
       "utterance": "I DO TOO AND THEN ABOVE THEM I HAVE ONE",
       "turn_index": 89,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5C",
@@ -919,7 +925,7 @@
       "end_time": 608.5,
       "utterance": "SKIER ALSO",
       "turn_index": 90,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2B",
@@ -927,7 +933,7 @@
       "end_time": 610.133276404,
       "utterance": "OKAY NO I ONLY HAVE TWO",
       "turn_index": 91,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2B",
@@ -935,7 +941,7 @@
       "end_time": 611.071501417,
       "utterance": "SO THEN",
       "turn_index": 92,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U2B",
@@ -952,7 +958,7 @@
       "end_time": 610.77,
       "utterance": "OKAY",
       "turn_index": 93,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U5C",
@@ -960,7 +966,7 @@
       "end_time": 614.82,
       "utterance": "SO NEXT TO THE COTTAGE THAT WE CLICKED IN THE MIDDLE OF THE PICTURE",
       "turn_index": 94,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2B",
@@ -968,7 +974,7 @@
       "end_time": 615.25,
       "utterance": "YEAH",
       "turn_index": 95,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U2B",
@@ -985,7 +991,7 @@
       "end_time": 618.065897748,
       "utterance": "A LITTLE BIT TO THE LEFT OF THAT THERE'S A SKIER ALSO",
       "turn_index": 96,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U5C",
@@ -1002,7 +1008,7 @@
       "end_time": 619.68,
       "utterance": "A SKIER OKAY SO WE CLICK THERE",
       "turn_index": 97,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U2B",
@@ -1019,7 +1025,7 @@
       "end_time": 619.59,
       "utterance": "CLICK THERE",
       "turn_index": 98,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2B",
@@ -1027,7 +1033,7 @@
       "end_time": 626.39,
       "utterance": "<%aa> AND THEN ON TOP OF THESE GUYS I HAVE <(TWO=) <%eh>> (TWO=) <%eh>",
       "turn_index": 99,
-      "topic": ""
+      "topic": "describing picture"
     }
   ]
 }

@@ -1,5 +1,11 @@
 {
   "success": 0.4,
+  "instruction_giver": {
+    "id": "U3C"
+  },
+  "instruction_follower": {
+    "id": "U4B"
+  },
   "dialogue_duration": 200.10199999999895,
   "audio": {
     "ig": "U3C_0_winter.wav",
@@ -20,7 +26,7 @@
       "end_time": 325.93,
       "utterance": "SKIING SNOW",
       "turn_index": 1,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3C",
@@ -28,7 +34,7 @@
       "end_time": 330.76,
       "utterance": "DO YOU HAVE THREES SNOWMEN?",
       "turn_index": 2,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4B",
@@ -36,7 +42,7 @@
       "end_time": 332.78,
       "utterance": "YES I HAVE",
       "turn_index": 3,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3C",
@@ -44,7 +50,7 @@
       "end_time": 334.09,
       "utterance": "CAN YOU DESCRIBE THEM?",
       "turn_index": 4,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4B",
@@ -52,7 +58,7 @@
       "end_time": 336.92,
       "utterance": "WELL <%aa>",
       "turn_index": 5,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4B",
@@ -60,7 +66,7 @@
       "end_time": 345.51,
       "utterance": "<THEY ARE KIND OF <%aa>> <THE> THE CLOTHES ARE <YE-> YELLOW AND <%aa>",
       "turn_index": 6,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4B",
@@ -68,7 +74,7 @@
       "end_time": 349.73,
       "utterance": "LEGS AND BLUE ON THE UP SIDE",
       "turn_index": 7,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4B",
@@ -76,7 +82,7 @@
       "end_time": 354.61,
       "utterance": "AND <%aa> THEY ARE KIND OF TILT SO",
       "turn_index": 8,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U4B",
@@ -93,7 +99,7 @@
       "end_time": 351.76,
       "utterance": "ALL",
       "turn_index": 9,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4B",
@@ -101,7 +107,7 @@
       "end_time": 356.84,
       "utterance": "<%aa>",
       "turn_index": 10,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4B",
@@ -109,7 +115,7 @@
       "end_time": 362.17,
       "utterance": "I DON'T KNOW <THAT'S> THAT'S THE WHOLE THING THAT I CAN",
       "turn_index": 11,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4B",
@@ -117,7 +123,7 @@
       "end_time": 362.99,
       "utterance": "DESCRIBE",
       "turn_index": 12,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3C",
@@ -125,7 +131,7 @@
       "end_time": 365.08,
       "utterance": "<%aa> ARE THEY LOOKING TO THE LEFT",
       "turn_index": 13,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4B",
@@ -133,7 +139,7 @@
       "end_time": 368.19,
       "utterance": "<%aa> YES THEY'RE LOOKING TO THE LEFT",
       "turn_index": 14,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3C",
@@ -141,7 +147,7 @@
       "end_time": 371.91,
       "utterance": "<<%aa> MINE LIKE> ALL OF THEM HAVE LIKE RED HATS",
       "turn_index": 15,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4B",
@@ -149,7 +155,7 @@
       "end_time": 376.77,
       "utterance": "<%eh> NO <%aa> I HAVE ALL OF THEM BLACK",
       "turn_index": 16,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4B",
@@ -157,7 +163,7 @@
       "end_time": 378.38,
       "utterance": "<%aa> <%aa>",
       "turn_index": 17,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4B",
@@ -165,7 +171,7 @@
       "end_time": 379.78,
       "utterance": "<%aa>",
       "turn_index": 18,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U4B",
@@ -182,7 +188,7 @@
       "end_time": 379.85,
       "utterance": "THEN",
       "turn_index": 19,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3C",
@@ -190,7 +196,7 @@
       "end_time": 381.24,
       "utterance": "WE SHOULD CLICK ON THEIR HATS",
       "turn_index": 20,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4B",
@@ -198,7 +204,7 @@
       "end_time": 382.47,
       "utterance": "OKAY",
       "turn_index": 21,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3C",
@@ -206,7 +212,7 @@
       "end_time": 383.85,
       "utterance": "AND",
       "turn_index": 22,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3C",
@@ -214,7 +220,7 @@
       "end_time": 384.71,
       "utterance": "THE",
       "turn_index": 23,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3C",
@@ -222,7 +228,7 @@
       "end_time": 386.43,
       "utterance": "DOES NO ONE ON THE RIGHT HAS",
       "turn_index": 24,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3C",
@@ -230,7 +236,7 @@
       "end_time": 387.55,
       "utterance": "A GREEN SCARF?",
       "turn_index": 25,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4B",
@@ -238,7 +244,7 @@
       "end_time": 390.9,
       "utterance": "<%aa> ON THE RIGHT",
       "turn_index": 26,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4B",
@@ -246,7 +252,7 @@
       "end_time": 394.99,
       "utterance": "OKAY SO THEN YOU MAY CLICK THERE AS WELL",
       "turn_index": 27,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3C",
@@ -254,7 +260,7 @@
       "end_time": 398.82,
       "utterance": "AND THE OTHER TWO SNOWMEN HAVE RED SCARVES",
       "turn_index": 28,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4B",
@@ -262,7 +268,7 @@
       "end_time": 401.71,
       "utterance": "<%aa>",
       "turn_index": 29,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4B",
@@ -270,7 +276,7 @@
       "end_time": 404.8,
       "utterance": "NO IT'S BLUW FOR ME I THINK",
       "turn_index": 30,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3C",
@@ -278,7 +284,7 @@
       "end_time": 405.775015656,
       "utterance": "ALSO",
       "turn_index": 31,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3C",
@@ -286,7 +292,7 @@
       "end_time": 407.18,
       "utterance": "THEN THOSE TWO",
       "turn_index": 32,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3C",
@@ -302,7 +308,7 @@
       "end_time": 414.18,
       "utterance": "DO YOU HAVE <%aa>",
       "turn_index": 34,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3C",
@@ -310,7 +316,7 @@
       "end_time": 414.86,
       "utterance": "LIKE",
       "turn_index": 35,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3C",
@@ -318,7 +324,7 @@
       "end_time": 419.35,
       "utterance": "<TWO> TWO SLEIGHS <ON> ON THE <R-> RIGHT",
       "turn_index": 36,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3C",
@@ -326,7 +332,7 @@
       "end_time": 420.92,
       "utterance": "OF THE PICTURE",
       "turn_index": 37,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4B",
@@ -334,7 +340,7 @@
       "end_time": 427.96,
       "utterance": "<%aa> <S-> SORRY I THINK I MISS UNDERSTOOD",
       "turn_index": 38,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3C",
@@ -342,7 +348,7 @@
       "end_time": 429.12,
       "utterance": "OH IT",
       "turn_index": 39,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U3C",
@@ -359,7 +365,7 @@
       "end_time": 431.04,
       "utterance": "<%aa> THE HATS YOU SAID IS <%aa>",
       "turn_index": 40,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4B",
@@ -367,7 +373,7 @@
       "end_time": 436.3,
       "utterance": "<%aa> BUT I DON'T THINK <IT> THERE IS A POSSIBILITY TO CORRECT IT <%aa> ANYWAY",
       "turn_index": 41,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4B",
@@ -375,7 +381,7 @@
       "end_time": 438.2,
       "utterance": "SO WHAT DID YOU ASK?",
       "turn_index": 42,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3C",
@@ -383,7 +389,7 @@
       "end_time": 440.7,
       "utterance": "<IF THE> THERE ARE TWO <%aa> LIKE",
       "turn_index": 43,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3C",
@@ -391,7 +397,7 @@
       "end_time": 442.16,
       "utterance": "EMPTY SLEIGHS",
       "turn_index": 44,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3C",
@@ -399,7 +405,7 @@
       "end_time": 443.39,
       "utterance": "ON THE RIGHT OF PICTURE",
       "turn_index": 45,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4B",
@@ -407,7 +413,7 @@
       "end_time": 446.8,
       "utterance": "<%aa>",
       "turn_index": 46,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4B",
@@ -415,7 +421,7 @@
       "end_time": 449.11,
       "utterance": "<I> I HAVE THREE",
       "turn_index": 47,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4B",
@@ -423,7 +429,7 @@
       "end_time": 451.35,
       "utterance": "ANIMALS",
       "turn_index": 48,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3C",
@@ -431,7 +437,7 @@
       "end_time": 454.73,
       "utterance": "NO I MEAN SLEIGHS LIKE THE ONES <THAT> THAT ARE PULLED <BY> BY",
       "turn_index": 49,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3C",
@@ -439,7 +445,7 @@
       "end_time": 455.7,
       "utterance": "DOGS OR SOMETHING",
       "turn_index": 50,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4B",
@@ -447,7 +453,7 @@
       "end_time": 459.804808483,
       "utterance": "NO I DON'T HAVE SOMETHING LIKE THAT",
       "turn_index": 51,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3C",
@@ -455,7 +461,7 @@
       "end_time": 463.4,
       "utterance": "NO I HAVE TWO OF THOSE LIKE <ON> ON THE VERY LEFT",
       "turn_index": 52,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U3C",
@@ -472,7 +478,7 @@
       "end_time": 462.914514899,
       "utterance": "AH <%aa>",
       "turn_index": 53,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4B",
@@ -480,7 +486,7 @@
       "end_time": 465.63,
       "utterance": "SO ON (THE=) LEFT I HAVE ONE",
       "turn_index": 54,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4B",
@@ -488,7 +494,7 @@
       "end_time": 466.29,
       "utterance": "YEAH",
       "turn_index": 55,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4B",
@@ -496,7 +502,7 @@
       "end_time": 467.17,
       "utterance": "I FOUND IT YEAH",
       "turn_index": 56,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3C",
@@ -504,7 +510,7 @@
       "end_time": 469.59,
       "utterance": "AH OKAY I HAVE TWO",
       "turn_index": 57,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U3C",
@@ -521,7 +527,7 @@
       "end_time": 471.99,
       "utterance": "YEAH I HAVE ONE SO WHERE IS THE SECOND ONE?",
       "turn_index": 58,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3C",
@@ -529,7 +535,7 @@
       "end_time": 474.2,
       "utterance": "LIKE THE FIRST ONE",
       "turn_index": 59,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3C",
@@ -537,7 +543,7 @@
       "end_time": 475.53,
       "utterance": "IS",
       "turn_index": 60,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3C",
@@ -545,7 +551,7 @@
       "end_time": 479.26,
       "utterance": "<WHERE> WHERE THE LAND BEINGS <LIKE> LIKE VERY CLOSE TO THE TREES",
       "turn_index": 61,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3C",
@@ -553,7 +559,7 @@
       "end_time": 481.78,
       "utterance": "AND THE OTHER ONE IS RIGHT BELOW IT",
       "turn_index": 62,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4B",
@@ -561,7 +567,7 @@
       "end_time": 484.31,
       "utterance": "OKAY SO I CLICK THERE",
       "turn_index": 63,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3C",
@@ -569,7 +575,7 @@
       "end_time": 486.24,
       "utterance": "<%aa> WHICH ONE DO YOU CLICK?",
       "turn_index": 64,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4B",
@@ -577,7 +583,7 @@
       "end_time": 491.48,
       "utterance": "<<%aa> THE> <I> I SEE THE ONE <%aa> CLOSE TO THE THREE",
       "turn_index": 65,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3C",
@@ -585,7 +591,7 @@
       "end_time": 492.51,
       "utterance": "OKAY",
       "turn_index": 66,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3C",
@@ -593,7 +599,7 @@
       "end_time": 495.06,
       "utterance": "SO RIGHT BELOW IT",
       "turn_index": 67,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3C",
@@ -601,7 +607,7 @@
       "end_time": 499.71,
       "utterance": "DO YOU SEE TWO OLYMPICS",
       "turn_index": 68,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3C",
@@ -609,7 +615,7 @@
       "end_time": 501.740848805,
       "utterance": "<SKI> SKIING PERSONS",
       "turn_index": 69,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3C",
@@ -617,7 +623,7 @@
       "end_time": 503.24,
       "utterance": "TO THE RIGHT OF THE SLEIGH",
       "turn_index": 70,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4B",
@@ -625,7 +631,7 @@
       "end_time": 504.75,
       "utterance": "YES",
       "turn_index": 71,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4B",
@@ -633,7 +639,7 @@
       "end_time": 507.06,
       "utterance": "THERE ARE THREE PEOPLE",
       "turn_index": 72,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3C",
@@ -641,7 +647,7 @@
       "end_time": 509.2,
       "utterance": "I ONLY HAVE TWO PEOPLE",
       "turn_index": 73,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4B",
@@ -649,7 +655,7 @@
       "end_time": 511.37,
       "utterance": "OKAY SO",
       "turn_index": 74,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4B",
@@ -665,7 +671,7 @@
       "end_time": 516.09,
       "utterance": "HOW ARE THEY ARRANGED?",
       "turn_index": 76,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4B",
@@ -673,7 +679,7 @@
       "end_time": 518.77,
       "utterance": "ONE IS ON (THE=) TOP",
       "turn_index": 77,
-      "topic": ""
+      "topic": "finding difference"
     }
   ]
 }

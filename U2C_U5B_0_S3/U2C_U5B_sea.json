@@ -1,5 +1,11 @@
 {
   "success": 0.75,
+  "instruction_giver": {
+    "id": "U2C"
+  },
+  "instruction_follower": {
+    "id": "U5B"
+  },
   "dialogue_duration": 200.10299999999552,
   "audio": {
     "ig": "U2C_0_sea.wav",
@@ -12,7 +18,7 @@
       "end_time": 161.96,
       "utterance": "YEAH ALRIGHT",
       "turn_index": 0,
-      "topic": ""
+      "topic": "checking readiness"
     },
     {
       "speaker": "U2C",
@@ -20,7 +26,7 @@
       "end_time": 162.7,
       "utterance": "OKAY",
       "turn_index": 1,
-      "topic": ""
+      "topic": "checking readiness"
     },
     {
       "speaker": "U5B",
@@ -28,7 +34,7 @@
       "end_time": 163.18,
       "utterance": "GO AHED",
       "turn_index": 2,
-      "topic": ""
+      "topic": "checking readiness"
     },
     {
       "speaker": "U2C",
@@ -36,7 +42,7 @@
       "end_time": 164.46,
       "utterance": "HERE WE ARE",
       "turn_index": 3,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2C",
@@ -44,7 +50,7 @@
       "end_time": 166.72,
       "utterance": "SO AM I GIVING INSTRUCTIONS JOSE?",
       "turn_index": 4,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5B",
@@ -52,7 +58,7 @@
       "end_time": 167.79,
       "utterance": "I GUESS",
       "turn_index": 5,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2C",
@@ -60,7 +66,7 @@
       "end_time": 170.26,
       "utterance": "OKAY SO I SEE ON THE",
       "turn_index": 6,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2C",
@@ -68,7 +74,7 @@
       "end_time": 171.34,
       "utterance": "<%ahm>",
       "turn_index": 7,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2C",
@@ -76,7 +82,7 @@
       "end_time": 172.38,
       "utterance": "LEFT HAND",
       "turn_index": 8,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2C",
@@ -84,7 +90,7 @@
       "end_time": 175.92,
       "utterance": "UPPER CORNER I SEE TWO OCTOPUSES IN PINK",
       "turn_index": 9,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5B",
@@ -92,7 +98,7 @@
       "end_time": 177.43,
       "utterance": "<%mm> THREE",
       "turn_index": 10,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2C",
@@ -100,7 +106,7 @@
       "end_time": 180.28,
       "utterance": "IS IT THREE WHERE IS YOUR THIRD MINE ARE",
       "turn_index": 11,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2C",
@@ -108,7 +114,7 @@
       "end_time": 182.77,
       "utterance": "<TO <%aa>> DOWN TO THE RIGHT",
       "turn_index": 12,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U2C",
@@ -125,7 +131,7 @@
       "end_time": 183.69,
       "utterance": "<THEY MAKE> <THEY MAKE A PYRAMID> THEY MAKE A PYRAMID",
       "turn_index": 13,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2C",
@@ -133,7 +139,7 @@
       "end_time": 189.44,
       "utterance": "SO OKAY <%aa> ON <THE> <THE> THE BOTTOM LEFT CORNER I'M MISSING ONE SO WE SHOULD CLICK THERE",
       "turn_index": 14,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U2C",
@@ -150,7 +156,7 @@
       "end_time": 188.9,
       "utterance": "YEAH",
       "turn_index": 15,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U5B",
@@ -158,7 +164,7 @@
       "end_time": 189.83,
       "utterance": "YEAH",
       "turn_index": 16,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U5B",
@@ -166,7 +172,7 @@
       "end_time": 190.51,
       "utterance": "DONE",
       "turn_index": 17,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2C",
@@ -174,7 +180,7 @@
       "end_time": 193.3,
       "utterance": "OKAY THEN I SEE TWO SEA HORSES",
       "turn_index": 18,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5B",
@@ -182,7 +188,7 @@
       "end_time": 194.03,
       "utterance": "YES",
       "turn_index": 19,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U5B",
@@ -199,7 +205,7 @@
       "end_time": 194.38,
       "utterance": "ORANGE",
       "turn_index": 20,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U5B",
@@ -207,7 +213,7 @@
       "end_time": 194.86,
       "utterance": "YES",
       "turn_index": 21,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2C",
@@ -215,7 +221,7 @@
       "end_time": 198.26,
       "utterance": "<%aa> ONE IS FACING LEFT AND THE OTHER ONE IS FACING RIGHT",
       "turn_index": 22,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U5B",
@@ -223,7 +229,7 @@
       "end_time": 199.51,
       "utterance": "BOTH ARE FACING LEFT",
       "turn_index": 23,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2C",
@@ -231,7 +237,7 @@
       "end_time": 204.27,
       "utterance": "<%aa> <SO WHICH ONE IS FACING <%aa>> SO MY <SORRY> MY",
       "turn_index": 24,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2C",
@@ -239,7 +245,7 @@
       "end_time": 206.72,
       "utterance": "LEFT UPPER ONE IS FACING",
       "turn_index": 25,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2C",
@@ -247,7 +253,7 @@
       "end_time": 207.56,
       "utterance": "LEFT",
       "turn_index": 26,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U5B",
@@ -255,7 +261,7 @@
       "end_time": 208.1,
       "utterance": "YEAH",
       "turn_index": 27,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U5B",
@@ -272,7 +278,7 @@
       "end_time": 210.26,
       "utterance": "BUT <THE> THE ONE LOWER DOWN IS FACING RIGHT",
       "turn_index": 28,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U5B",
@@ -280,7 +286,7 @@
       "end_time": 211.14,
       "utterance": "OKAY CLICK THAT ONE",
       "turn_index": 29,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2C",
@@ -288,7 +294,7 @@
       "end_time": 211.57,
       "utterance": "OKAY",
       "turn_index": 30,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2C",
@@ -296,7 +302,7 @@
       "end_time": 216.45,
       "utterance": "THEN <%aa> NEXT TO THAT SEAHORSE THERE'S ONE TWO THREE FOUR FIVE SIX BUBBLES",
       "turn_index": 31,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5B",
@@ -304,7 +310,7 @@
       "end_time": 216.66,
       "utterance": "YEAH",
       "turn_index": 32,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2C",
@@ -312,7 +318,7 @@
       "end_time": 217.54,
       "utterance": "OKAY",
       "turn_index": 33,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2C",
@@ -320,7 +326,7 @@
       "end_time": 218.89,
       "utterance": "<%aa> THEN",
       "turn_index": 34,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2C",
@@ -328,7 +334,7 @@
       "end_time": 222.32,
       "utterance": "TO THE RIGHT UPPER CORNER I SEE TWO SHARKS",
       "turn_index": 35,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5B",
@@ -336,7 +342,7 @@
       "end_time": 224.5,
       "utterance": "YEAH THE TOP ONE IS BLUE AND THE BOTTOM ONE GREEN",
       "turn_index": 36,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2C",
@@ -344,7 +350,7 @@
       "end_time": 228.24,
       "utterance": "<%aa> <YEAH BLUE AND <%aa> NO> BLUE AND GRAY IN MINE",
       "turn_index": 37,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U5B",
@@ -352,7 +358,7 @@
       "end_time": 231.34,
       "utterance": "GREEN THE BOTTOM OKAY SO THE BOTTOM ONE SHOULD BE CLICKED",
       "turn_index": 38,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2C",
@@ -360,7 +366,7 @@
       "end_time": 232.48,
       "utterance": "IN BOTH OF THEM?",
       "turn_index": 39,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U5B",
@@ -368,7 +374,7 @@
       "end_time": 235.64,
       "utterance": "NO THE TOP PART IS BLUE THE BOTTOM ONE IS GREEN",
       "turn_index": 40,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2C",
@@ -376,7 +382,7 @@
       "end_time": 237.24,
       "utterance": "OH SORRY",
       "turn_index": 41,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U2C",
@@ -393,7 +399,7 @@
       "end_time": 238.49,
       "utterance": "OH <THEY> THEY BOTH HAVE GRAT BELLIES",
       "turn_index": 42,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2C",
@@ -401,7 +407,7 @@
       "end_time": 242.92,
       "utterance": "YEAH GRAY BELLIES BUT THE UPPER PART OKAY SO YOUR LOWER ONE THE UPPER PART IS GREEN",
       "turn_index": 43,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U5B",
@@ -409,7 +415,7 @@
       "end_time": 243.23,
       "utterance": "YEAH",
       "turn_index": 44,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2C",
@@ -417,7 +423,7 @@
       "end_time": 244.46,
       "utterance": "SO WE CLICK ON THAT ONE",
       "turn_index": 45,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2C",
@@ -425,7 +431,7 @@
       "end_time": 247.46,
       "utterance": "AND THEN THERE'S THREE JELLYFISH IN MINE",
       "turn_index": 46,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U2C",
@@ -442,7 +448,7 @@
       "end_time": 247.53,
       "utterance": "TWO",
       "turn_index": 47,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2C",
@@ -450,7 +456,7 @@
       "end_time": 254.5,
       "utterance": "OKAY <<%aa> MINE ARE <%ahm>> THE THREE OF THEM ARE UNDERNEATH <THE> <%aa> THE SHARKS",
       "turn_index": 48,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U5B",
@@ -458,7 +464,7 @@
       "end_time": 254.98,
       "utterance": "YEAH",
       "turn_index": 49,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2C",
@@ -466,7 +472,7 @@
       "end_time": 260.64,
       "utterance": "SO THERE SHOULD BE A GAP <IN> IN YOUR SO WHICH ONE IS EMPTY TO THE RIGHT OR TO THE LEFT?",
       "turn_index": 50,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U2C",
@@ -483,7 +489,7 @@
       "end_time": 260.68,
       "utterance": "<THERE IS NO>",
       "turn_index": 51,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U5B",
@@ -491,7 +497,7 @@
       "end_time": 265.57,
       "utterance": "THERE IS NOT A GAP THERE UP THIRD THEM NEXT TO EACH OTHER BUT I I GUESS TO THE RIGHT AND THERE'S ONE MISSING TO THE RIGHT",
       "turn_index": 52,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2C",
@@ -499,7 +505,7 @@
       "end_time": 266.67,
       "utterance": "SO RIGHT",
       "turn_index": 53,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2C",
@@ -507,7 +513,7 @@
       "end_time": 269.2,
       "utterance": "BELOW THE SHARK TO THE RIGHT THERE'S NO",
       "turn_index": 54,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U2C",
@@ -524,7 +530,7 @@
       "end_time": 269.71,
       "utterance": "YEAH YEAH YEAH",
       "turn_index": 55,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U5B",
@@ -541,7 +547,7 @@
       "end_time": 270.74,
       "utterance": "OKAY SO WE GET THERE",
       "turn_index": 56,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U5B",
@@ -549,7 +555,7 @@
       "end_time": 270.97,
       "utterance": "YEAH",
       "turn_index": 57,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2C",
@@ -557,7 +563,7 @@
       "end_time": 273.92,
       "utterance": "AND THERE'S ONE TWO THREE FOUR FIVE SIX SEVEN BUBBLES AGAIN",
       "turn_index": 58,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U5B",
@@ -565,7 +571,7 @@
       "end_time": 274.64,
       "utterance": "NO SIX",
       "turn_index": 59,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U5B",
@@ -582,7 +588,7 @@
       "end_time": 275.52,
       "utterance": "NO SIX BOTTLES SORRY",
       "turn_index": 60,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U2C",
@@ -599,7 +605,7 @@
       "end_time": 276.78,
       "utterance": "SAME ASSIGNMENTS FOR THEM",
       "turn_index": 61,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2C",
@@ -607,7 +613,7 @@
       "end_time": 277.28,
       "utterance": "OKAY",
       "turn_index": 62,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2C",
@@ -615,7 +621,7 @@
       "end_time": 280.87,
       "utterance": "AND THEN THERE'S A TINY CROP ARE ON THE LOWER",
       "turn_index": 63,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U2C",
@@ -632,7 +638,7 @@
       "end_time": 281.45,
       "utterance": "YELLOW ON THE BOTTOM",
       "turn_index": 64,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2C",
@@ -640,7 +646,7 @@
       "end_time": 283.48,
       "utterance": "YOU SEE THAT ONE DEAD AT ORANGE",
       "turn_index": 65,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U2C",
@@ -657,7 +663,7 @@
       "end_time": 283.08,
       "utterance": "YEAH",
       "turn_index": 66,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5B",
@@ -665,7 +671,7 @@
       "end_time": 289.43,
       "utterance": "WELL IT'S SIMILAR TO THE RIGHT AND THERE'S AN ORANGE REDDISH ONE TO THE LEFT OR OR MOST CENTRAL THE PICTURE",
       "turn_index": 67,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2C",
@@ -673,7 +679,7 @@
       "end_time": 291.11,
       "utterance": "YEAH SO <THAT> THAT SHOULD BE FINE",
       "turn_index": 68,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U5B",
@@ -681,7 +687,7 @@
       "end_time": 291.4,
       "utterance": "YEAH",
       "turn_index": 69,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U5B",
@@ -698,7 +704,7 @@
       "end_time": 294.78,
       "utterance": "THEN <%aa> THERE'S ONE TWO THREE CORALS",
       "turn_index": 70,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U2C",
@@ -715,7 +721,7 @@
       "end_time": 294.91,
       "utterance": "YEAH",
       "turn_index": 71,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5B",
@@ -723,7 +729,7 @@
       "end_time": 299.15,
       "utterance": "BLUE TO THE LEFT PINK IN THE MIDDLE AND YELLOWISH A LITTLE BIT TO THE RIGHT",
       "turn_index": 72,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U5B",
@@ -747,7 +753,7 @@
       "end_time": 296.04,
       "utterance": "BLUE",
       "turn_index": 73,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2C",
@@ -755,7 +761,7 @@
       "end_time": 297.61,
       "utterance": "YEAH",
       "turn_index": 74,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2C",
@@ -763,7 +769,7 @@
       "end_time": 299.47,
       "utterance": "YEAH",
       "turn_index": 75,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2C",
@@ -771,7 +777,7 @@
       "end_time": 304.0,
       "utterance": "AND THEN THERE'S ONE TWO THREE FOUR <+ ALGAE> KIND OF GREEN ALGAE",
       "turn_index": 76,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U2C",
@@ -788,7 +794,7 @@
       "end_time": 303.05,
       "utterance": "YEAH",
       "turn_index": 77,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5B",
@@ -796,7 +802,7 @@
       "end_time": 304.3,
       "utterance": "YEAH",
       "turn_index": 78,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2C",
@@ -804,7 +810,7 @@
       "end_time": 308.77,
       "utterance": "<%aa> THE ONE TO THE LEFT IS DOUBLE THEN THERE'S ONE WITH RELIEFS",
       "turn_index": 79,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U2C",
@@ -821,7 +827,7 @@
       "end_time": 307.58,
       "utterance": "YEAH",
       "turn_index": 80,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U5B",
@@ -829,7 +835,7 @@
       "end_time": 308.86,
       "utterance": "YEAH",
       "turn_index": 81,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2C",
@@ -837,7 +843,7 @@
       "end_time": 310.58,
       "utterance": "ONE LEAF TWO LEAVES",
       "turn_index": 82,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U2C",
@@ -854,7 +860,7 @@
       "end_time": 310.98,
       "utterance": "YES",
       "turn_index": 83,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2C",
@@ -862,7 +868,7 @@
       "end_time": 313.62,
       "utterance": "OKAY I HAVE THREE STONES ONE BEHIND THE BLUE CORAL",
       "turn_index": 84,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U2C",
@@ -879,7 +885,7 @@
       "end_time": 311.75,
       "utterance": "THAT'S RIGHT",
       "turn_index": 85,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5B",
@@ -887,7 +893,7 @@
       "end_time": 314.42,
       "utterance": "WHAT?",
       "turn_index": 86,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5B",
@@ -895,7 +901,7 @@
       "end_time": 315.96,
       "utterance": "OH STONES YES YES YES",
       "turn_index": 87,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U5B",
@@ -912,7 +918,7 @@
       "end_time": 316.06,
       "utterance": "I HAVE A STONE",
       "turn_index": 88,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5B",
@@ -920,7 +926,7 @@
       "end_time": 318.31,
       "utterance": "<%aa> I THINK I HAVE ONE TWO THREE FOUR",
       "turn_index": 89,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5B",
@@ -928,7 +934,7 @@
       "end_time": 319.74,
       "utterance": "FIVE SIX STONES",
       "turn_index": 90,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2C",
@@ -936,7 +942,7 @@
       "end_time": 322.78,
       "utterance": "ONE TWO THREE FOUR FIVE SIX STONES TO MINE AS WELL",
       "turn_index": 91,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2C",
@@ -944,7 +950,7 @@
       "end_time": 325.71,
       "utterance": "DO YOU SEE THAT SHAPE <OF A> OF A CORAL BEHIND THE BLUE",
       "turn_index": 92,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5B",
@@ -952,7 +958,7 @@
       "end_time": 326.38,
       "utterance": "YES",
       "turn_index": 93,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U5B",
@@ -969,7 +975,7 @@
       "end_time": 327.05,
       "utterance": "STONE OKAY",
       "turn_index": 94,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2C",
@@ -977,7 +983,7 @@
       "end_time": 328.09,
       "utterance": "SO",
       "turn_index": 95,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U2C",
@@ -994,7 +1000,7 @@
       "end_time": 331.54,
       "utterance": "AND THE SHAPE OF TWO MORE LEAVES BEHIND THE RIGHTMOST STONE",
       "turn_index": 96,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5B",
@@ -1002,7 +1008,7 @@
       "end_time": 332.4,
       "utterance": "OR ROCK",
       "turn_index": 97,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U5B",
@@ -1019,7 +1025,7 @@
       "end_time": 339.88,
       "utterance": "OKAY <BUT I ALSO SEE> <SO I SHOULD BE <%mm>> BEHIND <THE> THE ONE WITH TWO LEAVES TO THEIR LEFT I SEE A SHADE",
       "turn_index": 98,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U2C",
@@ -1036,7 +1042,7 @@
       "end_time": 339.3,
       "utterance": "YES",
       "turn_index": 99,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2C",
@@ -1044,7 +1050,7 @@
       "end_time": 341.38,
       "utterance": "OF ONE WITH THREE LEAVES",
       "turn_index": 100,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U2C",
@@ -1061,7 +1067,7 @@
       "end_time": 341.5,
       "utterance": "YEAH",
       "turn_index": 101,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2C",
@@ -1069,7 +1075,7 @@
       "end_time": 345.7,
       "utterance": "AND THEN I SEE <%aa> A SHADE WITH <%aa> TWO LEAVES BY THE PINK",
       "turn_index": 102,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U2C",
@@ -1086,7 +1092,7 @@
       "end_time": 345.91,
       "utterance": "YEAH",
       "turn_index": 103,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2C",
@@ -1094,7 +1100,7 @@
       "end_time": 352.89,
       "utterance": "AND THEN I SEE <%aa> ANOTHER ONE SHADE WITH TWO LEAVES <BY> TO THE RIGHT OF THE ORANGE CORAL",
       "turn_index": 104,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U2C",
@@ -1111,7 +1117,7 @@
       "end_time": 353.23,
       "utterance": "YES",
       "turn_index": 105,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2C",
@@ -1119,7 +1125,7 @@
       "end_time": 355.72,
       "utterance": "AND BEHIND (THE=)",
       "turn_index": 106,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2C",
@@ -1127,7 +1133,7 @@
       "end_time": 358.47,
       "utterance": "<%aa> RIGHT STONE THERE'S",
       "turn_index": 107,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2C",
@@ -1135,7 +1141,7 @@
       "end_time": 361.06,
       "utterance": "<TWO MORE LIKE> TWO LEAVES <%eh> SHADE",
       "turn_index": 108,
-      "topic": ""
+      "topic": "describing picture"
     }
   ]
 }

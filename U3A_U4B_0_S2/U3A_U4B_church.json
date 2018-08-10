@@ -1,5 +1,11 @@
 {
   "success": 0.6666666666666666,
+  "instruction_giver": {
+    "id": "U3A"
+  },
+  "instruction_follower": {
+    "id": "U4B"
+  },
   "dialogue_duration": 200.10399999999936,
   "audio": {
     "ig": "U3A_0_church.wav",
@@ -12,7 +18,7 @@
       "end_time": 254.93,
       "utterance": "OKAY I HAVE <%aa>",
       "turn_index": 0,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3A",
@@ -20,7 +26,7 @@
       "end_time": 256.07,
       "utterance": "TWO",
       "turn_index": 1,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3A",
@@ -28,7 +34,7 @@
       "end_time": 258.67,
       "utterance": "BUILDINGS I THINK IT'S CHURCH",
       "turn_index": 2,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4B",
@@ -36,7 +42,7 @@
       "end_time": 267.62,
       "utterance": "ONE IS CHURCH THE OTHER ONE I'M NOT SURE BECAUSE THERE IS NO SIGN OF THE CHURCH IN THE TOP",
       "turn_index": 3,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3A",
@@ -44,7 +50,7 @@
       "end_time": 269.14,
       "utterance": "<%aa> SUN?",
       "turn_index": 4,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4B",
@@ -52,7 +58,7 @@
       "end_time": 270.84,
       "utterance": "<+ SIGN> A SIGN",
       "turn_index": 5,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4B",
@@ -60,7 +66,7 @@
       "end_time": 275.51,
       "utterance": "YOU KNOW THERE IS A SIGN LIKE <%aa> PLUS SIGN",
       "turn_index": 6,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3A",
@@ -68,7 +74,7 @@
       "end_time": 277.83097201,
       "utterance": "I DON'T KNOW WHAT IS IT",
       "turn_index": 7,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U3A",
@@ -85,7 +91,7 @@
       "end_time": 276.98,
       "utterance": "<%aa>",
       "turn_index": 8,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4B",
@@ -93,7 +99,7 @@
       "end_time": 280.67,
       "utterance": "<%aa> IN THE TOP OF THE BUILDING",
       "turn_index": 9,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3A",
@@ -101,7 +107,7 @@
       "end_time": 281.71,
       "utterance": "OH YEAH YEAH YEAH",
       "turn_index": 10,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4B",
@@ -109,7 +115,7 @@
       "end_time": 285.81,
       "utterance": "DO YOU HAVE THE SIGN IN BOTH BUILDINGS OR",
       "turn_index": 11,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U4B",
@@ -126,7 +132,7 @@
       "end_time": 287.21,
       "utterance": "NO I DON'T HAVE ANY SIGN",
       "turn_index": 12,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4B",
@@ -134,7 +140,7 @@
       "end_time": 289.56,
       "utterance": "YOU DON'T HAVE SO FOR THE",
       "turn_index": 13,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4B",
@@ -142,7 +148,7 @@
       "end_time": 290.82,
       "utterance": "<%aa>",
       "turn_index": 14,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4B",
@@ -150,7 +156,7 @@
       "end_time": 295.32,
       "utterance": "<<LE-> <%aa> <%eh>> THE ONE WHICH IS ON THE LEFT",
       "turn_index": 15,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4B",
@@ -158,7 +164,7 @@
       "end_time": 297.91,
       "utterance": "CLICK ON THE TOP OF THE",
       "turn_index": 16,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U4B",
@@ -175,7 +181,7 @@
       "end_time": 296.09,
       "utterance": "YEAH",
       "turn_index": 17,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4B",
@@ -183,7 +189,7 @@
       "end_time": 299.18,
       "utterance": "<BUIL-> BUILDING",
       "turn_index": 18,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3A",
@@ -191,7 +197,7 @@
       "end_time": 300.52,
       "utterance": "OKAY I CLICK",
       "turn_index": 19,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3A",
@@ -199,7 +205,7 @@
       "end_time": 302.52,
       "utterance": "<%aa> I HAVE <%aa>",
       "turn_index": 20,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3A",
@@ -207,7 +213,7 @@
       "end_time": 306.48,
       "utterance": "TWO BLUE CLOUDS UNDER",
       "turn_index": 21,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U3A",
@@ -224,7 +230,7 @@
       "end_time": 307.94,
       "utterance": "I HAVE THREE CLOUDS",
       "turn_index": 22,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3A",
@@ -232,7 +238,7 @@
       "end_time": 308.8,
       "utterance": "THREE CLOUDS",
       "turn_index": 23,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3A",
@@ -240,7 +246,7 @@
       "end_time": 309.65,
       "utterance": "OKAY",
       "turn_index": 24,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3A",
@@ -248,7 +254,7 @@
       "end_time": 312.05,
       "utterance": "I HAVE ONE CLOUD <%aa>",
       "turn_index": 25,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3A",
@@ -256,7 +262,7 @@
       "end_time": 313.7,
       "utterance": "NEAR THE LEFT SIDE",
       "turn_index": 26,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3A",
@@ -264,7 +270,7 @@
       "end_time": 315.82,
       "utterance": "AND ONE CLOUD <%aa>",
       "turn_index": 27,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4B",
@@ -272,7 +278,7 @@
       "end_time": 316.99,
       "utterance": "IN THE MIDDLE",
       "turn_index": 28,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3A",
@@ -280,7 +286,7 @@
       "end_time": 318.25,
       "utterance": "<%aa> NO NO NO",
       "turn_index": 29,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3A",
@@ -288,7 +294,7 @@
       "end_time": 319.27,
       "utterance": "<%aa>",
       "turn_index": 30,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3A",
@@ -296,7 +302,7 @@
       "end_time": 321.34,
       "utterance": "<%aa>",
       "turn_index": 31,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3A",
@@ -304,7 +310,7 @@
       "end_time": 326.5,
       "utterance": "<LEFT <S-> <%aa>> NEAR THE LEFT <%aa>",
       "turn_index": 32,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3A",
@@ -312,7 +318,7 @@
       "end_time": 327.93,
       "utterance": "RED BUILDINGS",
       "turn_index": 33,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3A",
@@ -320,7 +326,7 @@
       "end_time": 329.93,
       "utterance": "<%aa> <RIGHT~> <%aa> RIGHT SIDE",
       "turn_index": 34,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U3A",
@@ -337,7 +343,7 @@
       "end_time": 328.82,
       "utterance": "YEAH YEAH",
       "turn_index": 35,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4B",
@@ -345,7 +351,7 @@
       "end_time": 336.8,
       "utterance": "YEAH SO YOU'LL HAVE ONE ON (THE=) RIGHT AND THE OTHER ONE THE LEFT OF THE BUILDING",
       "turn_index": 36,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U4B",
@@ -362,7 +368,7 @@
       "end_time": 337.47,
       "utterance": "<Y-> YEAH YEAH YEAH",
       "turn_index": 37,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4B",
@@ -370,7 +376,7 @@
       "end_time": 343.52,
       "utterance": "OKAY SO THEN THE YOU'LL HAVE TO CLICK ON THEIR CORNER OF THE IMAGE",
       "turn_index": 38,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4B",
@@ -378,7 +384,7 @@
       "end_time": 350.99,
       "utterance": "<ALMOST THE CORNER ON THE TOP OF THE> IF YOU FIND (THE=) CLOUDS ON (THE=) LEFT SIDE",
       "turn_index": 39,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3A",
@@ -386,7 +392,7 @@
       "end_time": 351.96,
       "utterance": "YES",
       "turn_index": 40,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U3A",
@@ -403,7 +409,7 @@
       "end_time": 356.02,
       "utterance": "THEN CLICK ON TOP OF THAT BECAUSE I HAVE ONE MORE CLOUDS THERE",
       "turn_index": 41,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3A",
@@ -411,7 +417,7 @@
       "end_time": 359.1,
       "utterance": "OKAY I CLICK ONE TWO THREE I CLICK",
       "turn_index": 42,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U3A",
@@ -428,7 +434,7 @@
       "end_time": 359.25,
       "utterance": "YEAH",
       "turn_index": 43,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3A",
@@ -436,7 +442,7 @@
       "end_time": 361.74,
       "utterance": "I HAVE ONE <%aa> BLACK BIRD",
       "turn_index": 44,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4B",
@@ -444,7 +450,7 @@
       "end_time": 363.27,
       "utterance": "YEAH YEAH",
       "turn_index": 45,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3A",
@@ -452,7 +458,7 @@
       "end_time": 364.240426874,
       "utterance": "IN THE MIDDLE",
       "turn_index": 46,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3A",
@@ -460,7 +466,7 @@
       "end_time": 364.88,
       "utterance": "YOU HAVE?",
       "turn_index": 47,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U3A",
@@ -477,7 +483,7 @@
       "end_time": 368.18,
       "utterance": "IN THE MIDDLE FLYING <%aa> TOWARD THE RIGHT",
       "turn_index": 48,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3A",
@@ -485,7 +491,7 @@
       "end_time": 369.4,
       "utterance": "YEAH YEAH YEAH YEAH",
       "turn_index": 49,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3A",
@@ -493,7 +499,7 @@
       "end_time": 371.84,
       "utterance": "I HAVE ONE COW",
       "turn_index": 50,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4B",
@@ -501,7 +507,7 @@
       "end_time": 373.86,
       "utterance": "I HAVE TWO COWS",
       "turn_index": 51,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U4B",
@@ -518,7 +524,7 @@
       "end_time": 373.06,
       "utterance": "<%aa>",
       "turn_index": 52,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3A",
@@ -526,7 +532,7 @@
       "end_time": 375.56,
       "utterance": "TWO COW WHERE IS YOUR",
       "turn_index": 53,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4B",
@@ -534,7 +540,7 @@
       "end_time": 384.79,
       "utterance": "<%aa> BOTH ARE IN THE MIDDLE BETWEEN TWO BUILDINGS ONE IS NEAR TO THE LEFT AND THE OTHER ONE IS NEAR TO THE RIGHT",
       "turn_index": 54,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U4B",
@@ -551,7 +557,7 @@
       "end_time": 377.19,
       "utterance": "SECOND COW",
       "turn_index": 55,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4B",
@@ -559,7 +565,7 @@
       "end_time": 385.62,
       "utterance": "BUILDING",
       "turn_index": 56,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U4B",
@@ -576,7 +582,7 @@
       "end_time": 385.53575659,
       "utterance": "YEAH",
       "turn_index": 57,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3A",
@@ -584,7 +590,7 @@
       "end_time": 386.87,
       "utterance": "OKAY I CLICK",
       "turn_index": 58,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3A",
@@ -592,7 +598,7 @@
       "end_time": 387.62,
       "utterance": "OH",
       "turn_index": 59,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4B",
@@ -600,7 +606,7 @@
       "end_time": 389.41,
       "utterance": "WHICH ONE ARE YOU MISSING",
       "turn_index": 60,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3A",
@@ -608,7 +614,7 @@
       "end_time": 391.25,
       "utterance": "I MISSING COW",
       "turn_index": 61,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3A",
@@ -616,7 +622,7 @@
       "end_time": 393.15,
       "utterance": "<%aa> NEAR RED BUILDING",
       "turn_index": 62,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4B",
@@ -624,7 +630,7 @@
       "end_time": 395.8,
       "utterance": "NEAR",
       "turn_index": 63,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4B",
@@ -632,7 +638,7 @@
       "end_time": 400.29,
       "utterance": "BUT FOR ME THE BOTH BUILDINGS ARE RED EXCEPT <%aa>",
       "turn_index": 64,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U4B",
@@ -649,7 +655,7 @@
       "end_time": 401.62,
       "utterance": "OKAY I HAVE <%aa>",
       "turn_index": 65,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U3A",
@@ -666,7 +672,7 @@
       "end_time": 402.56,
       "utterance": "WINDOW WHICH IS YELLOW",
       "turn_index": 66,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U4B",
@@ -683,7 +689,7 @@
       "end_time": 405.14,
       "utterance": "<BIGGER> BIGGER BUILDING <%aa> RED",
       "turn_index": 67,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U3A",
@@ -700,7 +706,7 @@
       "end_time": 405.12,
       "utterance": "BIGGER BUILDING",
       "turn_index": 68,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3A",
@@ -708,7 +714,7 @@
       "end_time": 406.47,
       "utterance": "SMALLER BUILDING",
       "turn_index": 69,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3A",
@@ -716,7 +722,7 @@
       "end_time": 408.04,
       "utterance": "I HAVE <YELLOW> YELLOW",
       "turn_index": 70,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4B",
@@ -724,7 +730,7 @@
       "end_time": 410.51,
       "utterance": "SO CLICK ON THE SMALL BUILDING",
       "turn_index": 71,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3A",
@@ -732,7 +738,7 @@
       "end_time": 411.64,
       "utterance": "YEAH I CLICK",
       "turn_index": 72,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3A",
@@ -740,7 +746,7 @@
       "end_time": 412.72,
       "utterance": "AND I CLICK",
       "turn_index": 73,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U3A",
@@ -757,7 +763,7 @@
       "end_time": 417.191153416,
       "utterance": "AND WHICH COW ARE YOU MISSING MISSINGTHE ONE WHICH IS CLOSE TO THE SMALL OR LARGE BUILDING",
       "turn_index": 74,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U4B",
@@ -774,7 +780,7 @@
       "end_time": 418.55,
       "utterance": "<%aa> I'M MISSING <%aa> COW",
       "turn_index": 75,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3A",
@@ -782,7 +788,7 @@
       "end_time": 420.28,
       "utterance": "NEAR <%aa>",
       "turn_index": 76,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3A",
@@ -790,7 +796,7 @@
       "end_time": 421.37,
       "utterance": "RED BUILDING",
       "turn_index": 77,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3A",
@@ -798,7 +804,7 @@
       "end_time": 422.27,
       "utterance": "MY",
       "turn_index": 78,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4B",
@@ -806,7 +812,7 @@
       "end_time": 423.53,
       "utterance": "YEAH OKAY",
       "turn_index": 79,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U4B",
@@ -823,7 +829,7 @@
       "end_time": 423.5,
       "utterance": "<%aa> BIGGER",
       "turn_index": 80,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4B",
@@ -831,7 +837,7 @@
       "end_time": 425.74,
       "utterance": "OKAY I SEE I CLICK THERE",
       "turn_index": 81,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U4B",
@@ -848,7 +854,7 @@
       "end_time": 425.79,
       "utterance": "I CLICK",
       "turn_index": 82,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4B",
@@ -856,7 +862,7 @@
       "end_time": 428.23,
       "utterance": "HOW MANY STARS DO YOU HAVE",
       "turn_index": 83,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U4B",
@@ -873,7 +879,7 @@
       "end_time": 426.8,
       "utterance": "I HAVE",
       "turn_index": 84,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3A",
@@ -881,7 +887,7 @@
       "end_time": 428.8,
       "utterance": "<%aa>",
       "turn_index": 85,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3A",
@@ -889,7 +895,7 @@
       "end_time": 429.94,
       "utterance": "STAR FIVE",
       "turn_index": 86,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4B",
@@ -897,7 +903,7 @@
       "end_time": 431.44,
       "utterance": "I HAVE FOUR",
       "turn_index": 87,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3A",
@@ -905,7 +911,7 @@
       "end_time": 432.34,
       "utterance": "FOUR",
       "turn_index": 88,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3A",
@@ -913,7 +919,7 @@
       "end_time": 433.61,
       "utterance": "<%aa> YOU HAVE",
       "turn_index": 89,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U3A",
@@ -930,7 +936,7 @@
       "end_time": 433.12,
       "utterance": "YEAH",
       "turn_index": 90,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3A",
@@ -938,7 +944,7 @@
       "end_time": 434.47,
       "utterance": "STAR",
       "turn_index": 91,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3A",
@@ -946,7 +952,7 @@
       "end_time": 435.38,
       "utterance": "<%aa>",
       "turn_index": 92,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3A",
@@ -954,7 +960,7 @@
       "end_time": 438.28,
       "utterance": "<TOP LINE> <UP LINE> UPPER LINE",
       "turn_index": 93,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4B",
@@ -962,7 +968,7 @@
       "end_time": 443.7,
       "utterance": "<%aa> YEAH I HAVE ONE ON THE TOP AND THEN TWO ON THE",
       "turn_index": 94,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4B",
@@ -970,7 +976,7 @@
       "end_time": 444.82,
       "utterance": "<%mm>",
       "turn_index": 95,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4B",
@@ -978,7 +984,7 @@
       "end_time": 446.02,
       "utterance": "BOTTOM ROW",
       "turn_index": 96,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4B",
@@ -986,7 +992,7 @@
       "end_time": 448.77,
       "utterance": "AND THEN <+ ONE> ANOTHER ONE IN THE",
       "turn_index": 97,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U4B",
@@ -1003,7 +1009,7 @@
       "end_time": 447.05,
       "utterance": "OKAY",
       "turn_index": 98,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4B",
@@ -1011,7 +1017,7 @@
       "end_time": 450.070856778,
       "utterance": "BOTTOM AS WELL",
       "turn_index": 99,
-      "topic": ""
+      "topic": "finding difference"
     }
   ]
 }

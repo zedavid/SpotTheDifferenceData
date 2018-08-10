@@ -1,5 +1,11 @@
 {
   "success": 0.5,
+  "instruction_giver": {
+    "id": "U3C"
+  },
+  "instruction_follower": {
+    "id": "U4A"
+  },
   "dialogue_duration": 200.10800000000017,
   "audio": {
     "ig": "U3C_0_church.wav",
@@ -12,7 +18,7 @@
       "end_time": 217.98,
       "utterance": "YES I SEE IT NOW",
       "turn_index": 0,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3C",
@@ -20,7 +26,7 @@
       "end_time": 219.564260126,
       "utterance": "OKAY",
       "turn_index": 1,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3C",
@@ -28,7 +34,7 @@
       "end_time": 222.18,
       "utterance": "OH",
       "turn_index": 2,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4A",
@@ -36,7 +42,7 @@
       "end_time": 222.9,
       "utterance": "WHAT DO YOU SEE?",
       "turn_index": 3,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3C",
@@ -44,7 +50,7 @@
       "end_time": 226.71,
       "utterance": "I SEE A PICTURE WITH A LANDSCAPE WITH TWO LIKE SORT OF",
       "turn_index": 4,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3C",
@@ -52,7 +58,7 @@
       "end_time": 228.49,
       "utterance": "CHURCHES",
       "turn_index": 5,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4A",
@@ -60,7 +66,7 @@
       "end_time": 229.1,
       "utterance": "YEAH",
       "turn_index": 6,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3C",
@@ -68,7 +74,7 @@
       "end_time": 229.6,
       "utterance": "MAYBE",
       "turn_index": 7,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4A",
@@ -76,7 +82,7 @@
       "end_time": 230.96,
       "utterance": "ONE",
       "turn_index": 8,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U4A",
@@ -93,7 +99,7 @@
       "end_time": 230.95,
       "utterance": "COW",
       "turn_index": 9,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4A",
@@ -101,7 +107,7 @@
       "end_time": 235.87,
       "utterance": "<%aa> ONE BIG CHURCH ON THE LEFT ONE SMALL CHURCH ON THE RIGHT",
       "turn_index": 10,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U4A",
@@ -118,7 +124,7 @@
       "end_time": 232.31,
       "utterance": "A BLACK",
       "turn_index": 11,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3C",
@@ -126,7 +132,7 @@
       "end_time": 237.81,
       "utterance": "WHICH COLOURS",
       "turn_index": 12,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4A",
@@ -134,7 +140,7 @@
       "end_time": 239.99,
       "utterance": "<%aa> BOTH ARE RED",
       "turn_index": 13,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4A",
@@ -142,7 +148,7 @@
       "end_time": 241.52,
       "utterance": "<%aa>",
       "turn_index": 14,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4A",
@@ -150,7 +156,7 @@
       "end_time": 243.89,
       "utterance": "BOTH HAVE <%ahm>",
       "turn_index": 15,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4A",
@@ -158,7 +164,7 @@
       "end_time": 245.61,
       "utterance": "FOUR WINDOWS",
       "turn_index": 16,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4A",
@@ -166,7 +172,7 @@
       "end_time": 250.54,
       "utterance": "BUT THE ONE ON THE LEFT THE LARGE ONE HAS (A=) LIT UP LIGHT",
       "turn_index": 17,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4A",
@@ -174,7 +180,7 @@
       "end_time": 251.81,
       "utterance": "ON THE TOP WINDOW",
       "turn_index": 18,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3C",
@@ -182,7 +188,7 @@
       "end_time": 253.9,
       "utterance": "OH SAME HERE EXCEPT",
       "turn_index": 19,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3C",
@@ -190,7 +196,7 @@
       "end_time": 256.55,
       "utterance": "THE CHURCH IN THE RIGHT IN MINE <IS> IS YELLOW",
       "turn_index": 20,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4A",
@@ -198,7 +204,7 @@
       "end_time": 259.18,
       "utterance": "OH OKAY THE COLOR OF THE CHURCH IS IT?",
       "turn_index": 21,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4A",
@@ -206,7 +212,7 @@
       "end_time": 260.78,
       "utterance": "OKAY SHALL WE CLICK THERE?",
       "turn_index": 22,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4A",
@@ -271,7 +277,7 @@
       "end_time": 279.36,
       "utterance": "DO YOU HAVE A COW YOUR PICTURE?",
       "turn_index": 29,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4A",
@@ -279,7 +285,7 @@
       "end_time": 281.51,
       "utterance": "YES I HAVE TWO COWS IN THE MIDDLE",
       "turn_index": 30,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3C",
@@ -287,7 +293,7 @@
       "end_time": 283.28,
       "utterance": "NO I ONLY HAVE ONE COW",
       "turn_index": 31,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4A",
@@ -295,7 +301,7 @@
       "end_time": 290.11,
       "utterance": "OKAY <%aa> WHERE IS YOUR COW IS THE CLOSEST TO THE CHURCH ON THE RIGHT OR THE CHURCH ON THE LEFT?",
       "turn_index": 32,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3C",
@@ -303,7 +309,7 @@
       "end_time": 291.57,
       "utterance": "IT'S CLOSER TO THE CHURCH IN THE RIGHT",
       "turn_index": 33,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4A",
@@ -311,7 +317,7 @@
       "end_time": 293.27,
       "utterance": "ON THE RIGHT OKAY SO",
       "turn_index": 34,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4A",
@@ -319,7 +325,7 @@
       "end_time": 297.91,
       "utterance": "<CLICK> CLICK JUST NEXT TO THAT COW BECAUSE THERE'S ONE COW MISSING",
       "turn_index": 35,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3C",
@@ -327,7 +333,7 @@
       "end_time": 298.96,
       "utterance": "ALRIGHT",
       "turn_index": 36,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3C",
@@ -335,7 +341,7 @@
       "end_time": 300.75,
       "utterance": "WHAT DOES YOUR COW LOOK LIKE?",
       "turn_index": 37,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3C",
@@ -343,7 +349,7 @@
       "end_time": 302.02,
       "utterance": "YOUR COWS",
       "turn_index": 38,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4A",
@@ -351,7 +357,7 @@
       "end_time": 306.89,
       "utterance": "<%aa> WHITE WITH THREE <%aa> BLACK SPOTS ON THE BODY",
       "turn_index": 39,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4A",
@@ -359,7 +365,7 @@
       "end_time": 308.41,
       "utterance": "AND ONE",
       "turn_index": 40,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4A",
@@ -367,7 +373,7 @@
       "end_time": 309.54,
       "utterance": "BLACK SPOT",
       "turn_index": 41,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4A",
@@ -375,7 +381,7 @@
       "end_time": 311.07,
       "utterance": "IN ONE OF THE EYES",
       "turn_index": 42,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3C",
@@ -383,7 +389,7 @@
       "end_time": 312.68,
       "utterance": "SAME HERE",
       "turn_index": 43,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3C",
@@ -391,7 +397,7 @@
       "end_time": 313.86,
       "utterance": "AND WHICH EYE?",
       "turn_index": 44,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U3C",
@@ -408,7 +414,7 @@
       "end_time": 313.6,
       "utterance": "SAME?",
       "turn_index": 45,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4A",
@@ -416,7 +422,7 @@
       "end_time": 315.6,
       "utterance": "<%aa> THE",
       "turn_index": 46,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4A",
@@ -424,7 +430,7 @@
       "end_time": 318.61,
       "utterance": "RIGHT EYE <IF I'M> IF I'M JUST FACING THEM",
       "turn_index": 47,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4A",
@@ -432,7 +438,7 @@
       "end_time": 319.96,
       "utterance": "THE ONE ON THE RIGHT",
       "turn_index": 48,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3C",
@@ -440,7 +446,7 @@
       "end_time": 321.64,
       "utterance": "YEAH SAME",
       "turn_index": 49,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4A",
@@ -448,7 +454,7 @@
       "end_time": 323.43,
       "utterance": "YEAH",
       "turn_index": 50,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U4A",
@@ -465,7 +471,7 @@
       "end_time": 323.67,
       "utterance": "<%mm>",
       "turn_index": 51,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4A",
@@ -473,7 +479,7 @@
       "end_time": 325.6,
       "utterance": "SO IT WOULD BE THEIR LEFT EYE",
       "turn_index": 52,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4A",
@@ -481,7 +487,7 @@
       "end_time": 328.11,
       "utterance": "<%ahm>",
       "turn_index": 53,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4A",
@@ -489,7 +495,7 @@
       "end_time": 329.85,
       "utterance": "WHAT ELSE DO YOU SEE",
       "turn_index": 54,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4A",
@@ -497,7 +503,7 @@
       "end_time": 330.73,
       "utterance": "I HAVE <THR->",
       "turn_index": 55,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U4A",
@@ -514,7 +520,7 @@
       "end_time": 330.73,
       "utterance": "DO YOU HAVE",
       "turn_index": 56,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3C",
@@ -522,7 +528,7 @@
       "end_time": 331.68,
       "utterance": "ROCKS",
       "turn_index": 57,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U3C",
@@ -539,7 +545,7 @@
       "end_time": 331.38,
       "utterance": "YEAH",
       "turn_index": 58,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4A",
@@ -547,7 +553,7 @@
       "end_time": 332.17,
       "utterance": "GO AHEAD",
       "turn_index": 59,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3C",
@@ -555,7 +561,7 @@
       "end_time": 335.08,
       "utterance": "YEAH <DO> DO YOU HAVE ROCKS IN YOUR PICTURE",
       "turn_index": 60,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4A",
@@ -563,7 +569,7 @@
       "end_time": 337.22,
       "utterance": "I HAVE ONE ROCK JUST BELOW",
       "turn_index": 61,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4A",
@@ -571,7 +577,7 @@
       "end_time": 338.3,
       "utterance": "<%aa>",
       "turn_index": 62,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4A",
@@ -579,7 +585,7 @@
       "end_time": 339.76,
       "utterance": "ONE OF THE COWS",
       "turn_index": 63,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4A",
@@ -587,7 +593,7 @@
       "end_time": 343.52,
       "utterance": "BELOW <THE> THE COW CLOSER TO THE CHURCH",
       "turn_index": 64,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4A",
@@ -595,7 +601,7 @@
       "end_time": 344.76,
       "utterance": "TO THE RIGHT",
       "turn_index": 65,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3C",
@@ -603,7 +609,7 @@
       "end_time": 348.13,
       "utterance": "NOW I HAVE TWO ROCKS IN THAT VERY SAME POSITION",
       "turn_index": 66,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U3C",
@@ -620,7 +626,7 @@
       "end_time": 346.64,
       "utterance": "AND IT'S",
       "turn_index": 67,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4A",
@@ -628,7 +634,7 @@
       "end_time": 349.29,
       "utterance": "AHA",
       "turn_index": 68,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4A",
@@ -636,7 +642,7 @@
       "end_time": 352.75,
       "utterance": "TWO ROCKS IN THE SAME POSITION AS THE COW BUT BELOW",
       "turn_index": 69,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4A",
@@ -644,7 +650,7 @@
       "end_time": 357.03,
       "utterance": "OKAY SO <%aa> I ONLY HAVE ONE",
       "turn_index": 70,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4A",
@@ -652,7 +658,7 @@
       "end_time": 364.92,
       "utterance": "<SO I THINK WE SHOULD CLICK <%aa> A LITTLE <TO> TO> SO YOU HAVE ONE ROCK ON THE RIGHT ONE ROCK ON THE LEFT",
       "turn_index": 71,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3C",
@@ -660,7 +666,7 @@
       "end_time": 367.62,
       "utterance": "<%aa> I HAVE LIKE <%aa>",
       "turn_index": 72,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3C",
@@ -668,7 +674,7 @@
       "end_time": 371.04,
       "utterance": "TWO ROCKS ON THE RIGHT LIKE <THEY'RE> THEY'RE PILED NEXT TO EACH OTHER",
       "turn_index": 73,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4A",
@@ -676,7 +682,7 @@
       "end_time": 372.24,
       "utterance": "NEXT TO EACH OTHER",
       "turn_index": 74,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4A",
@@ -684,7 +690,7 @@
       "end_time": 374.69,
       "utterance": "BUT IS ONE OF THE ROCKS BELOW THE CHURCH?",
       "turn_index": 75,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3C",
@@ -692,7 +698,7 @@
       "end_time": 377.63,
       "utterance": "NO LIKE <THEY'RE> THEY'RE BELOW THE COW",
       "turn_index": 76,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4A",
@@ -700,7 +706,7 @@
       "end_time": 382.84,
       "utterance": "AHA OKAY SO I THINK WE SHOULD CLICK THERE BECAUSE I DON'T HAVE ANY",
       "turn_index": 77,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4A",
@@ -708,7 +714,7 @@
       "end_time": 384.63,
       "utterance": "I ONLY HAVE ONE ROCK",
       "turn_index": 78,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3C",
@@ -716,7 +722,7 @@
       "end_time": 385.513755982,
       "utterance": "OKAY",
       "turn_index": 79,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4A",
@@ -724,7 +730,7 @@
       "end_time": 387.564981713,
       "utterance": "<%aa>",
       "turn_index": 80,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4A",
@@ -732,7 +738,7 @@
       "end_time": 393.0,
       "utterance": "<%ahm> THERE'S FOUR STARS IN THE SKY",
       "turn_index": 81,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4A",
@@ -740,7 +746,7 @@
       "end_time": 395.79,
       "utterance": "ORANGE",
       "turn_index": 82,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U4A",
@@ -757,7 +763,7 @@
       "end_time": 396.25,
       "utterance": "I HAVE FIVE OF THEM ACTUALLY",
       "turn_index": 83,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4A",
@@ -765,7 +771,7 @@
       "end_time": 398.75,
       "utterance": "YOU HAVE FIVE OKAY WHERE'S YOUR FIFTH ONE",
       "turn_index": 84,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3C",
@@ -773,7 +779,7 @@
       "end_time": 400.15,
       "utterance": "<%mm>",
       "turn_index": 85,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U3C",
@@ -790,7 +796,7 @@
       "end_time": 400.12,
       "utterance": "<%aa>",
       "turn_index": 86,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3C",
@@ -798,7 +804,7 @@
       "end_time": 402.08,
       "utterance": "THEY ARE <LI-> LIKE IN A PENTACLE",
       "turn_index": 87,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4A",
@@ -806,7 +812,7 @@
       "end_time": 402.83,
       "utterance": "AHA",
       "turn_index": 88,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3C",
@@ -814,7 +820,7 @@
       "end_time": 403.43,
       "utterance": "PATTERN",
       "turn_index": 89,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U3C",
@@ -831,7 +837,7 @@
       "end_time": 403.6,
       "utterance": "OKAY",
       "turn_index": 90,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4A",
@@ -839,7 +845,7 @@
       "end_time": 407.44,
       "utterance": "SO I AM MISSING THE ONE",
       "turn_index": 91,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4A",
@@ -847,7 +853,7 @@
       "end_time": 410.85,
       "utterance": "CLOSER TO (THE=) LEFT",
       "turn_index": 92,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4A",
@@ -855,7 +861,7 @@
       "end_time": 412.93,
       "utterance": "SO THERE'S ONE STAR AT THE BOTTOM",
       "turn_index": 93,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4A",
@@ -863,7 +869,7 @@
       "end_time": 414.73,
       "utterance": "AND THEN YOU HAVE",
       "turn_index": 94,
-      "topic": ""
+      "topic": "finding difference"
     }
   ]
 }

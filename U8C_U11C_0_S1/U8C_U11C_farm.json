@@ -1,5 +1,11 @@
 {
   "success": 1.0,
+  "instruction_giver": {
+    "id": "U8C"
+  },
+  "instruction_follower": {
+    "id": "U11C"
+  },
   "dialogue_duration": 200.4869999999937,
   "audio": {
     "ig": "U8C_0_farm.wav",
@@ -12,7 +18,7 @@
       "end_time": 446.1,
       "utterance": "GO",
       "turn_index": 0,
-      "topic": ""
+      "topic": "checking readiness"
     },
     {
       "speaker": "U8C",
@@ -20,7 +26,7 @@
       "end_time": 452.84,
       "utterance": "OKAY SO NOW I HAVE LIKE <A <%ahm>> ON THE <%eh> <%aa> TOP LIT RIGHT I HAVE THREE CLOUDS",
       "turn_index": 1,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U11C",
@@ -28,7 +34,7 @@
       "end_time": 453.82,
       "utterance": "FOUR CLOUDS",
       "turn_index": 2,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U8C",
@@ -36,7 +42,7 @@
       "end_time": 454.84,
       "utterance": "OKAY YEAH",
       "turn_index": 3,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U8C",
@@ -44,7 +50,7 @@
       "end_time": 458.34,
       "utterance": "SO NOW I HAVE TO FIND TWO IN THIS LIKE <%aa> SO I HAVE LIKE",
       "turn_index": 4,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U8C",
@@ -61,7 +67,7 @@
       "end_time": 457.336046884,
       "utterance": "YEAH",
       "turn_index": 5,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U8C",
@@ -69,7 +75,7 @@
       "end_time": 464.63,
       "utterance": "TWO CLOUDS OF THE SAME SIZE WHICH ARE LIKE ON <THE=> BOTTOM OFF A SMALLER ONE IN THE TOP",
       "turn_index": 6,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U11C",
@@ -77,7 +83,7 @@
       "end_time": 467.65,
       "utterance": "OKAY SO THE SMALLER ONE ON THE TOP",
       "turn_index": 7,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U11C",
@@ -85,7 +91,7 @@
       "end_time": 469.07,
       "utterance": "<IF YOU> IF YOU",
       "turn_index": 8,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U11C",
@@ -93,7 +99,7 @@
       "end_time": 470.82,
       "utterance": "DRAW A LITTLE DIAGONAL",
       "turn_index": 9,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U11C",
@@ -101,7 +107,7 @@
       "end_time": 472.42,
       "utterance": "FROM THE ONE ON THE TOP",
       "turn_index": 10,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U11C",
@@ -118,7 +124,7 @@
       "end_time": 471.54,
       "utterance": "YEAH",
       "turn_index": 11,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U11C",
@@ -126,7 +132,7 @@
       "end_time": 473.78,
       "utterance": "TO THE LEFT BOTTOM",
       "turn_index": 12,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U8C",
@@ -134,7 +140,7 @@
       "end_time": 474.32,
       "utterance": "YEAH",
       "turn_index": 13,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U11C",
@@ -142,7 +148,7 @@
       "end_time": 477.61,
       "utterance": "YOU WILL FIND THE FOURTH ONE <THE> WHICH YOU DON'T HAVE I SUPPOSE",
       "turn_index": 14,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U8C",
@@ -150,7 +156,7 @@
       "end_time": 480.21,
       "utterance": "<%aa> OKAY YES SO I GUESS THAT IS LIKE <%aa>",
       "turn_index": 15,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U8C",
@@ -158,7 +164,7 @@
       "end_time": 482.69,
       "utterance": "<YEAH OKAY> YEAH OKAY SO LET'S CLICK THERE",
       "turn_index": 16,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U11C",
@@ -166,7 +172,7 @@
       "end_time": 483.57,
       "utterance": "CLICKED",
       "turn_index": 17,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U8C",
@@ -174,7 +180,7 @@
       "end_time": 484.21,
       "utterance": "YEAH",
       "turn_index": 18,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U8C",
@@ -182,7 +188,7 @@
       "end_time": 486.17,
       "utterance": "OKAY THEN I HAVE A FENCE",
       "turn_index": 19,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U8C",
@@ -190,7 +196,7 @@
       "end_time": 491.56,
       "utterance": "WITH TWO BIRDS ONE WHICH IS PINK ONE WHICH IS <%aa> RED AND THEY ARE FACING EACH OTHER",
       "turn_index": 20,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U11C",
@@ -198,7 +204,7 @@
       "end_time": 495.59,
       "utterance": "OKAY THEY'RE FACING EACH OTHER WHICH ONE'S PINK WHICH ONE'S RED <MINE> MINE ARE BOTH RED",
       "turn_index": 21,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U8C",
@@ -206,7 +212,7 @@
       "end_time": 497.96,
       "utterance": "AH OKAY <THE> THE PINK IS THE ONE ON THE LEFT",
       "turn_index": 22,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U11C",
@@ -214,7 +220,7 @@
       "end_time": 499.15,
       "utterance": "OKAY",
       "turn_index": 23,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U8C",
@@ -222,7 +228,7 @@
       "end_time": 500.69,
       "utterance": "LET'S <PUT> CLICK THERE",
       "turn_index": 24,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U8C",
@@ -239,7 +245,7 @@
       "end_time": 500.75,
       "utterance": "CLICK THAT ONE",
       "turn_index": 25,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U11C",
@@ -247,7 +253,7 @@
       "end_time": 503.1,
       "utterance": "AND THEN THE FENCE IS IT BLUE AND WHITE?",
       "turn_index": 26,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U11C",
@@ -264,7 +270,7 @@
       "end_time": 501.69,
       "utterance": "SO",
       "turn_index": 27,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U8C",
@@ -272,7 +278,7 @@
       "end_time": 504.7,
       "utterance": "NO THE FENCE IS JUST WHITE",
       "turn_index": 28,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U8C",
@@ -280,7 +286,7 @@
       "end_time": 507.04,
       "utterance": "AND IT HAS LIKE <%aa> SIX POLES",
       "turn_index": 29,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U8C",
@@ -297,7 +303,7 @@
       "end_time": 505.38,
       "utterance": "OKAY",
       "turn_index": 30,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U8C",
@@ -305,7 +311,7 @@
       "end_time": 507.94,
       "utterance": "TIMES TWO",
       "turn_index": 31,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U11C",
@@ -313,7 +319,7 @@
       "end_time": 508.94,
       "utterance": "YES",
       "turn_index": 32,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U11C",
@@ -321,7 +327,7 @@
       "end_time": 510.92,
       "utterance": "SO THE SIX POLES ON THE LEFT",
       "turn_index": 33,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U11C",
@@ -338,7 +344,7 @@
       "end_time": 509.64,
       "utterance": "OKAY",
       "turn_index": 34,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U11C",
@@ -346,7 +352,7 @@
       "end_time": 513.8,
       "utterance": "ARE BLUE ON MINE SO CLICK THERE",
       "turn_index": 35,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U11C",
@@ -370,7 +376,7 @@
       "end_time": 512.27,
       "utterance": "YES",
       "turn_index": 36,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U8C",
@@ -378,7 +384,7 @@
       "end_time": 513.67,
       "utterance": "OKAY",
       "turn_index": 37,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U8C",
@@ -386,7 +392,7 @@
       "end_time": 515.69,
       "utterance": "I <%eh> THERE OKAY DONE",
       "turn_index": 38,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U8C",
@@ -394,7 +400,7 @@
       "end_time": 520.75,
       "utterance": "SO THEN ON THE UPPER <%aa> LEFT <%aa> <%aa> CORNER I HAVE THREE BIRDS",
       "turn_index": 39,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U8C",
@@ -402,7 +408,7 @@
       "end_time": 529.8,
       "utterance": "AND THEN <%aa> <%aa> <THE BIRDS ARE> THE TOP LEFT IS PINK THE TOP RIGHT IS <%aa> GREEN AND THE BOTTOM IS A DIFFERENT TYPE OF BIRD <%aa>",
       "turn_index": 40,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U8C",
@@ -410,7 +416,7 @@
       "end_time": 531.17,
       "utterance": "AND IS <%aa> BLACK",
       "turn_index": 41,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U11C",
@@ -418,7 +424,7 @@
       "end_time": 532.35,
       "utterance": "OKAY <SO>",
       "turn_index": 42,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U11C",
@@ -435,7 +441,7 @@
       "end_time": 532.28,
       "utterance": "THE THREE ARE FLYING",
       "turn_index": 43,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U11C",
@@ -443,7 +449,7 @@
       "end_time": 534.82,
       "utterance": "SO THEY THEY MAKE A TRIANGLE FACING DOWN KIND OF",
       "turn_index": 44,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U11C",
@@ -460,7 +466,7 @@
       "end_time": 535.48,
       "utterance": "YES EXACTLY",
       "turn_index": 45,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U11C",
@@ -468,7 +474,7 @@
       "end_time": 538.01,
       "utterance": "AND THE THE TWO ON TOP THERE %HESITATION",
       "turn_index": 46,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U8C",
@@ -476,7 +482,7 @@
       "end_time": 539.45,
       "utterance": "FACING",
       "turn_index": 47,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U8C",
@@ -493,7 +499,7 @@
       "end_time": 539.42,
       "utterance": "%HESITATION",
       "turn_index": 48,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U8C",
@@ -501,7 +507,7 @@
       "end_time": 540.63,
       "utterance": "OPPOSITE DIRECTIONS",
       "turn_index": 49,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U11C",
@@ -509,7 +515,7 @@
       "end_time": 542.46,
       "utterance": "AREN'T THEY",
       "turn_index": 50,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U11C",
@@ -517,7 +523,7 @@
       "end_time": 543.91,
       "utterance": "LIKE YOUR PARENTS",
       "turn_index": 51,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U8C",
@@ -525,7 +531,7 @@
       "end_time": 547.04,
       "utterance": "THEY'RE KIND OF PARENTS AND OTHERS KIND OF THIS THE",
       "turn_index": 52,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U11C",
@@ -533,7 +539,7 @@
       "end_time": 547.76,
       "utterance": "BLACK THING",
       "turn_index": 53,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U8C",
@@ -541,7 +547,7 @@
       "end_time": 548.2,
       "utterance": "YEAH",
       "turn_index": 54,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U11C",
@@ -549,7 +555,7 @@
       "end_time": 552.65,
       "utterance": "OKAY SO MY PARROTS MY MY PARROTS WHEN IT'S BEEN TO THE ONE THAT THEY'RE BOTH PINK",
       "turn_index": 55,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U8C",
@@ -557,7 +563,7 @@
       "end_time": 553.46,
       "utterance": "OKAY",
       "turn_index": 56,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U8C",
@@ -565,7 +571,7 @@
       "end_time": 555.8,
       "utterance": "THE ONE ON THE RIGHT UP ITS <%aa>",
       "turn_index": 57,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U8C",
@@ -573,7 +579,7 @@
       "end_time": 557.46,
       "utterance": "<%aa> GREEN FOR ME",
       "turn_index": 58,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U8C",
@@ -590,7 +596,7 @@
       "end_time": 558.05,
       "utterance": "OKAY CLICK",
       "turn_index": 59,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U8C",
@@ -598,7 +604,7 @@
       "end_time": 559.18,
       "utterance": "YEAH DONE",
       "turn_index": 60,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U8C",
@@ -606,7 +612,7 @@
       "end_time": 562.32,
       "utterance": "AND THEN WE HAVE <%aa> LIKE <%eh> ON THE",
       "turn_index": 61,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U8C",
@@ -614,7 +620,7 @@
       "end_time": 566.81,
       "utterance": "LOWER RIGHT CORNER OF <THE> THE DRAW I HAVE A COW AND <A=> SHEEP",
       "turn_index": 62,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U11C",
@@ -622,7 +628,7 @@
       "end_time": 569.97,
       "utterance": "<AND> <AND A> AND <A> A PIG I ALSO HAVE A PIG",
       "turn_index": 63,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U8C",
@@ -630,7 +636,7 @@
       "end_time": 571.25,
       "utterance": "OH OKAY I DON'T HAVE ANY PIG",
       "turn_index": 64,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U8C",
@@ -638,7 +644,7 @@
       "end_time": 577.34,
       "utterance": "OKAY AND <%aa> SO <%mm> <THE> THE COW IS ON THE RIGHT AND THE SHEEP IS ON THE LEFT",
       "turn_index": 65,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U8C",
@@ -646,7 +652,7 @@
       "end_time": 580.59,
       "utterance": "<%aa> AND <ON> ON TOP OF THE SHEEP I HAVE LIKE THREE",
       "turn_index": 66,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U8C",
@@ -654,7 +660,7 @@
       "end_time": 582.37,
       "utterance": "<%aa> HAYSTACKS",
       "turn_index": 67,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U11C",
@@ -662,7 +668,7 @@
       "end_time": 583.14,
       "utterance": "OKAY",
       "turn_index": 68,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U11C",
@@ -670,7 +676,7 @@
       "end_time": 585.49,
       "utterance": "OKAY <BUT <BE->> BUT <BE-> BETWEEN THE",
       "turn_index": 69,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U11C",
@@ -678,7 +684,7 @@
       "end_time": 587.91,
       "utterance": "SHEEP AND THE COW THERE'S A PIG CLICK THE PIG",
       "turn_index": 70,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U8C",
@@ -686,7 +692,7 @@
       "end_time": 589.67,
       "utterance": "OKAY I DON'T HAVE ANYTHING SO I'LL CLICK THERE",
       "turn_index": 71,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U8C",
@@ -703,7 +709,7 @@
       "end_time": 589.76,
       "utterance": "YEAH I CLICK IT",
       "turn_index": 72,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U8C",
@@ -711,7 +717,7 @@
       "end_time": 590.48,
       "utterance": "YEAH",
       "turn_index": 73,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U8C",
@@ -728,7 +734,7 @@
       "end_time": 594.67,
       "utterance": "<I> <I THROUGH THE> I ALSO SEE THE THREE HAYSTACKS AND THEY'RE LIKE TWO IN THE BOTTOM ONE ON TOP",
       "turn_index": 74,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U8C",
@@ -736,7 +742,7 @@
       "end_time": 595.29,
       "utterance": "YES",
       "turn_index": 75,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U8C",
@@ -744,7 +750,7 @@
       "end_time": 596.31,
       "utterance": "YEAH THE SAME",
       "turn_index": 76,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U8C",
@@ -761,7 +767,7 @@
       "end_time": 596.33,
       "utterance": "AND",
       "turn_index": 77,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U11C",
@@ -769,7 +775,7 @@
       "end_time": 598.03,
       "utterance": "TWO TRACTORS ON THE LEFT",
       "turn_index": 78,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U8C",
@@ -777,7 +783,7 @@
       "end_time": 600.16,
       "utterance": "YEAH TWO TRACTORS AND LIKE <%aa>",
       "turn_index": 79,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U8C",
@@ -785,7 +791,7 @@
       "end_time": 603.81,
       "utterance": "THE TRACTOR <%aa> ON THE LEFT IT'S A LITTLE BIT UP",
       "turn_index": 80,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U8C",
@@ -793,7 +799,7 @@
       "end_time": 607.3,
       "utterance": "AND IT'S SLIGHTLY SMALLER THAN THE ONE ON <THE=> RIGHT",
       "turn_index": 81,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U11C",
@@ -801,7 +807,7 @@
       "end_time": 608.82,
       "utterance": "IS IT GOING LEFT OR GOING RIGHT?",
       "turn_index": 82,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U8C",
@@ -809,7 +815,7 @@
       "end_time": 611.43,
       "utterance": "THEY'RE BOTH GOING <TO> TO THE RIGHT DIRECTION",
       "turn_index": 83,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U11C",
@@ -817,7 +823,7 @@
       "end_time": 613.25,
       "utterance": "OKAY THE ONE ON TOP FROM IS GOING LEFT",
       "turn_index": 84,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U8C",
@@ -825,7 +831,7 @@
       "end_time": 614.58,
       "utterance": "OKAY SO LET'S CLICK THERE",
       "turn_index": 85,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U11C",
@@ -833,7 +839,7 @@
       "end_time": 617.27,
       "utterance": "AND IT'S GREEN BUT THAT DOESN'T MATTER WE ALREADY CLICKED",
       "turn_index": 86,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U11C",
@@ -850,7 +856,7 @@
       "end_time": 619.0,
       "utterance": "YEAH <THEY> <THEY> THEY ARE BOTH GREEN YEAH",
       "turn_index": 87,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U8C",
@@ -867,7 +873,7 @@
       "end_time": 621.99,
       "utterance": "OKAY THE ONE ON THE BOTTOM IS BIGGER <%aa> FACING RIGHT IS PINK",
       "turn_index": 88,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U8C",
@@ -875,7 +881,7 @@
       "end_time": 623.14,
       "utterance": "OH IS PINK?",
       "turn_index": 89,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U8C",
@@ -892,7 +898,7 @@
       "end_time": 623.16,
       "utterance": "CLICK",
       "turn_index": 90,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U8C",
@@ -900,7 +906,7 @@
       "end_time": 624.33,
       "utterance": "OKAY YEAH YEAH",
       "turn_index": 91,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U8C",
@@ -908,7 +914,7 @@
       "end_time": 628.41,
       "utterance": "SO BY THE WAY WHERE IS PINK LIKE <THE> THE MAIN BODY OF THE",
       "turn_index": 92,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U8C",
@@ -925,7 +931,7 @@
       "end_time": 629.53,
       "utterance": "THE BODY YEAH THE WHOLE BODY",
       "turn_index": 93,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U8C",
@@ -933,7 +939,7 @@
       "end_time": 631.05,
       "utterance": "OKAY YEAH DONE",
       "turn_index": 94,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U8C",
@@ -941,7 +947,7 @@
       "end_time": 635.02,
       "utterance": "AND THEN <THERE IS THIS <%aa>> YEAH WHAT ELSE CAN WE",
       "turn_index": 95,
-      "topic": ""
+      "topic": "end of differences"
     },
     {
       "speaker": "U8C",
@@ -949,7 +955,7 @@
       "end_time": 637.54,
       "utterance": "<%ahm> LOOK AT THIS DRAWING YEAH",
       "turn_index": 96,
-      "topic": ""
+      "topic": "end of differences"
     },
     {
       "speaker": "U8C",
@@ -957,7 +963,7 @@
       "end_time": 638.32,
       "utterance": "SO",
       "turn_index": 97,
-      "topic": ""
+      "topic": "end of differences"
     },
     {
       "speaker": "U8C",
@@ -965,7 +971,7 @@
       "end_time": 641.31,
       "utterance": "THERE'S THE TRACTORS BOTH THEY HAVE LIKE AN EXHAUSTION SCAPE",
       "turn_index": 98,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U11C",
@@ -973,7 +979,7 @@
       "end_time": 643.71,
       "utterance": "<%aa> IN THE FRONT I GUESS",
       "turn_index": 99,
-      "topic": ""
+      "topic": "describing object"
     }
   ]
 }

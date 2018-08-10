@@ -1,5 +1,11 @@
 {
   "success": 0.0,
+  "instruction_giver": {
+    "id": "U1A"
+  },
+  "instruction_follower": {
+    "id": "U6A"
+  },
   "dialogue_duration": 186.97000000000116,
   "audio": {
     "ig": "U1A_0_farm.wav",
@@ -12,7 +18,7 @@
       "end_time": 530.525717554,
       "utterance": "okay",
       "turn_index": 0,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U1A",
@@ -20,7 +26,7 @@
       "end_time": 531.427225908,
       "utterance": "so",
       "turn_index": 1,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U1A",
@@ -28,7 +34,7 @@
       "end_time": 534.982091895,
       "utterance": "now I will describe the first quadrant I have three clouds",
       "turn_index": 2,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U6A",
@@ -36,7 +42,7 @@
       "end_time": 536.069225689,
       "utterance": "I have four",
       "turn_index": 3,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U1A",
@@ -44,7 +50,7 @@
       "end_time": 537.609667617,
       "utterance": "where is the fourth",
       "turn_index": 4,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U6A",
@@ -52,7 +58,7 @@
       "end_time": 542.821335577,
       "utterance": "<%eh> I have to bigger ones <%eh> in the right and then two smaller ones left of them",
       "turn_index": 5,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U1A",
@@ -60,7 +66,7 @@
       "end_time": 544.588749933,
       "utterance": "okay",
       "turn_index": 6,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U1A",
@@ -77,7 +83,7 @@
       "end_time": 545.273390789,
       "utterance": "left and above",
       "turn_index": 7,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U1A",
@@ -85,7 +91,7 @@
       "end_time": 547.955267597,
       "utterance": "<left is it <i-> the <%eh>> the small ones",
       "turn_index": 8,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U1A",
@@ -93,7 +99,7 @@
       "end_time": 551.588876528,
       "utterance": "<the> one of them is in the middle of the picture like <in the> in the",
       "turn_index": 9,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U1A",
@@ -110,7 +116,7 @@
       "end_time": 552.135272596,
       "utterance": "<yes> yes",
       "turn_index": 10,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U6A",
@@ -127,7 +133,7 @@
       "end_time": 553.254397074,
       "utterance": "okay I click there",
       "turn_index": 11,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U1A",
@@ -135,7 +141,7 @@
       "end_time": 554.070699634,
       "utterance": "click there too",
       "turn_index": 12,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U1A",
@@ -152,7 +158,7 @@
       "end_time": 554.649636814,
       "utterance": "very good okay",
       "turn_index": 13,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U1A",
@@ -160,7 +166,7 @@
       "end_time": 561.048021278,
       "utterance": "<%eh> then I will go to the second quadrant I have (a=) green bird a pink bird and a black bird",
       "turn_index": 14,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U6A",
@@ -168,7 +174,7 @@
       "end_time": 566.555802795,
       "utterance": "okay I have two pink birds and one black bird the black bird is flying below them",
       "turn_index": 15,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U1A",
@@ -176,7 +182,7 @@
       "end_time": 571.893470587,
       "utterance": "okay so the green bird click to the right bird because this is green for me (the=)",
       "turn_index": 16,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U6A",
@@ -184,7 +190,7 @@
       "end_time": 572.4564299,
       "utterance": "okay",
       "turn_index": 17,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U1A",
@@ -192,7 +198,7 @@
       "end_time": 574.296633011,
       "utterance": "the right pink bird of yours",
       "turn_index": 18,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U1A",
@@ -209,7 +215,7 @@
       "end_time": 577.169880399,
       "utterance": "<because I <ha->> I don't have any green birds I have two <p-> pink birds and then one black one",
       "turn_index": 19,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U6A",
@@ -226,7 +232,7 @@
       "end_time": 578.86831637,
       "utterance": "yeah click to the pink bird on the right",
       "turn_index": 20,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U6A",
@@ -234,7 +240,7 @@
       "end_time": 580.536984953,
       "utterance": "okay <I did> I did okay",
       "turn_index": 21,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U6A",
@@ -251,7 +257,7 @@
       "end_time": 580.615981975,
       "utterance": "good",
       "turn_index": 22,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U1A",
@@ -259,7 +265,7 @@
       "end_time": 585.228713452,
       "utterance": "now we have <%eh> to (the=) third quadrant I have two tractors",
       "turn_index": 23,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U1A",
@@ -276,7 +282,7 @@
       "end_time": 585.452538347,
       "utterance": "yes",
       "turn_index": 24,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U1A",
@@ -284,7 +290,7 @@
       "end_time": 587.298612881,
       "utterance": "so it is <%eh>",
       "turn_index": 25,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U1A",
@@ -292,7 +298,7 @@
       "end_time": 590.370190769,
       "utterance": "one in the background and one in the front of the picture",
       "turn_index": 26,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U6A",
@@ -300,7 +306,7 @@
       "end_time": 591.127245562,
       "utterance": "which colours",
       "turn_index": 27,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U1A",
@@ -308,7 +314,7 @@
       "end_time": 593.380296588,
       "utterance": "it's green and yellow",
       "turn_index": 28,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U6A",
@@ -316,7 +322,7 @@
       "end_time": 595.640980715,
       "utterance": "<%eh> okay which directions are they going?",
       "turn_index": 29,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U1A",
@@ -324,7 +330,7 @@
       "end_time": 596.771135875,
       "utterance": "they're going to the right",
       "turn_index": 30,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U6A",
@@ -332,7 +338,7 @@
       "end_time": 597.645383617,
       "utterance": "okay",
       "turn_index": 31,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U6A",
@@ -340,7 +346,7 @@
       "end_time": 598.940238157,
       "utterance": "there are two different sets",
       "turn_index": 32,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U6A",
@@ -348,7 +354,7 @@
       "end_time": 602.837424573,
       "utterance": "<I> I also have two tractors and <I> I have a green one and I have a pink one",
       "turn_index": 33,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U6A",
@@ -356,7 +362,7 @@
       "end_time": 604.400762785,
       "utterance": "you said yellow but I have a pink one",
       "turn_index": 34,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U6A",
@@ -373,7 +379,7 @@
       "end_time": 603.60420948,
       "utterance": "okay",
       "turn_index": 35,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U1A",
@@ -381,7 +387,7 @@
       "end_time": 606.44810227,
       "utterance": "the front one for me is green",
       "turn_index": 36,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U1A",
@@ -398,7 +404,7 @@
       "end_time": 606.309857482,
       "utterance": "<I> my green one <the-> they're not",
       "turn_index": 37,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U1A",
@@ -406,7 +412,7 @@
       "end_time": 607.665973025,
       "utterance": "which one is pink?",
       "turn_index": 38,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U1A",
@@ -423,7 +429,7 @@
       "end_time": 607.554060577,
       "utterance": "they're not",
       "turn_index": 39,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U6A",
@@ -431,7 +437,7 @@
       "end_time": 610.245913008,
       "utterance": "<they> they are not going in the same direction",
       "turn_index": 40,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U6A",
@@ -439,7 +445,7 @@
       "end_time": 612.470995793,
       "utterance": "my green one is going to left",
       "turn_index": 41,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U6A",
@@ -447,7 +453,7 @@
       "end_time": 615.902294291,
       "utterance": "and <my> my pink one <which is closer> which is in front",
       "turn_index": 42,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U6A",
@@ -455,7 +461,7 @@
       "end_time": 618.507060527,
       "utterance": "<my> my pink <%eh> tractor is going to right",
       "turn_index": 43,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U6A",
@@ -472,7 +478,7 @@
       "end_time": 620.481986075,
       "utterance": "okay <c-> click on the front because for me that's green",
       "turn_index": 44,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U6A",
@@ -480,7 +486,7 @@
       "end_time": 625.536191029,
       "utterance": "<okay> okay for me <%eh> okay <I> I click but for me you say green for me it's pink",
       "turn_index": 45,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U6A",
@@ -488,7 +494,7 @@
       "end_time": 628.291999717,
       "utterance": "and it's going to the right direction they are going diferent directions",
       "turn_index": 46,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U1A",
@@ -496,7 +502,7 @@
       "end_time": 631.125584872,
       "utterance": "okay and <%eh> so <the> the back one goes to the left",
       "turn_index": 47,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U1A",
@@ -513,7 +519,7 @@
       "end_time": 628.847671287,
       "utterance": "okay",
       "turn_index": 48,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U6A",
@@ -521,7 +527,7 @@
       "end_time": 632.207947538,
       "utterance": "<that's right> that\u00b4s right",
       "turn_index": 49,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U6A",
@@ -538,7 +544,7 @@
       "end_time": 633.758205073,
       "utterance": "okay so click on the back one as well",
       "turn_index": 50,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U1A",
@@ -546,7 +552,7 @@
       "end_time": 634.662676267,
       "utterance": "okay",
       "turn_index": 51,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U1A",
@@ -563,7 +569,7 @@
       "end_time": 634.761715988,
       "utterance": "okay",
       "turn_index": 52,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U1A",
@@ -571,7 +577,7 @@
       "end_time": 635.384251377,
       "utterance": "I have",
       "turn_index": 53,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U1A",
@@ -588,7 +594,7 @@
       "end_time": 635.582330819,
       "utterance": "what else",
       "turn_index": 54,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U1A",
@@ -596,7 +602,7 @@
       "end_time": 639.530898684,
       "utterance": "<%aa> I in the fourth quadrant I have a white sheep and a cow",
       "turn_index": 55,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U1A",
@@ -604,7 +610,7 @@
       "end_time": 641.113372344,
       "utterance": "that are facing each other",
       "turn_index": 56,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U6A",
@@ -612,7 +618,7 @@
       "end_time": 641.636868012,
       "utterance": "yes",
       "turn_index": 57,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U1A",
@@ -620,7 +626,7 @@
       "end_time": 643.207086566,
       "utterance": "and three piles of",
       "turn_index": 58,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U1A",
@@ -628,7 +634,7 @@
       "end_time": 643.7376565,
       "utterance": "hay",
       "turn_index": 59,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U6A",
@@ -636,7 +642,7 @@
       "end_time": 644.977274963,
       "utterance": "<yes> yes that's right",
       "turn_index": 60,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U6A",
@@ -644,7 +650,7 @@
       "end_time": 646.717544347,
       "utterance": "the three piles of hay they're there but",
       "turn_index": 61,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U6A",
@@ -652,7 +658,7 @@
       "end_time": 650.433922717,
       "utterance": "the animals I have a sheep I have a cow and <I have a pig> I have a pig also",
       "turn_index": 62,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U6A",
@@ -669,7 +675,7 @@
       "end_time": 650.768668316,
       "utterance": "where is the pig?",
       "turn_index": 63,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U6A",
@@ -677,7 +683,7 @@
       "end_time": 654.514471302,
       "utterance": "pig is very low <%eh> in the picture very low on the bottom",
       "turn_index": 64,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U6A",
@@ -685,7 +691,7 @@
       "end_time": 658.430056667,
       "utterance": "it's <%eh> it's even closer it's lower than the sheep and the cow",
       "turn_index": 65,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U6A",
@@ -693,7 +699,7 @@
       "end_time": 660.936460078,
       "utterance": "it's <%eh> <%eh> <b-> further below them",
       "turn_index": 66,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U6A",
@@ -710,7 +716,7 @@
       "end_time": 662.188605123,
       "utterance": "okay towards the middle of the picture the",
       "turn_index": 67,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U1A",
@@ -718,7 +724,7 @@
       "end_time": 663.617606813,
       "utterance": "towards",
       "turn_index": 68,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U6A",
@@ -726,7 +732,7 @@
       "end_time": 664.723446375,
       "utterance": "<I> I just click",
       "turn_index": 69,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U6A",
@@ -734,7 +740,7 @@
       "end_time": 668.321795635,
       "utterance": "it's in the <r-> lower right corner it's <%eh> <below> below that",
       "turn_index": 70,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U6A",
@@ -751,7 +757,7 @@
       "end_time": 668.974811663,
       "utterance": "lower right corner",
       "turn_index": 71,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U6A",
@@ -759,7 +765,7 @@
       "end_time": 669.774203698,
       "utterance": "yes yes yes",
       "turn_index": 72,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U6A",
@@ -776,7 +782,7 @@
       "end_time": 670.389127917,
       "utterance": "okay",
       "turn_index": 73,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U1A",
@@ -784,7 +790,7 @@
       "end_time": 671.054108902,
       "utterance": "okay",
       "turn_index": 74,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U1A",
@@ -801,7 +807,7 @@
       "end_time": 672.185991428,
       "utterance": "<<the> the fourth> the fourth quadrant",
       "turn_index": 75,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U6A",
@@ -818,7 +824,7 @@
       "end_time": 673.607918852,
       "utterance": "<and I have> okay now the fence",
       "turn_index": 76,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U6A",
@@ -826,7 +832,7 @@
       "end_time": 674.315345431,
       "utterance": "yes",
       "turn_index": 77,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U6A",
@@ -843,7 +849,7 @@
       "end_time": 677.575547133,
       "utterance": "it has one pink bird to the left and one red bird to the right",
       "turn_index": 78,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U6A",
@@ -851,7 +857,7 @@
       "end_time": 679.776865081,
       "utterance": "yes I also have two birds and a fence",
       "turn_index": 79,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U6A",
@@ -859,7 +865,7 @@
       "end_time": 684.849113653,
       "utterance": "and <they are> they look <s-> <%eh> yeah <the> <the one to the right> the bird to the right is a little bigger",
       "turn_index": 80,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U6A",
@@ -867,7 +873,7 @@
       "end_time": 685.832436598,
       "utterance": "<%eh> it's bigger",
       "turn_index": 81,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U6A",
@@ -884,7 +890,7 @@
       "end_time": 688.394314142,
       "utterance": "bigger and they have their wings down",
       "turn_index": 82,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U1A",
@@ -892,7 +898,7 @@
       "end_time": 690.32000468,
       "utterance": "<%eh> they're facing each other",
       "turn_index": 83,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U1A",
@@ -909,7 +915,7 @@
       "end_time": 691.34577322,
       "utterance": "exactly they're facing each other",
       "turn_index": 84,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U6A",
@@ -917,7 +923,7 @@
       "end_time": 692.923334491,
       "utterance": "what colour on the fence?",
       "turn_index": 85,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U6A",
@@ -934,7 +940,7 @@
       "end_time": 691.947085812,
       "utterance": "okay",
       "turn_index": 86,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U6A",
@@ -942,7 +948,7 @@
       "end_time": 693.758097854,
       "utterance": "what colour on the <f->",
       "turn_index": 87,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U6A",
@@ -959,7 +965,7 @@
       "end_time": 693.651983867,
       "utterance": "white",
       "turn_index": 88,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U6A",
@@ -967,7 +973,7 @@
       "end_time": 694.940988973,
       "utterance": "white?",
       "turn_index": 89,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U1A",
@@ -975,7 +981,7 @@
       "end_time": 696.079945765,
       "utterance": "white",
       "turn_index": 90,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U6A",
@@ -983,7 +989,7 @@
       "end_time": 696.504267486,
       "utterance": "okay",
       "turn_index": 91,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U6A",
@@ -991,7 +997,7 @@
       "end_time": 698.718512679,
       "utterance": "my fence is divided to two colours",
       "turn_index": 92,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U6A",
@@ -999,7 +1005,7 @@
       "end_time": 700.826374928,
       "utterance": "right section of the fence is white",
       "turn_index": 93,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U6A",
@@ -1007,7 +1013,7 @@
       "end_time": 703.552853003,
       "utterance": "left section of the fence is blue",
       "turn_index": 94,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U6A",
@@ -1024,7 +1030,7 @@
       "end_time": 704.78377525,
       "utterance": "<click the <le->> click the left section",
       "turn_index": 95,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U6A",
@@ -1032,7 +1038,7 @@
       "end_time": 706.242696457,
       "utterance": "thank you I did click okay",
       "turn_index": 96,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U1A",
@@ -1040,7 +1046,7 @@
       "end_time": 706.94782794,
       "utterance": "okay",
       "turn_index": 97,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U1A",
@@ -1048,7 +1054,7 @@
       "end_time": 708.008967809,
       "utterance": "now we",
       "turn_index": 98,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U1A",
@@ -1065,7 +1071,7 @@
       "end_time": 711.050902099,
       "utterance": "<%eh> and in your tractors are there men sitting driving the tractors?",
       "turn_index": 99,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U6A",
@@ -1082,7 +1088,7 @@
       "end_time": 711.921036791,
       "utterance": "yeah they're sitting yes",
       "turn_index": 100,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U1A",
@@ -1099,7 +1105,7 @@
       "end_time": 712.557720712,
       "utterance": "yes mine as well",
       "turn_index": 101,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U1A",
@@ -1107,7 +1113,7 @@
       "end_time": 713.180981481,
       "utterance": "<yeah> yeah",
       "turn_index": 102,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U1A",
@@ -1124,7 +1130,7 @@
       "end_time": 713.223427076,
       "utterance": "okay",
       "turn_index": 103,
-      "topic": ""
+      "topic": "end of differences"
     }
   ]
 }

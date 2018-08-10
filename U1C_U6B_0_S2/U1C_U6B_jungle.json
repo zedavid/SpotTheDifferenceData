@@ -1,5 +1,11 @@
 {
   "success": 1.0,
+  "instruction_giver": {
+    "id": "U1C"
+  },
+  "instruction_follower": {
+    "id": "U6B"
+  },
   "dialogue_duration": 132.82500000000437,
   "audio": {
     "ig": "U1C_0_jungle.wav",
@@ -12,7 +18,7 @@
       "end_time": 116.33,
       "utterance": "OKAY",
       "turn_index": 0,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U1C",
@@ -20,7 +26,7 @@
       "end_time": 118.23,
       "utterance": "THIS IS A PICTURE WITH ANIMALS",
       "turn_index": 1,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U1C",
@@ -28,7 +34,7 @@
       "end_time": 123.03,
       "utterance": "SO UP IN THE TOP RIGHT THERE'S A <+ SUN> YELLOW SUN WHO'S SMILING",
       "turn_index": 2,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U6B",
@@ -36,7 +42,7 @@
       "end_time": 123.83,
       "utterance": "YES",
       "turn_index": 3,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U1C",
@@ -44,7 +50,7 @@
       "end_time": 127.32,
       "utterance": "<%aa> SORT OF TOO EYES AND A MOUTH",
       "turn_index": 4,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U1C",
@@ -52,7 +58,7 @@
       "end_time": 128.96,
       "utterance": "AND EYEBROWS",
       "turn_index": 5,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U1C",
@@ -60,7 +66,7 @@
       "end_time": 130.21,
       "utterance": "A RED MOUTH",
       "turn_index": 6,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U1C",
@@ -68,7 +74,7 @@
       "end_time": 132.47,
       "utterance": "<%ahm>",
       "turn_index": 7,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U1C",
@@ -76,7 +82,7 @@
       "end_time": 137.84,
       "utterance": "TO THE LEFT THERE IS  <A + CLOUD> A GRAY CLOUD WITH RAINDROPS UNDERNEATH",
       "turn_index": 8,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U6B",
@@ -84,7 +90,7 @@
       "end_time": 140.8,
       "utterance": "OH SO IT'S A WHITE CLOUD?",
       "turn_index": 9,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U1C",
@@ -92,7 +98,7 @@
       "end_time": 141.39,
       "utterance": "YEAH",
       "turn_index": 10,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U1C",
@@ -109,7 +115,7 @@
       "end_time": 145.06,
       "utterance": "AND THERE'S NO RAIN DROPS SO WE NEED TO CLICK ON THE CLOUD AND UNDER",
       "turn_index": 11,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U6B",
@@ -126,7 +132,7 @@
       "end_time": 144.36,
       "utterance": "YES",
       "turn_index": 12,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U1C",
@@ -134,7 +140,7 @@
       "end_time": 145.27,
       "utterance": "RIGHT",
       "turn_index": 13,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U1C",
@@ -142,7 +148,7 @@
       "end_time": 148.69,
       "utterance": "<%ahm>",
       "turn_index": 14,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U1C",
@@ -150,7 +156,7 @@
       "end_time": 150.1,
       "utterance": "UNDERNEATH",
       "turn_index": 15,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U1C",
@@ -158,7 +164,7 @@
       "end_time": 151.74,
       "utterance": "THERE ARE TWO PALM TREES",
       "turn_index": 16,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U6B",
@@ -166,7 +172,7 @@
       "end_time": 152.84,
       "utterance": "I HAVE THREE",
       "turn_index": 17,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U1C",
@@ -174,7 +180,7 @@
       "end_time": 154.77,
       "utterance": "OKAY SO I HAVE ONE",
       "turn_index": 18,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U1C",
@@ -182,7 +188,7 @@
       "end_time": 165.03,
       "utterance": "WHICH IS <UNDER THE <CLOU-> WELL> VERY CLOSE TO THE HORIZON AND ONE <CLOSER TO THE MIDDLE> <CLOSER TO <%aa>> <FURTHER DOWN> <%aa> CLOSER TO THE BOTTOM OF THE <P-> PICTURE",
       "turn_index": 19,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U1C",
@@ -190,7 +196,7 @@
       "end_time": 166.23,
       "utterance": "WHERE DO YOU HAVE?",
       "turn_index": 20,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U1C",
@@ -207,7 +213,7 @@
       "end_time": 166.19,
       "utterance": "OKAY",
       "turn_index": 21,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U6B",
@@ -215,7 +221,7 @@
       "end_time": 167.99,
       "utterance": "SO I HAVE <%aa>",
       "turn_index": 22,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U6B",
@@ -223,7 +229,7 @@
       "end_time": 169.48,
       "utterance": "THREE LIKE",
       "turn_index": 23,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U6B",
@@ -231,7 +237,7 @@
       "end_time": 174.5,
       "utterance": "<THEY ARE ALMOST> <THE> THE MIDDLE ONE IT'S AT THE CENTER OF THE CLOUD AND THEN",
       "turn_index": 24,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U6B",
@@ -248,7 +254,7 @@
       "end_time": 174.34,
       "utterance": "RIGHT",
       "turn_index": 25,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U1C",
@@ -256,7 +262,7 @@
       "end_time": 177.87,
       "utterance": "OKAY THAT ON E I DON'T HAVE SO YOU SHOULD CLICK ON THE MIDDLE ONE THEN",
       "turn_index": 26,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U6B",
@@ -264,7 +270,7 @@
       "end_time": 179.39,
       "utterance": "OKAY",
       "turn_index": 27,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U1C",
@@ -352,7 +358,7 @@
       "end_time": 198.14,
       "utterance": "OKAY SO TO THE RIGHT OF THE ELEPHANT <<ABO->> UNDER THE SUN THERE IS",
       "turn_index": 38,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U1C",
@@ -360,7 +366,7 @@
       "end_time": 199.3,
       "utterance": "<%aa> A GIRAFFE",
       "turn_index": 39,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U1C",
@@ -377,7 +383,7 @@
       "end_time": 200.49,
       "utterance": "OKAY THAT'S EMPTY",
       "turn_index": 40,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U1C",
@@ -385,7 +391,7 @@
       "end_time": 201.49,
       "utterance": "LET'S CLICK THERE",
       "turn_index": 41,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U1C",
@@ -393,7 +399,7 @@
       "end_time": 204.49,
       "utterance": "AND THE ELEPHANT IS GRAY",
       "turn_index": 42,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U6B",
@@ -401,7 +407,7 @@
       "end_time": 205.72,
       "utterance": "YES",
       "turn_index": 43,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U1C",
@@ -409,7 +415,7 @@
       "end_time": 207.58,
       "utterance": "IT HAS BAD TWO TUSKS",
       "turn_index": 44,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U1C",
@@ -417,7 +423,7 @@
       "end_time": 209.0,
       "utterance": "AND TWO YEARS",
       "turn_index": 45,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U1C",
@@ -425,7 +431,7 @@
       "end_time": 210.98,
       "utterance": "FOUR LEGS AND A TAIL",
       "turn_index": 46,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U6B",
@@ -433,7 +439,7 @@
       "end_time": 212.35,
       "utterance": "YES",
       "turn_index": 47,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U6B",
@@ -450,7 +456,7 @@
       "end_time": 213.04,
       "utterance": "AND A TRUNK",
       "turn_index": 48,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U6B",
@@ -458,7 +464,7 @@
       "end_time": 213.79,
       "utterance": "YES",
       "turn_index": 49,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U1C",
@@ -466,7 +472,7 @@
       "end_time": 214.84,
       "utterance": "AND TO EYES",
       "turn_index": 50,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U1C",
@@ -474,7 +480,7 @@
       "end_time": 215.84,
       "utterance": "<%aa> OKAY",
       "turn_index": 51,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U1C",
@@ -491,7 +497,7 @@
       "end_time": 219.1,
       "utterance": "AND IT HAS LIKE <PINK> <%aa> PINK EARS FOR ME",
       "turn_index": 52,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U6B",
@@ -508,7 +514,7 @@
       "end_time": 220.46,
       "utterance": "EXACTLY AND PINK TOENAILS",
       "turn_index": 53,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U6B",
@@ -516,7 +522,7 @@
       "end_time": 222.68,
       "utterance": "<+YES> VERY FUNNY YES",
       "turn_index": 54,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U6B",
@@ -533,7 +539,7 @@
       "end_time": 221.68,
       "utterance": "OKAY",
       "turn_index": 55,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U1C",
@@ -541,7 +547,7 @@
       "end_time": 226.69,
       "utterance": "AND THEN YOU HAVE THE TIGER IT'S <%aa> SORT OF ORANGE",
       "turn_index": 56,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U1C",
@@ -549,7 +555,7 @@
       "end_time": 227.35,
       "utterance": "AND WITH",
       "turn_index": 57,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U1C",
@@ -566,7 +572,7 @@
       "end_time": 227.53,
       "utterance": "YES",
       "turn_index": 58,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U1C",
@@ -574,7 +580,7 @@
       "end_time": 228.62,
       "utterance": "BLACK OR",
       "turn_index": 59,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U1C",
@@ -582,7 +588,7 @@
       "end_time": 230.68,
       "utterance": "IS IT BLUE PERHAPS STRIPES",
       "turn_index": 60,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U1C",
@@ -590,7 +596,7 @@
       "end_time": 231.45,
       "utterance": "YEAH",
       "turn_index": 61,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U1C",
@@ -607,7 +613,7 @@
       "end_time": 231.81,
       "utterance": "YES",
       "turn_index": 62,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U1C",
@@ -615,7 +621,7 @@
       "end_time": 235.02,
       "utterance": "AND A WHITE TIPE OF THE TAIL AND WHITE FEET",
       "turn_index": 63,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U6B",
@@ -623,7 +629,7 @@
       "end_time": 236.44,
       "utterance": "OKAY ANYTHING ELSE",
       "turn_index": 64,
-      "topic": "END OF DIFFERENCES"
+      "topic": "end of differences"
     },
     {
       "speaker": "U1C",
@@ -631,7 +637,7 @@
       "end_time": 238.54,
       "utterance": "<%aa> IT HAS A NOSE",
       "turn_index": 65,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U1C",
@@ -639,7 +645,7 @@
       "end_time": 239.25,
       "utterance": "AND HAS",
       "turn_index": 66,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U1C",
@@ -647,7 +653,7 @@
       "end_time": 240.96,
       "utterance": "MOUTH HE'S SMILLING A LITTLE",
       "turn_index": 67,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U1C",
@@ -655,7 +661,7 @@
       "end_time": 243.02,
       "utterance": "AND HE HAS TWO TWO EARS",
       "turn_index": 68,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U1C",
@@ -672,7 +678,7 @@
       "end_time": 242.16,
       "utterance": "YES",
       "turn_index": 69,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U1C",
@@ -680,7 +686,7 @@
       "end_time": 245.04,
       "utterance": "I THINK",
       "turn_index": 70,
-      "topic": ""
+      "topic": "end of differences"
     }
   ]
 }

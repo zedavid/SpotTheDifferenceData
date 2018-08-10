@@ -1,5 +1,11 @@
 {
   "success": 0.5,
+  "instruction_giver": {
+    "id": "U8A"
+  },
+  "instruction_follower": {
+    "id": "U11A"
+  },
   "dialogue_duration": 187.98300000000745,
   "audio": {
     "ig": "U8A_0_beach.wav",
@@ -12,7 +18,7 @@
       "end_time": 3.87991113946,
       "utterance": "nice <%aa> alright",
       "turn_index": 0,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U8A",
@@ -20,7 +26,7 @@
       "end_time": 9.47750751134,
       "utterance": "<let's go> let's start from the up <%aa> to the <+ top> up top <%aa> part",
       "turn_index": 1,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U8A",
@@ -28,7 +34,7 @@
       "end_time": 11.376849915,
       "utterance": "<%aa> do you see a sun with rays?",
       "turn_index": 2,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U11A",
@@ -36,7 +42,7 @@
       "end_time": 16.0297379148,
       "utterance": "no there is a sun with waves not rays",
       "turn_index": 3,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U8A",
@@ -44,7 +50,7 @@
       "end_time": 16.3733711161,
       "utterance": "with",
       "turn_index": 4,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U8A",
@@ -52,7 +58,7 @@
       "end_time": 17.6006325495,
       "utterance": "okay",
       "turn_index": 5,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U11A",
@@ -60,7 +66,7 @@
       "end_time": 19.6653894155,
       "utterance": "so there's like kind of like circles",
       "turn_index": 6,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U8A",
@@ -68,7 +74,7 @@
       "end_time": 20.6191468603,
       "utterance": "yeah exactly",
       "turn_index": 7,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U11A",
@@ -76,7 +82,7 @@
       "end_time": 21.2931991213,
       "utterance": "okay",
       "turn_index": 8,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U8A",
@@ -84,7 +90,7 @@
       "end_time": 24.1324961735,
       "utterance": "and how (many=) of these circles do you see? one two three",
       "turn_index": 9,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U11A",
@@ -92,7 +98,7 @@
       "end_time": 27.1044220101,
       "utterance": "one two three four five six",
       "turn_index": 10,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U8A",
@@ -100,7 +106,7 @@
       "end_time": 28.8155937531,
       "utterance": "okay cool they're identical",
       "turn_index": 11,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U8A",
@@ -108,7 +114,7 @@
       "end_time": 32.5187345468,
       "utterance": "and <%aa> <do you see> how many clouds do you see on the picture?",
       "turn_index": 12,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U11A",
@@ -116,7 +122,7 @@
       "end_time": 33.1008070465,
       "utterance": "three",
       "turn_index": 13,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U8A",
@@ -124,7 +130,7 @@
       "end_time": 35.2453986678,
       "utterance": "okay cool same here",
       "turn_index": 14,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U8A",
@@ -132,7 +138,7 @@
       "end_time": 37.6946144272,
       "utterance": "and <%eh> do you see a palm tree that is big?",
       "turn_index": 15,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U11A",
@@ -140,7 +146,7 @@
       "end_time": 38.5151262229,
       "utterance": "yeah",
       "turn_index": 16,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U8A",
@@ -148,7 +154,7 @@
       "end_time": 40.6119897008,
       "utterance": "how many nuts does it have?",
       "turn_index": 17,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U11A",
@@ -156,7 +162,7 @@
       "end_time": 42.1034462666,
       "utterance": "it's three coconuts",
       "turn_index": 18,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U8A",
@@ -164,7 +170,7 @@
       "end_time": 42.695035856,
       "utterance": "okay",
       "turn_index": 19,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U8A",
@@ -172,7 +178,7 @@
       "end_time": 47.9525408143,
       "utterance": "and how many <+ leaves>  big leave does it have <on the> around this coconut?",
       "turn_index": 20,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U11A",
@@ -180,7 +186,7 @@
       "end_time": 51.3354583866,
       "utterance": "on the top there are one two three four five leaves",
       "turn_index": 21,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U8A",
@@ -188,7 +194,7 @@
       "end_time": 53.0853306406,
       "utterance": "three four five yeah same here",
       "turn_index": 22,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U8A",
@@ -196,7 +202,7 @@
       "end_time": 57.288598868,
       "utterance": "<%aa> <do you one of these> <%aa> how many life rings I think they're called?",
       "turn_index": 23,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U8A",
@@ -204,7 +210,7 @@
       "end_time": 59.9803193027,
       "utterance": "how many do you see? do you see two?",
       "turn_index": 24,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U8A",
@@ -221,7 +227,7 @@
       "end_time": 60.6188817327,
       "utterance": "I see three",
       "turn_index": 25,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U8A",
@@ -229,7 +235,7 @@
       "end_time": 61.9373109097,
       "utterance": "okay i only see two",
       "turn_index": 26,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U11A",
@@ -237,7 +243,7 @@
       "end_time": 63.3738370261,
       "utterance": "okay",
       "turn_index": 27,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U11A",
@@ -254,7 +260,7 @@
           "turn_index": 29
         }
       ],
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U8A",
@@ -262,7 +268,7 @@
       "end_time": 64.1592841856,
       "utterance": "one",
       "turn_index": 29,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U11A",
@@ -270,7 +276,7 @@
       "end_time": 66.529651506,
       "utterance": "is",
       "turn_index": 30,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U11A",
@@ -278,7 +284,7 @@
       "end_time": 69.7714057632,
       "utterance": "below the coconuts there is one below the cloud",
       "turn_index": 31,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U11A",
@@ -295,7 +301,7 @@
       "end_time": 68.5651833398,
       "utterance": "yeah",
       "turn_index": 32,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U11A",
@@ -312,7 +318,7 @@
           "turn_index": 34
         }
       ],
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U8A",
@@ -320,7 +326,7 @@
       "end_time": 70.5934712302,
       "utterance": "yeah",
       "turn_index": 34,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U8A",
@@ -328,7 +334,7 @@
       "end_time": 74.2547398815,
       "utterance": "okay one below of the cloud is missing",
       "turn_index": 35,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U11A",
@@ -345,7 +351,7 @@
           "turn_index": 37
         }
       ],
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U8A",
@@ -353,7 +359,7 @@
       "end_time": 75.0664644274,
       "utterance": "on me",
       "turn_index": 37,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U8A",
@@ -361,7 +367,7 @@
       "end_time": 76.187280754,
       "utterance": "great",
       "turn_index": 38,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U8A",
@@ -369,7 +375,7 @@
       "end_time": 83.1904754644,
       "utterance": "<%aa> okay how many <%aa> (sun=) <%aa> bathing <%aa> chairs do you see?",
       "turn_index": 39,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U11A",
@@ -377,7 +383,7 @@
       "end_time": 86.8159655612,
       "utterance": "I (see=) three of them",
       "turn_index": 40,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U11A",
@@ -385,7 +391,7 @@
       "end_time": 89.9431764456,
       "utterance": "one of them is orange two of them are blue",
       "turn_index": 41,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U8A",
@@ -393,7 +399,7 @@
       "end_time": 90.6336299603,
       "utterance": "okay",
       "turn_index": 42,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U8A",
@@ -401,7 +407,7 @@
       "end_time": 93.6296153394,
       "utterance": "<all of> all are blue in mine so click the orange one",
       "turn_index": 43,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U8A",
@@ -409,7 +415,7 @@
       "end_time": 95.5827256171,
       "utterance": "(and=)",
       "turn_index": 44,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U8A",
@@ -417,7 +423,7 @@
       "end_time": 96.277004794,
       "utterance": "yeah",
       "turn_index": 45,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U8A",
@@ -425,7 +431,7 @@
       "end_time": 98.4580232182,
       "utterance": "how many umbrellas do you see?",
       "turn_index": 46,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U11A",
@@ -433,7 +439,7 @@
       "end_time": 100.176101616,
       "utterance": "I see three umbrellas",
       "turn_index": 47,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U8A",
@@ -441,7 +447,7 @@
       "end_time": 103.524015448,
       "utterance": "<is> <are> <are they> is one of them different?",
       "turn_index": 48,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U11A",
@@ -449,7 +455,7 @@
       "end_time": 105.908868056,
       "utterance": "yes the one in the top is different",
       "turn_index": 49,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U11A",
@@ -457,7 +463,7 @@
       "end_time": 108.653738012,
       "utterance": "it's <rain-> it's like at a rainbow colour",
       "turn_index": 50,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U11A",
@@ -465,7 +471,7 @@
       "end_time": 110.508107011,
       "utterance": "whereas the other ones are",
       "turn_index": 51,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U11A",
@@ -473,7 +479,7 @@
       "end_time": 112.442700255,
       "utterance": "just blue with yellow",
       "turn_index": 52,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U11A",
@@ -481,7 +487,7 @@
       "end_time": 113.708076947,
       "utterance": "in concentric parents",
       "turn_index": 53,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U8A",
@@ -489,7 +495,7 @@
       "end_time": 114.764945153,
       "utterance": "okay",
       "turn_index": 54,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U8A",
@@ -497,7 +503,7 @@
       "end_time": 118.266623158,
       "utterance": "for me the two top umbrellas are rainbow coloured",
       "turn_index": 55,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U8A",
@@ -505,7 +511,7 @@
       "end_time": 121.37006987,
       "utterance": "and the (one=) <%aa> below them is <%aa>",
       "turn_index": 56,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U8A",
@@ -513,7 +519,7 @@
       "end_time": 124.806033588,
       "utterance": "<%aa> striped with <%aa> blue and yellow",
       "turn_index": 57,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U11A",
@@ -521,7 +527,7 @@
       "end_time": 126.921793226,
       "utterance": "yeah so now click the one in the middle",
       "turn_index": 58,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U8A",
@@ -529,7 +535,7 @@
       "end_time": 127.777824972,
       "utterance": "do that",
       "turn_index": 59,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U8A",
@@ -537,7 +543,7 @@
       "end_time": 133.685157113,
       "utterance": "okay and do you see one of these <%aa> thing that <%aa> is <%aa>",
       "turn_index": 60,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U8A",
@@ -545,7 +551,7 @@
       "end_time": 136.560454533,
       "utterance": "ah you know <that you have> that you play with as a kid",
       "turn_index": 61,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U11A",
@@ -553,7 +559,7 @@
       "end_time": 137.540554457,
       "utterance": "a comet",
       "turn_index": 62,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U8A",
@@ -561,7 +567,7 @@
       "end_time": 138.50132457,
       "utterance": "a comet?",
       "turn_index": 63,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U11A",
@@ -569,7 +575,7 @@
       "end_time": 140.268580546,
       "utterance": "I think they call it like that I'm not sure",
       "turn_index": 64,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U8A",
@@ -577,7 +583,7 @@
       "end_time": 140.773510824,
       "utterance": "ah cool",
       "turn_index": 65,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U11A",
@@ -585,7 +591,7 @@
       "end_time": 141.717983702,
       "utterance": "that you fly",
       "turn_index": 66,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U8A",
@@ -593,7 +599,7 @@
       "end_time": 142.474181927,
       "utterance": "cool",
       "turn_index": 67,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U8A",
@@ -601,7 +607,7 @@
       "end_time": 143.896849915,
       "utterance": "how many colours does it have?",
       "turn_index": 68,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U11A",
@@ -609,7 +615,7 @@
       "end_time": 145.25129846,
       "utterance": "it has four colours",
       "turn_index": 69,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U8A",
@@ -617,7 +623,7 @@
       "end_time": 146.395602784,
       "utterance": "<%aa>",
       "turn_index": 70,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U8A",
@@ -634,7 +640,7 @@
       "end_time": 149.172178713,
       "utterance": "green red yellow-gold and purple",
       "turn_index": 71,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U8A",
@@ -642,7 +648,7 @@
       "end_time": 149.961710844,
       "utterance": "yeah",
       "turn_index": 72,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U8A",
@@ -650,7 +656,7 @@
       "end_time": 151.785398668,
       "utterance": "does it have a tail?",
       "turn_index": 73,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U11A",
@@ -658,7 +664,7 @@
       "end_time": 152.900468444,
       "utterance": "it (does=)",
       "turn_index": 74,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U8A",
@@ -666,7 +672,7 @@
       "end_time": 153.307552863,
       "utterance": "okay",
       "turn_index": 75,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U11A",
@@ -674,7 +680,7 @@
       "end_time": 155.565378248,
       "utterance": "red (and=) yellow",
       "turn_index": 76,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U8A",
@@ -682,7 +688,7 @@
       "end_time": 156.067734269,
       "utterance": "yeah",
       "turn_index": 77,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U8A",
@@ -690,7 +696,7 @@
       "end_time": 160.569134736,
       "utterance": "do you see a bucket of sand with a green <%aa> <%aa> spade?",
       "turn_index": 78,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U11A",
@@ -698,7 +704,7 @@
       "end_time": 163.802813634,
       "utterance": "yeah I see a bucket of sand with a green shovel",
       "turn_index": 79,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U8A",
@@ -706,7 +712,7 @@
       "end_time": 164.986445541,
       "utterance": "yeah exactly good",
       "turn_index": 80,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U8A",
@@ -714,7 +720,7 @@
       "end_time": 171.960795493,
       "utterance": "and <%aa> is the area to (the=) bottom left is it only sand or t+do you see any objects there?",
       "turn_index": 81,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U11A",
@@ -722,7 +728,7 @@
       "end_time": 173.458128635,
       "utterance": "is only sand",
       "turn_index": 82,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U11A",
@@ -730,7 +736,7 @@
       "end_time": 177.449911139,
       "utterance": "<those> the objects that we have described are all the objects on the screen",
       "turn_index": 83,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U11A",
@@ -738,7 +744,7 @@
       "end_time": 181.106668509,
       "utterance": "maybe except there is piece of rock to the top right",
       "turn_index": 84,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U8A",
@@ -746,7 +752,7 @@
       "end_time": 183.708278486,
       "utterance": "yeah <it's> I have yeah I see it as well",
       "turn_index": 85,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U8A",
@@ -754,7 +760,7 @@
       "end_time": 185.024264881,
       "utterance": "okay maybe we're finished",
       "turn_index": 86,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U11A",
@@ -762,7 +768,7 @@
       "end_time": 187.629455829,
       "utterance": "I'm gonna click here on found all the difference",
       "turn_index": 87,
-      "topic": ""
+      "topic": "end of differences"
     },
     {
       "speaker": "U8A",
@@ -770,7 +776,7 @@
       "end_time": 187.973088935,
       "utterance": "yeah",
       "turn_index": 88,
-      "topic": ""
+      "topic": "end of differences"
     }
   ]
 }

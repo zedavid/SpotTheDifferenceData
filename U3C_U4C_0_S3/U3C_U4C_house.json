@@ -1,5 +1,11 @@
 {
   "success": 0.8333333333333334,
+  "instruction_giver": {
+    "id": "U3C"
+  },
+  "instruction_follower": {
+    "id": "U4C"
+  },
   "dialogue_duration": 200.12200000000303,
   "audio": {
     "ig": "U3C_0_house.wav",
@@ -12,7 +18,7 @@
       "end_time": 318.382953505,
       "utterance": "okay now there's cats and <sun> sun and clouds",
       "turn_index": 0,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3C",
@@ -20,7 +26,7 @@
       "end_time": 322.582588088,
       "utterance": "tell me about the flowers",
       "turn_index": 1,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4C",
@@ -28,7 +34,7 @@
       "end_time": 327.182824381,
       "utterance": "<%aa> there are two sets of flowers",
       "turn_index": 2,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -45,7 +51,7 @@
           "turn_index": 4
         }
       ],
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3C",
@@ -53,7 +59,7 @@
       "end_time": 328.371805156,
       "utterance": "a-ah",
       "turn_index": 4,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -61,7 +67,7 @@
       "end_time": 339.423548414,
       "utterance": "both sets have a red flower on the left a blue in the middle and an orange on the right",
       "turn_index": 5,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3C",
@@ -69,7 +75,7 @@
       "end_time": 341.941700582,
       "utterance": "<%mm> my sets are different",
       "turn_index": 6,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3C",
@@ -77,7 +83,7 @@
       "end_time": 344.580265018,
       "utterance": "i have a set of two and a set of three",
       "turn_index": 7,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -85,7 +91,7 @@
       "end_time": 345.775116157,
       "utterance": "ow",
       "turn_index": 8,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U4C",
@@ -102,7 +108,7 @@
       "end_time": 347.619038059,
       "utterance": "and the set of two has no red flowers",
       "turn_index": 9,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -110,7 +116,7 @@
       "end_time": 349.725983018,
       "utterance": "okay",
       "turn_index": 10,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3C",
@@ -118,7 +124,7 @@
       "end_time": 352.115731471,
       "utterance": "<%ahm>",
       "turn_index": 11,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3C",
@@ -126,7 +132,7 @@
       "end_time": 354.556732846,
       "utterance": "(then=) about rocks",
       "turn_index": 12,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -134,7 +140,7 @@
       "end_time": 357.922557545,
       "utterance": "<which> <where> where is the set of two on the left or the right?",
       "turn_index": 13,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3C",
@@ -142,7 +148,7 @@
       "end_time": 358.686468047,
       "utterance": "on the left",
       "turn_index": 14,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4C",
@@ -150,7 +156,7 @@
       "end_time": 359.64794161,
       "utterance": "okay",
       "turn_index": 15,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4C",
@@ -158,7 +164,7 @@
       "end_time": 365.291240812,
       "utterance": "yeah that's a difference",
       "turn_index": 16,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3C",
@@ -166,7 +172,7 @@
       "end_time": 368.778907504,
       "utterance": "<%ahm>",
       "turn_index": 17,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3C",
@@ -174,7 +180,7 @@
       "end_time": 372.44731655,
       "utterance": "and my picture has five rocks a group of three and group of two",
       "turn_index": 18,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4C",
@@ -182,7 +188,7 @@
       "end_time": 376.202444851,
       "utterance": "oh I only have two rocks in each group",
       "turn_index": 19,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3C",
@@ -190,7 +196,7 @@
       "end_time": 377.843279425,
       "utterance": "oh okay",
       "turn_index": 20,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4C",
@@ -198,7 +204,7 @@
       "end_time": 383.293060177,
       "utterance": "two rocks in front of the house and two rocks on the left",
       "turn_index": 21,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3C",
@@ -206,7 +212,7 @@
       "end_time": 386.143048233,
       "utterance": "what colour are your rocks?",
       "turn_index": 22,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4C",
@@ -214,7 +220,7 @@
       "end_time": 387.477696467,
       "utterance": "<%aa> grey",
       "turn_index": 23,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3C",
@@ -222,7 +228,7 @@
       "end_time": 391.450121256,
       "utterance": "i have one black rock in front of the house",
       "turn_index": 24,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -230,7 +236,7 @@
       "end_time": 394.890235627,
       "utterance": "okay so that's a difference",
       "turn_index": 25,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3C",
@@ -238,7 +244,7 @@
       "end_time": 399.102300627,
       "utterance": "do you have cats?",
       "turn_index": 26,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -246,7 +252,7 @@
       "end_time": 402.528158829,
       "utterance": "i have two cats one on each side of the house",
       "turn_index": 27,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4C",
@@ -254,7 +260,7 @@
       "end_time": 408.518291377,
       "utterance": "and <uh%> the cat on the left has a tail but the cat on right has no tail",
       "turn_index": 28,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3C",
@@ -262,7 +268,7 @@
       "end_time": 411.54206696,
       "utterance": "ah okay in mine both cats have tails",
       "turn_index": 29,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -270,7 +276,7 @@
       "end_time": 414.34450353,
       "utterance": "okay so it must be the cat on the right",
       "turn_index": 30,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3C",
@@ -278,7 +284,7 @@
       "end_time": 415.240122739,
       "utterance": "yes",
       "turn_index": 31,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3C",
@@ -286,7 +292,7 @@
       "end_time": 417.633522697,
       "utterance": "<%aa>",
       "turn_index": 32,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3C",
@@ -294,7 +300,7 @@
       "end_time": 419.512566921,
       "utterance": "can you describe your house?",
       "turn_index": 33,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -302,7 +308,7 @@
       "end_time": 421.536441627,
       "utterance": "it is a <%aa>",
       "turn_index": 34,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -310,7 +316,7 @@
       "end_time": 423.951101261,
       "utterance": "it is yellow",
       "turn_index": 35,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -318,7 +324,7 @@
       "end_time": 426.34888984,
       "utterance": "with a grey roof",
       "turn_index": 36,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -326,7 +332,7 @@
       "end_time": 429.738884013,
       "utterance": "and a grey door and it has two windows on the",
       "turn_index": 37,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -334,7 +340,7 @@
       "end_time": 433.247416024,
       "utterance": "bottom floor and one window on the top floor",
       "turn_index": 38,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -342,7 +348,7 @@
       "end_time": 434.713772965,
       "utterance": "and a chimney",
       "turn_index": 39,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3C",
@@ -350,7 +356,7 @@
       "end_time": 436.870836034,
       "utterance": "<%aa> what shape are windows",
       "turn_index": 40,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -358,7 +364,7 @@
       "end_time": 438.540576887,
       "utterance": "they are square",
       "turn_index": 41,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3C",
@@ -366,7 +372,7 @@
       "end_time": 441.201092774,
       "utterance": "oh mine is the same but no chimney",
       "turn_index": 42,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -374,7 +380,7 @@
       "end_time": 442.589115015,
       "utterance": "no chimney oh",
       "turn_index": 43,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3C",
@@ -382,7 +388,7 @@
       "end_time": 445.28766344,
       "utterance": "in which side of the house is the chimney?",
       "turn_index": 44,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -390,7 +396,7 @@
       "end_time": 449.956317791,
       "utterance": "<%aa> to the <right> the right side of <of>",
       "turn_index": 45,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4C",
@@ -398,7 +404,7 @@
       "end_time": 452.827174087,
       "utterance": "of the roof",
       "turn_index": 46,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3C",
@@ -406,7 +412,7 @@
       "end_time": 459.254117218,
       "utterance": "another notable thing is that i have black cloud on the left side of the drawing",
       "turn_index": 47,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4C",
@@ -414,7 +420,7 @@
       "end_time": 463.607411542,
       "utterance": "oh black cloud i have no black cloud only white clouds i have six white clouds",
       "turn_index": 48,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3C",
@@ -422,7 +428,7 @@
       "end_time": 464.631780981,
       "utterance": "<%mm>",
       "turn_index": 49,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3C",
@@ -430,7 +436,7 @@
       "end_time": 466.475702883,
       "utterance": "i have like (the=)",
       "turn_index": 50,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3C",
@@ -438,7 +444,7 @@
       "end_time": 472.073274682,
       "utterance": "<the l> <the> <the lo> the lower on the left side is black on my drawing",
       "turn_index": 51,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U3C",
@@ -455,7 +461,7 @@
       "end_time": 471.195216633,
       "utterance": "yes",
       "turn_index": 52,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4C",
@@ -463,7 +469,7 @@
       "end_time": 472.881088086,
       "utterance": "ah okay mine is white",
       "turn_index": 53,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3C",
@@ -471,7 +477,7 @@
       "end_time": 476.110468943,
       "utterance": "what color is your sun?",
       "turn_index": 54,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4C",
@@ -479,7 +485,7 @@
       "end_time": 477.74326339,
       "utterance": "it is yellow",
       "turn_index": 55,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3C",
@@ -487,7 +493,7 @@
       "end_time": 480.59399357,
       "utterance": "mine is like kind of",
       "turn_index": 56,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3C",
@@ -495,7 +501,7 @@
       "end_time": 481.731078743,
       "utterance": "bit",
       "turn_index": 57,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3C",
@@ -503,7 +509,7 @@
       "end_time": 485.828996614,
       "utterance": "i don't i'm bad at identifying but i think it's a bit orange",
       "turn_index": 58,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -511,7 +517,7 @@
       "end_time": 494.265213438,
       "utterance": "<%aa> yeah it's a bit orange orangish yeah orange more orange than maybe",
       "turn_index": 59,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -519,7 +525,7 @@
       "end_time": 498.019603788,
       "utterance": "<it's> it's definitely more orange than the house",
       "turn_index": 60,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3C",
@@ -527,7 +533,7 @@
       "end_time": 498.972296771,
       "utterance": "yes",
       "turn_index": 61,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3C",
@@ -535,7 +541,7 @@
       "end_time": 503.154716289,
       "utterance": "it think that's about the same",
       "turn_index": 62,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3C",
@@ -543,7 +549,7 @@
       "end_time": 505.341080831,
       "utterance": "what kind of cats have you? like",
       "turn_index": 63,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -551,7 +557,7 @@
       "end_time": 507.942649765,
       "utterance": "<%ahm>",
       "turn_index": 64,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -559,7 +565,7 @@
       "end_time": 510.50983558,
       "utterance": "there're",
       "turn_index": 65,
-      "topic": ""
+      "topic": "describing object"
     }
   ]
 }

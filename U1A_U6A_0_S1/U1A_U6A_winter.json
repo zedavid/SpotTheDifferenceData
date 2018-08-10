@@ -1,5 +1,11 @@
 {
   "success": 0.0,
+  "instruction_giver": {
+    "id": "U1A"
+  },
+  "instruction_follower": {
+    "id": "U6A"
+  },
   "dialogue_duration": 200.10399999999936,
   "audio": {
     "ig": "U1A_0_winter.wav",
@@ -12,7 +18,7 @@
       "end_time": 214.848376384,
       "utterance": "right",
       "turn_index": 0,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U1A",
@@ -20,7 +26,7 @@
       "end_time": 217.679111563,
       "utterance": "so hi again what I see know is",
       "turn_index": 1,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U1A",
@@ -28,7 +34,7 @@
       "end_time": 224.86476164,
       "utterance": "three snowmen in the front but two of them have red scarves one has green scarf",
       "turn_index": 2,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U1A",
@@ -36,7 +42,7 @@
       "end_time": 226.806166615,
       "utterance": "I (see=)",
       "turn_index": 3,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U1A",
@@ -44,7 +50,7 @@
       "end_time": 228.234700319,
       "utterance": ">%ahm>",
       "turn_index": 4,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U1A",
@@ -52,7 +58,7 @@
       "end_time": 232.435054801,
       "utterance": "to the right of them and deeper one moose",
       "turn_index": 5,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U1A",
@@ -60,7 +66,7 @@
       "end_time": 238.403415051,
       "utterance": "<%eh> \u00e4lg or whatever it's called and then up to the left another moose",
       "turn_index": 6,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U1A",
@@ -68,7 +74,7 @@
       "end_time": 240.701255823,
       "utterance": "so two moose",
       "turn_index": 7,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U1A",
@@ -76,7 +82,7 @@
       "end_time": 243.441800894,
       "utterance": "then there are two skiers",
       "turn_index": 8,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U1A",
@@ -84,7 +90,7 @@
       "end_time": 246.33094746,
       "utterance": "that look identical to each other which are",
       "turn_index": 9,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U1A",
@@ -92,7 +98,7 @@
       "end_time": 247.151109553,
       "utterance": "kind of",
       "turn_index": 10,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U1A",
@@ -100,7 +106,7 @@
       "end_time": 250.100340425,
       "utterance": "left from the middle of the picture",
       "turn_index": 11,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U1A",
@@ -108,7 +114,7 @@
       "end_time": 252.081854918,
       "utterance": "then there are (two=)",
       "turn_index": 12,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U1A",
@@ -116,7 +122,7 @@
       "end_time": 256.536225987,
       "utterance": "<%eh> sledges how do you call this thing that slides in the snow?",
       "turn_index": 13,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U1A",
@@ -133,7 +139,7 @@
       "end_time": 256.411147058,
       "utterance": "yes",
       "turn_index": 14,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U1A",
@@ -141,7 +147,7 @@
       "end_time": 258.123360261,
       "utterance": "which is to the left of them",
       "turn_index": 15,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U1A",
@@ -149,7 +155,7 @@
       "end_time": 260.022534892,
       "utterance": "behind there are three trees",
       "turn_index": 16,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U1A",
@@ -157,7 +163,7 @@
       "end_time": 265.054450867,
       "utterance": "<%eh> to the left of the picture <+ deep> far deep in",
       "turn_index": 17,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U1A",
@@ -165,7 +171,7 @@
       "end_time": 266.285489364,
       "utterance": "I see",
       "turn_index": 18,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U1A",
@@ -173,7 +179,7 @@
       "end_time": 267.731170761,
       "utterance": "<%ahm>",
       "turn_index": 19,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U1A",
@@ -181,7 +187,7 @@
       "end_time": 269.320382385,
       "utterance": "<%eh> three",
       "turn_index": 20,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U1A",
@@ -189,7 +195,7 @@
       "end_time": 270.485589946,
       "utterance": "<%ahm>",
       "turn_index": 21,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U1A",
@@ -197,7 +203,7 @@
       "end_time": 271.255811893,
       "utterance": "clouds",
       "turn_index": 22,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U1A",
@@ -205,7 +211,7 @@
       "end_time": 273.103524913,
       "utterance": "that <%aa> have snow",
       "turn_index": 23,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U1A",
@@ -213,7 +219,7 @@
       "end_time": 275.647159761,
       "utterance": "one in the left one in the middle one in the right",
       "turn_index": 24,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U1A",
@@ -221,7 +227,7 @@
       "end_time": 277.128355814,
       "utterance": "and then to the",
       "turn_index": 25,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U1A",
@@ -229,7 +235,7 @@
       "end_time": 281.294820394,
       "utterance": "<%eh> let's say the upper right <%eh> quadrant of the picture",
       "turn_index": 26,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U1A",
@@ -237,7 +243,7 @@
       "end_time": 283.273144565,
       "utterance": "I see two houses",
       "turn_index": 27,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U1A",
@@ -245,7 +251,7 @@
       "end_time": 291.761055893,
       "utterance": "one in the <%eh> most right and one kind of in the centre of the right up quadrant",
       "turn_index": 28,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U1A",
@@ -253,7 +259,7 @@
       "end_time": 293.748061112,
       "utterance": "and a tree between them",
       "turn_index": 29,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U1A",
@@ -261,7 +267,7 @@
       "end_time": 294.985681788,
       "utterance": "this is what i see",
       "turn_index": 30,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U6A",
@@ -269,7 +275,7 @@
       "end_time": 296.770160724,
       "utterance": "okay I understand",
       "turn_index": 31,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U6A",
@@ -277,7 +283,7 @@
       "end_time": 299.722193176,
       "utterance": "<%eh> there are several differences let me tell you",
       "turn_index": 32,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U6A",
@@ -285,7 +291,7 @@
       "end_time": 302.447928359,
       "utterance": "<you said there were> you said you had three snowmen",
       "turn_index": 33,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U1A",
@@ -293,7 +299,7 @@
       "end_time": 302.915327657,
       "utterance": "yeah",
       "turn_index": 34,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U6A",
@@ -301,7 +307,7 @@
       "end_time": 304.391913057,
       "utterance": "i have two snowmen",
       "turn_index": 35,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U1A",
@@ -309,7 +315,7 @@
       "end_time": 305.820443305,
       "utterance": "okay so I",
       "turn_index": 36,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U1A",
@@ -326,7 +332,7 @@
       "end_time": 306.273714294,
       "utterance": "okay I have two snowmen",
       "turn_index": 37,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U6A",
@@ -334,7 +340,7 @@
       "end_time": 309.459929225,
       "utterance": "and you said one of your snowmen he had a green <%eh> scarf?",
       "turn_index": 38,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U6A",
@@ -351,7 +357,7 @@
       "end_time": 312.760866891,
       "utterance": "the one to the right the third <%eh> from the left to the right",
       "turn_index": 39,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U1A",
@@ -368,7 +374,7 @@
       "end_time": 312.878861749,
       "utterance": "yeah okay",
       "turn_index": 40,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U6A",
@@ -376,7 +382,7 @@
       "end_time": 320.470086816,
       "utterance": "you say he has a <%eh> green colour but <<the> the two> I have two snowmen and <they are both> they have both red colour scarf",
       "turn_index": 41,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U6A",
@@ -393,7 +399,7 @@
       "end_time": 321.327393933,
       "utterance": "okay <w->",
       "turn_index": 42,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U1A",
@@ -410,7 +416,7 @@
       "end_time": 322.162022169,
       "utterance": "red colour <%eh> okay",
       "turn_index": 43,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U6A",
@@ -418,7 +424,7 @@
       "end_time": 326.509671442,
       "utterance": "and then <%eh> <%aa> the two snowmen one of them is having a red hat",
       "turn_index": 44,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U6A",
@@ -426,7 +432,7 @@
       "end_time": 329.612404683,
       "utterance": "the other one the one to right <he> he has a blue hat",
       "turn_index": 45,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U1A",
@@ -434,7 +440,7 @@
       "end_time": 330.497224367,
       "utterance": "okay",
       "turn_index": 46,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U1A",
@@ -442,7 +448,7 @@
       "end_time": 337.156923971,
       "utterance": "but <<the> <the> the snow> <the three snowmen that you> the two snowmen that you have are they to the left from the middle or?",
       "turn_index": 47,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U6A",
@@ -450,7 +456,7 @@
       "end_time": 343.266035998,
       "utterance": "they are <in the> in they are like in the left and the <lower> <%eh> lower section",
       "turn_index": 48,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U6A",
@@ -467,7 +473,7 @@
       "end_time": 343.230264767,
       "utterance": "yeah okay",
       "turn_index": 49,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U6A",
@@ -475,7 +481,7 @@
       "end_time": 344.213830277,
       "utterance": "and then <%eh>",
       "turn_index": 50,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U6A",
@@ -492,7 +498,7 @@
       "end_time": 345.714774501,
       "utterance": "good and which one has a blue hat?",
       "turn_index": 51,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U6A",
@@ -500,7 +506,7 @@
       "end_time": 348.514685663,
       "utterance": "<%eh> the one in the middle <the> the one to right",
       "turn_index": 52,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U6A",
@@ -517,7 +523,7 @@
       "end_time": 350.242723499,
       "utterance": "in the middle okay we click on the hat",
       "turn_index": 53,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U1A",
@@ -525,7 +531,7 @@
       "end_time": 351.659977528,
       "utterance": "because mine is red",
       "turn_index": 54,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U1A",
@@ -542,7 +548,7 @@
       "end_time": 350.828618393,
       "utterance": "yes",
       "turn_index": 55,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U1A",
@@ -550,7 +556,7 @@
       "end_time": 354.540643221,
       "utterance": "the I click on the snowman and <you> you should click",
       "turn_index": 56,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U1A",
@@ -558,7 +564,7 @@
       "end_time": 355.435943284,
       "utterance": "to the right",
       "turn_index": 57,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U1A",
@@ -566,7 +572,7 @@
       "end_time": 357.174554143,
       "utterance": "of your second snowman",
       "turn_index": 58,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U6A",
@@ -574,7 +580,7 @@
       "end_time": 357.911860078,
       "utterance": "thank you",
       "turn_index": 59,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U1A",
@@ -582,7 +588,7 @@
       "end_time": 359.254810173,
       "utterance": "<%ahm>",
       "turn_index": 60,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U1A",
@@ -599,7 +605,7 @@
       "end_time": 359.97894993,
       "utterance": "okay I did I click yes",
       "turn_index": 61,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U1A",
@@ -607,7 +613,7 @@
       "end_time": 360.406850695,
       "utterance": "okay",
       "turn_index": 62,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U1A",
@@ -615,7 +621,7 @@
       "end_time": 361.773410019,
       "utterance": "so we finish with",
       "turn_index": 63,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U1A",
@@ -632,7 +638,7 @@
       "end_time": 361.510086471,
       "utterance": "and then also",
       "turn_index": 64,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U1A",
@@ -640,7 +646,7 @@
       "end_time": 362.747707146,
       "utterance": "the snowman",
       "turn_index": 65,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U1A",
@@ -657,7 +663,7 @@
       "end_time": 362.484383598,
       "utterance": "yeah",
       "turn_index": 66,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U6A",
@@ -665,7 +671,7 @@
       "end_time": 369.297843075,
       "utterance": "and then <al-> also you said that the scarf was green so I will also maybe pick <on (the=)> on the scarf which is",
       "turn_index": 67,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U6A",
@@ -682,7 +688,7 @@
       "end_time": 372.806254555,
       "utterance": "no but you don't have this snowman at all I think is the one that is missing that has the green scarf",
       "turn_index": 68,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U1A",
@@ -699,7 +705,7 @@
       "end_time": 372.978339161,
       "utterance": "<yes> yes you're right",
       "turn_index": 69,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U6A",
@@ -707,7 +713,7 @@
       "end_time": 374.782105465,
       "utterance": "<true> true <okay> okay",
       "turn_index": 70,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U6A",
@@ -724,7 +730,7 @@
       "end_time": 377.020355623,
       "utterance": "okay so let's go to (the=) next differences",
       "turn_index": 71,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U1A",
@@ -741,7 +747,7 @@
       "end_time": 379.188750655,
       "utterance": "yes <%eh> you said you had three skiers",
       "turn_index": 72,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U1A",
@@ -749,7 +755,7 @@
       "end_time": 379.754896283,
       "utterance": "two",
       "turn_index": 73,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U6A",
@@ -757,7 +763,7 @@
       "end_time": 381.53925079,
       "utterance": "two skiers I have three skiers",
       "turn_index": 74,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U1A",
@@ -765,7 +771,7 @@
       "end_time": 382.651792781,
       "utterance": "where is the third one?",
       "turn_index": 75,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U6A",
@@ -773,7 +779,7 @@
       "end_time": 388.376231387,
       "utterance": "<%eh> <there are two like you know> they are like <above of the snowmen> <%eh> above of the snowmen",
       "turn_index": 76,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U6A",
@@ -781,7 +787,7 @@
       "end_time": 393.052659794,
       "utterance": "<%eh> so <th-> <just> just if you <follow> follow them <up> up in the picture",
       "turn_index": 77,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U1A",
@@ -789,7 +795,7 @@
       "end_time": 393.611972468,
       "utterance": "yeah",
       "turn_index": 78,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U1A",
@@ -806,7 +812,7 @@
       "end_time": 394.625768128,
       "utterance": "I have three snowmen",
       "turn_index": 79,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U1A",
@@ -814,7 +820,7 @@
       "end_time": 396.15514317,
       "utterance": "okay",
       "turn_index": 80,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U6A",
@@ -822,7 +828,7 @@
       "end_time": 401.062814865,
       "utterance": "and <two of them> two of them they are quite close they're very close  and the third one is behind them",
       "turn_index": 81,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U1A",
@@ -830,7 +836,7 @@
       "end_time": 401.992542005,
       "utterance": "behind them",
       "turn_index": 82,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U6A",
@@ -838,7 +844,7 @@
       "end_time": 404.504683695,
       "utterance": "yeah he's like maybe fifty metres behind them",
       "turn_index": 83,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U1A",
@@ -846,7 +852,7 @@
       "end_time": 407.985588152,
       "utterance": "towards the sledges or towards the trees?",
       "turn_index": 84,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U1A",
@@ -863,7 +869,7 @@
       "end_time": 407.48527341,
       "utterance": "the",
       "turn_index": 85,
-      "topic": ""
+      "topic": "finding difference"
     }
   ]
 }

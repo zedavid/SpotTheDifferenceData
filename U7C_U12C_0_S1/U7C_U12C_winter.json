@@ -1,5 +1,11 @@
 {
   "success": 0.4,
+  "instruction_giver": {
+    "id": "U7C"
+  },
+  "instruction_follower": {
+    "id": "U12C"
+  },
   "dialogue_duration": 200.10199999999895,
   "audio": {
     "ig": "U7C_0_winter.wav",
@@ -12,7 +18,7 @@
       "end_time": 1103.14,
       "utterance": "DO YOU SEE IT?",
       "turn_index": 0,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U7C",
@@ -29,7 +35,7 @@
       "end_time": 1103.9,
       "utterance": "NOW OKAY YES YES",
       "turn_index": 1,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7C",
@@ -37,7 +43,7 @@
       "end_time": 1104.84,
       "utterance": "OKAY",
       "turn_index": 2,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7C",
@@ -45,7 +51,7 @@
       "end_time": 1110.12,
       "utterance": "SO IN THE SKY HAVE <%aa> THREE CLOUDS WITH <%aa> SNOW",
       "turn_index": 3,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U12C",
@@ -53,7 +59,7 @@
       "end_time": 1111.09,
       "utterance": "I HAVE FOUR",
       "turn_index": 4,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7C",
@@ -61,7 +67,7 @@
       "end_time": 1112.09,
       "utterance": "OKAY",
       "turn_index": 5,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U7C",
@@ -78,7 +84,7 @@
       "end_time": 1116.3,
       "utterance": "ONE IN THE SUN ONE WHICH IS COVERING THE SUN AND THEN I HAVE THREE MORE ON THE RIGHT",
       "turn_index": 6,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7C",
@@ -86,7 +92,7 @@
       "end_time": 1118.66,
       "utterance": "OKAY I DON'T HAVE A SUN WHERE IS THE SUN?",
       "turn_index": 7,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12C",
@@ -94,7 +100,7 @@
       "end_time": 1121.19,
       "utterance": "OKAY THE SUN IS ON THE LEFT",
       "turn_index": 8,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7C",
@@ -102,7 +108,7 @@
       "end_time": 1122.7,
       "utterance": "<%aa> IN THE CORNER",
       "turn_index": 9,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12C",
@@ -110,7 +116,7 @@
       "end_time": 1124.21,
       "utterance": "YEAH IN THE CORNER EXACTLY",
       "turn_index": 10,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7C",
@@ -118,7 +124,7 @@
       "end_time": 1125.38,
       "utterance": "OKAY LET'S CLICK THAT",
       "turn_index": 11,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U7C",
@@ -135,7 +141,7 @@
       "end_time": 1125.81,
       "utterance": "WE SHOULD CLICK THERE",
       "turn_index": 12,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7C",
@@ -143,7 +149,7 @@
       "end_time": 1127.44,
       "utterance": "OKAY",
       "turn_index": 13,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7C",
@@ -151,7 +157,7 @@
       "end_time": 1131.49,
       "utterance": "<<SO THE> THE> THAT ONE IS COVERING THE SUN OKAY",
       "turn_index": 14,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7C",
@@ -159,7 +165,7 @@
       "end_time": 1132.2,
       "utterance": "I SEE",
       "turn_index": 15,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U7C",
@@ -176,7 +182,7 @@
       "end_time": 1132.2,
       "utterance": "OKAY",
       "turn_index": 16,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7C",
@@ -184,7 +190,7 @@
       "end_time": 1134.15,
       "utterance": "<%aa> THE",
       "turn_index": 17,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U7C",
@@ -201,7 +207,7 @@
       "end_time": 1135.54,
       "utterance": "AND THEN I HAVE THREE MORE ON THE RIGHT",
       "turn_index": 18,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7C",
@@ -209,7 +215,7 @@
       "end_time": 1139.51,
       "utterance": "OKAY <%aa> YOU SHOULD CLICK <%aa> THE MIDDLE OF THE THREE",
       "turn_index": 19,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U12C",
@@ -217,7 +223,7 @@
       "end_time": 1140.72,
       "utterance": "OKAY PERFECT",
       "turn_index": 20,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U12C",
@@ -234,7 +240,7 @@
       "end_time": 1141.59,
       "utterance": "BECAUSE I DON+T HAVE ANYTHING THERE",
       "turn_index": 21,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7C",
@@ -242,7 +248,7 @@
       "end_time": 1144.84,
       "utterance": "OKAY AND THEN I HAVE TWO COTTAGES",
       "turn_index": 22,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12C",
@@ -250,7 +256,7 @@
       "end_time": 1146.47,
       "utterance": "I HAVE THREE",
       "turn_index": 23,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U12C",
@@ -258,7 +264,7 @@
       "end_time": 1149.14,
       "utterance": "<%aa> A BIG ONE <%hm>",
       "turn_index": 24,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U12C",
@@ -266,7 +272,7 @@
       "end_time": 1149.89,
       "utterance": "A BIT",
       "turn_index": 25,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12C",
@@ -274,7 +280,7 @@
       "end_time": 1151.0,
       "utterance": "<%aa> UPPER",
       "turn_index": 26,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12C",
@@ -282,7 +288,7 @@
       "end_time": 1151.93,
       "utterance": "AND",
       "turn_index": 27,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U12C",
@@ -299,7 +305,7 @@
       "end_time": 1152.09,
       "utterance": "YES ME TOO",
       "turn_index": 28,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12C",
@@ -307,7 +313,7 @@
       "end_time": 1154.86,
       "utterance": "A MIDDLE ONE ON THE RIGHT SIDE",
       "turn_index": 29,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12C",
@@ -315,7 +321,7 @@
       "end_time": 1159.65,
       "utterance": "NEXT TO THE SCREEN AND A VERY LITTLE ONE ON THE <%aa> LEFT",
       "turn_index": 30,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12C",
@@ -323,7 +329,7 @@
       "end_time": 1161.7,
       "utterance": "<%aa> NEXT TO THE BIG ONE",
       "turn_index": 31,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7C",
@@ -331,7 +337,7 @@
       "end_time": 1163.32,
       "utterance": "<%mm>",
       "turn_index": 32,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7C",
@@ -339,7 +345,7 @@
       "end_time": 1164.06,
       "utterance": "OKAY",
       "turn_index": 33,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7C",
@@ -347,7 +353,7 @@
       "end_time": 1164.84,
       "utterance": "<%aa>",
       "turn_index": 34,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7C",
@@ -355,7 +361,7 @@
       "end_time": 1166.81,
       "utterance": "WHAT YOU SAY <%aa>",
       "turn_index": 35,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7C",
@@ -363,7 +369,7 @@
       "end_time": 1170.61,
       "utterance": "<<THE> THE RIGHT> THE SMALL ONE WAS ON THE RIGHT FOR YOU?",
       "turn_index": 36,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U7C",
@@ -380,7 +386,7 @@
       "end_time": 1173.17,
       "utterance": "ON THE LEFT THE SMALL ONE IS ON THE LEFT ON THE BIG ONE",
       "turn_index": 37,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7C",
@@ -388,7 +394,7 @@
       "end_time": 1178.59,
       "utterance": "AHA OKAY SO LET'S <%aa> CLICK ON THE LEFT OF THE BIG ONE BECAUSE I DON'T HAVE ANYTHING THERE",
       "turn_index": 38,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U7C",
@@ -405,7 +411,7 @@
       "end_time": 1178.6190754,
       "utterance": "OKAY",
       "turn_index": 39,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12C",
@@ -413,7 +419,7 @@
       "end_time": 1179.31077608,
       "utterance": "PERFECT",
       "turn_index": 40,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7C",
@@ -421,7 +427,7 @@
       "end_time": 1185.81,
       "utterance": "AND THEN <%aa> THE OTHER SMALL ONE <YOU HAD NO> YOU HAD TWO BIG ONES",
       "turn_index": 41,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12C",
@@ -429,7 +435,7 @@
       "end_time": 1188.99,
       "utterance": "YOU HAVE TWO BIG ONES OKAY SO THEN <%aa> I HAVE A BIG ONE",
       "turn_index": 42,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U12C",
@@ -437,7 +443,7 @@
       "end_time": 1197.07,
       "utterance": "ON THE <MIDDLE~> <%aa> MIDDLE ONE ON THE RIGHT SO MAYBE WE ALSO HAVE TO CLICK ON THE RIGHT BECAUSE MAYBE YOURS IS BIG AND MINE IS MIDDLE SIZE",
       "turn_index": 43,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U12C",
@@ -454,7 +460,7 @@
       "end_time": 1201.24,
       "utterance": "<NO> NO I THINK <%aa> YEAH <I> YOU MISUNDERSTOOD ME I THINK BECAUSE",
       "turn_index": 44,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U7C",
@@ -471,7 +477,7 @@
       "end_time": 1201.41596882,
       "utterance": "okay",
       "turn_index": 45,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7C",
@@ -479,7 +485,7 @@
       "end_time": 1203.91,
       "utterance": "<%aa> OR MAYBE I DON'T KNOW",
       "turn_index": 46,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7C",
@@ -487,7 +493,7 @@
       "end_time": 1204.94,
       "utterance": "OKAY LET'S GO ON",
       "turn_index": 47,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U12C",
@@ -495,7 +501,7 @@
       "end_time": 1205.37,
       "utterance": "YEAH",
       "turn_index": 48,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U12C",
@@ -512,7 +518,7 @@
       "end_time": 1206.98,
       "utterance": "<%aa> THERE IS <%aa>",
       "turn_index": 49,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7C",
@@ -520,7 +526,7 @@
       "end_time": 1208.35,
       "utterance": "TWO REINDEERS",
       "turn_index": 50,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U12C",
@@ -528,7 +534,7 @@
       "end_time": 1209.45,
       "utterance": "I HAVE THREE",
       "turn_index": 51,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7C",
@@ -536,7 +542,7 @@
       "end_time": 1210.33,
       "utterance": "OKAY",
       "turn_index": 52,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U12C",
@@ -544,7 +550,7 @@
       "end_time": 1217.88,
       "utterance": "<<%ahm> ONE <%aa> <%aa>> <I HAVE ONE NEXT TO (THE=)> THERE'S LIKE <%ahm>",
       "turn_index": 53,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12C",
@@ -552,7 +558,7 @@
       "end_time": 1227.54,
       "utterance": "<%mm> A LINE WHICH <%aa> DRAWS LIKE THE SNOW SO I HAVE ONE REINDEER TOUCHING THAT LINE ON THE BOTTOM PART AND THEN I HAVE",
       "turn_index": 54,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12C",
@@ -560,7 +566,7 @@
       "end_time": 1230.54,
       "utterance": "AND ANOTHER ONE JUST ABOVE AND ANOTHER ONE ABOVE",
       "turn_index": 55,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7C",
@@ -568,7 +574,7 @@
       "end_time": 1232.64,
       "utterance": "AH OKAY",
       "turn_index": 56,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7C",
@@ -576,7 +582,7 @@
       "end_time": 1237.82,
       "utterance": "<%aa> SO LET'S <%aa> CLICK ON THE ONE THAT IS JUST ABOVE THE SNOW LINE",
       "turn_index": 57,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12C",
@@ -584,7 +590,7 @@
       "end_time": 1238.89,
       "utterance": "OKAY",
       "turn_index": 58,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7C",
@@ -592,7 +598,7 @@
       "end_time": 1239.94,
       "utterance": "<%aa>",
       "turn_index": 59,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7C",
@@ -600,7 +606,7 @@
       "end_time": 1241.42,
       "utterance": "MAYBE THAT'S RIGHT",
       "turn_index": 60,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7C",
@@ -608,7 +614,7 @@
       "end_time": 1243.43,
       "utterance": "(AND=) OKAY",
       "turn_index": 61,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7C",
@@ -616,7 +622,7 @@
       "end_time": 1245.43,
       "utterance": "AND THEN WE HAVE THREE SNOWMEN",
       "turn_index": 62,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12C",
@@ -624,7 +630,7 @@
       "end_time": 1246.84,
       "utterance": "YEAH I ALSO HAVE THREE",
       "turn_index": 63,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7C",
@@ -632,7 +638,7 @@
       "end_time": 1250.87,
       "utterance": "<%aa> (THE=) RIGHT ONE <IS <%aa>> HAS A",
       "turn_index": 64,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7C",
@@ -640,7 +646,7 @@
       "end_time": 1251.78,
       "utterance": "GREEN",
       "turn_index": 65,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7C",
@@ -648,7 +654,7 @@
       "end_time": 1252.83,
       "utterance": "SCARF",
       "turn_index": 66,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U12C",
@@ -656,7 +662,7 @@
       "end_time": 1255.51,
       "utterance": "<%aa> MINE DOESN'T HAVE ANY SCARF",
       "turn_index": 67,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U12C",
@@ -664,7 +670,7 @@
       "end_time": 1256.54,
       "utterance": "<%aa>",
       "turn_index": 68,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U12C",
@@ -681,7 +687,7 @@
       "end_time": 1258.14,
       "utterance": "OKAY LET'S CLICK THE RIGHT ONE THEN",
       "turn_index": 69,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7C",
@@ -689,7 +695,7 @@
       "end_time": 1261.94,
       "utterance": "AND THEN WE HAVE <%aa> TWO SKIERS",
       "turn_index": 70,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U12C",
@@ -697,7 +703,7 @@
       "end_time": 1262.74,
       "utterance": "YEAH",
       "turn_index": 71,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7C",
@@ -705,7 +711,7 @@
       "end_time": 1265.03,
       "utterance": "AND THEY HAVE <%aa>",
       "turn_index": 72,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7C",
@@ -713,7 +719,7 @@
       "end_time": 1268.5,
       "utterance": "CLOTHES THAT ARE YELLOW WHITE AND",
       "turn_index": 73,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7C",
@@ -721,7 +727,7 @@
       "end_time": 1269.36,
       "utterance": "BLUE",
       "turn_index": 74,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U12C",
@@ -729,7 +735,7 @@
       "end_time": 1273.42,
       "utterance": "<%ahm> MINE ARE <BLUE> BLUE AND WHITE",
       "turn_index": 75,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U12C",
@@ -737,7 +743,7 @@
       "end_time": 1275.2,
       "utterance": "OH YEAH THE THREE OF THEM",
       "turn_index": 76,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U12C",
@@ -754,7 +760,7 @@
       "end_time": 1274.54,
       "utterance": "OKAY",
       "turn_index": 77,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7C",
@@ -762,7 +768,7 @@
       "end_time": 1278.94,
       "utterance": "AH <YOU HAD <%aa>> YOU HAVE HAVE THREE SKIERS",
       "turn_index": 78,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U7C",
@@ -779,7 +785,7 @@
       "end_time": 1280.21,
       "utterance": "AH YEAH I HAVE THREE SKIERS SORRY",
       "turn_index": 79,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U12C",
@@ -796,7 +802,7 @@
       "end_time": 1280.38,
       "utterance": "OKAY",
       "turn_index": 80,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7C",
@@ -804,7 +810,7 @@
       "end_time": 1284.89,
       "utterance": "<%aa> SO LET'S CLICK <ON THE> ON EVERYONE BECAUSE ALL OF",
       "turn_index": 81,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7C",
@@ -812,7 +818,7 @@
       "end_time": 1286.38,
       "utterance": "YOURS ARE",
       "turn_index": 82,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7C",
@@ -820,7 +826,7 @@
       "end_time": 1288.99,
       "utterance": "BLUE AND THEN WE SHOULD <%aa>",
       "turn_index": 83,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12C",
@@ -828,7 +834,7 @@
       "end_time": 1296.24,
       "utterance": "<%aa> NO MINE ARE BLUE AND WHITE <SORRY> THREE OF THEM ARE BLUE AND WHITE I HAVE THREE SKIERS WITH BLUE AND WHITE <SKIRTS> <%aa> SHIRTS",
       "turn_index": 84,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U12C",
@@ -859,7 +865,7 @@
       "end_time": 1289.5,
       "utterance": "CLICK",
       "turn_index": 85,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7C",
@@ -867,7 +873,7 @@
       "end_time": 1292.12,
       "utterance": "ADVIL IT",
       "turn_index": 86,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7C",
@@ -875,7 +881,7 @@
       "end_time": 1295.81,
       "utterance": "OKAY",
       "turn_index": 87,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7C",
@@ -883,7 +889,7 @@
       "end_time": 1299.67,
       "utterance": "AND <%aa> LET'S SEE WHERE IS YOUR THIRD THEN",
       "turn_index": 88,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7C",
@@ -891,7 +897,7 @@
       "end_time": 1300.92,
       "utterance": "HOW ARE THEY PLACED?",
       "turn_index": 89,
-      "topic": ""
+      "topic": "finding difference"
     }
   ]
 }

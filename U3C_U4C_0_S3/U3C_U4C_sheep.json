@@ -1,5 +1,11 @@
 {
   "success": 0.625,
+  "instruction_giver": {
+    "id": "U3C"
+  },
+  "instruction_follower": {
+    "id": "U4C"
+  },
   "dialogue_duration": 200.51800000000367,
   "audio": {
     "ig": "U3C_0_sheep.wav",
@@ -12,7 +18,7 @@
       "end_time": 89.5694166007,
       "utterance": "there is another picture also with",
       "turn_index": 0,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3C",
@@ -20,7 +26,7 @@
       "end_time": 90.8952842541,
       "utterance": "trees and sheep and so on",
       "turn_index": 1,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4C",
@@ -157,7 +163,7 @@
       "end_time": 125.052833823,
       "utterance": "(so=)",
       "turn_index": 17,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3C",
@@ -165,7 +171,7 @@
       "end_time": 127.730516931,
       "utterance": "in this this picture now there is two trees",
       "turn_index": 18,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4C",
@@ -173,7 +179,7 @@
       "end_time": 128.665648753,
       "utterance": "yes",
       "turn_index": 19,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3C",
@@ -181,7 +187,7 @@
       "end_time": 131.40390625,
       "utterance": "the one on the left is bigger",
       "turn_index": 20,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3C",
@@ -189,7 +195,7 @@
       "end_time": 133.061366741,
       "utterance": "and has for apples",
       "turn_index": 21,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -197,7 +203,7 @@
       "end_time": 135.590173921,
       "utterance": "okay mine is the same",
       "turn_index": 22,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -205,7 +211,7 @@
       "end_time": 139.607240814,
       "utterance": "<%ahm> oh it's bigger than the other one but mine has five apples",
       "turn_index": 23,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3C",
@@ -213,7 +219,7 @@
       "end_time": 140.584401942,
       "utterance": "okay",
       "turn_index": 24,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3C",
@@ -221,7 +227,7 @@
       "end_time": 142.17368701,
       "utterance": "where is the extra apple",
       "turn_index": 25,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U3C",
@@ -238,7 +244,7 @@
       "end_time": 141.519533764,
       "utterance": "and",
       "turn_index": 26,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4C",
@@ -246,7 +252,7 @@
       "end_time": 145.364294874,
       "utterance": "it's in the <%aa> the middle",
       "turn_index": 27,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3C",
@@ -254,7 +260,7 @@
       "end_time": 146.729319527,
       "utterance": "a-ah",
       "turn_index": 28,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4C",
@@ -262,7 +268,7 @@
       "end_time": 150.139441485,
       "utterance": "so there are four on the side and one in the middle",
       "turn_index": 29,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3C",
@@ -270,7 +276,7 @@
       "end_time": 154.572501071,
       "utterance": "<%aa> can you describe the tree on your right?",
       "turn_index": 30,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4C",
@@ -278,7 +284,7 @@
       "end_time": 158.685414313,
       "utterance": "<%aa> the tree on the right",
       "turn_index": 31,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -286,7 +292,7 @@
       "end_time": 161.048081405,
       "utterance": "has four oranges",
       "turn_index": 32,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -294,7 +300,7 @@
       "end_time": 162.505657765,
       "utterance": "and it's smaller",
       "turn_index": 33,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U4C",
@@ -311,7 +317,7 @@
       "end_time": 162.066628741,
       "utterance": "ohm",
       "turn_index": 34,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3C",
@@ -319,7 +325,7 @@
       "end_time": 166.444439054,
       "utterance": "my tree on the right is also smaller but has no fruits whatsoever",
       "turn_index": 35,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -327,7 +333,7 @@
       "end_time": 167.63420771,
       "utterance": "okay",
       "turn_index": 36,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -335,7 +341,7 @@
       "end_time": 171.336999876,
       "utterance": "mine has four rather large oranges",
       "turn_index": 37,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3C",
@@ -343,7 +349,7 @@
       "end_time": 175.731631313,
       "utterance": "<aa%> what about rocks",
       "turn_index": 38,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4C",
@@ -351,7 +357,7 @@
       "end_time": 178.527111804,
       "utterance": "<%ahm>",
       "turn_index": 39,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4C",
@@ -359,7 +365,7 @@
       "end_time": 182.322840102,
       "utterance": "<%ah> mine has two rocks behind the apple tree",
       "turn_index": 40,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4C",
@@ -367,7 +373,7 @@
       "end_time": 184.798777175,
       "utterance": "but no rocks behind the orange tree",
       "turn_index": 41,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3C",
@@ -375,7 +381,7 @@
       "end_time": 187.705542422,
       "utterance": "mine has one rock behind the orange tree",
       "turn_index": 42,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4C",
@@ -383,7 +389,7 @@
       "end_time": 192.158332513,
       "utterance": "okay that must be a difference",
       "turn_index": 43,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U4C",
@@ -400,7 +406,7 @@
       "end_time": 191.706132618,
       "utterance": "<%aa>",
       "turn_index": 44,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3C",
@@ -408,7 +414,7 @@
       "end_time": 194.278448343,
       "utterance": "what about the sun?",
       "turn_index": 45,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4C",
@@ -416,7 +422,7 @@
       "end_time": 198.144420868,
       "utterance": "<%ah> my sun is the middle of the sky",
       "turn_index": 46,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3C",
@@ -424,7 +430,7 @@
       "end_time": 201.381496589,
       "utterance": "the same here and it has like triangles for rays",
       "turn_index": 47,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4C",
@@ -432,7 +438,7 @@
       "end_time": 202.378092474,
       "utterance": "yeah",
       "turn_index": 48,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -440,7 +446,7 @@
       "end_time": 204.870988199,
       "utterance": "it has i (guess=)",
       "turn_index": 49,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -448,7 +454,7 @@
       "end_time": 206.15734324,
       "utterance": "<%eh>",
       "turn_index": 50,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -456,7 +462,7 @@
       "end_time": 211.0524686,
       "utterance": "so eight triangles or so sticking out so",
       "turn_index": 51,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3C",
@@ -464,7 +470,7 @@
       "end_time": 214.666368411,
       "utterance": "do you have a <clou-> cloud on the upper right corner",
       "turn_index": 52,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -472,7 +478,7 @@
       "end_time": 216.400533057,
       "utterance": "yes above the",
       "turn_index": 53,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4C",
@@ -480,7 +486,7 @@
       "end_time": 217.765518965,
       "utterance": "orange tree",
       "turn_index": 54,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3C",
@@ -488,7 +494,7 @@
       "end_time": 220.532832795,
       "utterance": "mm-mm",
       "turn_index": 55,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3C",
@@ -496,7 +502,7 @@
       "end_time": 222.161630476,
       "utterance": "what kind of cloud is it?",
       "turn_index": 56,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4C",
@@ -504,7 +510,7 @@
       "end_time": 226.934911755,
       "utterance": "it is a cumulus cloud a fluffy white cumulus cloud",
       "turn_index": 57,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3C",
@@ -512,7 +518,7 @@
       "end_time": 230.071009966,
       "utterance": "yeah same here with like a blue border",
       "turn_index": 58,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -520,7 +526,7 @@
       "end_time": 232.392340362,
       "utterance": "<%eh> sorry",
       "turn_index": 59,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3C",
@@ -528,7 +534,7 @@
       "end_time": 235.011124361,
       "utterance": "<%ahm> <my> my cloud has like a blue",
       "turn_index": 60,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -536,7 +542,7 @@
       "end_time": 236.666609462,
       "utterance": "a blue border yes",
       "turn_index": 61,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -544,7 +550,7 @@
       "end_time": 237.250518064,
       "utterance": "yeah",
       "turn_index": 62,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3C",
@@ -552,7 +558,7 @@
       "end_time": 240.996867036,
       "utterance": "<%aa> tell me about the flowers in the middle",
       "turn_index": 63,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -560,7 +566,7 @@
       "end_time": 245.248791162,
       "utterance": "<%eh> three flower <%aa> a red one on the left",
       "turn_index": 64,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -568,7 +574,7 @@
       "end_time": 246.816124779,
       "utterance": "(a=)",
       "turn_index": 65,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -576,7 +582,7 @@
       "end_time": 251.525773067,
       "utterance": "orange one in the middle and a blue one on the right and the red and the blue one",
       "turn_index": 66,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -584,7 +590,7 @@
       "end_time": 254.671737992,
       "utterance": "are a little bit higher or behind",
       "turn_index": 67,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -592,7 +598,7 @@
       "end_time": 256.480143214,
       "utterance": "the orange one",
       "turn_index": 68,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3C",
@@ -600,7 +606,7 @@
       "end_time": 260.852430929,
       "utterance": "oh that's different in mine <%mm> a have a red on the left",
       "turn_index": 69,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3C",
@@ -608,7 +614,7 @@
       "end_time": 263.280261433,
       "utterance": "then blue in the middle and yellow on the right",
       "turn_index": 70,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -616,7 +622,7 @@
       "end_time": 263.864170036,
       "utterance": "ah",
       "turn_index": 71,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -624,7 +630,7 @@
       "end_time": 265.607115262,
       "utterance": "so that's the difference",
       "turn_index": 72,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3C",
@@ -632,7 +638,7 @@
       "end_time": 266.43392164,
       "utterance": "(and=)",
       "turn_index": 73,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3C",
@@ -640,7 +646,7 @@
       "end_time": 270.448077483,
       "utterance": "<the blue one> like the middle flower is lower than the other two",
       "turn_index": 74,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -648,7 +654,7 @@
       "end_time": 270.917838539,
       "utterance": "yeah",
       "turn_index": 75,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -656,7 +662,7 @@
       "end_time": 271.934513113,
       "utterance": "mine is too",
       "turn_index": 76,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3C",
@@ -664,7 +670,7 @@
       "end_time": 273.484285569,
       "utterance": "(and=)",
       "turn_index": 77,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3C",
@@ -672,7 +678,7 @@
       "end_time": 274.647712483,
       "utterance": "and <the->",
       "turn_index": 78,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3C",
@@ -680,7 +686,7 @@
       "end_time": 275.309166236,
       "utterance": "<aa%>",
       "turn_index": 79,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3C",
@@ -688,7 +694,7 @@
       "end_time": 276.946744497,
       "utterance": "and <+there> about the sheep",
       "turn_index": 80,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3C",
@@ -696,7 +702,7 @@
       "end_time": 279.399783183,
       "utterance": "there is two sheep behind each tree",
       "turn_index": 81,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4C",
@@ -704,7 +710,7 @@
       "end_time": 283.186730066,
       "utterance": "<%aa> i have two sheep in front of each tree",
       "turn_index": 82,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3C",
@@ -712,7 +718,7 @@
       "end_time": 285.112933922,
       "utterance": "oh yes sorry in front",
       "turn_index": 83,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3C",
@@ -720,7 +726,7 @@
       "end_time": 286.34221519,
       "utterance": "<%mm> same here",
       "turn_index": 84,
-      "topic": ""
+      "topic": "describing picture"
     }
   ]
 }

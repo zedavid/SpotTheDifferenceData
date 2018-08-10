@@ -1,5 +1,11 @@
 {
   "success": 1.0,
+  "instruction_giver": {
+    "id": "U8C"
+  },
+  "instruction_follower": {
+    "id": "U11C"
+  },
   "dialogue_duration": 200.13099999999395,
   "audio": {
     "ig": "U8C_0_city.wav",
@@ -12,7 +18,7 @@
       "end_time": 609.71,
       "utterance": "OKAY SO A LOT OF FORMS IT'S <SO> SO ON THE CORNER LEFT UP YOU HAVE TWO CLOUDS",
       "turn_index": 0,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U11C",
@@ -20,7 +26,7 @@
       "end_time": 610.55,
       "utterance": "WHITE",
       "turn_index": 1,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U8C",
@@ -28,7 +34,7 @@
       "end_time": 611.9,
       "utterance": "WHITE EXACTLY",
       "turn_index": 2,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U8C",
@@ -36,7 +42,7 @@
       "end_time": 621.27,
       "utterance": "BELOW THAT THERE EVER %HESITATION BUILDING WHICH HAS <%eh> <%aa> LIKE A BIG TOWER ON THE LEFT AND GLUED TO THAT TOWER <%aa> A SMALLER TOWER ON THE RIGHT",
       "turn_index": 3,
-      "topic": "DESCRIBING PICTURE"
+      "topic": "describing picture"
     },
     {
       "speaker": "U11C",
@@ -44,7 +50,7 @@
       "end_time": 625.05,
       "utterance": "YES <AND> AND A THIRD PART WHICH IS JUST GLASS",
       "turn_index": 4,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U8C",
@@ -52,7 +58,7 @@
       "end_time": 626.67,
       "utterance": "YEAH JUST GLASS BEHIND IT",
       "turn_index": 5,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U11C",
@@ -60,7 +66,7 @@
       "end_time": 627.09,
       "utterance": "OKAY",
       "turn_index": 6,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U8C",
@@ -68,7 +74,7 @@
       "end_time": 627.6,
       "utterance": "CORRECT",
       "turn_index": 7,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U8C",
@@ -76,7 +82,7 @@
       "end_time": 630.071512857,
       "utterance": "AND THEN <+ LIKE> I HAVE LIKE <%eh> A ROAD",
       "turn_index": 8,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U8C",
@@ -84,7 +90,7 @@
       "end_time": 633.13,
       "utterance": "AND THEN I HAVE LIKE THREE LIGHT POLES",
       "turn_index": 9,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U11C",
@@ -92,7 +98,7 @@
       "end_time": 634.67,
       "utterance": "CORRECT",
       "turn_index": 10,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U8C",
@@ -100,7 +106,7 @@
       "end_time": 638.36,
       "utterance": "YEAH AND EACH POLE HAS LIKE TWO <%aa> <%aa> CANDLES OR YEAH",
       "turn_index": 11,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U8C",
@@ -117,7 +123,7 @@
       "end_time": 639.27,
       "utterance": "YEAH YEAH I GOT IT",
       "turn_index": 12,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U8C",
@@ -125,7 +131,7 @@
       "end_time": 640.19,
       "utterance": "YEAH YEAH OKAY",
       "turn_index": 13,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U11C",
@@ -133,7 +139,7 @@
       "end_time": 642.45,
       "utterance": "<ABOVE> ABOVE THESE ARE FIVE STARS",
       "turn_index": 14,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U8C",
@@ -141,7 +147,7 @@
       "end_time": 645.66,
       "utterance": "YEAH ABOVE THAT THERE ARE FIVE STARS AND ABOVE THAT THERE IS A AIRPLANE",
       "turn_index": 15,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U11C",
@@ -149,7 +155,7 @@
       "end_time": 646.24,
       "utterance": "OKAY",
       "turn_index": 16,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U8C",
@@ -157,7 +163,7 @@
       "end_time": 651.14,
       "utterance": "AND THAT AIRPLANE HAS LIKE <%aa> A RED <%aa> STAR ON THE TAIL",
       "turn_index": 17,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U11C",
@@ -165,7 +171,7 @@
       "end_time": 652.9,
       "utterance": "MINE'S GREEN SO CLICK IT",
       "turn_index": 18,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U8C",
@@ -173,7 +179,7 @@
       "end_time": 654.37,
       "utterance": "OKAY YEAH OKAY",
       "turn_index": 19,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U8C",
@@ -181,7 +187,7 @@
       "end_time": 655.01,
       "utterance": "DONE",
       "turn_index": 20,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U8C",
@@ -189,7 +195,7 @@
       "end_time": 657.45,
       "utterance": "AND THEN ON THE RIGHT OF THAT I HAVE A MOON",
       "turn_index": 21,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U11C",
@@ -197,7 +203,7 @@
       "end_time": 659.35,
       "utterance": "WHICH IT'S FACING",
       "turn_index": 22,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U11C",
@@ -214,7 +220,7 @@
       "end_time": 658.92,
       "utterance": "WHICH IS",
       "turn_index": 23,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U8C",
@@ -222,7 +228,7 @@
       "end_time": 662.59,
       "utterance": "<WHICH IS <%aa>> SO <IT'S> IT'S CURVED AS A D",
       "turn_index": 24,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U8C",
@@ -239,7 +245,7 @@
       "end_time": 662.32,
       "utterance": "IT'S LIKE A D",
       "turn_index": 25,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U11C",
@@ -247,7 +253,7 @@
       "end_time": 663.78,
       "utterance": "LIKE A D YES",
       "turn_index": 26,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U8C",
@@ -255,7 +261,7 @@
       "end_time": 664.11,
       "utterance": "YEAH",
       "turn_index": 27,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U8C",
@@ -263,7 +269,7 @@
       "end_time": 670.69,
       "utterance": "AND THEN AFTER THAT I HAVE LIKE AGAIN TWO CLOUDS WHICH ARE <G-> GRAY AND I HAVE LIKE A THUNDERBOLT OR A LIGHTING BOLT",
       "turn_index": 28,
-      "topic": "DESCRIBING PICTURE",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U8C",
@@ -280,7 +286,7 @@
       "end_time": 672.2,
       "utterance": "NO THUNDERBOLTS CLICK IT",
       "turn_index": 29,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U11C",
@@ -297,7 +303,7 @@
       "end_time": 672.23,
       "utterance": "OKAY YEAH",
       "turn_index": 30,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U8C",
@@ -305,7 +311,7 @@
       "end_time": 673.07,
       "utterance": "THAT ONE",
       "turn_index": 31,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U8C",
@@ -313,7 +319,7 @@
       "end_time": 675.3,
       "utterance": "AND THEN I HAVE THE SAME TYPE OF BUILDING",
       "turn_index": 32,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U11C",
@@ -321,7 +327,7 @@
       "end_time": 676.39,
       "utterance": "EXACTLY THE SAME",
       "turn_index": 33,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U11C",
@@ -338,7 +344,7 @@
       "end_time": 676.1,
       "utterance": "<%aa>",
       "turn_index": 34,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U8C",
@@ -346,7 +352,7 @@
       "end_time": 679.72,
       "utterance": "YEAH <%aa> BELOW THAT BUT IS GREEN INSTEAD OF BLUE",
       "turn_index": 35,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U11C",
@@ -354,7 +360,7 @@
       "end_time": 683.79,
       "utterance": "OKAY SO THE ONE ON THE LEFT MINE IS ALSO GREEN AND YOURS IS BLUE SO CLICK IT",
       "turn_index": 36,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U11C",
@@ -371,7 +377,7 @@
       "end_time": 684.81,
       "utterance": "OH YEAH OKAY YEAH IT'S BLUE",
       "turn_index": 37,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U8C",
@@ -379,7 +385,7 @@
       "end_time": 685.53,
       "utterance": "YES",
       "turn_index": 38,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U8C",
@@ -387,7 +393,7 @@
       "end_time": 687.97,
       "utterance": "AND THEN <%aa> <%ahm>",
       "turn_index": 39,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U8C",
@@ -404,7 +410,7 @@
       "end_time": 689.18,
       "utterance": "THE ROAD IS IT SPLIT IN HALF?",
       "turn_index": 40,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U8C",
@@ -412,7 +418,7 @@
       "end_time": 693.09,
       "utterance": "YEAH THE ROAD IS SPLIT IN HALF WITH A CONTINUOUS <%aa> TRACE LET'S SAY",
       "turn_index": 41,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U11C",
@@ -420,7 +426,7 @@
       "end_time": 693.96,
       "utterance": "DO YOU HAVE A CAR?",
       "turn_index": 42,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U8C",
@@ -428,7 +434,7 @@
       "end_time": 695.59,
       "utterance": "AND THEN I HAVE A CAR ON THE RIGHT SIDE",
       "turn_index": 43,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U8C",
@@ -436,7 +442,7 @@
       "end_time": 696.53,
       "utterance": "OF THE TREES",
       "turn_index": 44,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U11C",
@@ -444,7 +450,7 @@
       "end_time": 701.64,
       "utterance": "<ON THE> ON THE RIGHT SIDE IS IT'S <%aa> ON THE BOTTOM OF THE IMAGE A BLUE CAR",
       "turn_index": 45,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U11C",
@@ -461,7 +467,7 @@
       "end_time": 701.39,
       "utterance": "YEAH",
       "turn_index": 46,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U8C",
@@ -469,7 +475,7 @@
       "end_time": 707.52,
       "utterance": "IS <AT> ON THE BOTTOM OF THE IMAGE <%aa> WITH A GUY LIKE <%aa> STANDING HIS LEFT HAND UP",
       "turn_index": 47,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U11C",
@@ -477,7 +483,7 @@
       "end_time": 709.43,
       "utterance": "LEFT HAND OR RIGHT HAND?",
       "turn_index": 48,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U8C",
@@ -485,7 +491,7 @@
       "end_time": 710.19,
       "utterance": "LEFT HAND",
       "turn_index": 49,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U11C",
@@ -493,7 +499,7 @@
       "end_time": 712.53,
       "utterance": "WELL MINE IS RIGHT HAND",
       "turn_index": 50,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U8C",
@@ -501,7 +507,7 @@
       "end_time": 718.15,
       "utterance": "SO HE'S DRIVING WITH THE RIGHT HAND AND <HE'S> HE HAS THE HAND UP SAYING HELLO <%aa> WITH HIS LEFT HAND",
       "turn_index": 51,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U11C",
@@ -509,7 +515,7 @@
       "end_time": 720.04,
       "utterance": "SO MINES THE OTHER ONE SO CLICK IT",
       "turn_index": 52,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U8C",
@@ -517,7 +523,7 @@
       "end_time": 721.12,
       "utterance": "OKAY I CLICK THERE",
       "turn_index": 53,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U11C",
@@ -525,7 +531,7 @@
       "end_time": 723.19,
       "utterance": "IS THERE SMOKE COMING OUT OF THE PIPE",
       "turn_index": 54,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U11C",
@@ -542,7 +548,7 @@
       "end_time": 721.95,
       "utterance": "SO",
       "turn_index": 55,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U8C",
@@ -550,7 +556,7 @@
       "end_time": 725.49,
       "utterance": "YEAH THERE IS A SMOKE WITH THREE SMALL CLOUDS",
       "turn_index": 56,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U11C",
@@ -558,7 +564,7 @@
       "end_time": 728.39,
       "utterance": "OKAY AND <%aa> WHAT ELSE",
       "turn_index": 57,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U11C",
@@ -575,7 +581,7 @@
       "end_time": 734.25,
       "utterance": "YEAH AND THEN <B-> BEHIND THAT <THERE IS LIKE A> I HAVE <%aa> LIKE A <SEMAPH-> SEMAPHORE NO LIKE <A> A TRAFFIC LIGHT",
       "turn_index": 58,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U8C",
@@ -592,7 +598,7 @@
       "end_time": 735.08,
       "utterance": "<%aa> TRAFFIC LIGHTS HOW MANY",
       "turn_index": 59,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U8C",
@@ -600,7 +606,7 @@
       "end_time": 737.52,
       "utterance": "YEAH I HAVE TWO OF THEM ONE BEHIND THE CAR",
       "turn_index": 60,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U11C",
@@ -608,7 +614,7 @@
       "end_time": 739.17,
       "utterance": "ONE BEHIND THE CAR",
       "turn_index": 61,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U11C",
@@ -625,7 +631,7 @@
       "end_time": 738.71,
       "utterance": "WITH",
       "turn_index": 62,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U8C",
@@ -633,7 +639,7 @@
       "end_time": 740.49,
       "utterance": "YEAH BEHIND THE CAR",
       "turn_index": 63,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U11C",
@@ -641,7 +647,7 @@
       "end_time": 742.2,
       "utterance": "NO THERE'S NOTHING BEHIND THE CAR ON MINE",
       "turn_index": 64,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U8C",
@@ -649,7 +655,7 @@
       "end_time": 744.47,
       "utterance": "OH OKAY SO THAT'S <%aa> THE THING AND YEAH",
       "turn_index": 65,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U8C",
@@ -657,7 +663,7 @@
       "end_time": 746.27,
       "utterance": "SO WHERE THERE ARE THE TWO OF YOU?",
       "turn_index": 66,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U11C",
@@ -665,7 +671,7 @@
       "end_time": 750.79,
       "utterance": "AND THEN MINE <%aa> ONE IS IN FRONT OF THE CAR MORE LESS OUTSIDE THE ROAD OF COURSE",
       "turn_index": 67,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U8C",
@@ -673,7 +679,7 @@
       "end_time": 751.55,
       "utterance": "AHA YES",
       "turn_index": 68,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U11C",
@@ -681,7 +687,7 @@
       "end_time": 752.67,
       "utterance": "IS THAT YOURS AS WELL?",
       "turn_index": 69,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U8C",
@@ -689,7 +695,7 @@
       "end_time": 757.71,
       "utterance": "<%aa> NO IN FRONT OF THE CAR I DON'T HAVE ANYTHING I JUST HAVE ONE LIKE ON THE SECOND CURVE OF THE ROAD",
       "turn_index": 70,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U8C",
@@ -706,7 +712,7 @@
       "end_time": 755.07,
       "utterance": "SO",
       "turn_index": 71,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U11C",
@@ -714,7 +720,7 @@
       "end_time": 761.34,
       "utterance": "YEAH THAT ONE I ALSO HAVE BUT THEN <THE> THE ONE IN FRONT OF THE CAR",
       "turn_index": 72,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U11C",
@@ -731,7 +737,7 @@
       "end_time": 759.84,
       "utterance": "OKAY",
       "turn_index": 73,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U11C",
@@ -739,7 +745,7 @@
       "end_time": 764.14,
       "utterance": "WHAT YOU DO IS YOU FOLLOW <THE> <THE> THE LIGHTS OF THE CAR",
       "turn_index": 74,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U8C",
@@ -747,7 +753,7 @@
       "end_time": 764.58,
       "utterance": "YEAH",
       "turn_index": 75,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U11C",
@@ -755,7 +761,7 @@
       "end_time": 766.6,
       "utterance": "UP UNTIL THEY <GOT> GET OFF THE ROAD",
       "turn_index": 76,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U11C",
@@ -763,7 +769,7 @@
       "end_time": 768.63,
       "utterance": "AND THEN YOU GO BIT MORE AND IT'S ALMOST",
       "turn_index": 77,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U11C",
@@ -771,7 +777,7 @@
       "end_time": 770.17,
       "utterance": "BELOW THE BUILDING YOU CLICK",
       "turn_index": 78,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U8C",
@@ -779,7 +785,7 @@
       "end_time": 773.85,
       "utterance": "OH OKAY OKAY I DON'T HAVE ANYTHING SO <WE> WE CLICK THERE YEAH <%aa> DONE",
       "turn_index": 79,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U8C",
@@ -796,7 +802,7 @@
       "end_time": 772.46,
       "utterance": "YES",
       "turn_index": 80,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U8C",
@@ -804,7 +810,7 @@
       "end_time": 778.14,
       "utterance": "AND THEN SHOULD WE CLICK ALSO FOR <THE> THE TRAFFIC LIKE THAT IS",
       "turn_index": 81,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U8C",
@@ -812,7 +818,7 @@
       "end_time": 780.13,
       "utterance": "<%aa> <%aa> BEHIND THE CAR",
       "turn_index": 82,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U8C",
@@ -829,7 +835,7 @@
       "end_time": 780.17,
       "utterance": "BEHIND THE CAR",
       "turn_index": 83,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U11C",
@@ -837,7 +843,7 @@
       "end_time": 781.61,
       "utterance": "YES I CLICKED ALREADY",
       "turn_index": 84,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U11C",
@@ -854,7 +860,7 @@
       "end_time": 787.71,
       "utterance": "<YEAH SO IT'S LIKE> SO YOU HAVE LIKE <THE> <THE> THE TREE SMOKE CLOUDS FROM THE CAR AND IT'S JUST LIKE <%aa> HALF CENTIMETRE FROM THERE",
       "turn_index": 85,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U11C",
@@ -862,7 +868,7 @@
       "end_time": 794.53,
       "utterance": "OKAY SO WHERE DO YOU HAVE THE <THREE=> <%aa> LIGHTS BECAUSE WHERE YOU SAY THERE'S A TRAFFIC LIGHT I HAVE A LIGHT",
       "turn_index": 86,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U8C",
@@ -870,7 +876,7 @@
       "end_time": 802.16,
       "utterance": "AH OKAY WELL <I> SO MINE IS NOT THERE SO <MY> MY THREE POLES <ONE> ONE IS JUST IN FRONT OF THE CAR",
       "turn_index": 87,
-      "topic": ""
+      "topic": "finding difference"
     }
   ]
 }

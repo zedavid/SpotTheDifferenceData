@@ -1,5 +1,11 @@
 {
   "success": 0.5,
+  "instruction_giver": {
+    "id": "U7A"
+  },
+  "instruction_follower": {
+    "id": "U12A"
+  },
   "dialogue_duration": 200.10199999999895,
   "audio": {
     "ig": "U7A_0_sea.wav",
@@ -12,7 +18,7 @@
       "end_time": 500.72421679,
       "utterance": "ready?",
       "turn_index": 0,
-      "topic": ""
+      "topic": "checking readiness"
     },
     {
       "speaker": "U12A",
@@ -20,7 +26,7 @@
       "end_time": 501.441891592,
       "utterance": "yes",
       "turn_index": 1,
-      "topic": ""
+      "topic": "checking readiness"
     },
     {
       "speaker": "U7A",
@@ -28,7 +34,7 @@
       "end_time": 501.985376599,
       "utterance": "cool",
       "turn_index": 2,
-      "topic": ""
+      "topic": "checking readiness"
     },
     {
       "speaker": "U7A",
@@ -36,7 +42,7 @@
       "end_time": 504.590582513,
       "utterance": "oh my God",
       "turn_index": 3,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U7A",
@@ -53,7 +59,7 @@
       "end_time": 505.372208536,
       "utterance": "(oh=) nice",
       "turn_index": 4,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7A",
@@ -61,7 +67,7 @@
       "end_time": 506.025932119,
       "utterance": "yes",
       "turn_index": 5,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U7A",
@@ -78,7 +84,7 @@
       "end_time": 506.445167895,
       "utterance": "there's nemo",
       "turn_index": 6,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U12A",
@@ -86,7 +92,7 @@
       "end_time": 507.667346767,
       "utterance": "do you have nemo?",
       "turn_index": 7,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7A",
@@ -94,7 +100,7 @@
       "end_time": 509.250523937,
       "utterance": "no I have no nemo",
       "turn_index": 8,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7A",
@@ -102,7 +108,7 @@
       "end_time": 513.074334704,
       "utterance": "<there's no> yeah where's nemo? I have two sharks",
       "turn_index": 9,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U7A",
@@ -119,7 +125,7 @@
       "end_time": 511.440026081,
       "utterance": "okay",
       "turn_index": 10,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U12A",
@@ -127,7 +133,7 @@
       "end_time": 514.914708328,
       "utterance": "yes one green one blue",
       "turn_index": 11,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7A",
@@ -135,7 +141,7 @@
       "end_time": 516.253948831,
       "utterance": "no mine are both blue",
       "turn_index": 12,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U12A",
@@ -143,7 +149,7 @@
       "end_time": 518.96832173,
       "utterance": "<the> the one <in> on the bottom is blue?",
       "turn_index": 13,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7A",
@@ -151,7 +157,7 @@
       "end_time": 522.186641936,
       "utterance": "yeah and the <t-> like (the=) top one",
       "turn_index": 14,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U7A",
@@ -168,7 +174,7 @@
       "end_time": 523.27384388,
       "utterance": "<the> only the top part of the shark",
       "turn_index": 15,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12A",
@@ -176,7 +182,7 @@
       "end_time": 524.119420649,
       "utterance": "so it's like",
       "turn_index": 16,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U12A",
@@ -193,7 +199,7 @@
       "end_time": 524.247323017,
       "utterance": "yeah exactly",
       "turn_index": 17,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7A",
@@ -201,7 +207,7 @@
       "end_time": 526.577988396,
       "utterance": "so but it's the top shark that is green?",
       "turn_index": 18,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12A",
@@ -209,7 +215,7 @@
       "end_time": 530.754739983,
       "utterance": "the <n-> the top shark is blue and the <bo-> the one on the bottom is green so",
       "turn_index": 19,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U12A",
@@ -226,7 +232,7 @@
       "end_time": 531.081353511,
       "utterance": "okay",
       "turn_index": 20,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7A",
@@ -234,7 +240,7 @@
       "end_time": 535.413319397,
       "utterance": "<%ahm> cool <%aa> they're both looking to the right and are smiling",
       "turn_index": 21,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U12A",
@@ -242,7 +248,7 @@
       "end_time": 536.038619832,
       "utterance": "yes",
       "turn_index": 22,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7A",
@@ -250,7 +256,7 @@
       "end_time": 536.675588712,
       "utterance": "cool",
       "turn_index": 23,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7A",
@@ -258,7 +264,7 @@
       "end_time": 540.207115036,
       "utterance": "<the> below the <%aa> sharks there are like three medusas",
       "turn_index": 24,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U12A",
@@ -266,7 +272,7 @@
       "end_time": 541.746385332,
       "utterance": "no two medusas",
       "turn_index": 25,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7A",
@@ -274,7 +280,7 @@
       "end_time": 550.572316126,
       "utterance": "okay <%ahm> so one is <kind of like> kind of like nearly with the edge of the teeth <of the> of the shark",
       "turn_index": 26,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U7A",
@@ -291,7 +297,7 @@
       "end_time": 551.101659524,
       "utterance": "<%mm> no",
       "turn_index": 27,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12A",
@@ -299,7 +305,7 @@
       "end_time": 553.478542014,
       "utterance": "<on the> of the shark  on the bottom",
       "turn_index": 28,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7A",
@@ -307,7 +313,7 @@
       "end_time": 554.423466845,
       "utterance": "yeah exactly",
       "turn_index": 29,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U7A",
@@ -324,7 +330,7 @@
       "end_time": 558.647495428,
       "utterance": "no I have two medusas if you <ch-> if you get a straight line from the fin",
       "turn_index": 30,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7A",
@@ -332,7 +338,7 @@
       "end_time": 559.020111324,
       "utterance": "yes",
       "turn_index": 31,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U7A",
@@ -349,7 +355,7 @@
       "end_time": 561.195281392,
       "utterance": "the back fin of <the> the shark underneath",
       "turn_index": 32,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12A",
@@ -357,7 +363,7 @@
       "end_time": 565.42262833,
       "utterance": "I have <one to the <ri->> one to the left and one slightly upwards to the right",
       "turn_index": 33,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7A",
@@ -365,7 +371,7 @@
       "end_time": 569.237959247,
       "utterance": "okay so then there's one if you would go like a little bit further to the right like",
       "turn_index": 34,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7A",
@@ -373,7 +379,7 @@
       "end_time": 573.313281336,
       "utterance": "below kind of like where the mouth of (the=) shark is",
       "turn_index": 35,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12A",
@@ -381,7 +387,7 @@
       "end_time": 573.992501685,
       "utterance": "okay",
       "turn_index": 36,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U12A",
@@ -398,7 +404,7 @@
       "end_time": 579.580631844,
       "utterance": "and you go down and a bit further down <from> where the other two medusas are there would be the third medusa",
       "turn_index": 37,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12A",
@@ -406,7 +412,7 @@
       "end_time": 580.518501346,
       "utterance": "okay",
       "turn_index": 38,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12A",
@@ -414,7 +420,7 @@
       "end_time": 584.978016557,
       "utterance": "<%eh> <slight> slight upwards from <the> the other two medusas or?",
       "turn_index": 39,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U12A",
@@ -431,7 +437,7 @@
       "end_time": 585.583690947,
       "utterance": "no below",
       "turn_index": 40,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12A",
@@ -439,7 +445,7 @@
       "end_time": 587.592950053,
       "utterance": "what do you mean below?",
       "turn_index": 41,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U12A",
@@ -456,7 +462,7 @@
       "end_time": 588.000482262,
       "utterance": "bit <fur-> yeah",
       "turn_index": 42,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7A",
@@ -464,7 +470,7 @@
       "end_time": 592.403770726,
       "utterance": "and it's <%eh> they are like <%eh> kind of like orange yellowish",
       "turn_index": 43,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12A",
@@ -472,7 +478,7 @@
       "end_time": 596.404737174,
       "utterance": "yes they are kind of a yellowish orange",
       "turn_index": 44,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7A",
@@ -480,7 +486,7 @@
       "end_time": 597.621993918,
       "utterance": "and they're smiling",
       "turn_index": 45,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U7A",
@@ -497,7 +503,7 @@
       "end_time": 598.697426136,
       "utterance": "but where exactly is it?",
       "turn_index": 46,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U12A",
@@ -505,7 +511,7 @@
       "end_time": 600.927532946,
       "utterance": "<in <be->> under the teeth?",
       "turn_index": 47,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7A",
@@ -513,7 +519,7 @@
       "end_time": 606.515734906,
       "utterance": "yeah kind of like where you have the teeth and then you have like the front <%aa> what are they called?",
       "turn_index": 48,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7A",
@@ -521,7 +527,7 @@
       "end_time": 613.533885447,
       "utterance": "not the fins but they are like where you have the top fin and you go down from there that's where <the> the third medusa is",
       "turn_index": 49,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U7A",
@@ -545,7 +551,7 @@
       "end_time": 608.518975209,
       "utterance": "<fi-> <%eh>",
       "turn_index": 50,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12A",
@@ -553,7 +559,7 @@
       "end_time": 611.462263385,
       "utterance": "okay",
       "turn_index": 51,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12A",
@@ -561,7 +567,7 @@
       "end_time": 617.86558727,
       "utterance": "okay <o-> on the same height as the other as (the=) <%mm> as the other ones",
       "turn_index": 52,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7A",
@@ -569,7 +575,7 @@
       "end_time": 620.499044069,
       "utterance": "yeah a bit <b-> lower but I think we're gonna be fine there",
       "turn_index": 53,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U7A",
@@ -586,7 +592,7 @@
       "end_time": 621.642398322,
       "utterance": "okay good there",
       "turn_index": 54,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U12A",
@@ -603,7 +609,7 @@
       "end_time": 625.996739294,
       "utterance": "and then there's like (two=) <%eh> sea horses?",
       "turn_index": 55,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U7A",
@@ -620,7 +626,7 @@
       "end_time": 627.711812004,
       "utterance": "sea horses yes and <f->",
       "turn_index": 56,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U12A",
@@ -637,7 +643,7 @@
       "end_time": 629.837935552,
       "utterance": "yeah they are kind of also yellowish <oran~-> orange",
       "turn_index": 57,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U7A",
@@ -654,7 +660,7 @@
       "end_time": 632.162205984,
       "utterance": "yes and then I have three red octopuses",
       "turn_index": 58,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7A",
@@ -662,7 +668,7 @@
       "end_time": 636.876836197,
       "utterance": "I have only two and <they're like> are they really red or are they more like pinkish",
       "turn_index": 59,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U12A",
@@ -670,7 +676,7 @@
       "end_time": 638.699410798,
       "utterance": "yeah kind of pinkish",
       "turn_index": 60,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U12A",
@@ -687,7 +693,7 @@
       "end_time": 643.336631323,
       "utterance": "okay so <%ahm> first like to the sea horses are they both looking in the samme direction?",
       "turn_index": 61,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U12A",
@@ -695,7 +701,7 @@
       "end_time": 645.889011533,
       "utterance": "<%eh> yes they're all looking at me",
       "turn_index": 62,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7A",
@@ -703,7 +709,7 @@
       "end_time": 647.779508169,
       "utterance": "no it's",
       "turn_index": 63,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U7A",
@@ -720,7 +726,7 @@
       "end_time": 649.726606501,
       "utterance": "oh the sea horses yes they're all looking to the left",
       "turn_index": 64,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7A",
@@ -728,7 +734,7 @@
       "end_time": 651.79797033,
       "utterance": "okay so mine the bottom one",
       "turn_index": 65,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7A",
@@ -736,7 +742,7 @@
       "end_time": 655.329916141,
       "utterance": "the bottom seahorse is looking to the right so that one is wrong as well",
       "turn_index": 66,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U7A",
@@ -753,7 +759,7 @@
       "end_time": 656.880543605,
       "utterance": "okay do you have like bubbles?",
       "turn_index": 67,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7A",
@@ -761,7 +767,7 @@
       "end_time": 657.672967344,
       "utterance": "yes",
       "turn_index": 68,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U12A",
@@ -769,7 +775,7 @@
       "end_time": 668.909427591,
       "utterance": "<I have two bubbles on> I have <fo-> six bubbles on the <-l> right of the seahorses and siz bubbles under the nose of <the> the shark close to the ground",
       "turn_index": 69,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U12A",
@@ -786,7 +792,7 @@
       "end_time": 667.449103842,
       "utterance": "od (the=) shark yeah",
       "turn_index": 70,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7A",
@@ -794,7 +800,7 @@
       "end_time": 670.023104521,
       "utterance": "yeah I have that as well",
       "turn_index": 71,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U7A",
@@ -811,7 +817,7 @@
       "end_time": 673.679431052,
       "utterance": "and then I have <two> two smaller crabs",
       "turn_index": 72,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U12A",
@@ -828,7 +834,7 @@
       "end_time": 677.141335813,
       "utterance": "yeah exactly and we need to find where the third octopus is",
       "turn_index": 73,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U7A",
@@ -845,7 +851,7 @@
       "end_time": 679.852719033,
       "utterance": "one is red and one is slightly yellower",
       "turn_index": 74,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U12A",
@@ -862,7 +868,7 @@
       "end_time": 681.021630598,
       "utterance": "yes exactly",
       "turn_index": 75,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7A",
@@ -870,7 +876,7 @@
       "end_time": 685.060813318,
       "utterance": "<and the> we had like <th> three you had three <%ahm>",
       "turn_index": 76,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U7A",
@@ -887,7 +893,7 @@
       "end_time": 685.411743832,
       "utterance": "octopuses",
       "turn_index": 77,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7A",
@@ -895,7 +901,7 @@
       "end_time": 686.396613336,
       "utterance": "yeah exactly",
       "turn_index": 78,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7A",
@@ -903,7 +909,7 @@
       "end_time": 688.907509163,
       "utterance": "<%ahm> so I only have two",
       "turn_index": 79,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12A",
@@ -911,7 +917,7 @@
       "end_time": 692.439454974,
       "utterance": "I have <two in a low> two in a line and then one on top",
       "turn_index": 80,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7A",
@@ -919,7 +925,7 @@
       "end_time": 695.852375494,
       "utterance": "okay so I guess I'm <mi-> missing the one to the left",
       "turn_index": 81,
-      "topic": ""
+      "topic": "finding difference"
     }
   ]
 }

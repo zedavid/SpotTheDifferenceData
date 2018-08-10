@@ -1,5 +1,11 @@
 {
   "success": 0.3333333333333333,
+  "instruction_giver": {
+    "id": "U2A"
+  },
+  "instruction_follower": {
+    "id": "U5A"
+  },
   "dialogue_duration": 200.10399999999936,
   "audio": {
     "ig": "U2A_0_city.wav",
@@ -12,7 +18,7 @@
       "end_time": 81.7836603803,
       "utterance": "oh okay so <%ahm>",
       "turn_index": 0,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2A",
@@ -20,7 +26,7 @@
       "end_time": 85.8230240984,
       "utterance": "on the <left + corner> up corner I have two white clouds",
       "turn_index": 1,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5A",
@@ -28,7 +34,7 @@
       "end_time": 86.5122761389,
       "utterance": "yes",
       "turn_index": 2,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2A",
@@ -36,7 +42,7 @@
       "end_time": 88.1961220187,
       "utterance": "okay then there is a plane",
       "turn_index": 3,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5A",
@@ -44,7 +50,7 @@
       "end_time": 88.9919594263,
       "utterance": "yes",
       "turn_index": 4,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2A",
@@ -52,7 +58,7 @@
       "end_time": 91.453899621,
       "utterance": "<a plane with> a white plane I mean",
       "turn_index": 5,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2A",
@@ -60,7 +66,7 @@
       "end_time": 95.4056532005,
       "utterance": "not as white but white with a red line in the middle and a star",
       "turn_index": 6,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U5A",
@@ -68,7 +74,7 @@
       "end_time": 96.9461548081,
       "utterance": "a green star?",
       "turn_index": 7,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2A",
@@ -76,7 +82,7 @@
       "end_time": 97.5572442461,
       "utterance": "no",
       "turn_index": 8,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2A",
@@ -84,7 +90,7 @@
       "end_time": 98.4383499473,
       "utterance": "a red star",
       "turn_index": 9,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2A",
@@ -92,7 +98,7 @@
       "end_time": 100.476645337,
       "utterance": "so we click on that",
       "turn_index": 10,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U2A",
@@ -109,7 +115,7 @@
       "end_time": 99.6463174409,
       "utterance": "okay",
       "turn_index": 11,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U5A",
@@ -117,7 +123,7 @@
       "end_time": 101.448659821,
       "utterance": "we click on that",
       "turn_index": 12,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2A",
@@ -125,7 +131,7 @@
       "end_time": 102.727684226,
       "utterance": "great",
       "turn_index": 13,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U2A",
@@ -142,7 +148,7 @@
       "end_time": 103.897620095,
       "utterance": "(okay=) click",
       "turn_index": 14,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U5A",
@@ -159,7 +165,7 @@
       "end_time": 104.892416854,
       "utterance": "and <the-> there's a moon",
       "turn_index": 15,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5A",
@@ -167,7 +173,7 @@
       "end_time": 106.489782631,
       "utterance": "yeah",
       "turn_index": 16,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2A",
@@ -175,7 +181,7 @@
       "end_time": 107.761700944,
       "utterance": "<%eh> it's orange",
       "turn_index": 17,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5A",
@@ -183,7 +189,7 @@
       "end_time": 109.303635436,
       "utterance": "yes",
       "turn_index": 18,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2A",
@@ -191,7 +197,7 @@
       "end_time": 112.892916572,
       "utterance": "and it's <%eh> like <%eh> it's <%eh> kind of <%eh> <q->",
       "turn_index": 19,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2A",
@@ -199,7 +205,7 @@
       "end_time": 116.238303346,
       "utterance": "quarter of a moon I don't know <how> how to say that in english and it's like",
       "turn_index": 20,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2A",
@@ -207,7 +213,7 @@
       "end_time": 119.085060684,
       "utterance": "<%aa> (the=)",
       "turn_index": 21,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2A",
@@ -215,7 +221,7 @@
       "end_time": 120.634100865,
       "utterance": "the shadow",
       "turn_index": 22,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2A",
@@ -223,7 +229,7 @@
       "end_time": 124.646231554,
       "utterance": "part of the moon is <%aa> on the same side as the plane",
       "turn_index": 23,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5A",
@@ -231,7 +237,7 @@
       "end_time": 126.049383575,
       "utterance": "yeah",
       "turn_index": 24,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2A",
@@ -239,7 +245,7 @@
       "end_time": 126.916277621,
       "utterance": "alright",
       "turn_index": 25,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5A",
@@ -247,7 +253,7 @@
       "end_time": 128.053187845,
       "utterance": "so it's a new moon?",
       "turn_index": 26,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5A",
@@ -255,7 +261,7 @@
       "end_time": 129.371030848,
       "utterance": "or is it a full moon?",
       "turn_index": 27,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2A",
@@ -263,7 +269,7 @@
       "end_time": 130.543469359,
       "utterance": "yeah it's a new moon",
       "turn_index": 28,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5A",
@@ -271,7 +277,7 @@
       "end_time": 131.532223569,
       "utterance": "yeah okay",
       "turn_index": 29,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2A",
@@ -279,7 +285,7 @@
       "end_time": 132.60501942,
       "utterance": "yeah",
       "turn_index": 30,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2A",
@@ -287,7 +293,7 @@
       "end_time": 136.263252228,
       "utterance": "and then I have <(two=)> two grey clouds",
       "turn_index": 31,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5A",
@@ -295,7 +301,7 @@
       "end_time": 137.148798047,
       "utterance": "yes",
       "turn_index": 32,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2A",
@@ -303,7 +309,7 @@
       "end_time": 139.003380849,
       "utterance": "with a <light-> a lightning",
       "turn_index": 33,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5A",
@@ -311,7 +317,7 @@
       "end_time": 140.694532983,
       "utterance": "no lightning",
       "turn_index": 34,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2A",
@@ -319,7 +325,7 @@
       "end_time": 143.516517881,
       "utterance": "okay so then you can click under (the=)",
       "turn_index": 35,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2A",
@@ -327,7 +333,7 @@
       "end_time": 144.866597315,
       "utterance": "the clound",
       "turn_index": 36,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U5A",
@@ -335,7 +341,7 @@
       "end_time": 146.126523061,
       "utterance": "<the> the lowest cloud?",
       "turn_index": 37,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2A",
@@ -343,7 +349,7 @@
       "end_time": 147.421977887,
       "utterance": "yeah on the lowest cloud",
       "turn_index": 38,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2A",
@@ -351,7 +357,7 @@
       "end_time": 148.153863054,
       "utterance": "exacly",
       "turn_index": 39,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U2A",
@@ -368,7 +374,7 @@
       "end_time": 148.153863054,
       "utterance": "okay",
       "turn_index": 40,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2A",
@@ -376,7 +382,7 @@
       "end_time": 150.011737138,
       "utterance": "okay",
       "turn_index": 41,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2A",
@@ -384,7 +390,7 @@
       "end_time": 154.275145878,
       "utterance": "<%aa> then exacly under those clouds I have a building",
       "turn_index": 42,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U5A",
@@ -392,7 +398,7 @@
       "end_time": 158.317847151,
       "utterance": "<%eh> below the <g-> the grey cloud?",
       "turn_index": 43,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U5A",
@@ -409,7 +415,7 @@
       "end_time": 159.251182313,
       "utterance": "exactly",
       "turn_index": 44,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5A",
@@ -417,7 +423,7 @@
       "end_time": 159.770845857,
       "utterance": "yeah",
       "turn_index": 45,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2A",
@@ -425,7 +431,7 @@
       "end_time": 161.682274108,
       "utterance": "it's orange and green",
       "turn_index": 46,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5A",
@@ -433,7 +439,7 @@
       "end_time": 162.996825136,
       "utterance": "(yes=)",
       "turn_index": 47,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2A",
@@ -441,7 +447,7 @@
       "end_time": 167.566687003,
       "utterance": "it has a lot of windows <%aa> should we count them? <%aa>",
       "turn_index": 48,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U2A",
@@ -458,7 +464,7 @@
       "end_time": 167.211402941,
       "utterance": "<%eh> maybe",
       "turn_index": 49,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2A",
@@ -466,7 +472,7 @@
       "end_time": 170.084197711,
       "utterance": "it has <%eh> <s->",
       "turn_index": 50,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2A",
@@ -474,7 +480,7 @@
       "end_time": 171.320586246,
       "utterance": "two towers",
       "turn_index": 51,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U5A",
@@ -482,7 +488,7 @@
       "end_time": 172.080894138,
       "utterance": "yeah",
       "turn_index": 52,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2A",
@@ -490,7 +496,7 @@
       "end_time": 177.111353593,
       "utterance": "and on the smallest towers it has seven windows vertically and four windows <%ahm>",
       "turn_index": 53,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U5A",
@@ -498,7 +504,7 @@
       "end_time": 178.141596736,
       "utterance": "yeah me too",
       "turn_index": 54,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U5A",
@@ -515,7 +521,7 @@
       "end_time": 178.290816042,
       "utterance": "okay",
       "turn_index": 55,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2A",
@@ -523,7 +529,7 @@
       "end_time": 181.500121213,
       "utterance": "and then there is this <%fp_1> other big window",
       "turn_index": 56,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2A",
@@ -531,7 +537,7 @@
       "end_time": 182.554672548,
       "utterance": "with like",
       "turn_index": 57,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2A",
@@ -539,7 +545,7 @@
       "end_time": 184.825378779,
       "utterance": "a lot of lines",
       "turn_index": 58,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U5A",
@@ -547,7 +553,7 @@
       "end_time": 186.17755844,
       "utterance": "<%aa> big window?",
       "turn_index": 59,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U5A",
@@ -555,7 +561,7 @@
       "end_time": 187.456581062,
       "utterance": "yeah right",
       "turn_index": 60,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U5A",
@@ -572,7 +578,7 @@
       "end_time": 187.875816255,
       "utterance": "yeah next to that yeah",
       "turn_index": 61,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U5A",
@@ -589,7 +595,7 @@
           "turn_index": 63
         }
       ],
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2A",
@@ -597,7 +603,7 @@
       "end_time": 188.952306297,
       "utterance": "and then like",
       "turn_index": 63,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2A",
@@ -605,7 +611,7 @@
       "end_time": 191.786080803,
       "utterance": "yeah vertical lines",
       "turn_index": 64,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2A",
@@ -613,7 +619,7 @@
       "end_time": 193.92941351,
       "utterance": "and then just under that",
       "turn_index": 65,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U2A",
@@ -630,7 +636,7 @@
       "end_time": 192.863561325,
       "utterance": "yes",
       "turn_index": 66,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2A",
@@ -638,7 +644,7 @@
       "end_time": 195.805313355,
       "utterance": "four double windows",
       "turn_index": 67,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U5A",
@@ -646,7 +652,7 @@
       "end_time": 197.063018934,
       "utterance": "yeah",
       "turn_index": 68,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2A",
@@ -654,7 +660,7 @@
       "end_time": 198.694578961,
       "utterance": "and then",
       "turn_index": 69,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2A",
@@ -662,7 +668,7 @@
       "end_time": 200.35730837,
       "utterance": "<a> a green door",
       "turn_index": 70,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2A",
@@ -670,7 +676,7 @@
       "end_time": 203.265748451,
       "utterance": "I mean <a + door> a glass door",
       "turn_index": 71,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "",
@@ -687,7 +693,7 @@
       "end_time": 201.894351973,
       "utterance": "no",
       "turn_index": 72,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U5A",
@@ -695,7 +701,7 @@
       "end_time": 202.462806472,
       "utterance": "<wha->",
       "turn_index": 73,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U5A",
@@ -703,7 +709,7 @@
       "end_time": 205.87578012,
       "utterance": "a glass (door=)",
       "turn_index": 74,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2A",
@@ -711,7 +717,7 @@
       "end_time": 208.315129009,
       "utterance": "it's not <on the> that no sorry",
       "turn_index": 75,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U2A",
@@ -728,7 +734,7 @@
       "end_time": 207.043212069,
       "utterance": "is",
       "turn_index": 76,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2A",
@@ -736,7 +742,7 @@
       "end_time": 210.631581091,
       "utterance": "I mean under the double windows you have like this",
       "turn_index": 77,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2A",
@@ -744,7 +750,7 @@
       "end_time": 212.408001399,
       "utterance": "window with four",
       "turn_index": 78,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2A",
@@ -752,7 +758,7 @@
       "end_time": 215.097119573,
       "utterance": "<%aa> yeah",
       "turn_index": 79,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "",
@@ -769,7 +775,7 @@
       "end_time": 214.898160498,
       "utterance": "yes",
       "turn_index": 80,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2A",
@@ -777,7 +783,7 @@
       "end_time": 216.261248512,
       "utterance": "and then <%eh>",
       "turn_index": 81,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2A",
@@ -785,7 +791,7 @@
       "end_time": 217.072498956,
       "utterance": "dark",
       "turn_index": 82,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2A",
@@ -793,7 +799,7 @@
       "end_time": 218.30888749,
       "utterance": "place okay",
       "turn_index": 83,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U2A",
@@ -810,7 +816,7 @@
       "end_time": 218.166773865,
       "utterance": "yeah",
       "turn_index": 84,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2A",
@@ -818,7 +824,7 @@
       "end_time": 220.324277618,
       "utterance": "and then (a=) slide door",
       "turn_index": 85,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U5A",
@@ -826,7 +832,7 @@
       "end_time": 221.020634379,
       "utterance": "yeah okay",
       "turn_index": 86,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U5A",
@@ -834,7 +840,7 @@
       "end_time": 223.426957589,
       "utterance": "so they seem to be <se-> <%eh> same",
       "turn_index": 87,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U5A",
@@ -851,7 +857,7 @@
       "end_time": 224.798354067,
       "utterance": "(yeah=) it seems to be the same",
       "turn_index": 88,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U2A",
@@ -868,7 +874,7 @@
       "end_time": 225.724231823,
       "utterance": "do you have (something=)",
       "turn_index": 89,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2A",
@@ -876,7 +882,7 @@
       "end_time": 230.651880815,
       "utterance": "then I have <(a=) <f-> <two flash->> two <%eh> traffic lights",
       "turn_index": 90,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U5A",
@@ -884,7 +890,7 @@
       "end_time": 231.054442235,
       "utterance": "yeah",
       "turn_index": 91,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2A",
@@ -892,7 +898,7 @@
       "end_time": 236.365676724,
       "utterance": "okay (then=) <no-> one of them is <%aa> really <%aa> <ne-> almost at the bottom",
       "turn_index": 92,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2A",
@@ -900,7 +906,7 @@
       "end_time": 237.330777681,
       "utterance": "next to (the=)",
       "turn_index": 93,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5A",
@@ -908,7 +914,7 @@
       "end_time": 237.892126498,
       "utterance": "yes",
       "turn_index": 94,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U5A",
@@ -925,7 +931,7 @@
       "end_time": 238.197670791,
       "utterance": "road",
       "turn_index": 95,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2A",
@@ -933,7 +939,7 @@
       "end_time": 241.103221301,
       "utterance": "and the other is next to the turn",
       "turn_index": 96,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5A",
@@ -941,7 +947,7 @@
       "end_time": 242.524668479,
       "utterance": "next to?",
       "turn_index": 97,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2A",
@@ -949,7 +955,7 @@
       "end_time": 247.007041666,
       "utterance": "<%aa> when the road turns <%aa> it turns once and then it turns the second time",
       "turn_index": 98,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U2A",
@@ -966,7 +972,7 @@
       "end_time": 245.422474751,
       "utterance": "yeah",
       "turn_index": 99,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5A",
@@ -974,7 +980,7 @@
       "end_time": 247.390507222,
       "utterance": "yeah",
       "turn_index": 100,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2A",
@@ -982,7 +988,7 @@
       "end_time": 250.09066609,
       "utterance": "so it's next to this orange and green building",
       "turn_index": 101,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U2A",
@@ -999,7 +1005,7 @@
       "end_time": 248.584261669,
       "utterance": "the second",
       "turn_index": 102,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5A",
@@ -1007,7 +1013,7 @@
       "end_time": 250.687543314,
       "utterance": "yeah",
       "turn_index": 103,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2A",
@@ -1015,7 +1021,7 @@
       "end_time": 253.065362827,
       "utterance": "and then there is a man in a blue car",
       "turn_index": 104,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5A",
@@ -1023,7 +1029,7 @@
       "end_time": 254.1738491,
       "utterance": "yes",
       "turn_index": 105,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2A",
@@ -1031,7 +1037,7 @@
       "end_time": 258.048585579,
       "utterance": "and <%aa> he has <%aa> sunglasses",
       "turn_index": 106,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5A",
@@ -1039,7 +1045,7 @@
       "end_time": 258.827695441,
       "utterance": "yeah",
       "turn_index": 107,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2A",
@@ -1047,7 +1053,7 @@
       "end_time": 262.650348928,
       "utterance": "and he raises his hand like he's saying <h-> hi to us",
       "turn_index": 108,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U5A",
@@ -1055,7 +1061,7 @@
       "end_time": 264.63854595,
       "utterance": "yeah just one hand",
       "turn_index": 109,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2A",
@@ -1063,7 +1069,7 @@
       "end_time": 265.71860906,
       "utterance": "yeah just one hand",
       "turn_index": 110,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U5A",
@@ -1071,7 +1077,7 @@
       "end_time": 267.544768398,
       "utterance": "okay what colour is the car?",
       "turn_index": 111,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2A",
@@ -1079,7 +1085,7 @@
       "end_time": 268.382643558,
       "utterance": "blue",
       "turn_index": 112,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U5A",
@@ -1087,7 +1093,7 @@
       "end_time": 269.516053646,
       "utterance": "okay",
       "turn_index": 113,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2A",
@@ -1095,7 +1101,7 @@
       "end_time": 271.190239935,
       "utterance": "anf (then=) you have",
       "turn_index": 114,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2A",
@@ -1103,7 +1109,7 @@
       "end_time": 275.495617694,
       "utterance": "(three=) smoke thing going out of his car like",
       "turn_index": 115,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U2A",
@@ -1120,7 +1126,7 @@
       "end_time": 275.570512634,
       "utterance": "yes",
       "turn_index": 116,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2A",
@@ -1128,7 +1134,7 @@
       "end_time": 277.644166774,
       "utterance": "alright looks the same",
       "turn_index": 117,
-      "topic": ""
+      "topic": "describing picture"
     }
   ]
 }

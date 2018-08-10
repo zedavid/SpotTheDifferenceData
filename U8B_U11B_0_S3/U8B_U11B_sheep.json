@@ -1,5 +1,11 @@
 {
   "success": 0.5,
+  "instruction_giver": {
+    "id": "U8B"
+  },
+  "instruction_follower": {
+    "id": "U11B"
+  },
   "dialogue_duration": 200.112000000001,
   "audio": {
     "ig": "U8B_0_sheep.wav",
@@ -12,7 +18,7 @@
       "end_time": 137.667373795,
       "utterance": "so I have <%aa> again <%aa> something like first picture we saw",
       "turn_index": 0,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U8B",
@@ -20,7 +26,7 @@
       "end_time": 143.744085813,
       "utterance": "<%aa> <now I have> <%aa> if I divide <the section into> <%aa> the picture in four sections",
       "turn_index": 1,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U8B",
@@ -28,7 +34,7 @@
       "end_time": 147.968222396,
       "utterance": "exactly in the top middle I have a sun",
       "turn_index": 2,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U8B",
@@ -36,7 +42,7 @@
       "end_time": 152.139339555,
       "utterance": "the sun is composed of a circle in the middle",
       "turn_index": 3,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U8B",
@@ -53,7 +59,7 @@
       "end_time": 151.735718467,
       "utterance": "yes",
       "turn_index": 4,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U8B",
@@ -61,7 +67,7 @@
       "end_time": 159.097922786,
       "utterance": "and there are one two three four five six seven eight <%aa> triangular",
       "turn_index": 5,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U8B",
@@ -78,7 +84,7 @@
       "end_time": 158.473541596,
       "utterance": "yes",
       "turn_index": 6,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U11B",
@@ -86,7 +92,7 @@
       "end_time": 160.61059375,
       "utterance": "yes the same",
       "turn_index": 7,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U11B",
@@ -103,7 +109,7 @@
       "end_time": 160.54091121,
       "utterance": "shapes around so",
       "turn_index": 8,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U8B",
@@ -111,7 +117,7 @@
       "end_time": 168.270344317,
       "utterance": "<in the left> in the right side up <%aa> <in the> into the right of the sun I have a white cloud",
       "turn_index": 9,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U8B",
@@ -119,7 +125,7 @@
       "end_time": 170.597044126,
       "utterance": "just one",
       "turn_index": 10,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U11B",
@@ -127,7 +133,7 @@
       "end_time": 171.534516652,
       "utterance": "yes one",
       "turn_index": 11,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U11B",
@@ -144,7 +150,7 @@
       "end_time": 174.248167446,
       "utterance": "<%aa> now <I'm> I'm coming to the bottom of the picture",
       "turn_index": 12,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U11B",
@@ -152,7 +158,7 @@
       "end_time": 174.75537833,
       "utterance": "yes",
       "turn_index": 13,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U8B",
@@ -160,7 +166,7 @@
       "end_time": 178.451704861,
       "utterance": "<%aa> in the right bottom I have <%aa> two sheeps",
       "turn_index": 14,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U11B",
@@ -168,7 +174,7 @@
       "end_time": 178.998099419,
       "utterance": "yes",
       "turn_index": 15,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U8B",
@@ -176,7 +182,7 @@
       "end_time": 182.840046168,
       "utterance": "<%aa> the body of two sheeps are black and the head is white",
       "turn_index": 16,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U8B",
@@ -193,7 +199,7 @@
       "end_time": 184.198545752,
       "utterance": "yes yes same",
       "turn_index": 17,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U11B",
@@ -210,7 +216,7 @@
       "end_time": 187.254750565,
       "utterance": "and they are facing to the <%aa> left of the picture",
       "turn_index": 18,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U11B",
@@ -218,7 +224,7 @@
       "end_time": 191.677263063,
       "utterance": "<%aa> mean yeah they're kind of looking at me <%aa>",
       "turn_index": 19,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U11B",
@@ -235,7 +241,7 @@
       "end_time": 193.338099419,
       "utterance": "yeah looking at you but the head is to the left",
       "turn_index": 20,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U8B",
@@ -252,7 +258,7 @@
       "end_time": 194.921834884,
       "utterance": "yeah yeah yeah",
       "turn_index": 21,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U11B",
@@ -269,7 +275,7 @@
       "end_time": 201.736489442,
       "utterance": "so <%aa> and in the left side I have <%aa> again <%eh> two sheeps <%aa> positioned the same",
       "turn_index": 22,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U8B",
@@ -277,7 +283,7 @@
       "end_time": 211.968847718,
       "utterance": "<%aa> <they are actually> one of them in the <%aa> is <+ in top> a bit in top into the right and the other sheep is the bottom to the left",
       "turn_index": 23,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U8B",
@@ -294,7 +300,7 @@
       "end_time": 209.681843654,
       "utterance": "yeah",
       "turn_index": 24,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U11B",
@@ -302,7 +308,7 @@
       "end_time": 212.820900945,
       "utterance": "are they white",
       "turn_index": 25,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U8B",
@@ -310,7 +316,7 @@
       "end_time": 218.96662692,
       "utterance": "no <%aa> <the top> <%aa> the right sheep the body is black and the head is white",
       "turn_index": 26,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U11B",
@@ -318,7 +324,7 @@
       "end_time": 219.534788761,
       "utterance": "okay",
       "turn_index": 27,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U8B",
@@ -326,7 +332,7 @@
       "end_time": 222.013358996,
       "utterance": "<%aa> the other one is completely white",
       "turn_index": 28,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U11B",
@@ -334,7 +340,7 @@
       "end_time": 227.531727537,
       "utterance": "okay (the=) one on the right top is <%aa> different in mine",
       "turn_index": 29,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U8B",
@@ -342,7 +348,7 @@
       "end_time": 230.711560741,
       "utterance": "okay so now I click <in> in the right one",
       "turn_index": 30,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U8B",
@@ -359,7 +365,7 @@
       "end_time": 230.049664045,
       "utterance": "yes",
       "turn_index": 31,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U11B",
@@ -367,7 +373,7 @@
       "end_time": 231.819463314,
       "utterance": "yes",
       "turn_index": 32,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U8B",
@@ -375,7 +381,7 @@
       "end_time": 234.640571074,
       "utterance": "and in the bottom middle again",
       "turn_index": 33,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U8B",
@@ -383,7 +389,7 @@
       "end_time": 237.125666408,
       "utterance": "I have <%aa> three flowers",
       "turn_index": 34,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U11B",
@@ -391,7 +397,7 @@
       "end_time": 237.613292163,
       "utterance": "yes",
       "turn_index": 35,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U8B",
@@ -399,7 +405,7 @@
       "end_time": 245.672634566,
       "utterance": "and these three flowers <%ahm> <%aa> <%aa> kind of they shaping kind of <%aa> if you imagine a triangle",
       "turn_index": 36,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U8B",
@@ -407,7 +413,7 @@
       "end_time": 248.272339782,
       "utterance": "with a head of the triangle down",
       "turn_index": 37,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U8B",
@@ -415,7 +421,7 @@
       "end_time": 255.689567423,
       "utterance": "<%aa> <in the> <r-> in the right side <%aa> the flower is orange same as the sun",
       "turn_index": 38,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U11B",
@@ -423,7 +429,7 @@
       "end_time": 265.886748868,
       "utterance": "<%eh> no I have three <on-> one is <%ahm> red the other one is blue the other one is orange and they're like <%aa> star shaped",
       "turn_index": 39,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U8B",
@@ -431,7 +437,7 @@
       "end_time": 272.238025216,
       "utterance": "is (ah=) yes <the> <the> the flowers are a star shaped but the position of the flowers I mean",
       "turn_index": 40,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U8B",
@@ -448,7 +454,7 @@
       "end_time": 270.891296698,
       "utterance": "yeah",
       "turn_index": 41,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U11B",
@@ -456,7 +462,7 @@
       "end_time": 273.501772888,
       "utterance": "yeah yeah",
       "turn_index": 42,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U11B",
@@ -473,7 +479,7 @@
       "end_time": 277.719495663,
       "utterance": "<<%aa> <the>> <%aa> the down flower which is kind of head is the <%ahm>",
       "turn_index": 43,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U8B",
@@ -481,7 +487,7 @@
       "end_time": 280.040814426,
       "utterance": "is blue the middle flower is blue?",
       "turn_index": 44,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U8B",
@@ -498,7 +504,7 @@
       "end_time": 283.978779691,
       "utterance": "no <the> the middle flower is <%aa> orange for me so we can click",
       "turn_index": 45,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U11B",
@@ -515,7 +521,7 @@
       "end_time": 284.633129764,
       "utterance": "okay sowe click in the middle?",
       "turn_index": 46,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U11B",
@@ -523,7 +529,7 @@
       "end_time": 285.443065405,
       "utterance": "yeah",
       "turn_index": 47,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U8B",
@@ -531,7 +537,7 @@
       "end_time": 288.389777423,
       "utterance": "so the flower in the right side is orange for me",
       "turn_index": 48,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U11B",
@@ -539,7 +545,7 @@
       "end_time": 295.919414612,
       "utterance": "yeah but <%aa> <this> I think each picture has one we can click only one so we found it so we can skip to <the> another part",
       "turn_index": 49,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U11B",
@@ -556,7 +562,7 @@
       "end_time": 302.628406097,
       "utterance": "okay so <%aa> <the> the tree I have two trees in the right side I have one tree without <%aa> any <%aa>",
       "turn_index": 50,
-      "topic": "DESCRIBING PICTURE"
+      "topic": "describing object"
     },
     {
       "speaker": "U8B",
@@ -564,7 +570,7 @@
       "end_time": 304.540856214,
       "utterance": "<%aa> any fruits or nuts",
       "turn_index": 51,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U11B",
@@ -572,7 +578,7 @@
       "end_time": 308.112217712,
       "utterance": "okay <th-> I have four oranges so we click on the",
       "turn_index": 52,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U11B",
@@ -589,7 +595,7 @@
       "end_time": 309.45381098,
       "utterance": "okay on the flower?",
       "turn_index": 53,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U8B",
@@ -606,7 +612,7 @@
       "end_time": 309.104108489,
       "utterance": "there",
       "turn_index": 54,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U8B",
@@ -614,7 +620,7 @@
       "end_time": 313.432997378,
       "utterance": "and behind the tree I have <one + stone> one big stone",
       "turn_index": 55,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U11B",
@@ -622,7 +628,7 @@
       "end_time": 315.886330711,
       "utterance": "I don't have anything so we click behind the tree",
       "turn_index": 56,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U11B",
@@ -639,7 +645,7 @@
       "end_time": 315.223101657,
       "utterance": "so",
       "turn_index": 57,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U8B",
@@ -647,7 +653,7 @@
       "end_time": 317.04873434,
       "utterance": "okay we click",
       "turn_index": 58,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U8B",
@@ -655,7 +661,7 @@
       "end_time": 321.563178784,
       "utterance": "and in the left side I have a tree with four apples",
       "turn_index": 59,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U11B",
@@ -663,7 +669,7 @@
       "end_time": 323.95442564,
       "utterance": "I have five so we can click",
       "turn_index": 60,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U11B",
@@ -680,7 +686,7 @@
       "end_time": 324.271863591,
       "utterance": "okay we click",
       "turn_index": 61,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U8B",
@@ -688,7 +694,7 @@
       "end_time": 329.142700453,
       "utterance": "so behind <%aa> the tree <one> I have two stones behind the tree",
       "turn_index": 62,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U8B",
@@ -705,7 +711,7 @@
       "end_time": 328.667885251,
       "utterance": "yes",
       "turn_index": 63,
-      "topic": ""
+      "topic": "describing picture"
     }
   ]
 }

@@ -1,5 +1,11 @@
 {
   "success": 0.6666666666666666,
+  "instruction_giver": {
+    "id": "U2B"
+  },
+  "instruction_follower": {
+    "id": "U5B"
+  },
   "dialogue_duration": 134.21199999999953,
   "audio": {
     "ig": "U2B_0_jungle.wav",
@@ -12,7 +18,7 @@
       "end_time": 357.720590136,
       "utterance": "okay I click (the=) start",
       "turn_index": 0,
-      "topic": "CHECKING READINESS"
+      "topic": "post game analysis"
     },
     {
       "speaker": "U5B",
@@ -20,7 +26,7 @@
       "end_time": 358.724163252,
       "utterance": "yeah",
       "turn_index": 1,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U5B",
@@ -37,7 +43,7 @@
       "end_time": 362.197656753,
       "utterance": "okay there's a landscape again and <%eh> we have a sun",
       "turn_index": 2,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5B",
@@ -45,7 +51,7 @@
       "end_time": 362.965071405,
       "utterance": "yeah",
       "turn_index": 3,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U5B",
@@ -62,7 +68,7 @@
       "end_time": 363.87677689,
       "utterance": "<%aa> that is really happy",
       "turn_index": 4,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5B",
@@ -70,7 +76,7 @@
       "end_time": 364.661899048,
       "utterance": "yes",
       "turn_index": 5,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U5B",
@@ -87,7 +93,7 @@
       "end_time": 365.312126517,
       "utterance": "to the right",
       "turn_index": 6,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U5B",
@@ -95,7 +101,7 @@
       "end_time": 365.813021027,
       "utterance": "yeah",
       "turn_index": 7,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U5B",
@@ -112,7 +118,7 @@
       "end_time": 368.933445148,
       "utterance": "<%aa> and then we <ha-> under which we have a giraffe",
       "turn_index": 8,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5B",
@@ -120,7 +126,7 @@
       "end_time": 371.718674102,
       "utterance": "<no> no giraffe is it right under the sun?",
       "turn_index": 9,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2B",
@@ -128,7 +134,7 @@
       "end_time": 373.114881036,
       "utterance": "right under the sun yeah",
       "turn_index": 10,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2B",
@@ -136,7 +142,7 @@
       "end_time": 376.924601128,
       "utterance": "<the> the most to the right <%aa> the only image i have to the right",
       "turn_index": 11,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U5B",
@@ -144,7 +150,7 @@
       "end_time": 377.906095515,
       "utterance": "okay",
       "turn_index": 12,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2B",
@@ -152,7 +158,7 @@
       "end_time": 379.533298805,
       "utterance": "no giraffe for you",
       "turn_index": 13,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U5B",
@@ -160,7 +166,7 @@
       "end_time": 380.144186964,
       "utterance": "no",
       "turn_index": 14,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2B",
@@ -168,7 +174,7 @@
       "end_time": 385.513546325,
       "utterance": "okay so it's just like <%ahm> maybe five centimetres into the picture from the right side",
       "turn_index": 15,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U2B",
@@ -185,7 +191,7 @@
       "end_time": 385.563286164,
       "utterance": "<yeah> yeah",
       "turn_index": 16,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2B",
@@ -193,7 +199,7 @@
       "end_time": 390.205523103,
       "utterance": "<%aa> and then <%eh> next to it <%aa> to the left I have",
       "turn_index": 17,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2B",
@@ -201,7 +207,7 @@
       "end_time": 395.431174763,
       "utterance": "<%eh> just straight close to it I have an elephan and then below I have a tiger",
       "turn_index": 18,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5B",
@@ -209,7 +215,7 @@
       "end_time": 395.949890222,
       "utterance": "yeah",
       "turn_index": 19,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2B",
@@ -217,7 +223,7 @@
       "end_time": 397.989223603,
       "utterance": "and they look like cartoonish",
       "turn_index": 20,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5B",
@@ -225,7 +231,7 @@
       "end_time": 398.3160854,
       "utterance": "yes",
       "turn_index": 21,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2B",
@@ -233,7 +239,7 @@
       "end_time": 400.063843466,
       "utterance": "okay and then",
       "turn_index": 22,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U2B",
@@ -250,7 +256,7 @@
       "end_time": 402.302136201,
       "utterance": "<they're both> they're both walking or turned to the left",
       "turn_index": 23,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U5B",
@@ -267,7 +273,7 @@
       "end_time": 402.756900439,
       "utterance": "yes",
       "turn_index": 24,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U5B",
@@ -275,7 +281,7 @@
       "end_time": 403.204558986,
       "utterance": "okay",
       "turn_index": 25,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2B",
@@ -283,7 +289,7 @@
       "end_time": 408.938730726,
       "utterance": "and in front of each of them there is <%aa> <%eh> <%eh> palm tree",
       "turn_index": 26,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U5B",
@@ -291,7 +297,7 @@
       "end_time": 414.1418741,
       "utterance": "<%ahm> actually there's three palm trees and they're kind of a little bit away from them",
       "turn_index": 27,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2B",
@@ -299,7 +305,7 @@
       "end_time": 419.71471712,
       "utterance": "<okay well then maybe it's <%eh>> yeah cause it's more to the left but I have only two palm trees",
       "turn_index": 28,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U2B",
@@ -316,7 +322,7 @@
       "end_time": 426.61286431,
       "utterance": "<Yeah so one of the palm trees> or the lower palm tree in fact has <it's> it's foot <at the same> at the same height as the tiger's foot",
       "turn_index": 29,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5B",
@@ -324,7 +330,7 @@
       "end_time": 433.303595002,
       "utterance": "and the top one has it's foot pretty much as the same height as the elephant and there's one <in the> in between those two as well",
       "turn_index": 30,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2B",
@@ -332,7 +338,7 @@
       "end_time": 435.019518428,
       "utterance": "okay I don't have the one in between",
       "turn_index": 31,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U2B",
@@ -349,7 +355,7 @@
       "end_time": 436.134990647,
       "utterance": "yeah I think so okay",
       "turn_index": 32,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2B",
@@ -357,7 +363,7 @@
       "end_time": 437.556128823,
       "utterance": "so click there",
       "turn_index": 33,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2B",
@@ -365,7 +371,7 @@
       "end_time": 445.225896259,
       "utterance": "<and then on top of> <and they have> each of them have one two three four five <%ahm> leaves the palm trees",
       "turn_index": 34,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U2B",
@@ -382,7 +388,7 @@
       "end_time": 447.804228313,
       "utterance": "yes same leaves <they look> they're identical I think",
       "turn_index": 35,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U5B",
@@ -399,7 +405,7 @@
       "end_time": 447.571880969,
       "utterance": "yeah",
       "turn_index": 36,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2B",
@@ -407,7 +413,7 @@
       "end_time": 452.403750769,
       "utterance": "okay and then on top of there <we <ha->> I have <a> a rain cloud",
       "turn_index": 37,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U5B",
@@ -415,7 +421,7 @@
       "end_time": 454.818370966,
       "utterance": "<y-> no not a rain cloud just a white cloud",
       "turn_index": 38,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2B",
@@ -423,7 +429,7 @@
       "end_time": 459.500416446,
       "utterance": "okay I have a rain cloud which is grey and then I have raindrops on it",
       "turn_index": 39,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5B",
@@ -431,7 +437,7 @@
       "end_time": 463.037710317,
       "utterance": "no nothing of that just a white cloud here so the whole cloud",
       "turn_index": 40,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U5B",
@@ -448,7 +454,7 @@
       "end_time": 462.904042379,
       "utterance": "nothing okay so we click there",
       "turn_index": 41,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2B",
@@ -456,7 +462,7 @@
       "end_time": 467.947649468,
       "utterance": "<%aa> okay so now we did like the biggest one do you have something else that I haven't said?",
       "turn_index": 42,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U2B",
@@ -473,7 +479,7 @@
       "end_time": 469.020608791,
       "utterance": "<I don't> I don't have anything else no",
       "turn_index": 43,
-      "topic": ""
+      "topic": "end of differences"
     },
     {
       "speaker": "U2B",
@@ -481,7 +487,7 @@
       "end_time": 473.268297189,
       "utterance": "(so=) is there something about the elephant or the tiger",
       "turn_index": 44,
-      "topic": "",
+      "topic": "end of differences",
       "overlap": [
         {
           "speaker_before": "U2B",
@@ -498,7 +504,7 @@
       "end_time": 476.132959584,
       "utterance": "no I'm thinking there might be a difference on the sun but I think we skip that",
       "turn_index": 45,
-      "topic": ""
+      "topic": "end of differences"
     },
     {
       "speaker": "U2B",
@@ -506,7 +512,7 @@
       "end_time": 480.697551587,
       "utterance": "okay <%ahm> so the tiger is like yellowish",
       "turn_index": 46,
-      "topic": ""
+      "topic": "end of differences"
     },
     {
       "speaker": "U5B",
@@ -514,7 +520,7 @@
       "end_time": 481.094871197,
       "utterance": "yeah",
       "turn_index": 47,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2B",
@@ -522,7 +528,7 @@
       "end_time": 485.661045949,
       "utterance": "and (the=) elephant is grey with pink ears and feet",
       "turn_index": 48,
-      "topic": ""
+      "topic": "describing object"
     }
   ]
 }

@@ -1,5 +1,11 @@
 {
   "success": 0.8333333333333334,
+  "instruction_giver": {
+    "id": "U3B"
+  },
+  "instruction_follower": {
+    "id": "U4C"
+  },
   "dialogue_duration": 200.10399999999936,
   "audio": {
     "ig": "U3B_0_church.wav",
@@ -12,7 +18,7 @@
       "end_time": 101.38,
       "utterance": "YEAH HERE'S THE FIRST PICTURE",
       "turn_index": 0,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3B",
@@ -20,7 +26,7 @@
       "end_time": 105.24,
       "utterance": "THERE'S A HALF MOON ON THE TOP RIGHT",
       "turn_index": 1,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3B",
@@ -28,7 +34,7 @@
       "end_time": 107.12,
       "utterance": "NOT HALF LESS THAN HALF",
       "turn_index": 2,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -36,7 +42,7 @@
       "end_time": 110.4,
       "utterance": "YEAH <MI-> MINE IS <%aa> MAYBE ONE QUARTER OF A MOON",
       "turn_index": 3,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3B",
@@ -44,7 +50,7 @@
       "end_time": 112.76,
       "utterance": "A QUARTER <%ahm>",
       "turn_index": 4,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -52,7 +58,7 @@
       "end_time": 113.7,
       "utterance": "<%ahm>",
       "turn_index": 5,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U4C",
@@ -69,7 +75,7 @@
       "end_time": 117.09,
       "utterance": "<HOW TO> <HOW TO> HOW TO DESCRIBE ITS <%aa> <%mm>",
       "turn_index": 6,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -77,7 +83,7 @@
       "end_time": 119.69,
       "utterance": "<IT'S> IT'S LIKE A CRESCENT",
       "turn_index": 7,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3B",
@@ -85,7 +91,7 @@
       "end_time": 122.78,
       "utterance": "<%aa> I DON'T KNOW WHAT'S CRESCENT SORRY",
       "turn_index": 8,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U3B",
@@ -102,7 +108,7 @@
       "end_time": 125.22,
       "utterance": "<IT> <IT'S> <IS LIKE A> <%aa> LIKE <%ahm>",
       "turn_index": 9,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3B",
@@ -110,7 +116,7 @@
       "end_time": 126.13,
       "utterance": "LIKE A BANANA",
       "turn_index": 10,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U3B",
@@ -127,7 +133,7 @@
       "end_time": 126.21,
       "utterance": "A CURVE",
       "turn_index": 11,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -135,7 +141,7 @@
       "end_time": 130.28,
       "utterance": "JUST <A CURVED> A CURVED MOON",
       "turn_index": 12,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U4C",
@@ -152,7 +158,7 @@
       "end_time": 129.52,
       "utterance": "YEAH YEAH YEAH A CURVE YES YEAH YES",
       "turn_index": 13,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3B",
@@ -160,7 +166,7 @@
       "end_time": 131.74,
       "utterance": "<AND IS> AND IS <%aa> ORANGE",
       "turn_index": 14,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -168,7 +174,7 @@
       "end_time": 132.6,
       "utterance": "YES",
       "turn_index": 15,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3B",
@@ -176,7 +182,7 @@
       "end_time": 133.63,
       "utterance": "AND <%aa>",
       "turn_index": 16,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U3B",
@@ -193,7 +199,7 @@
       "end_time": 137.87,
       "utterance": "<AND IT> <IT'S> IT'S ALMOST LIKE IT'S CURVING OUT TOWARD THE RIGHT",
       "turn_index": 17,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3B",
@@ -201,7 +207,7 @@
       "end_time": 143.97,
       "utterance": "CURVE TOWARD THE RIGHT YOU MEAN <THE> AROUND THE SIDE IS <%aa> CURVING TO THE RIGHT",
       "turn_index": 18,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -209,7 +215,7 @@
       "end_time": 144.36,
       "utterance": "YEAH",
       "turn_index": 19,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3B",
@@ -217,7 +223,7 @@
       "end_time": 146.92,
       "utterance": "YEAH YEAH YEAH <THAT'S> THAT'S THEN THE SAME",
       "turn_index": 20,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3B",
@@ -225,7 +231,7 @@
       "end_time": 150.29,
       "utterance": "AND <%aa> BESIDE IT THERE ARE FIVE STARS ALSO ORANGE",
       "turn_index": 21,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4C",
@@ -233,7 +239,7 @@
       "end_time": 153.38,
       "utterance": "OKAY I <+ HAVE> ONLY HAVE FOUR STARS ORANGE STARS",
       "turn_index": 22,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U4C",
@@ -250,7 +256,7 @@
       "end_time": 153.3,
       "utterance": "AH",
       "turn_index": 23,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3B",
@@ -258,7 +264,7 @@
       "end_time": 154.47,
       "utterance": "<%mm>",
       "turn_index": 24,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4C",
@@ -266,7 +272,7 @@
       "end_time": 155.89,
       "utterance": "SO THAT'S A DIFFERENT",
       "turn_index": 25,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3B",
@@ -274,7 +280,7 @@
       "end_time": 157.22,
       "utterance": "YEAH THAT'S A DIFFERENCE",
       "turn_index": 26,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3B",
@@ -282,7 +288,7 @@
       "end_time": 158.4,
       "utterance": "AND <%ahm>",
       "turn_index": 27,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3B",
@@ -290,7 +296,7 @@
       "end_time": 159.8,
       "utterance": "A LITTLE",
       "turn_index": 28,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3B",
@@ -298,7 +304,7 @@
       "end_time": 160.81,
       "utterance": "<%ahm>",
       "turn_index": 29,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3B",
@@ -306,7 +312,7 @@
       "end_time": 166.33,
       "utterance": "<BELOW> BELOW THE STAR ON ITS LEFT THERE'S A BLACK <SWALLOW> SWALLOW",
       "turn_index": 30,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4C",
@@ -314,7 +320,7 @@
       "end_time": 172.27,
       "utterance": "YES I HAVE A BLACK SWALLOW <+ TO THE> BELOW AND TO THE LEFT OF THE STARS",
       "turn_index": 31,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3B",
@@ -322,7 +328,7 @@
       "end_time": 174.81,
       "utterance": "<%aa> ON HERE IS TO THE RIGHT",
       "turn_index": 32,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4C",
@@ -330,7 +336,7 @@
       "end_time": 176.91,
       "utterance": "AHA OKAY THAT'S A DIFFERENT",
       "turn_index": 33,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3B",
@@ -338,7 +344,7 @@
       "end_time": 177.74,
       "utterance": "YES",
       "turn_index": 34,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3B",
@@ -346,7 +352,7 @@
       "end_time": 182.56,
       "utterance": "AND <%aa> ON THE TOP LEFT OF THE SKY THERE ARE TWO",
       "turn_index": 35,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3B",
@@ -354,7 +360,7 @@
       "end_time": 183.47,
       "utterance": "CLOUDS",
       "turn_index": 36,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4C",
@@ -362,7 +368,7 @@
       "end_time": 184.63,
       "utterance": "AND",
       "turn_index": 37,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4C",
@@ -370,7 +376,7 @@
       "end_time": 188.24,
       "utterance": "I HAVE TWO CLOUDS BUT THEN I HAVE A THIRD CLOUD",
       "turn_index": 38,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4C",
@@ -378,7 +384,7 @@
       "end_time": 190.55,
       "utterance": "TO THE RIGHT OF THE TWO CLOUDS",
       "turn_index": 39,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3B",
@@ -386,7 +392,7 @@
       "end_time": 193.18,
       "utterance": "TO THE RIGHT OF THE TWO CLOUDS",
       "turn_index": 40,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U3B",
@@ -403,7 +409,7 @@
       "end_time": 195.08,
       "utterance": "YEAH IT'S ON THE RIGHT SIDE OF THE CHURCH",
       "turn_index": 41,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U4C",
@@ -420,7 +426,7 @@
       "end_time": 194.06,
       "utterance": "<%aa>",
       "turn_index": 42,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3B",
@@ -428,7 +434,7 @@
       "end_time": 199.32,
       "utterance": "OKAY I SEE <%aa> MY TWO CLOUDS ARE SEPARATED SO I THINK THAT",
       "turn_index": 43,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3B",
@@ -436,7 +442,7 @@
       "end_time": 202.86,
       "utterance": "<WE> WE CAN CLICK WHERE YOU HAVE THE TWO CLOUDS TOGETHER",
       "turn_index": 44,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4C",
@@ -444,7 +450,7 @@
       "end_time": 204.09,
       "utterance": "OH YEAH YEAH YEAH",
       "turn_index": 45,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3B",
@@ -452,7 +458,7 @@
       "end_time": 206.21,
       "utterance": "YES SO IT'S THE LEFT SIDE CLOUD",
       "turn_index": 46,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4C",
@@ -460,7 +466,7 @@
       "end_time": 207.04,
       "utterance": "YEAH",
       "turn_index": 47,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3B",
@@ -468,7 +474,7 @@
       "end_time": 208.88,
       "utterance": "LET'S <CLICK> CLICK HERE",
       "turn_index": 48,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3B",
@@ -476,7 +482,7 @@
       "end_time": 211.93,
       "utterance": "AND <%aa> BELOW THE CLOUDS THERE'S A RED HOUSE",
       "turn_index": 49,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3B",
@@ -484,7 +490,7 @@
       "end_time": 213.01,
       "utterance": "AND <%aa>",
       "turn_index": 50,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3B",
@@ -492,7 +498,7 @@
       "end_time": 215.76,
       "utterance": "THERE ARE ONE WINDOW AT THE TOP",
       "turn_index": 51,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3B",
@@ -500,7 +506,7 @@
       "end_time": 218.78,
       "utterance": "<IT'S> <%mm> IT'S LIGHTENED",
       "turn_index": 52,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -508,7 +514,7 @@
       "end_time": 219.72,
       "utterance": "YES",
       "turn_index": 53,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3B",
@@ -516,7 +522,7 @@
       "end_time": 225.5,
       "utterance": "AND <%aa> THERE ARE THREE WINDOWS <<BELO-> <%aa>> IN THE LOWER PART THEY ARE ALL DARK",
       "turn_index": 54,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U3B",
@@ -533,7 +539,7 @@
       "end_time": 224.89,
       "utterance": "YEAH",
       "turn_index": 55,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -541,7 +547,7 @@
       "end_time": 226.2,
       "utterance": "YES",
       "turn_index": 56,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3B",
@@ -549,7 +555,7 @@
       "end_time": 227.41,
       "utterance": "AND THERE'S A",
       "turn_index": 57,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3B",
@@ -557,7 +563,7 @@
       "end_time": 228.93,
       "utterance": "GREY DOOR",
       "turn_index": 58,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -565,7 +571,7 @@
       "end_time": 231.21,
       "utterance": "A GREY DOOR",
       "turn_index": 59,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U4C",
@@ -582,7 +588,7 @@
       "end_time": 232.07,
       "utterance": "YEAH ANOTHER HOUSE",
       "turn_index": 60,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U3B",
@@ -599,7 +605,7 @@
       "end_time": 236.86,
       "utterance": "<AND> AND ON THE TOP OF THE HOUSE <ON THE> ON THE TOWER THERE'A A CROSS",
       "turn_index": 61,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U4C",
@@ -616,7 +622,7 @@
       "end_time": 232.64,
       "utterance": "YEAH",
       "turn_index": 62,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3B",
@@ -624,7 +630,7 @@
       "end_time": 239.76,
       "utterance": "A CROSS NO I DON'T HAVE CROSS HERE",
       "turn_index": 63,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -632,7 +638,7 @@
       "end_time": 244.64,
       "utterance": "OKAY YEAH CAUSE <IT> <%aa> IT LOOKS <LIKE> <%aa> LIKE A CHURCH LIKE A CROSS",
       "turn_index": 64,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U4C",
@@ -649,7 +655,7 @@
       "end_time": 246.21,
       "utterance": "<%aa> OKAY I HAVE NO CROSS HERE",
       "turn_index": 65,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -657,7 +663,7 @@
       "end_time": 247.3,
       "utterance": "OKAY THAT'S THE DIFFERENCE",
       "turn_index": 66,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U4C",
@@ -674,7 +680,7 @@
       "end_time": 247.59,
       "utterance": "AND YES",
       "turn_index": 67,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3B",
@@ -682,7 +688,7 @@
       "end_time": 248.45,
       "utterance": "AND <%aa>",
       "turn_index": 68,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3B",
@@ -690,7 +696,7 @@
       "end_time": 251.05,
       "utterance": "THERE IS ANOTHER YELLOW HOUSE",
       "turn_index": 69,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3B",
@@ -698,7 +704,7 @@
       "end_time": 252.22,
       "utterance": "ON THE RIGHT",
       "turn_index": 70,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4C",
@@ -706,7 +712,7 @@
       "end_time": 255.46,
       "utterance": "<%aa> <IN> MY HOUSE ON THE RIGHT IS RED",
       "turn_index": 71,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3B",
@@ -714,7 +720,7 @@
       "end_time": 256.51,
       "utterance": "AH",
       "turn_index": 72,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3B",
@@ -722,7 +728,7 @@
       "end_time": 257.89,
       "utterance": "LET'S CLICK THE HOUSE",
       "turn_index": 73,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U4C",
@@ -730,7 +736,7 @@
       "end_time": 258.3,
       "utterance": "YEAH",
       "turn_index": 74,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U3B",
@@ -738,7 +744,7 @@
       "end_time": 262.34,
       "utterance": "AND <%aa> BESIDE <%aa> THE SMALL HOUSE THERE IS <%aa>",
       "turn_index": 75,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3B",
@@ -746,7 +752,7 @@
       "end_time": 263.35,
       "utterance": "COW",
       "turn_index": 76,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4C",
@@ -754,7 +760,7 @@
       "end_time": 265.62,
       "utterance": "YEAH I HAVE TWO COWS",
       "turn_index": 77,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3B",
@@ -762,7 +768,7 @@
       "end_time": 267.59,
       "utterance": "OKAY NO I HAVE ONLY ONE",
       "turn_index": 78,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3B",
@@ -770,7 +776,7 @@
       "end_time": 269.45,
       "utterance": "WE CAN CLICK HERE",
       "turn_index": 79,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4C",
@@ -778,7 +784,7 @@
       "end_time": 270.47,
       "utterance": "OKAY",
       "turn_index": 80,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4C",
@@ -786,7 +792,7 @@
       "end_time": 275.14,
       "utterance": "<MY <CH->> <WHE-> WHERE IS YOUR COW IS IT CLOSE TO THE LITTLE HOUSE",
       "turn_index": 81,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3B",
@@ -794,7 +800,7 @@
       "end_time": 276.17,
       "utterance": "<%aa> YES",
       "turn_index": 82,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4C",
@@ -802,7 +808,7 @@
       "end_time": 277.43,
       "utterance": "OKAY SO MY",
       "turn_index": 83,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U4C",
@@ -810,7 +816,7 @@
       "end_time": 280.32,
       "utterance": "COW THAT'S CLOSE TO THE BIG HOUSE MUST BE AN EXTRA ONE",
       "turn_index": 84,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3B",
@@ -818,7 +824,7 @@
       "end_time": 281.36,
       "utterance": "AH OKAY",
       "turn_index": 85,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3B",
@@ -826,7 +832,7 @@
       "end_time": 286.34,
       "utterance": "AND <%aa> BELOW THE COW THERE'S TWO <+ STONES> GREY STONES",
       "turn_index": 86,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U4C",
@@ -834,7 +840,7 @@
       "end_time": 288.52,
       "utterance": "OKAY I ONLY HAVE WHAT ONE STONE",
       "turn_index": 87,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U4C",
@@ -851,7 +857,7 @@
       "end_time": 287.37,
       "utterance": "TOGETHER",
       "turn_index": 88,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3B",
@@ -859,7 +865,7 @@
       "end_time": 289.16,
       "utterance": "AH",
       "turn_index": 89,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U3B",
@@ -867,7 +873,7 @@
       "end_time": 290.0,
       "utterance": "THEN",
       "turn_index": 90,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U3B",
@@ -875,7 +881,7 @@
       "end_time": 292.31,
       "utterance": "THEY'RE TOGETHER SO LET'S CLICK THE PLACE",
       "turn_index": 91,
-      "topic": ""
+      "topic": "finding difference"
     }
   ]
 }

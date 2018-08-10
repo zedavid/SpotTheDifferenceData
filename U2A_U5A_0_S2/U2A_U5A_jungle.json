@@ -1,5 +1,11 @@
 {
   "success": 0.6666666666666666,
+  "instruction_giver": {
+    "id": "U2A"
+  },
+  "instruction_follower": {
+    "id": "U5A"
+  },
   "dialogue_duration": 102.06900000000314,
   "audio": {
     "ig": "U2A_0_jungle.wav",
@@ -12,7 +18,7 @@
       "end_time": 520.977564637,
       "utterance": "yeah",
       "turn_index": 0,
-      "topic": ""
+      "topic": "post game analysis"
     },
     {
       "speaker": "U5A",
@@ -20,7 +26,7 @@
       "end_time": 522.071198872,
       "utterance": "yeah",
       "turn_index": 1,
-      "topic": ""
+      "topic": "post game analysis"
     },
     {
       "speaker": "U2A",
@@ -28,7 +34,7 @@
       "end_time": 525.377885059,
       "utterance": "okay I try to go quicker",
       "turn_index": 2,
-      "topic": ""
+      "topic": "post game analysis"
     },
     {
       "speaker": "U2A",
@@ -36,7 +42,7 @@
       "end_time": 529.056675457,
       "utterance": "alright I have a cloud on the left side",
       "turn_index": 3,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "",
@@ -53,7 +59,7 @@
       "end_time": 526.543555082,
       "utterance": "okay",
       "turn_index": 4,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5A",
@@ -61,7 +67,7 @@
       "end_time": 529.59091421,
       "utterance": "yeah yes",
       "turn_index": 5,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2A",
@@ -69,7 +75,7 @@
       "end_time": 530.814144616,
       "utterance": "four five (six=)",
       "turn_index": 6,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2A",
@@ -77,7 +83,7 @@
       "end_time": 534.097668919,
       "utterance": "nine <%aa> drops of water",
       "turn_index": 7,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "",
@@ -94,7 +100,7 @@
       "end_time": 532.8534144,
       "utterance": "white",
       "turn_index": 8,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5A",
@@ -102,7 +108,7 @@
       "end_time": 536.919545883,
       "utterance": "<no> no drops of water",
       "turn_index": 9,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2A",
@@ -110,7 +116,7 @@
       "end_time": 538.376947294,
       "utterance": "not at all?",
       "turn_index": 10,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U2A",
@@ -127,7 +133,7 @@
       "end_time": 538.462080498,
       "utterance": "no",
       "turn_index": 11,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U5A",
@@ -144,7 +150,7 @@
       "end_time": 538.887746517,
       "utterance": "okay",
       "turn_index": 12,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2A",
@@ -152,7 +158,7 @@
       "end_time": 541.736434495,
       "utterance": "<%aa> so <%ahm> we click under the cloud",
       "turn_index": 13,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U5A",
@@ -160,7 +166,7 @@
       "end_time": 542.06511384,
       "utterance": "yeah",
       "turn_index": 14,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2A",
@@ -168,7 +174,7 @@
       "end_time": 544.199992647,
       "utterance": "okay I have two trees",
       "turn_index": 15,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U2A",
@@ -185,7 +191,7 @@
       "end_time": 543.217686447,
       "utterance": "okay",
       "turn_index": 16,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5A",
@@ -193,7 +199,7 @@
       "end_time": 545.557302973,
       "utterance": "three trees",
       "turn_index": 17,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U5A",
@@ -210,7 +216,7 @@
       "end_time": 552.701879804,
       "utterance": "okay I have one that is <%aa> really on the left <%aa> kind on up and then one that is kind of",
       "turn_index": 18,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U2A",
@@ -227,7 +233,7 @@
       "end_time": 552.03570059,
       "utterance": "<yeah> yeah",
       "turn_index": 19,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2A",
@@ -235,7 +241,7 @@
       "end_time": 555.858357057,
       "utterance": "like <how> how are your trees looking out?",
       "turn_index": 20,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U5A",
@@ -243,7 +249,7 @@
       "end_time": 562.102448614,
       "utterance": "well <they're> even they spread like on a diagonal from the top left one and then two more",
       "turn_index": 21,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U5A",
@@ -251,7 +257,7 @@
       "end_time": 567.127312725,
       "utterance": "<with the> approximately like <%aa> three centimetres between each",
       "turn_index": 22,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U5A",
@@ -268,7 +274,7 @@
       "end_time": 563.750451214,
       "utterance": "okay",
       "turn_index": 23,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2A",
@@ -276,7 +282,7 @@
       "end_time": 570.026807208,
       "utterance": "okay I think <%aa> I don't have the one you have in the middle",
       "turn_index": 24,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U5A",
@@ -284,7 +290,7 @@
       "end_time": 570.779908628,
       "utterance": "okay",
       "turn_index": 25,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2A",
@@ -292,7 +298,7 @@
       "end_time": 572.233105283,
       "utterance": "so let's click on that",
       "turn_index": 26,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U5A",
@@ -300,7 +306,7 @@
       "end_time": 572.652222595,
       "utterance": "yeah",
       "turn_index": 27,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2A",
@@ -308,7 +314,7 @@
       "end_time": 575.439217235,
       "utterance": "okay then I have a tiger",
       "turn_index": 28,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U5A",
@@ -316,7 +322,7 @@
       "end_time": 578.641607583,
       "utterance": "<%aa> yeah I have a tiger",
       "turn_index": 29,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2A",
@@ -324,7 +330,7 @@
       "end_time": 581.567369374,
       "utterance": "and elephant and a giraffe",
       "turn_index": 30,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U2A",
@@ -341,7 +347,7 @@
       "end_time": 581.200641726,
       "utterance": "yeah",
       "turn_index": 31,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5A",
@@ -349,7 +355,7 @@
       "end_time": 583.106315752,
       "utterance": "no giraffe",
       "turn_index": 32,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U5A",
@@ -366,7 +372,7 @@
       "end_time": 587.108334097,
       "utterance": "no giraffe okay <%ahm> well on if",
       "turn_index": 33,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2A",
@@ -374,7 +380,7 @@
       "end_time": 592.846321082,
       "utterance": "<%aa> so <on the> on the right of (the=) tiger of the elephant sorry of the elephant",
       "turn_index": 34,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U5A",
@@ -382,7 +388,7 @@
       "end_time": 595.481520932,
       "utterance": "okay so let's click there on the right of the elephant okay",
       "turn_index": 35,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U5A",
@@ -399,7 +405,7 @@
       "end_time": 595.514264472,
       "utterance": "yeah giraffe",
       "turn_index": 36,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U5A",
@@ -407,7 +413,7 @@
       "end_time": 597.76709216,
       "utterance": "okay it's clicked",
       "turn_index": 37,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U5A",
@@ -424,7 +430,7 @@
       "end_time": 598.679984169,
       "utterance": "and then there is a sun",
       "turn_index": 38,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5A",
@@ -432,7 +438,7 @@
       "end_time": 600.11415122,
       "utterance": "yeah happy?",
       "turn_index": 39,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U5A",
@@ -449,7 +455,7 @@
       "end_time": 601.88918502,
       "utterance": "yeah happy sun exactly",
       "turn_index": 40,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U5A",
@@ -457,7 +463,7 @@
       "end_time": 602.555924801,
       "utterance": "okay",
       "turn_index": 41,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2A",
@@ -465,7 +471,7 @@
       "end_time": 603.22368751,
       "utterance": "<%aa>",
       "turn_index": 42,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U5A",
@@ -473,7 +479,7 @@
       "end_time": 606.215874362,
       "utterance": "and the elephan is pointing in which direction?",
       "turn_index": 43,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2A",
@@ -481,7 +487,7 @@
       "end_time": 607.069228555,
       "utterance": "to the trees",
       "turn_index": 44,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U5A",
@@ -489,7 +495,7 @@
       "end_time": 608.301146116,
       "utterance": "yeah",
       "turn_index": 45,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2A",
@@ -497,7 +503,7 @@
       "end_time": 609.650179963,
       "utterance": "and the tiger too",
       "turn_index": 46,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U5A",
@@ -505,7 +511,7 @@
       "end_time": 610.272307222,
       "utterance": "yeah",
       "turn_index": 47,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2A",
@@ -513,7 +519,7 @@
       "end_time": 615.438898281,
       "utterance": "okay <%aa> <the elephant I mean> they have regular colours for animals",
       "turn_index": 48,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U5A",
@@ -521,7 +527,7 @@
       "end_time": 617.304941185,
       "utterance": "yeah",
       "turn_index": 49,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2A",
@@ -529,7 +535,7 @@
       "end_time": 618.081965621,
       "utterance": "okay",
       "turn_index": 50,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2A",
@@ -537,7 +543,7 @@
       "end_time": 619.1297589,
       "utterance": "<%aa>",
       "turn_index": 51,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2A",
@@ -545,7 +551,7 @@
       "end_time": 622.404112898,
       "utterance": "well I (guess=) that's it but now <I> I don't know",
       "turn_index": 52,
-      "topic": ""
+      "topic": "describing picture"
     }
   ]
 }

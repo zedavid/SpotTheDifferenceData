@@ -1,5 +1,11 @@
 {
   "success": 0.8571428571428571,
+  "instruction_giver": {
+    "id": "U9C"
+  },
+  "instruction_follower": {
+    "id": "U10C"
+  },
   "dialogue_duration": 200.20899999999529,
   "audio": {
     "ig": "U9C_0_farm.wav",
@@ -12,7 +18,7 @@
       "end_time": 70.34,
       "utterance": "ALRIGHT",
       "turn_index": 0,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U9C",
@@ -20,7 +26,7 @@
       "end_time": 73.01,
       "utterance": "I SEE TWO TRUCK <%eh> GREEN TRUCK",
       "turn_index": 1,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U10C",
@@ -28,7 +34,7 @@
       "end_time": 74.46,
       "utterance": "TRACTORS YEAH",
       "turn_index": 2,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U9C",
@@ -36,7 +42,7 @@
       "end_time": 75.23,
       "utterance": "TRACTORS",
       "turn_index": 3,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U9C",
@@ -44,7 +50,7 @@
       "end_time": 77.24,
       "utterance": "THEY'RE COMING FROM <THE=>",
       "turn_index": 4,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U9C",
@@ -52,7 +58,7 @@
       "end_time": 79.61,
       "utterance": "<%eh> LEFT TO RIGHT",
       "turn_index": 5,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U10C",
@@ -60,7 +66,7 @@
       "end_time": 84.01,
       "utterance": "OKAY THEY ARE BOTH GREEN BECAUSE THE ONE FOR ME WHICH IS GOING RIGHT IS PINK",
       "turn_index": 6,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U9C",
@@ -68,7 +74,7 @@
       "end_time": 88.27,
       "utterance": "NO NO IT'S BOTH GREEN <WITH> <THE> THE FIRST ONE <THE> THE RIGHT",
       "turn_index": 7,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U9C",
@@ -85,7 +91,7 @@
       "end_time": 86.61,
       "utterance": "OKAY SO",
       "turn_index": 8,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U9C",
@@ -93,7 +99,7 @@
       "end_time": 90.17,
       "utterance": "ONE IS <GR-> PINK",
       "turn_index": 9,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U10C",
@@ -101,7 +107,7 @@
       "end_time": 92.22,
       "utterance": "THE ONE WHICH IS GOING TO THE RIGHT IS PINK",
       "turn_index": 10,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U9C",
@@ -109,7 +115,7 @@
       "end_time": 94.08,
       "utterance": "OKAY",
       "turn_index": 11,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U10C",
@@ -117,7 +123,7 @@
       "end_time": 96.22,
       "utterance": "<WE GOT> THEY ARE GOING IN DIFFERENT DIRECTIONS RIGHT?",
       "turn_index": 12,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U9C",
@@ -125,7 +131,7 @@
       "end_time": 97.7535085348,
       "utterance": "AHA DIFFERENT",
       "turn_index": 13,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U9C",
@@ -133,7 +139,7 @@
       "end_time": 98.8472542335,
       "utterance": "DIRECTIONS RIGHT",
       "turn_index": 14,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U10C",
@@ -141,7 +147,7 @@
       "end_time": 103.73,
       "utterance": "YEAH THE LOWER ONE WHICH IS PINK IS GOING TO THE RIGHT AND THE TOP ONE IS GOING TO <THE=>",
       "turn_index": 15,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U10C",
@@ -149,7 +155,7 @@
       "end_time": 105.46,
       "utterance": "TO THE LEFT AND IT'S GREEN",
       "turn_index": 16,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U9C",
@@ -157,7 +163,7 @@
       "end_time": 109.28,
       "utterance": "OKAY WE'RE <BO-> OKAY <I THOUGHT> I THINK WE SHOULD",
       "turn_index": 17,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U9C",
@@ -165,7 +171,7 @@
       "end_time": 110.1,
       "utterance": "<%aa>",
       "turn_index": 18,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U9C",
@@ -173,7 +179,7 @@
       "end_time": 111.66,
       "utterance": "CLICK ON BOTH",
       "turn_index": 19,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U10C",
@@ -181,7 +187,7 @@
       "end_time": 114.99,
       "utterance": "<WHICH ONE> <WHICH ONE IS YOUR> WHICH ONE IS GOING FOR YOU WHICH WAY",
       "turn_index": 20,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U10C",
@@ -198,7 +204,7 @@
       "end_time": 118.71,
       "utterance": "<<%eh>> <%eh> <ONE> BOTH GREEN AND BOTH <%eh> COMING TO <THE=>",
       "turn_index": 21,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U9C",
@@ -206,7 +212,7 @@
       "end_time": 119.81,
       "utterance": "RIGHT",
       "turn_index": 22,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U10C",
@@ -214,7 +220,7 @@
       "end_time": 122.52,
       "utterance": "OKAY SO <THE> FOR ME IT'S <%aa>",
       "turn_index": 23,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U9C",
@@ -222,7 +228,7 @@
       "end_time": 124.65,
       "utterance": "IT GOES IS DIFFERENT",
       "turn_index": 24,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U9C",
@@ -239,7 +245,7 @@
       "end_time": 124.42,
       "utterance": "THE DIFFERENCE",
       "turn_index": 25,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U10C",
@@ -247,7 +253,7 @@
       "end_time": 128.04,
       "utterance": "YEAH THE BOTH ARE GOING DIFFERENT WAYS AND THE TOP ONE IS GREEN",
       "turn_index": 26,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U10C",
@@ -264,7 +270,7 @@
       "end_time": 127.54,
       "utterance": "aha",
       "turn_index": 27,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U9C",
@@ -272,7 +278,7 @@
       "end_time": 128.72,
       "utterance": "OKAY",
       "turn_index": 28,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U10C",
@@ -280,7 +286,7 @@
       "end_time": 130.32,
       "utterance": "AND",
       "turn_index": 29,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U9C",
@@ -288,7 +294,7 @@
       "end_time": 135.2,
       "utterance": "<%aa> AND THERE IS <%aa> TWO BIRDS ONE <%aa> PINK AND ONE RED",
       "turn_index": 30,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U10C",
@@ -296,7 +302,7 @@
       "end_time": 136.77,
       "utterance": "ON THE SKY?",
       "turn_index": 31,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U9C",
@@ -304,7 +310,7 @@
       "end_time": 137.73,
       "utterance": "<ON THE> NO",
       "turn_index": 32,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U9C",
@@ -312,7 +318,7 @@
       "end_time": 138.68,
       "utterance": "ON THE SKY",
       "turn_index": 33,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U9C",
@@ -320,7 +326,7 @@
       "end_time": 141.01,
       "utterance": "THREE BIRDS",
       "turn_index": 34,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U10C",
@@ -328,7 +334,7 @@
       "end_time": 141.8,
       "utterance": "OKAY",
       "turn_index": 35,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U9C",
@@ -336,7 +342,7 @@
       "end_time": 147.74,
       "utterance": "<%eh> TO IN THE TOP WHICH <IS=> ONE <%aa> IS <%eh> PINK ONE IS GREEN",
       "turn_index": 36,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U10C",
@@ -344,7 +350,7 @@
       "end_time": 150.42,
       "utterance": "WHICH ONE IS GREEN BECAUSE <I HAVE> BOTH ARE PINK",
       "turn_index": 37,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U9C",
@@ -352,7 +358,7 @@
       "end_time": 151.43,
       "utterance": "OH",
       "turn_index": 38,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U9C",
@@ -360,7 +366,7 @@
       "end_time": 154.402298422,
       "utterance": "<%aa> THE <%mm> <THE=>",
       "turn_index": 39,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U9C",
@@ -368,7 +374,7 @@
       "end_time": 155.96,
       "utterance": "RIGHT ONE IS GREEN",
       "turn_index": 40,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U10C",
@@ -376,7 +382,7 @@
       "end_time": 158.96,
       "utterance": "THE RIGHT ONE IS GREEN OKAY THE RIGHT ONE FOR ME IS PINK",
       "turn_index": 41,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U9C",
@@ -384,7 +390,7 @@
       "end_time": 161.12,
       "utterance": "OKAY AND THERE IS ONE BLACK",
       "turn_index": 42,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U10C",
@@ -392,7 +398,7 @@
       "end_time": 162.86,
       "utterance": "BIRD BELOW THEM",
       "turn_index": 43,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U9C",
@@ -400,7 +406,7 @@
       "end_time": 163.52,
       "utterance": "BELOW THEM",
       "turn_index": 44,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U10C",
@@ -408,7 +414,7 @@
       "end_time": 164.78,
       "utterance": "IS FLYING TO THE RIGHT",
       "turn_index": 45,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U10C",
@@ -425,7 +431,7 @@
       "end_time": 164.32,
       "utterance": "AND",
       "turn_index": 46,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U9C",
@@ -433,7 +439,7 @@
       "end_time": 167.29,
       "utterance": "YEAH FOR THE RIGHT",
       "turn_index": 47,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U9C",
@@ -450,7 +456,7 @@
       "end_time": 167.118434325,
       "utterance": "YEAH",
       "turn_index": 48,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U9C",
@@ -458,7 +464,7 @@
       "end_time": 169.47,
       "utterance": "AND <THE> THE <%mm>",
       "turn_index": 49,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U9C",
@@ -475,7 +481,7 @@
       "end_time": 167.952995495,
       "utterance": "OKAY",
       "turn_index": 50,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U9C",
@@ -483,7 +489,7 @@
       "end_time": 172.73,
       "utterance": "THE KINDS OF THE BIRDS ARE ALSO DIFFERENT",
       "turn_index": 51,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U10C",
@@ -491,7 +497,7 @@
       "end_time": 174.294653494,
       "utterance": "WHICH ONE?",
       "turn_index": 52,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U10C",
@@ -499,7 +505,7 @@
       "end_time": 175.52,
       "utterance": "THE TWO ON THE TOP?",
       "turn_index": 53,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U9C",
@@ -507,7 +513,7 @@
       "end_time": 176.891615563,
       "utterance": "IT'S SAME AND",
       "turn_index": 54,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U9C",
@@ -515,7 +521,7 @@
       "end_time": 177.73,
       "utterance": "yeah yeah",
       "turn_index": 55,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U10C",
@@ -523,7 +529,7 @@
       "end_time": 178.68,
       "utterance": "YEAH YEAH",
       "turn_index": 56,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U9C",
@@ -531,7 +537,7 @@
       "end_time": 181.93,
       "utterance": "AND THERE IS TWO ON <THE=>",
       "turn_index": 57,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U10C",
@@ -539,7 +545,7 @@
       "end_time": 182.87,
       "utterance": "FENCE",
       "turn_index": 58,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U9C",
@@ -547,7 +553,7 @@
       "end_time": 184.19,
       "utterance": "FENCE YEAH",
       "turn_index": 59,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U9C",
@@ -564,7 +570,7 @@
       "end_time": 184.25,
       "utterance": "YEAH",
       "turn_index": 60,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U9C",
@@ -572,7 +578,7 @@
       "end_time": 188.19,
       "utterance": "<%aa> THE RIGHT ONE IS <%aa> RED",
       "turn_index": 61,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U10C",
@@ -580,7 +586,7 @@
       "end_time": 188.89,
       "utterance": "OKAY",
       "turn_index": 62,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U9C",
@@ -588,7 +594,7 @@
       "end_time": 190.94,
       "utterance": "AND THE LEFT ONE IS PINK",
       "turn_index": 63,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U10C",
@@ -596,7 +602,7 @@
       "end_time": 192.46,
       "utterance": "OKAY IT'S RED FOR ME",
       "turn_index": 64,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U9C",
@@ -604,7 +610,7 @@
       "end_time": 193.457010966,
       "utterance": "RED",
       "turn_index": 65,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U9C",
@@ -612,7 +618,7 @@
       "end_time": 194.128846726,
       "utterance": "OKAY",
       "turn_index": 66,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U10C",
@@ -620,7 +626,7 @@
       "end_time": 195.56,
       "utterance": "AND THE FENCE",
       "turn_index": 67,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U10C",
@@ -637,7 +643,7 @@
       "end_time": 197.03,
       "utterance": "AND ALSO THEY ARE LOOK TO EACH OTHER",
       "turn_index": 68,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U10C",
@@ -645,7 +651,7 @@
       "end_time": 198.81,
       "utterance": "YEAH IS THE FENCE",
       "turn_index": 69,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U10C",
@@ -653,7 +659,7 @@
       "end_time": 200.77,
       "utterance": "WHITE OR BLUE OR",
       "turn_index": 70,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U10C",
@@ -670,7 +676,7 @@
       "end_time": 200.91,
       "utterance": "WHITE",
       "turn_index": 71,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U10C",
@@ -678,7 +684,7 @@
       "end_time": 204.11,
       "utterance": "WHITE OKAY FOR ME <THAT ONE ON> THE FENCE ON THE LEFT IS",
       "turn_index": 72,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U10C",
@@ -686,7 +692,7 @@
       "end_time": 207.33,
       "utterance": "THE FENCE FOR THE GREEN BIRD <%aa> BLUE",
       "turn_index": 73,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U9C",
@@ -694,7 +700,7 @@
       "end_time": 208.54,
       "utterance": "OH",
       "turn_index": 74,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U9C",
@@ -702,7 +708,7 @@
       "end_time": 211.23,
       "utterance": "FOR THE",
       "turn_index": 75,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U10C",
@@ -710,7 +716,7 @@
       "end_time": 213.88,
       "utterance": "THE ONE ON THE LEFT BIRD",
       "turn_index": 76,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U9C",
@@ -718,7 +724,7 @@
       "end_time": 215.046027572,
       "utterance": "AHA OKAY",
       "turn_index": 77,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U9C",
@@ -735,7 +741,7 @@
       "end_time": 216.05,
       "utterance": "THE FENCE BELOW HIM IS",
       "turn_index": 78,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U10C",
@@ -743,7 +749,7 @@
       "end_time": 216.76,
       "utterance": "BLUE",
       "turn_index": 79,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U9C",
@@ -751,7 +757,7 @@
       "end_time": 217.55,
       "utterance": "OKAY",
       "turn_index": 80,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U9C",
@@ -759,7 +765,7 @@
       "end_time": 219.21,
       "utterance": "<THE> BOTH IS",
       "turn_index": 81,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U9C",
@@ -767,7 +773,7 @@
       "end_time": 222.29,
       "utterance": "RIGHT I CLICK ON IT",
       "turn_index": 82,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U9C",
@@ -775,7 +781,7 @@
       "end_time": 224.15,
       "utterance": "AND THERE ARE <%aa> THREE",
       "turn_index": 83,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U9C",
@@ -783,7 +789,7 @@
       "end_time": 224.99,
       "utterance": "CLOUD",
       "turn_index": 84,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U9C",
@@ -791,7 +797,7 @@
       "end_time": 225.88,
       "utterance": "WHITE",
       "turn_index": 85,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U9C",
@@ -808,7 +814,7 @@
       "end_time": 225.95,
       "utterance": "OKAY",
       "turn_index": 86,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U10C",
@@ -816,7 +822,7 @@
       "end_time": 228.59,
       "utterance": "I HAVE <FOUR WHITE CLOUD> FOUR WHITE CLOUDS",
       "turn_index": 87,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U10C",
@@ -833,7 +839,7 @@
       "end_time": 226.55,
       "utterance": "BUT",
       "turn_index": 88,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U9C",
@@ -841,7 +847,7 @@
       "end_time": 229.06,
       "utterance": "FOUR? <%aa>",
       "turn_index": 89,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U10C",
@@ -849,7 +855,7 @@
       "end_time": 230.17,
       "utterance": "TWO BIG TWO SMALL",
       "turn_index": 90,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U9C",
@@ -857,7 +863,7 @@
       "end_time": 231.9,
       "utterance": "AHA I HAVE A SMALL",
       "turn_index": 91,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U9C",
@@ -865,7 +871,7 @@
       "end_time": 233.02,
       "utterance": "ONE IS SMALL",
       "turn_index": 92,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U10C",
@@ -873,7 +879,7 @@
       "end_time": 234.67,
       "utterance": "ONE SMALL WHICH ONE?",
       "turn_index": 93,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U9C",
@@ -881,7 +887,7 @@
       "end_time": 236.12,
       "utterance": "<%fp_1>",
       "turn_index": 94,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U9C",
@@ -889,7 +895,7 @@
       "end_time": 238.34,
       "utterance": "<%fp_1> TOP OF THE LEFT ONE",
       "turn_index": 95,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U10C",
@@ -897,7 +903,7 @@
       "end_time": 238.943060446,
       "utterance": "OKAY",
       "turn_index": 96,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U9C",
@@ -905,7 +911,7 @@
       "end_time": 243.367369999,
       "utterance": "<I> I CLICK YEAH <IT> CLICK ON THE SMALL ONE ON TOP OF THE RIGHT ONE",
       "turn_index": 97,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U9C",
@@ -922,7 +928,7 @@
       "end_time": 239.72,
       "utterance": "SO THE",
       "turn_index": 98,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U9C",
@@ -930,7 +936,7 @@
       "end_time": 248.03,
       "utterance": "THERE IS <%eh>A SMALL COW",
       "turn_index": 99,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U10C",
@@ -938,7 +944,7 @@
       "end_time": 250.98,
       "utterance": "SMALL COW YEAH",
       "turn_index": 100,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U9C",
@@ -946,7 +952,7 @@
       "end_time": 254.36,
       "utterance": "ONE COW AND A <%aa> SHEEP AND A <%mm>",
       "turn_index": 101,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U10C",
@@ -954,7 +960,7 @@
       "end_time": 255.61,
       "utterance": "PIG",
       "turn_index": 102,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U10C",
@@ -971,7 +977,7 @@
       "end_time": 255.73183738,
       "utterance": "<SH->",
       "turn_index": 103,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U9C",
@@ -979,7 +985,7 @@
       "end_time": 256.88,
       "utterance": "<SH-> PIG?",
       "turn_index": 104,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U10C",
@@ -987,7 +993,7 @@
       "end_time": 257.79,
       "utterance": "THERE?S A PIG",
       "turn_index": 105,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U9C",
@@ -995,7 +1001,7 @@
       "end_time": 259.98,
       "utterance": "OH NO IT'S <F-> LAMB FOR ME",
       "turn_index": 106,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U9C",
@@ -1012,7 +1018,7 @@
       "end_time": 258.737106123,
       "utterance": "PINK PIG",
       "turn_index": 107,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U10C",
@@ -1020,7 +1026,7 @@
       "end_time": 263.82,
       "utterance": "WELL <THERE IS> THERE ARE THREE ANIMALS COW LAMB AND A PIG",
       "turn_index": 108,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U9C",
@@ -1028,7 +1034,7 @@
       "end_time": 265.44,
       "utterance": "NO I DON'T HAVE A PIG",
       "turn_index": 109,
-      "topic": ""
+      "topic": "finding difference"
     }
   ]
 }

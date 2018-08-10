@@ -1,5 +1,11 @@
 {
   "success": 1.0,
+  "instruction_giver": {
+    "id": "U7B"
+  },
+  "instruction_follower": {
+    "id": "U12B"
+  },
   "dialogue_duration": 179.09500000000116,
   "audio": {
     "ig": "U7B_0_church.wav",
@@ -12,7 +18,7 @@
       "end_time": 477.58,
       "utterance": "SO I SEE <%eh> A CHURCH THAT IS <%eh> RED",
       "turn_index": 0,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7B",
@@ -20,7 +26,7 @@
       "end_time": 480.3,
       "utterance": "THAT IS <%eh> ON THE LEFT OF THE PICTURE",
       "turn_index": 1,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U12B",
@@ -28,7 +34,7 @@
       "end_time": 483.2,
       "utterance": "YES I HAVE TWO CHURCHES ALSO ONE ON THE RIGHT",
       "turn_index": 2,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7B",
@@ -36,7 +42,7 @@
       "end_time": 486.85,
       "utterance": "YES <%aa> <THIS> THE BIGGER ONE ON THE LEFT",
       "turn_index": 3,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U7B",
@@ -60,7 +66,7 @@
       "end_time": 484.85,
       "utterance": "OKAY",
       "turn_index": 4,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U12B",
@@ -68,7 +74,7 @@
       "end_time": 486.41,
       "utterance": "YEAH",
       "turn_index": 5,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U12B",
@@ -76,7 +82,7 @@
       "end_time": 487.25,
       "utterance": "YES",
       "turn_index": 6,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U12B",
@@ -93,7 +99,7 @@
       "end_time": 491.67,
       "utterance": "<%eh> ON THE TOWER THERE IS <A> <A> A WINDOW",
       "turn_index": 7,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7B",
@@ -101,7 +107,7 @@
       "end_time": 492.71,
       "utterance": "THAT IS YELLOW",
       "turn_index": 8,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U7B",
@@ -118,7 +124,7 @@
       "end_time": 492.32,
       "utterance": "YES",
       "turn_index": 9,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U12B",
@@ -126,7 +132,7 @@
       "end_time": 493.36,
       "utterance": "YES",
       "turn_index": 10,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7B",
@@ -134,7 +140,7 @@
       "end_time": 494.91,
       "utterance": "AND THE ONES THAT ARE BELOW",
       "turn_index": 11,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U12B",
@@ -142,7 +148,7 @@
       "end_time": 495.63,
       "utterance": "YES",
       "turn_index": 12,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U12B",
@@ -159,7 +165,7 @@
       "end_time": 496.08,
       "utterance": "ARE GRAY",
       "turn_index": 13,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U12B",
@@ -167,7 +173,7 @@
       "end_time": 499.55,
       "utterance": "THE SAME HERE THE GRAY IN THE SAME COLOR AS THE",
       "turn_index": 14,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U12B",
@@ -184,7 +190,7 @@
       "end_time": 498.29,
       "utterance": "THE CHURCH",
       "turn_index": 15,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7B",
@@ -192,7 +198,7 @@
       "end_time": 500.12,
       "utterance": "THE DOOR",
       "turn_index": 16,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U7B",
@@ -209,7 +215,7 @@
       "end_time": 501.14,
       "utterance": "THE DOORS AND THE CEILING",
       "turn_index": 17,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U12B",
@@ -226,7 +232,7 @@
       "end_time": 502.74,
       "utterance": "YES THIS CHURCH IS",
       "turn_index": 18,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U7B",
@@ -243,7 +249,7 @@
       "end_time": 502.07,
       "utterance": "AND",
       "turn_index": 19,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7B",
@@ -251,7 +257,7 @@
       "end_time": 503.44,
       "utterance": "RED",
       "turn_index": 20,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U12B",
@@ -259,7 +265,7 @@
       "end_time": 504.71,
       "utterance": "MINE ALSO YES",
       "turn_index": 21,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7B",
@@ -267,7 +273,7 @@
       "end_time": 506.09,
       "utterance": "OKAY THERE'S NO",
       "turn_index": 22,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U7B",
@@ -284,7 +290,7 @@
       "end_time": 507.07,
       "utterance": "DOES IT HAVE A CROSS ON THE TOP",
       "turn_index": 23,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7B",
@@ -292,7 +298,7 @@
       "end_time": 507.52,
       "utterance": "NO",
       "turn_index": 24,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U12B",
@@ -300,7 +306,7 @@
       "end_time": 509.61,
       "utterance": "MINE HAS A CROSS ON THE TOP",
       "turn_index": 25,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7B",
@@ -308,7 +314,7 @@
       "end_time": 510.77,
       "utterance": "OKAY ON THE TOWER",
       "turn_index": 26,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12B",
@@ -316,7 +322,7 @@
       "end_time": 511.88,
       "utterance": "THE TOWER YES",
       "turn_index": 27,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7B",
@@ -324,7 +330,7 @@
       "end_time": 512.17,
       "utterance": "OKAY",
       "turn_index": 28,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12B",
@@ -332,7 +338,7 @@
       "end_time": 513.67,
       "utterance": "THE",
       "turn_index": 29,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12B",
@@ -340,7 +346,7 @@
       "end_time": 515.93,
       "utterance": "CHURCH ON THE RIGHT DOESN'T HAVE A CROSS",
       "turn_index": 30,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7B",
@@ -348,7 +354,7 @@
       "end_time": 517.66,
       "utterance": "DOESN'T HAVE A CROSS IT'S YELLOW",
       "turn_index": 31,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U12B",
@@ -356,7 +362,7 @@
       "end_time": 519.25,
       "utterance": "NO MINE IS <%eh> RED",
       "turn_index": 32,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7B",
@@ -364,7 +370,7 @@
       "end_time": 519.85,
       "utterance": "OKAY",
       "turn_index": 33,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7B",
@@ -372,7 +378,7 @@
       "end_time": 522.29,
       "utterance": "AND ALL THE WINDOWS ARE",
       "turn_index": 34,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7B",
@@ -380,7 +386,7 @@
       "end_time": 523.2,
       "utterance": "GRAY",
       "turn_index": 35,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U12B",
@@ -388,7 +394,7 @@
       "end_time": 523.95,
       "utterance": "YES",
       "turn_index": 36,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7B",
@@ -396,7 +402,7 @@
       "end_time": 527.1,
       "utterance": "<%eh> BETWEEN THE TWO CHURCHES",
       "turn_index": 37,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7B",
@@ -404,7 +410,7 @@
       "end_time": 528.53,
       "utterance": "THERE IS ONE COW",
       "turn_index": 38,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U12B",
@@ -412,7 +418,7 @@
       "end_time": 530.2,
       "utterance": "I HAVE TWO COWS",
       "turn_index": 39,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7B",
@@ -420,7 +426,7 @@
       "end_time": 530.88,
       "utterance": "OKAY",
       "turn_index": 40,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7B",
@@ -428,7 +434,7 @@
       "end_time": 534.56,
       "utterance": "I HAVE ONE COW IMMEDIATELY TO THE LEFT OF THE",
       "turn_index": 41,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7B",
@@ -436,7 +442,7 @@
       "end_time": 536.03,
       "utterance": "SMALLER CHURCH",
       "turn_index": 42,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12B",
@@ -444,7 +450,7 @@
       "end_time": 538.57,
       "utterance": "OKAY THERE IS ANOTHER ONE",
       "turn_index": 43,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12B",
@@ -452,7 +458,7 @@
       "end_time": 540.63,
       "utterance": "ON THE LEFT OF IT",
       "turn_index": 44,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12B",
@@ -460,7 +466,7 @@
       "end_time": 543.01,
       "utterance": "<ON> ON THE LEFT",
       "turn_index": 45,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12B",
@@ -468,7 +474,7 @@
       "end_time": 544.64,
       "utterance": "OF THE FIRST COW SO",
       "turn_index": 46,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12B",
@@ -476,7 +482,7 @@
       "end_time": 545.65,
       "utterance": "YOU HAVE",
       "turn_index": 47,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7B",
@@ -484,7 +490,7 @@
       "end_time": 547.16,
       "utterance": "AH ON THE LEFT OF OKAY",
       "turn_index": 48,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U7B",
@@ -501,7 +507,7 @@
       "end_time": 546.79,
       "utterance": "THE CHURCH",
       "turn_index": 49,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12B",
@@ -509,7 +515,7 @@
       "end_time": 550.38,
       "utterance": "A COW THEN ON THE LEFT THE COW AGAIN AND THEN THE OTHER CHURCH",
       "turn_index": 50,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U12B",
@@ -526,7 +532,7 @@
       "end_time": 549.29,
       "utterance": "OKAY",
       "turn_index": 51,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7B",
@@ -534,7 +540,7 @@
       "end_time": 550.8,
       "utterance": "OKAY",
       "turn_index": 52,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7B",
@@ -542,7 +548,7 @@
       "end_time": 552.23,
       "utterance": "<%ahm>",
       "turn_index": 53,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7B",
@@ -550,7 +556,7 @@
       "end_time": 558.33,
       "utterance": "<ON THE TOP I SEE> ON THE TOP OF THAT COW THAT I DON'T HAVE I SEE A BLACK BIRD",
       "turn_index": 54,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U7B",
@@ -567,7 +573,7 @@
       "end_time": 557.47,
       "utterance": "YES",
       "turn_index": 55,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U12B",
@@ -575,7 +581,7 @@
       "end_time": 559.65,
       "utterance": "FACING WHICH SIDE",
       "turn_index": 56,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7B",
@@ -583,7 +589,7 @@
       "end_time": 560.65,
       "utterance": "FACING THE RIGHT",
       "turn_index": 57,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U12B",
@@ -591,7 +597,7 @@
       "end_time": 561.61,
       "utterance": "CORRECT",
       "turn_index": 58,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7B",
@@ -599,7 +605,7 @@
       "end_time": 562.43,
       "utterance": "<%aa>",
       "turn_index": 59,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7B",
@@ -607,7 +613,7 @@
       "end_time": 568.61,
       "utterance": "THEN ON TOP AND SLIGHTLY <TO THE> TO THE RIGHT OF THE BOARD I SEE FIVE STARS",
       "turn_index": 60,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U12B",
@@ -615,7 +621,7 @@
       "end_time": 569.7,
       "utterance": "I HAVE FOUR",
       "turn_index": 61,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7B",
@@ -623,7 +629,7 @@
       "end_time": 571.14,
       "utterance": "YOU HAVE FOUR",
       "turn_index": 62,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U7B",
@@ -640,7 +646,7 @@
       "end_time": 572.94,
       "utterance": "DO THEY FORM A KIND OF CIRCLE IN YOURS",
       "turn_index": 63,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7B",
@@ -648,7 +654,7 @@
       "end_time": 574.17,
       "utterance": "<%aa> YES",
       "turn_index": 64,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12B",
@@ -656,7 +662,7 @@
       "end_time": 575.03,
       "utterance": "SO",
       "turn_index": 65,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12B",
@@ -664,7 +670,7 @@
       "end_time": 577.6,
       "utterance": "<I AM MISSING <%aa>> I HAVE",
       "turn_index": 66,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12B",
@@ -672,7 +678,7 @@
       "end_time": 579.47,
       "utterance": "THREE ON THE TOP",
       "turn_index": 67,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7B",
@@ -680,7 +686,7 @@
       "end_time": 581.22,
       "utterance": "YES",
       "turn_index": 68,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12B",
@@ -688,7 +694,7 @@
       "end_time": 582.97,
       "utterance": "LIKE KIND OF RIGHT I HAVE",
       "turn_index": 69,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U12B",
@@ -705,7 +711,7 @@
       "end_time": 584.03,
       "utterance": "YES YES I HAVE THREE",
       "turn_index": 70,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U7B",
@@ -722,7 +728,7 @@
       "end_time": 585.08,
       "utterance": "ONE ON THE BOTTOM SO",
       "turn_index": 71,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7B",
@@ -730,7 +736,7 @@
       "end_time": 586.09,
       "utterance": "I HAVE TWO",
       "turn_index": 72,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U7B",
@@ -747,7 +753,7 @@
       "end_time": 588.19,
       "utterance": "THERE IS ONE ON THE LEFT THAT I'M MISSING",
       "turn_index": 73,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7B",
@@ -755,7 +761,7 @@
       "end_time": 589.37,
       "utterance": "YEAH OKAY",
       "turn_index": 74,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7B",
@@ -763,7 +769,7 @@
       "end_time": 591.82,
       "utterance": "<%ahm>",
       "turn_index": 75,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7B",
@@ -771,7 +777,7 @@
       "end_time": 593.16,
       "utterance": "ON THE",
       "turn_index": 76,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U7B",
@@ -788,7 +794,7 @@
       "end_time": 594.17,
       "utterance": "DO YOU HAVE A ROCK ON THE IMAGE",
       "turn_index": 77,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7B",
@@ -796,7 +802,7 @@
       "end_time": 595.37,
       "utterance": "I HAVE TWO ROCKS",
       "turn_index": 78,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U12B",
@@ -804,7 +810,7 @@
       "end_time": 595.96,
       "utterance": "I HAVE ONE",
       "turn_index": 79,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7B",
@@ -812,7 +818,7 @@
       "end_time": 597.55,
       "utterance": "A SMALL AND A BIGGER ONE",
       "turn_index": 80,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U12B",
@@ -820,7 +826,7 @@
       "end_time": 598.8,
       "utterance": "I HAVE JUST ONE",
       "turn_index": 81,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7B",
@@ -828,7 +834,7 @@
       "end_time": 600.58,
       "utterance": "WHICH ONE <%aa>",
       "turn_index": 82,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12B",
@@ -836,7 +842,7 @@
       "end_time": 601.87,
       "utterance": "<%aa> I HAVE NO IDEA",
       "turn_index": 83,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U12B",
@@ -853,7 +859,7 @@
       "end_time": 602.63,
       "utterance": "OKAY BUT JUST CLICK",
       "turn_index": 84,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12B",
@@ -861,7 +867,7 @@
       "end_time": 603.65,
       "utterance": "<%aa>",
       "turn_index": 85,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7B",
@@ -869,7 +875,7 @@
       "end_time": 604.72,
       "utterance": "<%aa>",
       "turn_index": 86,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U7B",
@@ -886,7 +892,7 @@
       "end_time": 607.33,
       "utterance": "<WHERE> WHERE TO CLOSER TO EACH CHURCH IS IT",
       "turn_index": 87,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U12B",
@@ -903,7 +909,7 @@
       "end_time": 606.05,
       "utterance": "THE",
       "turn_index": 88,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7B",
@@ -911,7 +917,7 @@
       "end_time": 609.45,
       "utterance": "TO <THE=> ONE ON THE RIGHT",
       "turn_index": 89,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12B",
@@ -919,7 +925,7 @@
       "end_time": 611.7,
       "utterance": "TO THE ONE ON THE RIGHT",
       "turn_index": 90,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12B",
@@ -927,7 +933,7 @@
       "end_time": 612.74,
       "utterance": "OKAY",
       "turn_index": 91,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7B",
@@ -935,7 +941,7 @@
       "end_time": 613.82,
       "utterance": "JUST <%aa>",
       "turn_index": 92,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7B",
@@ -943,7 +949,7 @@
       "end_time": 617.67,
       "utterance": "<ON TOP OF THE <%aa>> ABOVE THE CHURCH I SEE THE MOON",
       "turn_index": 93,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12B",
@@ -951,7 +957,7 @@
       "end_time": 618.42,
       "utterance": "YES",
       "turn_index": 94,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7B",
@@ -959,7 +965,7 @@
       "end_time": 620.11,
       "utterance": "ORANGE INVERTED C",
       "turn_index": 95,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U12B",
@@ -967,7 +973,7 @@
       "end_time": 620.68,
       "utterance": "YES",
       "turn_index": 96,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7B",
@@ -975,7 +981,7 @@
       "end_time": 625.94,
       "utterance": "ON TOP OF THE BIG CHURCH I SEE TWO CLOUDS AND THE CHURCH IS KIND OF FALLING IN THE MIDDLE OF THEM",
       "turn_index": 97,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U12B",
@@ -983,7 +989,7 @@
       "end_time": 628.5,
       "utterance": "I HAVE",
       "turn_index": 98,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U12B",
@@ -991,7 +997,7 @@
       "end_time": 629.69,
       "utterance": "THREE CLOUDS",
       "turn_index": 99,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7B",
@@ -999,7 +1005,7 @@
       "end_time": 630.28,
       "utterance": "OKAY",
       "turn_index": 100,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U7B",
@@ -1016,7 +1022,7 @@
       "end_time": 631.88,
       "utterance": "TWO ONE THE LEFT ONE ON THE RIGHT",
       "turn_index": 101,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7B",
@@ -1024,7 +1030,7 @@
       "end_time": 634.19,
       "utterance": "<%aa> THE ONES ONE THE LEFT HOW ARE THEY",
       "turn_index": 102,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U12B",
@@ -1032,7 +1038,7 @@
       "end_time": 635.04,
       "utterance": "<%aa>",
       "turn_index": 103,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7B",
@@ -1040,7 +1046,7 @@
       "end_time": 636.47,
       "utterance": "ONE ON TOP OF THE OTHER?",
       "turn_index": 104,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U7B",
@@ -1057,7 +1063,7 @@
       "end_time": 635.81,
       "utterance": "THE",
       "turn_index": 105,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12B",
@@ -1065,7 +1071,7 @@
       "end_time": 636.74,
       "utterance": "THAT",
       "turn_index": 106,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12B",
@@ -1073,7 +1079,7 @@
       "end_time": 639.19,
       "utterance": "<%aa> YES <+ ON TOP> ONE ON TOP OF THE OTHER SO",
       "turn_index": 107,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7B",
@@ -1081,7 +1087,7 @@
       "end_time": 641.28,
       "utterance": "OKAY I AM MISSING THE ONE BELOW",
       "turn_index": 108,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12B",
@@ -1089,7 +1095,7 @@
       "end_time": 643.86,
       "utterance": "OKAY AT THE SAME LEVEL OF THE RIGHT CLOUD",
       "turn_index": 109,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7B",
@@ -1097,7 +1103,7 @@
       "end_time": 644.79,
       "utterance": "YES",
       "turn_index": 110,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7B",
@@ -1105,7 +1111,7 @@
       "end_time": 647.86,
       "utterance": "<%ahm>",
       "turn_index": 111,
-      "topic": ""
+      "topic": "finding difference"
     }
   ]
 }

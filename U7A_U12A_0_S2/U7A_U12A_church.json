@@ -1,5 +1,11 @@
 {
   "success": 0.6666666666666666,
+  "instruction_giver": {
+    "id": "U7A"
+  },
+  "instruction_follower": {
+    "id": "U12A"
+  },
   "dialogue_duration": 200.55199999999604,
   "audio": {
     "ig": "U7A_0_church.wav",
@@ -12,7 +18,7 @@
       "end_time": 295.68142432,
       "utterance": "it's outside of the circle",
       "turn_index": 0,
-      "topic": ""
+      "topic": "checking readiness"
     },
     {
       "speaker": "U12A",
@@ -20,7 +26,7 @@
       "end_time": 297.159677644,
       "utterance": "yes",
       "turn_index": 1,
-      "topic": ""
+      "topic": "checking readiness"
     },
     {
       "speaker": "U7A",
@@ -28,7 +34,7 @@
       "end_time": 300.19828801,
       "utterance": "okay so I have",
       "turn_index": 2,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U7A",
@@ -45,7 +51,7 @@
       "end_time": 300.47540975,
       "utterance": "it's night",
       "turn_index": 3,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7A",
@@ -53,7 +59,7 @@
       "end_time": 301.157555572,
       "utterance": "sorry?",
       "turn_index": 4,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U12A",
@@ -61,7 +67,7 @@
       "end_time": 301.917818878,
       "utterance": "it's night",
       "turn_index": 5,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7A",
@@ -69,7 +75,7 @@
       "end_time": 305.92753115,
       "utterance": "it's night exactly as a kind of like dark blue sky and I have two clouds",
       "turn_index": 6,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U12A",
@@ -77,7 +83,7 @@
       "end_time": 307.335446922,
       "utterance": "<the> three clouds",
       "turn_index": 7,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7A",
@@ -85,7 +91,7 @@
       "end_time": 310.769672151,
       "utterance": "I've only two clouds they're like above a red church",
       "turn_index": 8,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U7A",
@@ -102,7 +108,7 @@
       "end_time": 309.469331678,
       "utterance": "two",
       "turn_index": 9,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12A",
@@ -110,7 +116,7 @@
       "end_time": 318.880430128,
       "utterance": "<%eh> two very close together on the left of <the> the tower and one onthe right of the tower same level as the one underneath",
       "turn_index": 10,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7A",
@@ -118,7 +124,7 @@
       "end_time": 323.307501417,
       "utterance": "okay no I only have like one on the left and one on the right",
       "turn_index": 11,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7A",
@@ -126,7 +132,7 @@
       "end_time": 326.8358915,
       "utterance": "and the one on the left it's kind of like nearly on the top of (the=)",
       "turn_index": 12,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12A",
@@ -134,7 +140,7 @@
       "end_time": 327.56166145,
       "utterance": "yes",
       "turn_index": 13,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U12A",
@@ -151,7 +157,7 @@
       "end_time": 329.402034032,
       "utterance": "<o-> of the screen so there would be one below",
       "turn_index": 14,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12A",
@@ -159,7 +165,7 @@
       "end_time": 334.139023792,
       "utterance": "there would be one below and your one on the right is slightly lower than the one on the left right?",
       "turn_index": 15,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7A",
@@ -167,7 +173,7 @@
       "end_time": 336.038342413,
       "utterance": "yeah exactly like the top one",
       "turn_index": 16,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U7A",
@@ -184,7 +190,7 @@
       "end_time": 339.863422369,
       "utterance": "so <%eh> yeah exactly underneath <(the=)> the one of the left there's (a=)",
       "turn_index": 17,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12A",
@@ -192,7 +198,7 @@
       "end_time": 342.647379028,
       "utterance": "there's another cloud which is like",
       "turn_index": 18,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U12A",
@@ -209,7 +215,7 @@
       "end_time": 342.669923203,
       "utterance": "okay",
       "turn_index": 19,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12A",
@@ -217,7 +223,7 @@
       "end_time": 344.908214181,
       "utterance": "slightly greyish because it's night",
       "turn_index": 20,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7A",
@@ -225,7 +231,7 @@
       "end_time": 346.493772489,
       "utterance": "okay I'll click on it",
       "turn_index": 21,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7A",
@@ -233,7 +239,7 @@
       "end_time": 350.486549036,
       "utterance": "my <yeah exactly> my clouds are a bit like blue greyish",
       "turn_index": 22,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U7A",
@@ -250,7 +256,7 @@
       "end_time": 351.741059675,
       "utterance": "then I would have four stars",
       "turn_index": 23,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7A",
@@ -258,7 +264,7 @@
       "end_time": 353.291877834,
       "utterance": "<%aa> I have five stars",
       "turn_index": 24,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7A",
@@ -266,7 +272,7 @@
       "end_time": 358.45175653,
       "utterance": "<%eh> so <they're kind of on the> they're like in a circle I would say",
       "turn_index": 25,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U7A",
@@ -283,7 +289,7 @@
       "end_time": 359.084162552,
       "utterance": "yes",
       "turn_index": 26,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U12A",
@@ -300,7 +306,7 @@
       "end_time": 363.66831823,
       "utterance": "<%ahm> <<to> to the right on the height of (the=)> to the right from <the> the cloud",
       "turn_index": 27,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U7A",
@@ -317,7 +323,7 @@
       "end_time": 363.561732945,
       "utterance": "the cloud",
       "turn_index": 28,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7A",
@@ -325,7 +331,7 @@
       "end_time": 366.767070578,
       "utterance": "<%ahm> so there's like <%eh>",
       "turn_index": 29,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7A",
@@ -333,7 +339,7 @@
       "end_time": 369.214553571,
       "utterance": "<two> oh this is difficult to explain",
       "turn_index": 30,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7A",
@@ -341,7 +347,7 @@
       "end_time": 372.137728175,
       "utterance": "there's like <%eh> <%aa> two stars",
       "turn_index": 31,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U12A",
@@ -358,7 +364,7 @@
           "turn_index": 33
         }
       ],
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7A",
@@ -366,7 +372,7 @@
       "end_time": 373.156308114,
       "utterance": "<+ to> more to",
       "turn_index": 33,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7A",
@@ -374,7 +380,7 @@
       "end_time": 375.316275588,
       "utterance": "yeah I've got a black bird",
       "turn_index": 34,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U7A",
@@ -391,7 +397,7 @@
       "end_time": 377.192176598,
       "utterance": "do you have a star towards the black bird?",
       "turn_index": 35,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7A",
@@ -399,7 +405,7 @@
       "end_time": 378.013895975,
       "utterance": "sorry?",
       "turn_index": 36,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U12A",
@@ -407,7 +413,7 @@
       "end_time": 381.989303023,
       "utterance": "<there's> is there a star towards the black bird?",
       "turn_index": 37,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U12A",
@@ -424,7 +430,7 @@
       "end_time": 381.875612052,
       "utterance": "yeah",
       "turn_index": 38,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U12A",
@@ -441,7 +447,7 @@
           "turn_index": 40
         }
       ],
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7A",
@@ -449,7 +455,7 @@
       "end_time": 383.289643496,
       "utterance": "I mean like <%aa>",
       "turn_index": 40,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7A",
@@ -457,7 +463,7 @@
       "end_time": 386.509509503,
       "utterance": "ah okay so that one so",
       "turn_index": 41,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U7A",
@@ -474,7 +480,7 @@
       "end_time": 389.98994388,
       "utterance": "<in> <in a circle> in a circle I think you can click somewhere close to (the=)",
       "turn_index": 42,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7A",
@@ -482,7 +488,7 @@
       "end_time": 391.692725388,
       "utterance": "okay <to the> yes",
       "turn_index": 43,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7A",
@@ -490,7 +496,7 @@
       "end_time": 393.514009354,
       "utterance": "so to the top left",
       "turn_index": 44,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U7A",
@@ -507,7 +513,7 @@
       "end_time": 394.743205916,
       "utterance": "the black bird is flying to the right",
       "turn_index": 45,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7A",
@@ -515,7 +521,7 @@
       "end_time": 398.802773498,
       "utterance": "yes exactly and there's a moon <to the right> on the top right",
       "turn_index": 46,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7A",
@@ -523,7 +529,7 @@
       "end_time": 400.439262231,
       "utterance": "of the picture",
       "turn_index": 47,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U7A",
@@ -540,7 +546,7 @@
       "end_time": 403.765982143,
       "utterance": "and there's a moon <%aa> turning to the left <+ like> it's like a D",
       "turn_index": 48,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U12A",
@@ -548,7 +554,7 @@
       "end_time": 408.224384602,
       "utterance": "on the top right and it's kind of <yell-> the samekind of colour of the stars",
       "turn_index": 49,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7A",
@@ -556,7 +562,7 @@
       "end_time": 412.083719511,
       "utterance": "yeah exactly and below the moon there's a yellow church",
       "turn_index": 50,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U12A",
@@ -564,7 +570,7 @@
       "end_time": 415.453794141,
       "utterance": "<%eh> no it's a red church",
       "turn_index": 51,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7A",
@@ -572,7 +578,7 @@
       "end_time": 417.891044318,
       "utterance": "okay <be-> below the moon is it red?",
       "turn_index": 52,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U7A",
@@ -589,7 +595,7 @@
       "end_time": 419.140293403,
       "utterance": "<%eh> below the moon is a red church",
       "turn_index": 53,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U12A",
@@ -606,7 +612,7 @@
       "end_time": 421.590443405,
       "utterance": "okay mine is yellow so let's click on the church",
       "turn_index": 54,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U7A",
@@ -623,7 +629,7 @@
       "end_time": 420.659598585,
       "utterance": "okay",
       "turn_index": 55,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12A",
@@ -631,7 +637,7 @@
       "end_time": 423.20807721,
       "utterance": "the other one is also red",
       "turn_index": 56,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7A",
@@ -639,7 +645,7 @@
       "end_time": 425.03050479,
       "utterance": "sorry?",
       "turn_index": 57,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7A",
@@ -647,7 +653,7 @@
       "end_time": 428.398599787,
       "utterance": "ah the other one is also red yeah and the other one is also red mine is also red",
       "turn_index": 58,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7A",
@@ -655,7 +661,7 @@
       "end_time": 431.247738681,
       "utterance": "but it has a yellow window <on the> in the twower",
       "turn_index": 59,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U7A",
@@ -672,7 +678,7 @@
       "end_time": 431.247738681,
       "utterance": "yes",
       "turn_index": 60,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7A",
@@ -680,7 +686,7 @@
       "end_time": 434.21179961,
       "utterance": "and it has three more windows",
       "turn_index": 61,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U7A",
@@ -697,7 +703,7 @@
       "end_time": 434.169165496,
       "utterance": "(and=) dark grey",
       "turn_index": 62,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U12A",
@@ -705,7 +711,7 @@
       "end_time": 437.231515003,
       "utterance": "yeah three more windows and two doors",
       "turn_index": 63,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U12A",
@@ -713,7 +719,7 @@
       "end_time": 439.875818893,
       "utterance": "they are alike just one is smaller and one is bigger",
       "turn_index": 64,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U12A",
@@ -730,7 +736,7 @@
       "end_time": 442.198146641,
       "utterance": "exactly and do you have a cow?",
       "turn_index": 65,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U12A",
@@ -738,7 +744,7 @@
       "end_time": 443.145504392,
       "utterance": "two cows",
       "turn_index": 66,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7A",
@@ -746,7 +752,7 @@
       "end_time": 444.233784835,
       "utterance": "I have only one cow",
       "turn_index": 67,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U12A",
@@ -754,7 +760,7 @@
       "end_time": 445.029621627,
       "utterance": "okay",
       "turn_index": 68,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7A",
@@ -762,7 +768,7 @@
       "end_time": 449.642081101,
       "utterance": "so the one I have is directly next to the right church",
       "turn_index": 69,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12A",
@@ -770,7 +776,7 @@
       "end_time": 455.057442614,
       "utterance": "<okay mine <%aa> is> I have one slight <%eh> to the right on top of the rock",
       "turn_index": 70,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12A",
@@ -778,7 +784,7 @@
       "end_time": 459.872350315,
       "utterance": "but <closer> higher in comparison to the <horizont of> horizont line",
       "turn_index": 71,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7A",
@@ -786,7 +792,7 @@
       "end_time": 464.457693856,
       "utterance": "<okay I have like> I reckon next to the church",
       "turn_index": 72,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12A",
@@ -794,7 +800,7 @@
       "end_time": 465.814879814,
       "utterance": "on the right yes",
       "turn_index": 73,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U12A",
@@ -811,7 +817,7 @@
       "end_time": 467.54969717,
       "utterance": "exactly and where's the second cow?",
       "turn_index": 74,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12A",
@@ -819,7 +825,7 @@
       "end_time": 469.233487812,
       "utterance": "aha <+ it's> then it's to the left",
       "turn_index": 75,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7A",
@@ -827,7 +833,7 @@
       "end_time": 470.393991895,
       "utterance": "aha to the left?",
       "turn_index": 76,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7A",
@@ -835,7 +841,7 @@
       "end_time": 472.32673839,
       "utterance": "next to (the=) other church",
       "turn_index": 77,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U7A",
@@ -852,7 +858,7 @@
       "end_time": 475.545533507,
       "utterance": "yeah next to the other church but (slightly=) downwards",
       "turn_index": 78,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12A",
@@ -860,7 +866,7 @@
       "end_time": 477.150106917,
       "utterance": "slightly closer to us",
       "turn_index": 79,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U12A",
@@ -877,7 +883,7 @@
       "end_time": 476.36137581,
       "utterance": "okay",
       "turn_index": 80,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7A",
@@ -885,7 +891,7 @@
       "end_time": 478.371696429,
       "utterance": "closer to the rocks",
       "turn_index": 81,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12A",
@@ -893,7 +899,7 @@
       "end_time": 479.950616551,
       "utterance": "closer to the rock",
       "turn_index": 82,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7A",
@@ -901,7 +907,7 @@
       "end_time": 483.375557032,
       "utterance": "okay I have two rocks you say you only have one",
       "turn_index": 83,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U7A",
@@ -918,7 +924,7 @@
       "end_time": 486.514758325,
       "utterance": "I have one rock exactly the one underneath the cow that you have",
       "turn_index": 84,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7A",
@@ -926,7 +932,7 @@
       "end_time": 491.22447632,
       "utterance": "okay <so in terms of> and then I have like one that is a bit more the front roughly",
       "turn_index": 85,
-      "topic": ""
+      "topic": "finding difference"
     }
   ]
 }

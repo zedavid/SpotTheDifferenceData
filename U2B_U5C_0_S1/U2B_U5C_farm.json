@@ -1,5 +1,11 @@
 {
   "success": 0.8571428571428571,
+  "instruction_giver": {
+    "id": "U2B"
+  },
+  "instruction_follower": {
+    "id": "U5C"
+  },
   "dialogue_duration": 153.16100000000006,
   "audio": {
     "ig": "U2B_0_farm.wav",
@@ -12,7 +18,7 @@
       "end_time": 895.16,
       "utterance": "OKAY NOW IS THE FORM THAT I HAD BEFORE",
       "turn_index": 0,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5C",
@@ -20,7 +26,7 @@
       "end_time": 895.59,
       "utterance": "YEAH",
       "turn_index": 1,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2B",
@@ -28,7 +34,7 @@
       "end_time": 899.43,
       "utterance": "SO DOWN TO THE RIGHT THERE IS A COW WHICH IS WHITE AND BLACK",
       "turn_index": 2,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5C",
@@ -36,7 +42,7 @@
       "end_time": 899.76,
       "utterance": "YEAH",
       "turn_index": 3,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2B",
@@ -44,7 +50,7 @@
       "end_time": 901.06,
       "utterance": "AND THEN THERE'S A SHEEP",
       "turn_index": 4,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5C",
@@ -52,7 +58,7 @@
       "end_time": 901.49,
       "utterance": "YEAH",
       "turn_index": 5,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2B",
@@ -60,7 +66,7 @@
       "end_time": 909.07,
       "utterance": "AND THEN <ON TOP OF LIKE> UP ABOVE FROM THEM THERE IS <<%aa> HAY> <THREE> THREE HAY <%aa>",
       "turn_index": 6,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U2B",
@@ -77,7 +83,7 @@
       "end_time": 908.23,
       "utterance": "OKAY",
       "turn_index": 7,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5C",
@@ -94,7 +100,7 @@
           "turn_index": 9
         }
       ],
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2B",
@@ -102,7 +108,7 @@
       "end_time": 909.88,
       "utterance": "FIRKANTER",
       "turn_index": 9,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2B",
@@ -110,7 +116,7 @@
       "end_time": 916.11,
       "utterance": "OKAY I DON'T HAVE THE PIG SO WE CLICK THERE",
       "turn_index": 10,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5C",
@@ -118,7 +124,7 @@
       "end_time": 916.48,
       "utterance": "YEAH",
       "turn_index": 11,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2B",
@@ -126,7 +132,7 @@
       "end_time": 918.24,
       "utterance": "<%aa>",
       "turn_index": 12,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U2B",
@@ -143,7 +149,7 @@
       "end_time": 918.93,
       "utterance": "THEN THREE HAYSTACKS",
       "turn_index": 13,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2B",
@@ -151,7 +157,7 @@
       "end_time": 924.44,
       "utterance": "THREE HAYSTACKS YES AND THEN ABOVE FROM THE HAYSTACKS <IN THE> IN THE SKY THERE ARE THREE CLOUDS",
       "turn_index": 14,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5C",
@@ -159,7 +165,7 @@
       "end_time": 925.54,
       "utterance": "I HAVE FOUR CLOUDS",
       "turn_index": 15,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2B",
@@ -167,7 +173,7 @@
       "end_time": 927.19,
       "utterance": "FOUR CLOUDS OKAY I HAVE A",
       "turn_index": 16,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U2B",
@@ -184,7 +190,7 @@
       "end_time": 926.86,
       "utterance": "SO THERE'S",
       "turn_index": 17,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2B",
@@ -192,7 +198,7 @@
       "end_time": 928.29,
       "utterance": "TRIANGLE",
       "turn_index": 18,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U5C",
@@ -200,7 +206,7 @@
       "end_time": 931.33,
       "utterance": "SO THERE'S ONE STRAIGHT ABOVE THE HAYSTACKS",
       "turn_index": 19,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U5C",
@@ -208,7 +214,7 @@
       "end_time": 938.88,
       "utterance": "AND THEN TRIANGLE TOO AND THEN THERE'S A FOURTH <ALL THE> <+ ABOVE THE FENCE> STRAIGHT ABOVE THE FENCE AND THE BIRDS",
       "turn_index": 20,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2B",
@@ -216,7 +222,7 @@
       "end_time": 945.47,
       "utterance": "STRAIGHT ABOVE OKAY BECAUSE <I HAVE> I HAVE ONE LIKE ON TOP OF THE HAYSTACKS AND THEN THERE ARE LIKE TWO",
       "turn_index": 21,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2B",
@@ -224,7 +230,7 @@
       "end_time": 946.6,
       "utterance": "TO THE LEFT OF IT",
       "turn_index": 22,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2B",
@@ -232,7 +238,7 @@
       "end_time": 949.96,
       "utterance": "LIKE ONE UP AND ONE DOWN AND <+ THEN> SUPPOSEDLY THEN THERE'S ONE MORE",
       "turn_index": 23,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U5C",
@@ -240,7 +246,7 @@
       "end_time": 951.07,
       "utterance": "SO",
       "turn_index": 24,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2B",
@@ -248,7 +254,7 @@
       "end_time": 952.08,
       "utterance": "TO THE LEFT",
       "turn_index": 25,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U2B",
@@ -265,7 +271,7 @@
       "end_time": 952.05,
       "utterance": "THEY ARE",
       "turn_index": 26,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U5C",
@@ -273,7 +279,7 @@
       "end_time": 953.59,
       "utterance": "YES SO <%ahm>",
       "turn_index": 27,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U2B",
@@ -281,7 +287,7 @@
       "end_time": 957.36,
       "utterance": "SO <<IT> IS THERE LIKE BECAUSE> I HAVE TWO BIRDS",
       "turn_index": 28,
-      "topic": "DESCRIBING PICTURE"
+      "topic": "describing picture"
     },
     {
       "speaker": "U2B",
@@ -289,7 +295,7 @@
       "end_time": 958.52,
       "utterance": "ONE RED",
       "turn_index": 29,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2B",
@@ -297,7 +303,7 @@
       "end_time": 960.67,
       "utterance": "TO THE RIGHT AND ONE PINK TO THE LEFT",
       "turn_index": 30,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U2B",
@@ -314,7 +320,7 @@
       "end_time": 963.84,
       "utterance": "BOTH OF THEM ARE RED FOR ME SO <THE> THE LEFT BIRD",
       "turn_index": 31,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U5C",
@@ -338,7 +344,7 @@
       "end_time": 962.93,
       "utterance": "OKAY SO",
       "turn_index": 32,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2B",
@@ -346,7 +352,7 @@
       "end_time": 963.8,
       "utterance": "PINK",
       "turn_index": 33,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U5C",
@@ -354,7 +360,7 @@
       "end_time": 965.72,
       "utterance": "ARE THEY SITTING ON A FENCE?",
       "turn_index": 34,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U5C",
@@ -371,7 +377,7 @@
       "end_time": 964.86,
       "utterance": "YEAH",
       "turn_index": 35,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2B",
@@ -379,7 +385,7 @@
       "end_time": 967.94,
       "utterance": "THEY'RE SITTING ON A FENCE <%eh> FACING EACH OTHER",
       "turn_index": 36,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5C",
@@ -387,7 +393,7 @@
       "end_time": 970.310079508,
       "utterance": "OKAY SO <THE> THEY ARE FACING EACH OTHER THE",
       "turn_index": 37,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5C",
@@ -395,7 +401,7 @@
       "end_time": 972.75,
       "utterance": "LEFT ONE IS RED FOR ME ALSO",
       "turn_index": 38,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U5C",
@@ -412,7 +418,7 @@
       "end_time": 974.56,
       "utterance": "OKAY SO WE CLICK THERE BECAUSE IT'S PINK",
       "turn_index": 39,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U2B",
@@ -429,7 +435,7 @@
       "end_time": 975.56,
       "utterance": "CLICK THERE AND THE FENCE IS BLUE AND WHITE",
       "turn_index": 40,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2B",
@@ -437,7 +443,7 @@
       "end_time": 977.46,
       "utterance": "OKAY THE FENCE IS ONLY WHITE FOR ME",
       "turn_index": 41,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U5C",
@@ -445,7 +451,7 @@
       "end_time": 979.85,
       "utterance": "OKAY SO <ABO-> BELOW THE PINK",
       "turn_index": 42,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U5C",
@@ -462,7 +468,7 @@
       "end_time": 978.8,
       "utterance": "SO WE CLICK THERE",
       "turn_index": 43,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U5C",
@@ -470,7 +476,7 @@
       "end_time": 981.14,
       "utterance": "<%aa> BIRD ITS BLUE",
       "turn_index": 44,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2B",
@@ -478,7 +484,7 @@
       "end_time": 982.96,
       "utterance": "OKAY SO WE CLICK THERE",
       "turn_index": 45,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U5C",
@@ -486,7 +492,7 @@
       "end_time": 985.97,
       "utterance": "AND ABOVE THE WHITE FENCE AND THE RED BIRD",
       "turn_index": 46,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2B",
@@ -494,7 +500,7 @@
       "end_time": 986.66,
       "utterance": "AHA",
       "turn_index": 47,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U2B",
@@ -511,7 +517,7 @@
       "end_time": 988.64,
       "utterance": "THERE ARE LIKE TWO CLOUDS ONE ABOVE THE OTHER",
       "turn_index": 48,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U5C",
@@ -528,7 +534,7 @@
       "end_time": 988.11,
       "utterance": "OKAY",
       "turn_index": 49,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2B",
@@ -536,7 +542,7 @@
       "end_time": 989.95,
       "utterance": "YES THAT'S WHAT I HAVE TOO",
       "turn_index": 50,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5C",
@@ -544,7 +550,7 @@
       "end_time": 993.17,
       "utterance": "AND ABOVE <THE PINK> YOUR PINK BIRD THERE'S ALSO A CLOUD",
       "turn_index": 51,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2B",
@@ -552,7 +558,7 @@
       "end_time": 995.04,
       "utterance": "AH OKAY I DON'T HAVE THAT ONE",
       "turn_index": 52,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5C",
@@ -560,7 +566,7 @@
       "end_time": 996.07,
       "utterance": "OKAY CLICK THERE",
       "turn_index": 53,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U5C",
@@ -577,7 +583,7 @@
       "end_time": 996.48,
       "utterance": "SO WE CLICK THERE",
       "turn_index": 54,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U5C",
@@ -617,7 +623,7 @@
       "end_time": 1006.09,
       "utterance": "SO <THEN WE (HAVE=)> TO THE LEFT OF THAT I HAVE THREE BIRDS",
       "turn_index": 59,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2B",
@@ -625,7 +631,7 @@
       "end_time": 1012.65,
       "utterance": "<%aa> THERE ARE TWO PARROTS FLYING AND THEN A <BLACK> <%aa> BLACK KIND OF DOVE BIRD",
       "turn_index": 60,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U2B",
@@ -642,7 +648,7 @@
       "end_time": 1012.58,
       "utterance": "YEAH",
       "turn_index": 61,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U5C",
@@ -650,7 +656,7 @@
       "end_time": 1014.71,
       "utterance": "SAME FOR ME <AND THEN> AND THE PARROTS ARE",
       "turn_index": 62,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U5C",
@@ -667,7 +673,7 @@
       "end_time": 1014.29,
       "utterance": "AND <THE> THE",
       "turn_index": 63,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2B",
@@ -675,7 +681,7 @@
       "end_time": 1016.5,
       "utterance": "GREEN AND PINK",
       "turn_index": 64,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U2B",
@@ -692,7 +698,7 @@
       "end_time": 1015.86,
       "utterance": "PINK",
       "turn_index": 65,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U5C",
@@ -700,7 +706,7 @@
       "end_time": 1018.16,
       "utterance": "OKAY BOTH OF MINE ARE PINK",
       "turn_index": 66,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2B",
@@ -708,7 +714,7 @@
       "end_time": 1020.63,
       "utterance": "OKAY SO MINE TO THE RIGHT IS GREEN",
       "turn_index": 67,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U5C",
@@ -716,7 +722,7 @@
       "end_time": 1021.68,
       "utterance": "OKAY CLICK ON THAT ONE",
       "turn_index": 68,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2B",
@@ -724,7 +730,7 @@
       "end_time": 1024.94,
       "utterance": "AND THEN BELOW THEM I HAVE <TWO=)",
       "turn_index": 69,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2B",
@@ -732,7 +738,7 @@
       "end_time": 1025.98,
       "utterance": "TRACTORS",
       "turn_index": 70,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U2B",
@@ -749,7 +755,7 @@
       "end_time": 1026.22,
       "utterance": "YEAH",
       "turn_index": 71,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U2B",
@@ -757,7 +763,7 @@
       "end_time": 1028.51,
       "utterance": "AND THEY'RE GREEN AND YELLOW",
       "turn_index": 72,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U5C",
@@ -765,7 +771,7 @@
       "end_time": 1030.41,
       "utterance": "ONE IS GREEN AND ONE IS PINK FROM ME",
       "turn_index": 73,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U5C",
@@ -773,7 +779,7 @@
       "end_time": 1031.24,
       "utterance": "SO THE ONE",
       "turn_index": 74,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U5C",
@@ -790,7 +796,7 @@
       "end_time": 1031.36,
       "utterance": "OKAY SO",
       "turn_index": 75,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U5C",
@@ -798,7 +804,7 @@
       "end_time": 1035.94,
       "utterance": "IN THE FRONT OF THE PICTURE <%aa> <THE> THE <F-> <F-> FRONT MOST IS PINK",
       "turn_index": 76,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2B",
@@ -806,7 +812,7 @@
       "end_time": 1038.56,
       "utterance": "OKAY AND THAT GREEN FOR ME SO WE CLICK THERE TOO",
       "turn_index": 77,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U2B",
@@ -814,7 +820,7 @@
       "end_time": 1041.3,
       "utterance": "OKAY",
       "turn_index": 78,
-      "topic": ""
+      "topic": "end of differences"
     }
   ]
 }

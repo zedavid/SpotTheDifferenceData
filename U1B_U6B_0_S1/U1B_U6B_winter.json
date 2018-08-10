@@ -1,5 +1,11 @@
 {
   "success": 0.6,
+  "instruction_giver": {
+    "id": "U1B"
+  },
+  "instruction_follower": {
+    "id": "U6B"
+  },
   "dialogue_duration": 200.1010000000024,
   "audio": {
     "ig": "U1B_0_winter.wav",
@@ -12,7 +18,7 @@
       "end_time": 319.371131415,
       "utterance": "okay start we have two houses",
       "turn_index": 0,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U6B",
@@ -20,7 +26,7 @@
       "end_time": 321.843586648,
       "utterance": "<%aa> three",
       "turn_index": 1,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U1B",
@@ -28,7 +34,7 @@
       "end_time": 324.460629895,
       "utterance": "okay two <%aa> one to the right",
       "turn_index": 2,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U1B",
@@ -36,7 +42,7 @@
       "end_time": 328.197691888,
       "utterance": "and one two the like top left",
       "turn_index": 3,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "",
@@ -53,7 +59,7 @@
       "end_time": 325.326335508,
       "utterance": "yes",
       "turn_index": 4,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U6B",
@@ -61,7 +67,7 @@
       "end_time": 328.696338321,
       "utterance": "yes",
       "turn_index": 5,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U1B",
@@ -69,7 +75,7 @@
       "end_time": 330.297246582,
       "utterance": "(so=)",
       "turn_index": 6,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U1B",
@@ -86,7 +92,7 @@
       "end_time": 330.665576247,
       "utterance": "top left?",
       "turn_index": 7,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U6B",
@@ -94,7 +100,7 @@
       "end_time": 331.502308797,
       "utterance": "top right",
       "turn_index": 8,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U6B",
@@ -111,7 +117,7 @@
       "end_time": 331.377647188,
       "utterance": "yeah",
       "turn_index": 9,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U1B",
@@ -119,7 +125,7 @@
       "end_time": 333.929459913,
       "utterance": "top left not top right",
       "turn_index": 10,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U6B",
@@ -127,7 +133,7 @@
       "end_time": 336.170545698,
       "utterance": "<%aa>",
       "turn_index": 11,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U1B",
@@ -135,7 +141,7 @@
       "end_time": 340.247855833,
       "utterance": "<no> no I meant the <th-> the three like <%aa>",
       "turn_index": 12,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U1B",
@@ -143,7 +149,7 @@
       "end_time": 347.197608001,
       "utterance": "<%aa> together they <%aa> are like <%aa> <if you> if you connect them with a like it's like <f-> a  fourty five degrees line",
       "turn_index": 13,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U6B",
@@ -151,7 +157,7 @@
       "end_time": 349.684079649,
       "utterance": "okay",
       "turn_index": 14,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U1B",
@@ -159,7 +165,7 @@
       "end_time": 350.870290459,
       "utterance": "where do you see the third one?",
       "turn_index": 15,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U6B",
@@ -167,7 +173,7 @@
       "end_time": 354.913671485,
       "utterance": "<%aa> almost in the middle of the picture quite small",
       "turn_index": 16,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U6B",
@@ -184,7 +190,7 @@
       "end_time": 355.826345699,
       "utterance": "ah okay so I don't have anything like that",
       "turn_index": 17,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U6B",
@@ -192,7 +198,7 @@
       "end_time": 360.033426745,
       "utterance": "okay let's click there <in the> were the two mountains meet almost a bit to the right",
       "turn_index": 18,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U1B",
@@ -200,7 +206,7 @@
       "end_time": 361.058422191,
       "utterance": "yeah okay",
       "turn_index": 19,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U6B",
@@ -208,7 +214,7 @@
       "end_time": 362.629181689,
       "utterance": "okay",
       "turn_index": 20,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U1B",
@@ -216,7 +222,7 @@
       "end_time": 367.271267857,
       "utterance": "so I see two <%aa> like elks or <de-> or <reinde-> reindeers",
       "turn_index": 21,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U1B",
@@ -233,7 +239,7 @@
       "end_time": 368.163676126,
       "utterance": "three I have three",
       "turn_index": 22,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U1B",
@@ -241,7 +247,7 @@
       "end_time": 369.327184471,
       "utterance": "so I have two only",
       "turn_index": 23,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U6B",
@@ -249,7 +255,7 @@
       "end_time": 371.102239311,
       "utterance": "<%aa>",
       "turn_index": 24,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U1B",
@@ -257,7 +263,7 @@
       "end_time": 374.734056973,
       "utterance": "and <they are also like> if you connect them together it's actually like <%aa>",
       "turn_index": 25,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U6B",
@@ -265,7 +271,7 @@
       "end_time": 376.129368255,
       "utterance": "fourty five degrees yes",
       "turn_index": 26,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U6B",
@@ -282,7 +288,7 @@
       "end_time": 377.561081122,
       "utterance": "yeah to the left so",
       "turn_index": 27,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U1B",
@@ -299,7 +305,7 @@
       "end_time": 383.928886905,
       "utterance": "so for me the lowest one it's almost touching <the> the curve down",
       "turn_index": 28,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U6B",
@@ -316,7 +322,7 @@
       "end_time": 384.281281553,
       "utterance": "yeah this one I see",
       "turn_index": 29,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U6B",
@@ -324,7 +330,7 @@
       "end_time": 388.449630983,
       "utterance": "then so I have two more <%aa>",
       "turn_index": 30,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U6B",
@@ -332,7 +338,7 @@
       "end_time": 395.188674444,
       "utterance": "<the> the upper one for me it's almost (the=) <%mm>",
       "turn_index": 31,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U1B",
@@ -340,7 +346,7 @@
       "end_time": 396.206744246,
       "utterance": "almost <strai->",
       "turn_index": 32,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U1B",
@@ -357,7 +363,7 @@
       "end_time": 398.578447823,
       "utterance": "yeah at the same level as the ski guy",
       "turn_index": 33,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U6B",
@@ -374,7 +380,7 @@
       "end_time": 400.648405677,
       "utterance": "yeah this one I don't have (so=) let's click that one",
       "turn_index": 34,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U1B",
@@ -391,7 +397,7 @@
       "end_time": 400.994687923,
       "utterance": "okay so let's click there",
       "turn_index": 35,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U1B",
@@ -399,7 +405,7 @@
       "end_time": 401.354821458,
       "utterance": "yeah",
       "turn_index": 36,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U1B",
@@ -416,7 +422,7 @@
       "end_time": 401.472557421,
       "utterance": "yeah",
       "turn_index": 37,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U1B",
@@ -424,7 +430,7 @@
       "end_time": 404.962269746,
       "utterance": "<so you> I see also two man skiing",
       "turn_index": 38,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U1B",
@@ -441,7 +447,7 @@
       "end_time": 406.491869635,
       "utterance": "I see three man skiing",
       "turn_index": 39,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U1B",
@@ -449,7 +455,7 @@
       "end_time": 412.022792134,
       "utterance": "so also they are in the same position like both of them leaning fourty five degrees to the left",
       "turn_index": 40,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U6B",
@@ -457,7 +463,7 @@
       "end_time": 414.758579079,
       "utterance": "okay <so the> I have one on top of those",
       "turn_index": 41,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U1B",
@@ -465,7 +471,7 @@
       "end_time": 415.670907766,
       "utterance": "ah okay so I <d->",
       "turn_index": 42,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U1B",
@@ -482,7 +488,7 @@
       "end_time": 417.201475291,
       "utterance": "in between those and top I have third one",
       "turn_index": 43,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U6B",
@@ -499,7 +505,7 @@
       "end_time": 418.219545093,
       "utterance": "ah okay don't see it",
       "turn_index": 44,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U1B",
@@ -516,7 +522,7 @@
       "end_time": 418.316504121,
       "utterance": "let's click",
       "turn_index": 45,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U1B",
@@ -524,7 +530,7 @@
       "end_time": 419.112953286,
       "utterance": "yeah",
       "turn_index": 46,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U1B",
@@ -532,7 +538,7 @@
       "end_time": 424.529081918,
       "utterance": "and also I see <three> three trees inside them",
       "turn_index": 47,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U1B",
@@ -549,7 +555,7 @@
       "end_time": 424.909992389,
       "utterance": "yes me too yeah",
       "turn_index": 48,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U1B",
@@ -557,7 +563,7 @@
       "end_time": 428.256202355,
       "utterance": "okay and I see like (two=) skating boards or something",
       "turn_index": 49,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U6B",
@@ -565,7 +571,7 @@
       "end_time": 430.541939943,
       "utterance": "ah I see only one",
       "turn_index": 50,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U1B",
@@ -573,7 +579,7 @@
       "end_time": 430.957478638,
       "utterance": "only one",
       "turn_index": 51,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U1B",
@@ -581,7 +587,7 @@
       "end_time": 433.617043846,
       "utterance": "(so=) there is one almost at the curve",
       "turn_index": 52,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U1B",
@@ -589,7 +595,7 @@
       "end_time": 436.977144746,
       "utterance": "and one <%aa> the top curve",
       "turn_index": 53,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "",
@@ -606,7 +612,7 @@
       "end_time": 435.07951804,
       "utterance": "yes",
       "turn_index": 54,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U6B",
@@ -614,7 +620,7 @@
       "end_time": 440.534064332,
       "utterance": "okay so I'm missing the one on (the=)",
       "turn_index": 55,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U6B",
@@ -631,7 +637,7 @@
       "end_time": 440.554841266,
       "utterance": "top",
       "turn_index": 56,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U6B",
@@ -639,7 +645,7 @@
       "end_time": 441.503654619,
       "utterance": "lower",
       "turn_index": 57,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U6B",
@@ -656,7 +662,7 @@
       "end_time": 442.293178139,
       "utterance": "ah the lower okay",
       "turn_index": 58,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U1B",
@@ -673,7 +679,7 @@
       "end_time": 442.369360233,
       "utterance": "yeah",
       "turn_index": 59,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U6B",
@@ -681,7 +687,7 @@
       "end_time": 443.596398496,
       "utterance": "click",
       "turn_index": 60,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U6B",
@@ -698,7 +704,7 @@
       "end_time": 446.293531745,
       "utterance": "and I see also three <snow> snow men",
       "turn_index": 61,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U6B",
@@ -706,7 +712,7 @@
       "end_time": 447.159237359,
       "utterance": "I have two",
       "turn_index": 62,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U1B",
@@ -714,7 +720,7 @@
       "end_time": 448.01460119,
       "utterance": "two",
       "turn_index": 63,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U1B",
@@ -722,7 +728,7 @@
       "end_time": 450.875639523,
       "utterance": "do you see one with red scarf? <%aa> and <ano->",
       "turn_index": 64,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U1B",
@@ -739,7 +745,7 @@
       "end_time": 452.621870589,
       "utterance": "yes one red and one blue",
       "turn_index": 65,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U1B",
@@ -747,7 +753,7 @@
       "end_time": 456.060156746,
       "utterance": "actually I see one red which is down at the bottom",
       "turn_index": 66,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U1B",
@@ -755,7 +761,7 @@
       "end_time": 458.003046772,
       "utterance": "and I see",
       "turn_index": 67,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U1B",
@@ -763,7 +769,7 @@
       "end_time": 462.833943594,
       "utterance": "one <%aa> which is <with the> with the green scarf to the right",
       "turn_index": 68,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U6B",
@@ -771,7 +777,7 @@
       "end_time": 465.687134152,
       "utterance": "okay so I think",
       "turn_index": 69,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U6B",
@@ -788,7 +794,7 @@
           "turn_index": 71
         }
       ],
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U1B",
@@ -796,7 +802,7 @@
       "end_time": 466.875834923,
       "utterance": "let's click there",
       "turn_index": 71,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U1B",
@@ -804,7 +810,7 @@
       "end_time": 468.764487812,
       "utterance": "to the left",
       "turn_index": 72,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U6B",
@@ -812,7 +818,7 @@
       "end_time": 472.313431561,
       "utterance": "to the left <at least> is like fourty five degrees almost?",
       "turn_index": 73,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U1B",
@@ -820,7 +826,7 @@
       "end_time": 473.013076803,
       "utterance": "yeah",
       "turn_index": 74,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U6B",
@@ -828,7 +834,7 @@
       "end_time": 476.093332823,
       "utterance": "okay so we have to click the one on the left?",
       "turn_index": 75,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U1B",
@@ -836,7 +842,7 @@
       "end_time": 478.004666379,
       "utterance": "yeah <b-> because yeah",
       "turn_index": 76,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U1B",
@@ -853,7 +859,7 @@
       "end_time": 480.636687358,
       "utterance": "let's click that one and then let's click on (the=)",
       "turn_index": 77,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U6B",
@@ -870,7 +876,7 @@
       "end_time": 479.283755743,
       "utterance": "<b->",
       "turn_index": 78,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U1B",
@@ -878,7 +884,7 @@
       "end_time": 481.690478358,
       "utterance": "the one on the right",
       "turn_index": 79,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U6B",
@@ -886,7 +892,7 @@
       "end_time": 485.644630385,
       "utterance": "the one on the right <on the> on the top because it's blue for me",
       "turn_index": 80,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U6B",
@@ -903,7 +909,7 @@
       "end_time": 485.833883403,
       "utterance": "yeah okay",
       "turn_index": 81,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U1B",
@@ -911,7 +917,7 @@
       "end_time": 486.922261337,
       "utterance": "let's do that",
       "turn_index": 82,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U6B",
@@ -919,7 +925,7 @@
       "end_time": 487.961839818,
       "utterance": "okay",
       "turn_index": 83,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U1B",
@@ -927,7 +933,7 @@
       "end_time": 491.315410068,
       "utterance": "(so=) what about the clouds do you have three clouds?",
       "turn_index": 84,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U6B",
@@ -935,7 +941,7 @@
       "end_time": 491.909272987,
       "utterance": "four",
       "turn_index": 85,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U1B",
@@ -943,7 +949,7 @@
       "end_time": 494.573525994,
       "utterance": "ah so I think <the> the second one",
       "turn_index": 86,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U1B",
@@ -951,7 +957,7 @@
       "end_time": 496.909821874,
       "utterance": "<is> is missing from the right",
       "turn_index": 87,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U1B",
@@ -959,7 +965,7 @@
       "end_time": 498.074077144,
       "utterance": "to me",
       "turn_index": 88,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U6B",
@@ -967,7 +973,7 @@
       "end_time": 500.084174237,
       "utterance": "ah okay so I click ther",
       "turn_index": 89,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U1B",
@@ -975,7 +981,7 @@
       "end_time": 500.521413968,
       "utterance": "yeah",
       "turn_index": 90,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U6B",
@@ -983,7 +989,7 @@
       "end_time": 502.199955044,
       "utterance": "and then the sun?",
       "turn_index": 91,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U1B",
@@ -991,7 +997,7 @@
       "end_time": 503.583459866,
       "utterance": "no sun to me",
       "turn_index": 92,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U6B",
@@ -999,7 +1005,7 @@
       "end_time": 505.136639808,
       "utterance": "I have the sun on the left",
       "turn_index": 93,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U1B",
@@ -1007,7 +1013,7 @@
       "end_time": 508.316982143,
       "utterance": "<%aa> is it top most left?",
       "turn_index": 94,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U6B",
@@ -1015,7 +1021,7 @@
       "end_time": 509.492242914,
       "utterance": "top left yes",
       "turn_index": 95,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U1B",
@@ -1023,7 +1029,7 @@
       "end_time": 510.751511787,
       "utterance": "okay so I don't have it",
       "turn_index": 96,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U1B",
@@ -1031,7 +1037,7 @@
       "end_time": 511.684724889,
       "utterance": "we click there",
       "turn_index": 97,
-      "topic": ""
+      "topic": "finding difference"
     }
   ]
 }

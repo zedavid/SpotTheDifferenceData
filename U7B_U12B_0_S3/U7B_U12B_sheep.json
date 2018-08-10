@@ -1,5 +1,11 @@
 {
   "success": 0.75,
+  "instruction_giver": {
+    "id": "U7B"
+  },
+  "instruction_follower": {
+    "id": "U12B"
+  },
   "dialogue_duration": 171.64999999999418,
   "audio": {
     "ig": "U7B_0_sheep.wav",
@@ -12,7 +18,7 @@
       "end_time": 524.65,
       "utterance": "SO IN THE CENTER OF THE IMAGE ON THE TOP THERE'S A SUN",
       "turn_index": 0,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U12B",
@@ -20,7 +26,7 @@
       "end_time": 525.555104867,
       "utterance": "YES",
       "turn_index": 1,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7B",
@@ -28,7 +34,7 @@
       "end_time": 526.51,
       "utterance": "NEXT",
       "turn_index": 2,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7B",
@@ -36,7 +42,7 @@
       "end_time": 530.33,
       "utterance": "<ON THE> <ON THE LEFT> ON THE RIGHT OF THE IMAGE THERE'S ONE CLOUD",
       "turn_index": 3,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U12B",
@@ -44,7 +50,7 @@
       "end_time": 532.6,
       "utterance": "ON THE RIGHT YES",
       "turn_index": 4,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7B",
@@ -52,7 +58,7 @@
       "end_time": 535.79,
       "utterance": "YES AND THIS CLOUD HAS BLUE <%aa>",
       "turn_index": 5,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7B",
@@ -60,7 +66,7 @@
       "end_time": 536.64,
       "utterance": "<%eh>",
       "turn_index": 6,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7B",
@@ -68,7 +74,7 @@
       "end_time": 541.07,
       "utterance": "IT'S LIKE <THE> THE THICKER LINE IS BLUE AND THE CLOUD IS WHITE",
       "turn_index": 7,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U12B",
@@ -76,7 +82,7 @@
       "end_time": 543.45,
       "utterance": "YES <%aa> THE SAME HERE AND THE SUN",
       "turn_index": 8,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U12B",
@@ -93,7 +99,7 @@
       "end_time": 542.09,
       "utterance": "YES",
       "turn_index": 9,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U12B",
@@ -101,7 +107,7 @@
       "end_time": 544.1,
       "utterance": "HERE",
       "turn_index": 10,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U12B",
@@ -109,7 +115,7 @@
       "end_time": 545.57,
       "utterance": "IS YELLOW",
       "turn_index": 11,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U12B",
@@ -117,7 +123,7 @@
       "end_time": 549.26,
       "utterance": "<IT'S> THE ONE BEFORE WAS ORANGE THIS ONE IS MUCH YELLOW",
       "turn_index": 12,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U12B",
@@ -125,7 +131,7 @@
       "end_time": 550.96,
       "utterance": "MUCH MORE YELLOW",
       "turn_index": 13,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U12B",
@@ -142,7 +148,7 @@
       "end_time": 550.86,
       "utterance": "OKAY",
       "turn_index": 14,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7B",
@@ -150,7 +156,7 @@
       "end_time": 552.08,
       "utterance": "HERE IS ORANGE",
       "turn_index": 15,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U12B",
@@ -158,7 +164,7 @@
       "end_time": 553.5,
       "utterance": "SO HERE IS YELLOW THE SUN",
       "turn_index": 16,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7B",
@@ -166,7 +172,7 @@
       "end_time": 554.78,
       "utterance": "HERE IS ORANGE",
       "turn_index": 17,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U12B",
@@ -174,7 +180,7 @@
       "end_time": 555.988059264,
       "utterance": "SO DIFFERENCE THERE",
       "turn_index": 18,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7B",
@@ -182,7 +188,7 @@
       "end_time": 557.174469529,
       "utterance": "YES",
       "turn_index": 19,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7B",
@@ -190,7 +196,7 @@
       "end_time": 559.52,
       "utterance": "BELOW THE CLOUD",
       "turn_index": 20,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U12B",
@@ -198,7 +204,7 @@
       "end_time": 560.56,
       "utterance": "YES",
       "turn_index": 21,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7B",
@@ -206,7 +212,7 @@
       "end_time": 561.9,
       "utterance": "THERE IS A TREE",
       "turn_index": 22,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U12B",
@@ -214,7 +220,7 @@
       "end_time": 562.59,
       "utterance": "YES",
       "turn_index": 23,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7B",
@@ -222,7 +228,7 @@
       "end_time": 564.23,
       "utterance": "<%aa> GREEN WITH",
       "turn_index": 24,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U7B",
@@ -239,7 +245,7 @@
       "end_time": 564.64,
       "utterance": "HOW MANY ORANGES",
       "turn_index": 25,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7B",
@@ -247,7 +253,7 @@
       "end_time": 566.98,
       "utterance": "<IT DOESN'T> THIS ONE DOESN'T HAVE FRUIT",
       "turn_index": 26,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U12B",
@@ -255,7 +261,7 @@
       "end_time": 568.5,
       "utterance": "THIS ONE HAS FOUR",
       "turn_index": 27,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7B",
@@ -263,7 +269,7 @@
       "end_time": 569.655458123,
       "utterance": "FOUR OKAY",
       "turn_index": 28,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7B",
@@ -271,7 +277,7 @@
       "end_time": 570.68,
       "utterance": "THE ONE",
       "turn_index": 29,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7B",
@@ -279,7 +285,7 @@
       "end_time": 572.19,
       "utterance": "UNDERNEATH THE CLOUD",
       "turn_index": 30,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12B",
@@ -287,7 +293,7 @@
       "end_time": 572.63,
       "utterance": "YES",
       "turn_index": 31,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7B",
@@ -295,7 +301,7 @@
       "end_time": 573.162587443,
       "utterance": "OKAY",
       "turn_index": 32,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12B",
@@ -303,7 +309,7 @@
       "end_time": 575.06,
       "utterance": "BELOW THE TREE",
       "turn_index": 33,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U12B",
@@ -320,7 +326,7 @@
       "end_time": 574.68,
       "utterance": "<%aa>",
       "turn_index": 34,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U12B",
@@ -328,7 +334,7 @@
       "end_time": 576.26,
       "utterance": "WHAT DO YOU HAVE",
       "turn_index": 35,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7B",
@@ -336,7 +342,7 @@
       "end_time": 577.16,
       "utterance": "SO",
       "turn_index": 36,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7B",
@@ -344,7 +350,7 @@
       "end_time": 577.99,
       "utterance": "SORRY?",
       "turn_index": 37,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U12B",
@@ -352,7 +358,7 @@
       "end_time": 579.99,
       "utterance": "BELOW THAT TREE WHAT DO YOU HAVE",
       "turn_index": 38,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7B",
@@ -360,7 +366,7 @@
       "end_time": 582.54,
       "utterance": "THERE ARE TWO BLACK SHEEP",
       "turn_index": 39,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7B",
@@ -368,7 +374,7 @@
       "end_time": 584.28,
       "utterance": "IN FRONT OF THE TREE",
       "turn_index": 40,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U12B",
@@ -376,7 +382,7 @@
       "end_time": 586.04,
       "utterance": "<TOWARDS> THEY ARE",
       "turn_index": 41,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U12B",
@@ -393,7 +399,7 @@
       "end_time": 586.75,
       "utterance": "<TOWARDS ME> TOWARDS ME",
       "turn_index": 42,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U12B",
@@ -401,7 +407,7 @@
       "end_time": 591.04,
       "utterance": "TOWARDS LOOKING AT YOU BUT THEIR HEAD IS SLIGHTLY TO THE LEFT",
       "turn_index": 43,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U12B",
@@ -418,7 +424,7 @@
       "end_time": 590.05,
       "utterance": "LOOKING AT ME",
       "turn_index": 44,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7B",
@@ -426,7 +432,7 @@
       "end_time": 591.92,
       "utterance": "YES",
       "turn_index": 45,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U12B",
@@ -434,7 +440,7 @@
       "end_time": 592.64,
       "utterance": "CORRECT",
       "turn_index": 46,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7B",
@@ -442,7 +448,7 @@
       "end_time": 594.46,
       "utterance": "TRUE <%aa> SO",
       "turn_index": 47,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7B",
@@ -450,7 +456,7 @@
       "end_time": 595.36,
       "utterance": "TWO",
       "turn_index": 48,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U12B",
@@ -458,7 +464,7 @@
       "end_time": 597.11,
       "utterance": "YES TWO AND THEY ARE BLACK",
       "turn_index": 49,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U12B",
@@ -475,7 +481,7 @@
       "end_time": 597.38,
       "utterance": "YES",
       "turn_index": 50,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7B",
@@ -483,7 +489,7 @@
       "end_time": 600.02,
       "utterance": "BEHIND THE TREE I HAVE <A ROCK> ONE ROCK",
       "turn_index": 51,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7B",
@@ -491,7 +497,7 @@
       "end_time": 601.24,
       "utterance": "GRAY ROCK",
       "turn_index": 52,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U7B",
@@ -508,7 +514,7 @@
       "end_time": 601.38,
       "utterance": "BEHIND",
       "turn_index": 53,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U12B",
@@ -516,7 +522,7 @@
       "end_time": 602.31,
       "utterance": "THE TREE",
       "turn_index": 54,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U12B",
@@ -524,7 +530,7 @@
       "end_time": 603.65,
       "utterance": "ON THE RIGHT",
       "turn_index": 55,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7B",
@@ -532,7 +538,7 @@
       "end_time": 607.38,
       "utterance": "<ON THE> NOON MY <LEFT> LEFT TO THE TREE",
       "turn_index": 56,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12B",
@@ -540,7 +546,7 @@
       "end_time": 610.01,
       "utterance": "BUT WE ARE TALKING ABOUT THE TREE BELOW THE",
       "turn_index": 57,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7B",
@@ -548,7 +554,7 @@
       "end_time": 610.65,
       "utterance": "THE CLOUD",
       "turn_index": 58,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12B",
@@ -556,7 +562,7 @@
       "end_time": 613.52,
       "utterance": "THE CLOUD OKAY THERE IS THAT ROCK ON THE BACK LEFT YOU SAID",
       "turn_index": 59,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7B",
@@ -564,7 +570,7 @@
       "end_time": 614.11,
       "utterance": "YES",
       "turn_index": 60,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12B",
@@ -572,7 +578,7 @@
       "end_time": 615.5,
       "utterance": "HERE THERE IS NO ROCK",
       "turn_index": 61,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7B",
@@ -580,7 +586,7 @@
       "end_time": 616.290274518,
       "utterance": "OKAY",
       "turn_index": 62,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7B",
@@ -588,7 +594,7 @@
       "end_time": 618.6,
       "utterance": "<%ahm>",
       "turn_index": 63,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7B",
@@ -596,7 +602,7 @@
       "end_time": 623.17,
       "utterance": "THEN BELOW THE SUN I HAVE THE SAME FLOWERS",
       "turn_index": 64,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7B",
@@ -604,7 +610,7 @@
       "end_time": 624.03,
       "utterance": "AS BEFORE",
       "turn_index": 65,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U12B",
@@ -612,7 +618,7 @@
       "end_time": 625.25,
       "utterance": "WITH THE SAME COLORS",
       "turn_index": 66,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U12B",
@@ -629,7 +635,7 @@
       "end_time": 626.17,
       "utterance": "WITH THE SAME COLORS",
       "turn_index": 67,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U12B",
@@ -637,7 +643,7 @@
       "end_time": 626.96,
       "utterance": "CORRECT HERE",
       "turn_index": 68,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7B",
@@ -645,7 +651,7 @@
       "end_time": 631.19,
       "utterance": "<%aa> TO THE LEFT OF THE FLOWERS I HAVE AGAIN TO SHEEP'",
       "turn_index": 69,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7B",
@@ -653,7 +659,7 @@
       "end_time": 632.26,
       "utterance": "THE ONE",
       "turn_index": 70,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7B",
@@ -661,7 +667,7 @@
       "end_time": 637.62,
       "utterance": "MORE CLOSER TO ME IS WHITE AND THE ONE THAT IS BEHIND IT IS BLACK",
       "turn_index": 71,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U12B",
@@ -669,7 +675,7 @@
       "end_time": 640.1,
       "utterance": "BEHIND SLIGHTLY TO THE RIGHT",
       "turn_index": 72,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7B",
@@ -677,7 +683,7 @@
       "end_time": 640.71,
       "utterance": "YES",
       "turn_index": 73,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U12B",
@@ -685,7 +691,7 @@
       "end_time": 643.65,
       "utterance": "MINE IS WHITE <%aa> THE ONE ON THE BACK BOTH ARE WHITE",
       "turn_index": 74,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7B",
@@ -693,7 +699,7 @@
       "end_time": 644.385217829,
       "utterance": "OKAY",
       "turn_index": 75,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7B",
@@ -701,7 +707,7 @@
       "end_time": 645.92,
       "utterance": "SO THE ONE IN THE BACK IS",
       "turn_index": 76,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7B",
@@ -709,7 +715,7 @@
       "end_time": 646.6204786,
       "utterance": "DIFFERENT",
       "turn_index": 77,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12B",
@@ -717,7 +723,7 @@
       "end_time": 647.09,
       "utterance": "YES",
       "turn_index": 78,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7B",
@@ -725,7 +731,7 @@
       "end_time": 649.96,
       "utterance": "THEN BEHIND THS I HAVE ANOTHER TREE",
       "turn_index": 79,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12B",
@@ -733,7 +739,7 @@
       "end_time": 650.58,
       "utterance": "YES",
       "turn_index": 80,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U12B",
@@ -750,7 +756,7 @@
       "end_time": 651.42,
       "utterance": "WITH TWO ROCKS",
       "turn_index": 81,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U12B",
@@ -758,7 +764,7 @@
       "end_time": 652.09,
       "utterance": "YES",
       "turn_index": 82,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7B",
@@ -766,7 +772,7 @@
       "end_time": 653.52,
       "utterance": "ONE NEXT TO EACH OTHER",
       "turn_index": 83,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7B",
@@ -774,7 +780,7 @@
       "end_time": 655.63,
       "utterance": "THE ROCK ON THE RIGHT",
       "turn_index": 84,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U7B",
@@ -791,7 +797,7 @@
       "end_time": 656.35,
       "utterance": "<NO> <NO> <NO> NO",
       "turn_index": 85,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U12B",
@@ -808,7 +814,7 @@
       "end_time": 656.41,
       "utterance": "NO",
       "turn_index": 86,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U12B",
@@ -816,7 +822,7 @@
       "end_time": 661.46,
       "utterance": "<%aa> I HAVE ONE ROCK ON THE LEFT OF THE TREE AND ONE ON THE RIGHT OF THE TREE",
       "turn_index": 87,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U7B",
@@ -824,7 +830,7 @@
       "end_time": 663.05,
       "utterance": "YES TWO ROCKS",
       "turn_index": 88,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U12B",
@@ -832,7 +838,7 @@
       "end_time": 663.71,
       "utterance": "OKAY",
       "turn_index": 89,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U12B",
@@ -840,7 +846,7 @@
       "end_time": 664.61,
       "utterance": "THEN IT'S FUN",
       "turn_index": 90,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U12B",
@@ -857,7 +863,7 @@
       "end_time": 669.31,
       "utterance": "<ONE> ONE IS GREY THE ONE TO THE LEFT AND THE ONE TO THE RIGHT IS LIKE BROWNISH",
       "turn_index": 91,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U12B",
@@ -865,7 +871,7 @@
       "end_time": 672.81,
       "utterance": "NO MINE ARE BOTH THE SAME COLOR SO THE ONE ON THE RIGHT IS DIFFERENT",
       "turn_index": 92,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7B",
@@ -873,7 +879,7 @@
       "end_time": 675.82,
       "utterance": "AND THEN THIS TREE HAS FOUR APPLES",
       "turn_index": 93,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U12B",
@@ -881,7 +887,7 @@
       "end_time": 677.12,
       "utterance": "I HAVE FIVE APPLES",
       "turn_index": 94,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U7B",
@@ -889,7 +895,7 @@
       "end_time": 680.05,
       "utterance": "OKAY YEAH I HAVE TWO ON THE TOP",
       "turn_index": 95,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12B",
@@ -897,7 +903,7 @@
       "end_time": 680.68,
       "utterance": "YES",
       "turn_index": 96,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7B",
@@ -905,7 +911,7 @@
       "end_time": 682.25,
       "utterance": "AND I HAVE TWO",
       "turn_index": 97,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7B",
@@ -913,7 +919,7 @@
       "end_time": 684.26,
       "utterance": "ONE ON EACH SIDE OF THE TREE",
       "turn_index": 98,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12B",
@@ -921,7 +927,7 @@
       "end_time": 685.15,
       "utterance": "SO",
       "turn_index": 99,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U12B",
@@ -929,7 +935,7 @@
       "end_time": 688.01,
       "utterance": "ON THE BOTTOM DERES ONE MEETING IN THE MIDDLE",
       "turn_index": 100,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7B",
@@ -937,7 +943,7 @@
       "end_time": 688.560864087,
       "utterance": "OKAY",
       "turn_index": 101,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7B",
@@ -945,7 +951,7 @@
       "end_time": 691.38,
       "utterance": "<%aa> I THINK",
       "turn_index": 102,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U7B",
@@ -953,7 +959,7 @@
       "end_time": 692.6,
       "utterance": "I THINK THAT'S ALL",
       "turn_index": 103,
-      "topic": ""
+      "topic": "end of differences"
     }
   ]
 }

@@ -1,5 +1,11 @@
 {
   "success": 1.0,
+  "instruction_giver": {
+    "id": "U9A"
+  },
+  "instruction_follower": {
+    "id": "U10A"
+  },
   "dialogue_duration": 200.10899999999674,
   "audio": {
     "ig": "U9A_0_sheep.wav",
@@ -12,7 +18,7 @@
       "end_time": 699.64,
       "utterance": "YEAH",
       "turn_index": 0,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U10A",
@@ -20,7 +26,7 @@
       "end_time": 700.78,
       "utterance": "I CAN SEE A PICTURE",
       "turn_index": 1,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U10A",
@@ -37,7 +43,7 @@
       "end_time": 700.8,
       "utterance": "<%aa> IS",
       "turn_index": 2,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U9A",
@@ -45,7 +51,7 @@
       "end_time": 702.3,
       "utterance": "I CAN SEE THE <%aa>",
       "turn_index": 3,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U9A",
@@ -53,7 +59,7 @@
       "end_time": 704.46,
       "utterance": "TWO TREES IN THE PICTURE",
       "turn_index": 4,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U10A",
@@ -61,7 +67,7 @@
       "end_time": 705.05,
       "utterance": "YES",
       "turn_index": 5,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U9A",
@@ -69,7 +75,7 @@
       "end_time": 706.68,
       "utterance": "THE APPLE TREE ON THE LEFT",
       "turn_index": 6,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U10A",
@@ -77,7 +83,7 @@
       "end_time": 707.17,
       "utterance": "YEAH",
       "turn_index": 7,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U10A",
@@ -94,7 +100,7 @@
       "end_time": 708.27,
       "utterance": "HAS FOUR APPLES",
       "turn_index": 8,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U10A",
@@ -102,7 +108,7 @@
       "end_time": 709.15,
       "utterance": "I HAVE FIVE",
       "turn_index": 9,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U9A",
@@ -110,7 +116,7 @@
       "end_time": 711.36,
       "utterance": "<%aa> DO HAVE ONE IN THE MIDDLE",
       "turn_index": 10,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U10A",
@@ -118,7 +124,7 @@
       "end_time": 712.33,
       "utterance": "NO I DON'T",
       "turn_index": 11,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U10A",
@@ -126,7 +132,7 @@
       "end_time": 715.09,
       "utterance": "SO <YES I HAVE I MEAN> I HAVE ONE",
       "turn_index": 12,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U10A",
@@ -143,7 +149,7 @@
       "end_time": 715.06,
       "utterance": "YEAH",
       "turn_index": 13,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U9A",
@@ -151,7 +157,7 @@
       "end_time": 717.44,
       "utterance": "<I DON'T> AT THE BOTTOM RIGHT?",
       "turn_index": 14,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U10A",
@@ -159,7 +165,7 @@
       "end_time": 719.93,
       "utterance": "YEAH <THE ONE> <THE SAME> I HAVE THE ONE",
       "turn_index": 15,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U9A",
@@ -167,7 +173,7 @@
       "end_time": 720.23,
       "utterance": "YEAH",
       "turn_index": 16,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U10A",
@@ -175,7 +181,7 @@
       "end_time": 722.12,
       "utterance": "THAT PROBABLY WAS MISSING",
       "turn_index": 17,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U10A",
@@ -192,7 +198,7 @@
       "end_time": 720.83,
       "utterance": "<%aa>",
       "turn_index": 18,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U9A",
@@ -200,7 +206,7 @@
       "end_time": 724.13,
       "utterance": "YEAH I'M PRESSING ON THAT ONE",
       "turn_index": 19,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U10A",
@@ -208,7 +214,7 @@
       "end_time": 724.5,
       "utterance": "YEAH",
       "turn_index": 20,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U9A",
@@ -216,7 +222,7 @@
       "end_time": 730.28,
       "utterance": "OKAY THEN I HAVE <%ahm> <%aa> A TREE THE RIGHT",
       "turn_index": 21,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U10A",
@@ -224,7 +230,7 @@
       "end_time": 730.88,
       "utterance": "YES",
       "turn_index": 22,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U9A",
@@ -232,7 +238,7 @@
       "end_time": 735.05,
       "utterance": "AND THERE IS A ROCK UNDERNEATH <%aa> A GRAYISH LIKE GRAY",
       "turn_index": 23,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U9A",
@@ -249,7 +255,7 @@
       "end_time": 734.97,
       "utterance": "NO",
       "turn_index": 24,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U10A",
@@ -257,7 +263,7 @@
       "end_time": 736.87,
       "utterance": "I HAVE NO ROCK ON THE RIGHT TREE",
       "turn_index": 25,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U9A",
@@ -265,7 +271,7 @@
       "end_time": 737.51,
       "utterance": "YEAH",
       "turn_index": 26,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U9A",
@@ -273,7 +279,7 @@
       "end_time": 739.33,
       "utterance": "<I-> IT'S TO THE LEFT",
       "turn_index": 27,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U10A",
@@ -281,7 +287,7 @@
       "end_time": 740.11,
       "utterance": "OKAY",
       "turn_index": 28,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U9A",
@@ -289,7 +295,7 @@
       "end_time": 741.96,
       "utterance": "IT'S <%aa> CLOSE TO THE HORIZON",
       "turn_index": 29,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U10A",
@@ -297,7 +303,7 @@
       "end_time": 742.71,
       "utterance": "OKAY",
       "turn_index": 30,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U9A",
@@ -305,7 +311,7 @@
       "end_time": 743.63,
       "utterance": "SO IF YOU",
       "turn_index": 31,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U9A",
@@ -322,7 +328,7 @@
       "end_time": 743.71,
       "utterance": "I CLICK THERE",
       "turn_index": 32,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U9A",
@@ -330,7 +336,7 @@
       "end_time": 744.9,
       "utterance": "PRESS THERE",
       "turn_index": 33,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U9A",
@@ -338,7 +344,7 @@
       "end_time": 747.69,
       "utterance": "<%aa> THEN I <HA-> HAVE TWO GROUPS OF SHEEP",
       "turn_index": 34,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U10A",
@@ -346,7 +352,7 @@
       "end_time": 749.22,
       "utterance": "YES",
       "turn_index": 35,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U10A",
@@ -363,7 +369,7 @@
       "end_time": 749.19,
       "utterance": "<%aa>",
       "turn_index": 36,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U9A",
@@ -371,7 +377,7 @@
       "end_time": 753.29,
       "utterance": "THE ONE TO THE LEFT HAS <%aa> A WHITE AND A BLACK ONE",
       "turn_index": 37,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U10A",
@@ -379,7 +385,7 @@
       "end_time": 754.5,
       "utterance": "I HAVE TWO WHITE",
       "turn_index": 38,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U9A",
@@ -387,7 +393,7 @@
       "end_time": 756.11,
       "utterance": "WHICH ONE IS <%aa>",
       "turn_index": 39,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U9A",
@@ -395,7 +401,7 @@
       "end_time": 756.57,
       "utterance": "<%aa>",
       "turn_index": 40,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U9A",
@@ -403,7 +409,7 @@
       "end_time": 759.0,
       "utterance": "<%fp_1> THE ONE TO THE RIGHT IS BLACK ONE",
       "turn_index": 41,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U10A",
@@ -411,7 +417,7 @@
       "end_time": 762.11,
       "utterance": "<THE> THE ONE TO THE RIGHT IS THE BLACK ONE OKAY",
       "turn_index": 42,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U10A",
@@ -428,7 +434,7 @@
       "end_time": 763.19,
       "utterance": "YEAH SO IF YOU",
       "turn_index": 43,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U9A",
@@ -436,7 +442,7 @@
       "end_time": 766.4,
       "utterance": "LIKE <%fp_1> THE BODY IS BLACK SO IF YOU PRESS",
       "turn_index": 44,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U9A",
@@ -453,7 +459,7 @@
       "end_time": 765.96,
       "utterance": "YEAH",
       "turn_index": 45,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U9A",
@@ -461,7 +467,7 @@
       "end_time": 767.83,
       "utterance": "<AT THE> ON THE BODY",
       "turn_index": 46,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U10A",
@@ -469,7 +475,7 @@
       "end_time": 769.05,
       "utterance": "I GOT IT",
       "turn_index": 47,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U9A",
@@ -477,7 +483,7 @@
       "end_time": 769.83,
       "utterance": "YEAH",
       "turn_index": 48,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U9A",
@@ -494,7 +500,7 @@
       "end_time": 772.34,
       "utterance": "AND ON THE RIGHT SIDE I HAVE TWO BLACK ONES",
       "turn_index": 49,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U9A",
@@ -502,7 +508,7 @@
       "end_time": 773.11,
       "utterance": "YEAH ME TWO",
       "turn_index": 50,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U10A",
@@ -510,7 +516,7 @@
       "end_time": 773.48,
       "utterance": "YEAH",
       "turn_index": 51,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U9A",
@@ -518,7 +524,7 @@
       "end_time": 776.77,
       "utterance": "<%aa> IN THE MIDDLE OF THE PICTURE THERE ARE THREE FLOWERS",
       "turn_index": 52,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U10A",
@@ -526,7 +532,7 @@
       "end_time": 777.48,
       "utterance": "YES",
       "turn_index": 53,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U9A",
@@ -534,7 +540,7 @@
       "end_time": 781.27,
       "utterance": "<%aa> <+ RED> A RED A BLUE AND A YELLOW ONE",
       "turn_index": 54,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U10A",
@@ -542,7 +548,7 @@
       "end_time": 783.47,
       "utterance": "YEAH I HAVE THE YELLOW ONE IN THE MIDDLE",
       "turn_index": 55,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U9A",
@@ -550,7 +556,7 @@
       "end_time": 786.96,
       "utterance": "<%aa> OKAY I HAVE YELLOW ONE TO THE RIGHT",
       "turn_index": 56,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U10A",
@@ -558,7 +564,7 @@
       "end_time": 791.68,
       "utterance": "YES (SO=) WHICH ONE IS THE WRONG THEN IS THE BLUE ONE OR THE YELLOW ONE",
       "turn_index": 57,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U9A",
@@ -566,7 +572,7 @@
       "end_time": 795.19,
       "utterance": "<%aa> I THINK BOTH BECAUSE WE HAVE DIFFERENCE IN PLACEMENT",
       "turn_index": 58,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U9A",
@@ -583,7 +589,7 @@
       "end_time": 795.01,
       "utterance": "YEAH",
       "turn_index": 59,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U9A",
@@ -591,7 +597,7 @@
       "end_time": 796.08,
       "utterance": "SO WE",
       "turn_index": 60,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U9A",
@@ -599,7 +605,7 @@
       "end_time": 798.02,
       "utterance": "PRESS <ON> IN THE MIDDLE",
       "turn_index": 61,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U10A",
@@ -607,7 +613,7 @@
       "end_time": 798.54,
       "utterance": "YEAH",
       "turn_index": 62,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U9A",
@@ -615,7 +621,7 @@
       "end_time": 800.13,
       "utterance": "AND THEN TO THE RIGHT",
       "turn_index": 63,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U10A",
@@ -623,7 +629,7 @@
       "end_time": 800.53,
       "utterance": "<RI->",
       "turn_index": 64,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U10A",
@@ -631,7 +637,7 @@
       "end_time": 803.13,
       "utterance": "I HAVE FOUR ORANGES IN THE RIGHT TREE",
       "turn_index": 65,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U9A",
@@ -639,7 +645,7 @@
       "end_time": 804.62,
       "utterance": "I DON'T HAVE ANY",
       "turn_index": 66,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U10A",
@@ -647,7 +653,7 @@
       "end_time": 806.44,
       "utterance": "THEN UP <I> WE CLICK",
       "turn_index": 67,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U10A",
@@ -655,7 +661,7 @@
       "end_time": 813.04,
       "utterance": "FOUR ORANGES <+ THERE IS> THEY ARE SIMILAR TO THE ONE WITH THE APPLES THERE IS ONE",
       "turn_index": 68,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U10A",
@@ -663,7 +669,7 @@
       "end_time": 814.02,
       "utterance": "AT THE TOP",
       "turn_index": 69,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U9A",
@@ -671,7 +677,7 @@
       "end_time": 814.6,
       "utterance": "OKAY",
       "turn_index": 70,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U9A",
@@ -679,7 +685,7 @@
       "end_time": 815.45,
       "utterance": "<%aa>",
       "turn_index": 71,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U9A",
@@ -696,7 +702,7 @@
       "end_time": 821.01,
       "utterance": "AND THEN YOU CAN CLICK IN THE MIDDLE OF THE TREE <OR> AND ONE TO THE LEFT AND ONE TO THE RIGHT",
       "turn_index": 72,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U10A",
@@ -713,7 +719,7 @@
       "end_time": 818.14,
       "utterance": "YEAH",
       "turn_index": 73,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U9A",
@@ -721,7 +727,7 @@
       "end_time": 822.53,
       "utterance": "<%aa> IN THE SAME ROW",
       "turn_index": 74,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U10A",
@@ -729,7 +735,7 @@
       "end_time": 827.11,
       "utterance": "YEAH <AL-> ALMOST THE ONE TO THE RIGHT IS A LITTLE BIT ABOVE",
       "turn_index": 75,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U9A",
@@ -737,7 +743,7 @@
       "end_time": 827.99,
       "utterance": "YEAH",
       "turn_index": 76,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U9A",
@@ -745,7 +751,7 @@
       "end_time": 829.4,
       "utterance": "AND THE ONE TO THE LEFT",
       "turn_index": 77,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U10A",
@@ -753,7 +759,7 @@
       "end_time": 832.57,
       "utterance": "YES AT THE SAME LEVEL AS THE ONE IN THE MIDDLE",
       "turn_index": 78,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U9A",
@@ -761,7 +767,7 @@
       "end_time": 833.31,
       "utterance": "I'M",
       "turn_index": 79,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U9A",
@@ -769,7 +775,7 @@
       "end_time": 834.42,
       "utterance": "<%aa>",
       "turn_index": 80,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U9A",
@@ -777,7 +783,7 @@
       "end_time": 838.63,
       "utterance": "THEN DO HAVE A CLOUD <%aa> <%fp_1> OVER THE TREE",
       "turn_index": 81,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U9A",
@@ -794,7 +800,7 @@
       "end_time": 838.28,
       "utterance": "JUST",
       "turn_index": 82,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U10A",
@@ -802,7 +808,7 @@
       "end_time": 842.34,
       "utterance": "YEAH ABOVE THE TREE ALMOST AT THE END OF THE PICTURE",
       "turn_index": 83,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U10A",
@@ -819,7 +825,7 @@
       "end_time": 840.99,
       "utterance": "ABOVE THE",
       "turn_index": 84,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U9A",
@@ -827,7 +833,7 @@
       "end_time": 842.74,
       "utterance": "YEAH",
       "turn_index": 85,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U9A",
@@ -835,7 +841,7 @@
       "end_time": 844.19,
       "utterance": "<%aa> A WHITE ONE",
       "turn_index": 86,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U10A",
@@ -843,7 +849,7 @@
       "end_time": 844.77,
       "utterance": "YES",
       "turn_index": 87,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U9A",
@@ -851,7 +857,7 @@
       "end_time": 847.36,
       "utterance": "<%aa> THEN sun IN THE MIDDLE",
       "turn_index": 88,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U10A",
@@ -859,7 +865,7 @@
       "end_time": 851.64,
       "utterance": "SUN IN THE MIDDLE WITH ONE TWO THREE FOUR FIVE SIX SEVEN EIGHT",
       "turn_index": 89,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U10A",
@@ -867,7 +873,7 @@
       "end_time": 853.46,
       "utterance": "GOING OUT DO YOU KNOW",
       "turn_index": 90,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U10A",
@@ -884,7 +890,7 @@
       "end_time": 854.98,
       "utterance": "<%aa> ME TO IS IT ORANGE",
       "turn_index": 91,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U9A",
@@ -901,7 +907,7 @@
       "end_time": 854.51,
       "utterance": "YES",
       "turn_index": 92,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U10A",
@@ -909,7 +915,7 @@
       "end_time": 856.29,
       "utterance": "NO IT'S YELLOW",
       "turn_index": 93,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U9A",
@@ -917,7 +923,7 @@
       "end_time": 856.83,
       "utterance": "<%aa>",
       "turn_index": 94,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U9A",
@@ -925,7 +931,7 @@
       "end_time": 858.15,
       "utterance": "MINE IS ORANGE",
       "turn_index": 95,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U10A",
@@ -933,7 +939,7 @@
       "end_time": 859.94,
       "utterance": "OKAY AND SO WE CLICK ON THE SUN",
       "turn_index": 96,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U9A",
@@ -941,7 +947,7 @@
       "end_time": 860.8,
       "utterance": "YEAH",
       "turn_index": 97,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U9A",
@@ -949,7 +955,7 @@
       "end_time": 862.16,
       "utterance": "<%aa> THEN",
       "turn_index": 98,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U9A",
@@ -957,7 +963,7 @@
       "end_time": 864.51,
       "utterance": "UNDER (THE=) TREE TO THE LEFT",
       "turn_index": 99,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U9A",
@@ -965,7 +971,7 @@
       "end_time": 866.32,
       "utterance": "<%aa> THERE ARE TWO ROCKS",
       "turn_index": 100,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U9A",
@@ -982,7 +988,7 @@
       "end_time": 864.95,
       "utterance": "YEAH",
       "turn_index": 101,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U10A",
@@ -990,7 +996,7 @@
       "end_time": 866.94,
       "utterance": "YES",
       "turn_index": 102,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U9A",
@@ -998,7 +1004,7 @@
       "end_time": 869.88,
       "utterance": "AND ONE IS GREY AND THE OTHER ONE IS BEIGE",
       "turn_index": 103,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U10A",
@@ -1006,7 +1012,7 @@
       "end_time": 871.96,
       "utterance": "BOTH OF MINE ARE GRAY",
       "turn_index": 104,
-      "topic": ""
+      "topic": "describing object"
     },
     {
       "speaker": "U9A",
@@ -1014,7 +1020,7 @@
       "end_time": 876.13,
       "utterance": "<%aa> THEN THE ONE TO THE RIGHT IS BEIGE <IN MINE> IN MY PICTURE",
       "turn_index": 105,
-      "topic": "",
+      "topic": "describing object",
       "overlap": [
         {
           "speaker_before": "U9A",
@@ -1031,7 +1037,7 @@
       "end_time": 877.16,
       "utterance": "OKAY SO WE CLICK ON THAT ONE",
       "turn_index": 106,
-      "topic": "",
+      "topic": "finding difference",
       "overlap": [
         {
           "speaker_before": "U10A",
@@ -1048,7 +1054,7 @@
       "end_time": 877.35,
       "utterance": "YEAH",
       "turn_index": 107,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U9A",
@@ -1056,7 +1062,7 @@
       "end_time": 879.6,
       "utterance": "<%ahm>",
       "turn_index": 108,
-      "topic": ""
+      "topic": "finding difference"
     },
     {
       "speaker": "U9A",
@@ -1064,7 +1070,7 @@
       "end_time": 880.33,
       "utterance": "OKAY",
       "turn_index": 109,
-      "topic": ""
+      "topic": "end of differences"
     },
     {
       "speaker": "U9A",
@@ -1072,7 +1078,7 @@
       "end_time": 883.76,
       "utterance": "I DON'T HAVE ANYMORE OBJECTS DO YOU HAVE ANYTHING ELSE",
       "turn_index": 110,
-      "topic": "",
+      "topic": "end of differences",
       "overlap": [
         {
           "speaker_before": "U9A",
@@ -1089,7 +1095,7 @@
       "end_time": 883.23,
       "utterance": "NO",
       "turn_index": 111,
-      "topic": ""
+      "topic": "end of differences"
     },
     {
       "speaker": "U10A",
@@ -1097,7 +1103,7 @@
       "end_time": 886.67,
       "utterance": "NO <I> IT LOOKS OKAY YEAH I DON'T",
       "turn_index": 112,
-      "topic": ""
+      "topic": "end of differences"
     },
     {
       "speaker": "U10A",
@@ -1105,7 +1111,7 @@
       "end_time": 887.35,
       "utterance": "EITHER",
       "turn_index": 113,
-      "topic": ""
+      "topic": "end of differences"
     },
     {
       "speaker": "U9A",
@@ -1113,7 +1119,7 @@
       "end_time": 889.65,
       "utterance": "OKAY",
       "turn_index": 114,
-      "topic": ""
+      "topic": "end of differences"
     },
     {
       "speaker": "U10A",
@@ -1121,7 +1127,7 @@
       "end_time": 891.39,
       "utterance": "I HAVE LIKE FOUR",
       "turn_index": 115,
-      "topic": "",
+      "topic": "end of differences",
       "overlap": [
         {
           "speaker_before": "U10A",
@@ -1138,7 +1144,7 @@
       "end_time": 890.23,
       "utterance": "BUT",
       "turn_index": 116,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U10A",
@@ -1146,7 +1152,7 @@
       "end_time": 892.73,
       "utterance": "<SHE-> SHEEPS",
       "turn_index": 117,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U10A",
@@ -1154,7 +1160,7 @@
       "end_time": 894.51,
       "utterance": "TWO ON THE RIGHT AND TWO ON YEAH",
       "turn_index": 118,
-      "topic": "",
+      "topic": "describing picture",
       "overlap": [
         {
           "speaker_before": "U10A",
@@ -1171,7 +1177,7 @@
       "end_time": 893.43,
       "utterance": "YEAH",
       "turn_index": 119,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U9A",
@@ -1179,7 +1185,7 @@
       "end_time": 895.87,
       "utterance": "YEAH <%aa>",
       "turn_index": 120,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U9A",
@@ -1187,7 +1193,7 @@
       "end_time": 896.94,
       "utterance": "IN TOTAL",
       "turn_index": 121,
-      "topic": ""
+      "topic": "describing picture"
     },
     {
       "speaker": "U10A",
@@ -1195,7 +1201,7 @@
       "end_time": 897.42,
       "utterance": "YEAH",
       "turn_index": 122,
-      "topic": ""
+      "topic": "describing picture"
     }
   ]
 }
