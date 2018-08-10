@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <scene id="1" xmlns="sptdf">
+	<object id="sun" group="false" num="sing" differs="false" visible="true">
+		<attributes>
+			<color>white</color>
+			<color>yellow</color>
+			<name>sun</name>
+			<property_of prep="in">sky</property_of>
+			<x>87</x>
+			<y>65</y>
+			<radius>120</radius>
+		</attributes>
+	</object>
 	<object id="umbrellas1" num="3" visible="true" group="true" differs="false">
 		<attributes>
 			<color>blue</color>

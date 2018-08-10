@@ -9,7 +9,7 @@
 			<y>556</y>
 			<radius>170</radius>
 		</attributes>
-		<object id="snowman1" num="sing" visible="true" group="false" differs="false">
+		<object id="snowman1" num="sing" visible="true" group="true" differs="false">
 			<attributes>
 				<color>white</color>
 				<name>snowman</name>
@@ -18,8 +18,28 @@
 				<y>574</y>
 				<radius>70</radius>
 			</attributes>
+			<object id="scarf1" num="sing" visible="true" group="false" differs="false">
+				<attributes>
+					<color>red</color>
+					<name>scarf</name>
+					<property_of prep="wearing">snowman</property_of>
+					<x>298</x>
+					<y>583</y>
+					<radius>30</radius>
+				</attributes>
+			</object>
+			<object id="hat1" num="sing" visible="true" group="false" differs="false">
+				<attributes>
+					<color>red</color>
+					<name>hat</name>
+					<property_of prep="on">snowman</property_of>
+					<x>305</x>
+					<y>524</y>
+					<radius>20</radius>
+				</attributes>
+			</object>
 		</object>
-		<object id="snowman2" num="sing" visible="true" group="false" differs="true">
+		<object id="snowman2" num="sing" visible="true" group="false" differs="false">
 			<attributes>
 				<color>white</color>
 				<name>snowman</name>
@@ -27,10 +47,30 @@
 				<x>415</x>
 				<y>615</y>
 				<radius>70</radius>
-				<property>red hat</property>
+				<property>blue hat</property>
 			</attributes>
+			<object id="scarf2" num="sing" visible="true" group="false" differs="false">
+				<attributes>
+					<color>red</color>
+					<name>scarf</name>
+					<property_of prep="wearing">snowman</property_of>
+					<x>415</x>
+					<y>626</y>
+					<radius>30</radius>
+				</attributes>
+			</object>
+			<object id="hat2" num="sing" visible="true" group="false" differs="true">
+				<attributes>
+					<color>red</color>
+					<name>hat</name>
+					<property_of prep="on">snowman</property_of>
+					<x>423</x>
+					<y>468</y>
+					<radius>20</radius>
+				</attributes>
+			</object>
 		</object>
-		<object id="snowman3" num="sing" visible="true" group="false" differs="true">
+		<object id="snowman3" num="sing" visible="false" group="false" differs="true">
 			<attributes>
 				<color>white</color>
 				<name>snowman</name>
@@ -38,14 +78,34 @@
 				<x>533</x>
 				<y>564</y>
 				<radius>70</radius>
-				<property>green scarf</property>
 			</attributes>
+			<object id="scarf3" num="sing" visible="false" group="false" differs="false">
+				<attributes>
+					<color>green</color>
+					<name>scarf</name>
+					<property_of prep="wearing">snowman</property_of>
+					<x>532</x>
+					<y>573</y>
+					<radius>30</radius>
+				</attributes>
+			</object>
+			<object id="hat1" num="sing" visible="false" group="false" differs="true">
+				<attributes>
+					<color>red</color>
+					<name>hat</name>
+					<property_of prep="on">snowman</property_of>
+					<x>540</x>
+					<y>513</y>
+					<radius>20</radius>
+				</attributes>
+			</object>
 		</object>
 	</object>
 	<object id="reindeers1" num="plu" visible="true" group="true" differs="false">
 		<attributes>
 			<color>grey</color>
 			<name>reindeers</name>
+			<name>elks</name>
 			<property_of prep="on">snow</property_of>
 			<x>705</x>
 			<y>485</y>
@@ -55,16 +115,18 @@
 			<attributes>
 				<color>grey</color>
 				<name>reindeer</name>
+				<name>elk</name>
 				<property_of prep="on">snow</property_of>
 				<x>803</x>
 				<y>533</y>
 				<radius>60</radius>
 			</attributes>
 		</object>
-		<object id="reindeer2" num="sing" visible="false" group="false" differs="true">
+		<object id="reindeer2" num="sing" visible="true" group="false" differs="true">
 			<attributes>
 				<color>grey</color>
 				<name>reindeer</name>
+				<name>elk</name>
 				<property_of prep="on">snow</property_of>
 				<x>684</x>
 				<y>469</y>
@@ -75,6 +137,7 @@
 			<attributes>
 				<color>grey</color>
 				<name>reindeer</name>
+				<name>elk</name>
 				<property_of prep="on">snow</property_of>
 				<x>584</x>
 				<y>407</y>
@@ -112,7 +175,7 @@
 			<radius>70</radius>
 		</attributes>
 	</object>
-	<object id="house3" num="sing" visible="false" group="false" differs="true">
+	<object id="house3" num="sing" visible="true" group="false" differs="true">
 		<attributes>
 			<color>wood</color>
 			<name>house</name>
@@ -132,7 +195,7 @@
 			<y>354</y>
 			<radius>150</radius>
 		</attributes>
-		<object id="skier1" num="sing" visible="false" group="false" differs="true">
+		<object id="skier1" num="sing" visible="true" group="false" differs="true">
 			<attributes>
 				<color>orange</color>
 				<name>skier</name>
@@ -172,7 +235,7 @@
 			<y>270</y>
 			<radius>90</radius>
 		</attributes>
-		<object id="tree2" num="sing" visible="true" group="false" differs="true">
+		<object id="tree2" num="sing" visible="false" group="false" differs="true">
 			<attributes>
 				<color>white and green</color>
 				<name>tree</name>
@@ -202,7 +265,7 @@
 				<radius>55</radius>
 			</attributes>
 		</object>
-		<object id="tree5" num="sing" visible="false" group="false" differs="true">
+		<object id="tree5" num="sing" visible="true" group="false" differs="true">
 			<attributes>
 				<color>white and green</color>
 				<name>tree</name>
@@ -217,6 +280,7 @@
 		<attributes>
 			<color>wood</color>
 			<name>sledges</name>
+			<name>bob sledges</name>
 			<property_of prep="on">snow</property_of>
 			<x>102</x>
 			<y>383</y>
@@ -226,16 +290,18 @@
 			<attributes>
 				<color>wood</color>
 				<name>sledge</name>
+				<name>bob sledge</name>
 				<property_of prep="on">snow</property_of>
 				<x>102</x>
 				<y>350</y>
 				<radius>50</radius>
 			</attributes>
 		</object>
-		<object id="sled2" num="sing" visible="true" group="false" differs="true">
+		<object id="sled2" num="sing" visible="false" group="false" differs="true">
 			<attributes>
 				<color>wood</color>
 				<name>sledge</name>
+				<name>bob sledge</name>
 				<property_of prep="on">snow</property_of>
 				<x>69</x>
 				<y>413</y>
@@ -243,7 +309,7 @@
 			</attributes>
 		</object>
 	</object>
-	<object id="clouds1" num="3" visible="true" group="true" differs="false">
+	<object id="clouds1" num="4" visible="true" group="true" differs="false">
 		<attributes>
 			<color>white</color>
 			<name>clouds</name>
@@ -261,7 +327,7 @@
 				<y>100</y>
 				<radius>125</radius>
 			</attributes>
-			<object id="sun1" num="sing" visible="false" group="false" differs="true">
+			<object id="sun1" num="sing" visible="true" group="false" differs="true">
 				<attributes>
 					<color>orange</color>
 					<name>sun</name>
@@ -282,7 +348,7 @@
 				<radius>100</radius>
 			</attributes>
 		</object>
-		<object id="cloud3" num="sing" visible="false" group="true" differs="true">
+		<object id="cloud3" num="sing" visible="true" group="true" differs="true">
 			<attributes>
 				<color>white</color>
 				<name>cloud</name>
